@@ -1,0 +1,14 @@
+{
+  "sitio_url": "https://cubiertasmdz.github.io/",
+  "titulo": "Cubiertas y llantas usadas",
+  "bajada": "revisadas y con precio",
+  "whatsapp": "5492615540670",
+  "whatsapp_visible": "261 554-0670",
+  "ubicacion": "Mendoza",
+  "envios": true,
+  "anios_alerta": 5,
+  "categorias": [
+    {"id": "cubierta", "prefijo": "C", "nombre": "Cubiertas", "singular": "cubierta", "plural": "cubiertas", "filtro_rodado": true},
+    {"id": "llanta", "prefijo": "L", "nombre": "Llantas", "singular": "llanta", "plural": "llantas", "filtro_rodado": true}
+  ]
+}

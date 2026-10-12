@@ -1,0 +1,7 @@
+# Datos privados: costos, notas, historial y exportes NUNCA se publican
+privado/
+exportes/
+entrada/
+.venv/
+.DS_Store
+CLAUDE.md
