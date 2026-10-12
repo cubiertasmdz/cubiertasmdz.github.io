@@ -75,7 +75,7 @@
 
     const precio = p.precio_unidad
       ? `<div class="precio-linea"><span class="monto">${pesos(p.precio_unidad)}</span><span class="por">por unidad</span></div>
-         ${p.precio_juego ? `<p class="juego">Precio por ${esc(p.juego_txt)}: <b>${pesos(p.precio_juego)}</b></p>` : ""}`
+         ${p.precios_extra.map((x) => `<p class="juego">Precio por ${esc(x.txt)}: <b>${pesos(x.monto)}</b></p>`).join("")}`
       : `<div class="precio-linea"><span class="consultar-precio">Consultar precio</span></div>`;
 
     return `

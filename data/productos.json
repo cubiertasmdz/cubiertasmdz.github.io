@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-12 12:09",
+ "actualizado": "2026-10-12 12:22",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -45,8 +45,16 @@
    "sirve": "",
    "detalle": "Desgaste parejo en las cuatro.",
    "precio_unidad": 40000,
-   "precio_juego": 150000,
-   "juego_txt": "el juego de 4",
+   "precios_extra": [
+    {
+     "txt": "el par",
+     "monto": 78000
+    },
+    {
+     "txt": "el juego de 4",
+     "monto": 150000
+    }
+   ],
    "fotos": [
     "fotos/c001-1.jpg",
     "fotos/c001-2.jpg"
@@ -77,8 +85,12 @@
    "sirve": "",
    "detalle": "Una tiene un parche bien hecho.",
    "precio_unidad": 25000,
-   "precio_juego": 45000,
-   "juego_txt": "el par",
+   "precios_extra": [
+    {
+     "txt": "el par",
+     "monto": 45000
+    }
+   ],
    "fotos": [],
    "claves": [
     "1856015"
@@ -106,8 +118,16 @@
    "sirve": "VW Gol Trend, Fox, Suran, Voyage",
    "detalle": "",
    "precio_unidad": 70000,
-   "precio_juego": 260000,
-   "juego_txt": "el juego de 4",
+   "precios_extra": [
+    {
+     "txt": "el par",
+     "monto": 135000
+    },
+    {
+     "txt": "el juego de 4",
+     "monto": 260000
+    }
+   ],
    "fotos": [
     "fotos/l001-1.jpg"
    ],

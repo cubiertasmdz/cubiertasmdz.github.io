@@ -9,7 +9,7 @@ Comandos:
   sumar <id> <n>                   Suma unidades a un lote existente (ingreso).
   fotos <id> <img...> [--reemplazar]  Comprime y agrega fotos al producto.
   venta <id> <n> [--monto X] [--nota "..."]
-  precio <id> [--unidad X] [--juego X] [--juego-de N]
+  precio <id> [--unidad X] [--par X|no] [--juego X|no]   (juego = las 4)
   baja <id> [--nota "..."]         Oculta el producto del catálogo.
   alta <id>                        Vuelve a mostrar un producto oculto.
   editar <id> campo=valor ...      Corrige datos (valor en JSON o texto).
@@ -164,18 +164,24 @@ def visible(p):
     return p.get("activo", True) and int(p.get("cantidad", 0)) > 0
 
 
-def etiqueta_cantidad(n, juego_de):
+def etiqueta_cantidad(n):
     if n == 1:
         return "1 unidad"
-    if juego_de and n == juego_de == 2:
+    if n == 2:
         return "Par"
     if n == 4:
         return "Juego de 4"
     return f"{n} unidades"
 
 
-def texto_juego(n):
-    return "el par" if n == 2 else f"el juego de {n}" if n == 4 else f"los {n}"
+def precios_extra(p, n):
+    """Precio por par (si hay 2 o más) y por juego de 4 (si hay 4 o más)."""
+    out = []
+    if p.get("precio_par") and n >= 2:
+        out.append({"txt": "el par", "monto": p["precio_par"]})
+    if p.get("precio_juego") and n >= 4:
+        out.append({"txt": "el juego de 4", "monto": p["precio_juego"]})
+    return out
 
 
 # ---------- versión pública de cada producto ----------
@@ -183,7 +189,6 @@ def texto_juego(n):
 def publico(p):
     cat = categoria(p["tipo"])
     n = int(p["cantidad"])
-    juego_de = p.get("juego_de") if p.get("precio_juego") else None
     etiquetas, claves = [], []
     detalle = p.get("observaciones") or ""
     sirve = ""
@@ -254,7 +259,7 @@ def publico(p):
         "subtitulo": sub,
         "rodado": p.get("rodado"),
         "cantidad": n,
-        "cantidad_txt": etiqueta_cantidad(n, juego_de),
+        "cantidad_txt": etiqueta_cantidad(n),
         "estado": estado_de(p),
         "vida": v,
         "segmentos": segmentos(p),
@@ -262,8 +267,7 @@ def publico(p):
         "sirve": sirve,
         "detalle": detalle,
         "precio_unidad": p.get("precio_unidad"),
-        "precio_juego": p.get("precio_juego") if juego_de and n >= juego_de else None,
-        "juego_txt": texto_juego(juego_de) if juego_de else None,
+        "precios_extra": precios_extra(p, n),
         "fotos": p.get("fotos", []),
         "claves": claves,
         "texto": " ".join([titulo, sub, sirve, " ".join(etiquetas)]).lower(),
@@ -421,12 +425,11 @@ def cmd_nuevo(ruta):
     datos.setdefault("activo", True)
     datos.setdefault("fecha_ingreso", hoy().isoformat())
     datos.setdefault("fotos", [])
-    if datos.get("precio_juego") and not datos.get("juego_de"):
-        datos["juego_de"] = 2 if int(datos["cantidad"]) == 2 else 4
     stock["productos"].append(datos)
     guardar(stock)
     registrar("ingreso", datos, int(datos["cantidad"]), None,
-              f'Alta. {pesos(datos.get("precio_unidad"))} c/u' + (f', juego {pesos(datos["precio_juego"])}' if datos.get("precio_juego") else ""))
+              f'Alta. {pesos(datos.get("precio_unidad"))} c/u' + (f', par {pesos(datos["precio_par"])}' if datos.get("precio_par") else "")
+              + (f', juego de 4 {pesos(datos["precio_juego"])}' if datos.get("precio_juego") else ""))
     print(datos["id"])
 
 
@@ -448,8 +451,10 @@ def cmd_venta(pid, n, op):
         sys.exit(f'Solo hay {p["cantidad"]} de {p["id"]}')
     if "monto" in op:
         monto = num(op["monto"])
-    elif p.get("precio_juego") and n == (p.get("juego_de") or 4):
+    elif p.get("precio_juego") and n == 4:
         monto = p["precio_juego"]
+    elif p.get("precio_par") and n == 2:
+        monto = p["precio_par"]
     else:
         monto = n * (p.get("precio_unidad") or 0)
     p["cantidad"] = int(p["cantidad"]) - n
@@ -465,17 +470,15 @@ def cmd_precio(pid, op):
     if "unidad" in op:
         cambios.append(f'unidad {pesos(p.get("precio_unidad"))} → {pesos(num(op["unidad"]))}')
         p["precio_unidad"] = num(op["unidad"])
-    if "juego" in op:
-        if op["juego"] in ("no", "0", "ninguno"):
-            cambios.append("se quita precio por juego")
-            p.pop("precio_juego", None)
+    for clave, campo, nombre in (("par", "precio_par", "par"), ("juego", "precio_juego", "juego de 4")):
+        if clave not in op:
+            continue
+        if op[clave] in ("no", "0", "ninguno"):
+            cambios.append(f"se quita precio por {nombre}")
+            p.pop(campo, None)
         else:
-            cambios.append(f'juego {pesos(p.get("precio_juego"))} → {pesos(num(op["juego"]))}')
-            p["precio_juego"] = num(op["juego"])
-            p.setdefault("juego_de", 2 if int(p["cantidad"]) == 2 else 4)
-    if "juego-de" in op:
-        p["juego_de"] = int(op["juego-de"])
-        cambios.append(f'juego de {p["juego_de"]}')
+            cambios.append(f'{nombre} {pesos(p.get(campo))} → {pesos(num(op[clave]))}')
+            p[campo] = num(op[clave])
     guardar(stock)
     registrar("precio", p, None, None, "; ".join(cambios))
     print(f'{p["id"]}: ' + "; ".join(cambios))
@@ -521,7 +524,8 @@ def cmd_ver(texto, todos):
         alerta = f"  ⚠ {a} años" if a and a > CONFIG["anios_alerta"] else ""
         estado = "" if visible(p) else "  [OCULTO]"
         print(f'{p["id"]}  {nombre_interno(p):40s} cant {p["cantidad"]}  {pesos(p.get("precio_unidad"))} c/u'
-              f'{"  juego " + pesos(p["precio_juego"]) if p.get("precio_juego") else ""}'
+              f'{"  par " + pesos(p["precio_par"]) if p.get("precio_par") else ""}'
+              f'{"  juego4 " + pesos(p["precio_juego"]) if p.get("precio_juego") else ""}'
               f'  vida {vida_de(p) if vida_de(p) is not None else "-"}%  DOT {p.get("dot", "-")}{alerta}{estado}'
               f'  fotos {len(p.get("fotos", []))}{"  PRUEBA" if p.get("prueba") else ""}')
 
@@ -566,7 +570,7 @@ def cmd_excel():
     ws.title = "Stock"
     cols = ["Código", "Tipo", "Producto", "Marca", "Modelo", "Medida", "Índice", "DOT", "Antigüedad (años)",
             "+5 años", "Vida %", "mm", "Estado", "Material", "Agujeros", "Offset", "Vehículos", "Original",
-            "Cantidad", "Precio unidad", "Precio juego", "Juego de", "Valor stock", "Costo", "Visible",
+            "Cantidad", "Precio unidad", "Precio par", "Precio juego de 4", "Valor stock", "Costo", "Visible",
             "Fecha ingreso", "Observaciones", "Notas privadas", "Fotos"]
     ws.append(cols)
     for p in stock["productos"]:
@@ -578,7 +582,7 @@ def cmd_excel():
             p.get("material"), f'{p["agujeros"]}x{p["distancia"]}' if p.get("agujeros") else None, p.get("offset"),
             ", ".join(p.get("vehiculos", [])) or None,
             {True: "Original", False: "Alternativa"}.get(p.get("original")),
-            int(p["cantidad"]), p.get("precio_unidad"), p.get("precio_juego"), p.get("juego_de"),
+            int(p["cantidad"]), p.get("precio_unidad"), p.get("precio_par"), p.get("precio_juego"),
             int(p["cantidad"]) * (p.get("precio_unidad") or 0), p.get("costo"),
             "Sí" if visible(p) else "No", p.get("fecha_ingreso"), p.get("observaciones"),
             p.get("notas_privadas"), len(p.get("fotos", [])),
@@ -597,7 +601,7 @@ def cmd_excel():
             hoja.column_dimensions[col[0].column_letter].width = min(45, max(9, ancho + 2))
         for fila in hoja.iter_rows(min_row=2):
             for c in fila:
-                if hoja[1][c.column - 1].value in ("Precio unidad", "Precio juego", "Valor stock", "Costo", "Monto"):
+                if hoja[1][c.column - 1].value in ("Precio unidad", "Precio par", "Precio juego de 4", "Valor stock", "Costo", "Monto"):
                     c.number_format = '"$"#,##0'
     (ROOT / "exportes").mkdir(exist_ok=True)
     ruta = ROOT / "exportes" / f"stock-{dt.datetime.now().strftime('%Y-%m-%d_%H%M')}.xlsx"
