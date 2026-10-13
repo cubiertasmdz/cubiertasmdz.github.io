@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-12 12:22",
+ "actualizado": "2026-10-13 14:53",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -102,7 +102,7 @@
   {
    "id": "L001",
    "tipo": "llanta",
-   "titulo": "Llanta de aleación R15",
+   "titulo": "Llanta Volkswagen R15",
    "subtitulo": "4x100 · R15 · 6\" de ancho · ET38",
    "rodado": 15,
    "cantidad": 4,
@@ -112,10 +112,11 @@
    "segmentos": 5,
    "etiquetas": [
     "Original",
+    "Aleación",
     "Sin golpes",
     "Rayones leves"
    ],
-   "sirve": "VW Gol Trend, Fox, Suran, Voyage",
+   "sirve": "VW Gol Trend, Voyage, Fox, Suran",
    "detalle": "",
    "precio_unidad": 70000,
    "precios_extra": [
@@ -136,8 +137,8 @@
     "4100",
     "154100"
    ],
-   "texto": "llanta de aleación r15 4x100 · r15 · 6\" de ancho · et38 vw gol trend, fox, suran, voyage original sin golpes rayones leves",
-   "wa": "Hola, quería consultar por las 4 llantas de aleación R15 4x100 que vi en el catálogo (cód. L001).\nhttps://cubiertasmdz.github.io/p/L001/",
+   "texto": "llanta volkswagen r15 4x100 · r15 · 6\" de ancho · et38 vw gol trend, voyage, fox, suran original aleación sin golpes rayones leves",
+   "wa": "Hola, quería consultar por las 4 llantas Volkswagen R15 4x100 que vi en el catálogo (cód. L001).\nhttps://cubiertasmdz.github.io/p/L001/",
    "url": "https://cubiertasmdz.github.io/p/L001/"
   }
  ]

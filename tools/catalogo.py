@@ -212,9 +212,10 @@ def publico(p):
         mensaje_prod = f'{p.get("marca", "")} {medida(p)}'.replace("  ", " ").strip()
     elif p["tipo"] == "llanta":
         mat = (p.get("material") or "").lower()
-        titulo = f"Llanta de {mat} R{p['rodado']}" if mat else f"Llanta R{p['rodado']}"
-        if p.get("marca_modelo"):
-            titulo = p["marca_modelo"]
+        if p.get("marca"):
+            titulo = f"Llanta {p['marca']} R{p['rodado']}"
+        else:
+            titulo = f"Llanta de {mat} R{p['rodado']}" if mat else f"Llanta R{p['rodado']}"
         partes = []
         if p.get("agujeros") and p.get("distancia"):
             partes.append(f'{p["agujeros"]}x{p["distancia"]}')
@@ -228,6 +229,8 @@ def publico(p):
             etiquetas.append("Original")
         elif p.get("original") is False:
             etiquetas.append("Alternativa")
+        if p.get("marca") and mat:
+            etiquetas.append(mat.capitalize())
         for e in p.get("detalles_estado", []):
             etiquetas.append(e)
         if p.get("vehiculos"):
@@ -235,7 +238,7 @@ def publico(p):
         claves = [str(p["rodado"])]
         if p.get("agujeros") and p.get("distancia"):
             claves += [f'{p["agujeros"]}{p["distancia"]}', f'{p["rodado"]}{p["agujeros"]}{p["distancia"]}']
-        mensaje_prod = (f"de {mat} " if mat else "") + f'R{p["rodado"]}'
+        mensaje_prod = (f'{p["marca"]} ' if p.get("marca") else f"de {mat} " if mat else "") + f'R{p["rodado"]}'
         if p.get("agujeros") and p.get("distancia"):
             mensaje_prod += f' {p["agujeros"]}x{p["distancia"]}'
     else:  # categorías futuras: campos genéricos
