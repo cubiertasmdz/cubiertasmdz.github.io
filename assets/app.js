@@ -195,7 +195,9 @@
       const params = new URLSearchParams(location.search);
       estado.solo = params.get("p");
       const p = d.productos.find((x) => x.id === estado.solo);
-      estado.tab = p ? p.tipo : (d.categorias.find((c) => d.productos.some((x) => x.tipo === c.id)) || d.categorias[0]).id;
+      // abre en la pestaña con más productos
+      const cuantos = (c) => d.productos.filter((x) => x.tipo === c.id).length;
+      estado.tab = p ? p.tipo : d.categorias.reduce((a, c) => (cuantos(c) > cuantos(a) ? c : a)).id;
       $("#wa-pie").href = wa("Hola, estoy buscando una medida que no vi en el catálogo: ");
       render();
       if (p) setTimeout(() => $("#barra").scrollIntoView(), 50);
