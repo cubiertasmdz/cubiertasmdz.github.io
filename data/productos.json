@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:52",
+ "actualizado": "2026-10-15 15:54",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -522,6 +522,47 @@
    "texto": "4 ruedas honda hr-v r17 con tomket 215/55 r17 · 98w honda hr-v llanta honda de aleación 5x114.3 fabricada en 2024 llanta original bitono negro y diamantado rayones",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Honda R17 y cubiertas Tomket 215/55 R17 que vi en el catálogo (cód. R011).\nhttps://cubiertasmdz.github.io/p/R011/",
    "url": "https://cubiertasmdz.github.io/p/R011/"
+  },
+  {
+   "id": "R012",
+   "tipo": "rueda",
+   "titulo": "4 ruedas Suzuki Grand Vitara R17",
+   "subtitulo": "225/65 R17",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Suzuki de aleación",
+    "5x114.3",
+    "Fabricada en 2012",
+    "Llanta original",
+    "Rayones",
+    "2 cubiertas de más de 10 años"
+   ],
+   "sirve": "Suzuki Grand Vitara",
+   "detalle": "Juego completo de 4 llantas originales Suzuki rodado 17 con rayones. Las cubiertas son 225/65 R17 de dos marcas: Bridgestone Dueler H/P Sport y Nexen Roadian HT. Las Nexen son del 2012: por su antigüedad te aconsejamos cambiarlas para circular; queda a criterio de cada cliente.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r012-1.jpg",
+    "fotos/r012-2.jpg",
+    "fotos/r012-3.jpg",
+    "fotos/r012-4.jpg",
+    "fotos/r012-5.jpg",
+    "fotos/r012-6.jpg",
+    "fotos/r012-7.jpg"
+   ],
+   "claves": [
+    "2256517",
+    "5114.3",
+    "175114.3"
+   ],
+   "texto": "4 ruedas suzuki grand vitara r17 225/65 r17 suzuki grand vitara llanta suzuki de aleación 5x114.3 fabricada en 2012 llanta original rayones 2 cubiertas de más de 10 años",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Suzuki Grand Vitara R17 y cubiertas 225/65 R17 que vi en el catálogo (cód. R012).\nhttps://cubiertasmdz.github.io/p/R012/",
+   "url": "https://cubiertasmdz.github.io/p/R012/"
   },
   {
    "id": "C001",
