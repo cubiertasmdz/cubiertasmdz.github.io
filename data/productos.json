@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:34",
+ "actualizado": "2026-10-15 15:36",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -124,10 +124,11 @@
     "Llanta de aleación",
     "Fabricada en 2017",
     "Llanta alternativa",
-    "Rayones y pintura saltada"
+    "Rayones y pintura saltada",
+    "No incluye la cubierta dañada"
    ],
    "sirve": "",
-   "detalle": "Son 3 llantas alternativas rodado 15. Dos vienen con cubiertas Yokohama 195/55 R15 en uso; la tercera, sin cubierta utilizable.",
+   "detalle": "Son 3 llantas alternativas rodado 15. Dos vienen con cubiertas Yokohama 195/55 R15 en uso. La cubierta dañada que se ve en las fotos NO se vende: esa llanta se entrega sin cubierta.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -138,7 +139,7 @@
    "claves": [
     "1955515"
    ],
-   "texto": "3 llantas advan racing r15 + 2 yokohama 195/55 r15 · 85h  llanta de aleación fabricada en 2017 llanta alternativa rayones y pintura saltada",
+   "texto": "3 llantas advan racing r15 + 2 yokohama 195/55 r15 · 85h  llanta de aleación fabricada en 2017 llanta alternativa rayones y pintura saltada no incluye la cubierta dañada",
    "wa": "Hola, quería consultar por el juego de 3 llantas ADVAN Racing R15 con 2 cubiertas Yokohama 195/55 R15 que vi en el catálogo (cód. R002).\nhttps://cubiertasmdz.github.io/p/R002/",
    "url": "https://cubiertasmdz.github.io/p/R002/"
   },
@@ -193,10 +194,11 @@
     "4x98",
     "Llanta original",
     "Cordoneadas",
-    "Rayones"
+    "Rayones",
+    "No incluye la cubierta dañada"
    ],
    "sirve": "Fiat Mobi, Uno, Palio, Siena, Argo, Cronos",
-   "detalle": "Son 2 llantas originales Fiat rodado 14. Se vende con 1 cubierta Pirelli 175/65 R14 en buen estado; la otra cubierta tiene un corte en el costado y no se comercializa.",
+   "detalle": "Son 2 llantas originales Fiat rodado 14. Se vende con 1 cubierta Pirelli 175/65 R14 en buen estado. La cubierta con el corte en el costado que se ve en las fotos NO se vende: esa llanta se entrega sin cubierta.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -209,7 +211,7 @@
     "498",
     "14498"
    ],
-   "texto": "2 llantas fiat r14 + 1 pirelli 175/65 r14 · 82t fiat mobi, uno, palio, siena, argo, cronos llanta fiat de aleación 4x98 llanta original cordoneadas rayones",
+   "texto": "2 llantas fiat r14 + 1 pirelli 175/65 r14 · 82t fiat mobi, uno, palio, siena, argo, cronos llanta fiat de aleación 4x98 llanta original cordoneadas rayones no incluye la cubierta dañada",
    "wa": "Hola, quería consultar por las 2 llantas Fiat R14 con 1 cubierta Pirelli 175/65 R14 que vi en el catálogo (cód. R004).\nhttps://cubiertasmdz.github.io/p/R004/",
    "url": "https://cubiertasmdz.github.io/p/R004/"
   },
@@ -229,10 +231,11 @@
     "5x100",
     "Fabricada en 2019",
     "Llanta original",
-    "Rayones"
+    "Rayones",
+    "No incluye cubiertas dañadas"
    ],
    "sirve": "Chrysler PT Cruiser",
-   "detalle": "Son 3 llantas originales de Chrysler PT Cruiser rodado 16. Se vende con 1 cubierta Michelin Primacy 4 205/55 R16 en buen estado; las otras cubiertas no se comercializan.",
+   "detalle": "Son 3 llantas originales de Chrysler PT Cruiser rodado 16. Se vende con 1 cubierta Michelin Primacy 4 205/55 R16 en buen estado. Las cubiertas dañadas que se ven en las fotos (una con un corte en el costado) NO se venden: esas llantas se entregan sin cubierta.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -245,7 +248,7 @@
     "5100",
     "165100"
    ],
-   "texto": "3 llantas chrysler pt cruiser r16 + 1 michelin 205/55 r16 · 91v chrysler pt cruiser llanta chrysler de aleación 5x100 fabricada en 2019 llanta original rayones",
+   "texto": "3 llantas chrysler pt cruiser r16 + 1 michelin 205/55 r16 · 91v chrysler pt cruiser llanta chrysler de aleación 5x100 fabricada en 2019 llanta original rayones no incluye cubiertas dañadas",
    "wa": "Hola, quería consultar por las 3 llantas Chrysler PT Cruiser R16 con 1 cubierta Michelin 205/55 R16 que vi en el catálogo (cód. R005).\nhttps://cubiertasmdz.github.io/p/R005/",
    "url": "https://cubiertasmdz.github.io/p/R005/"
   },
