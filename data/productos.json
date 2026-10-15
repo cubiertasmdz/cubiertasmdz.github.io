@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:56",
+ "actualizado": "2026-10-15 15:57",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -602,6 +602,44 @@
    "texto": "4 llantas citroën r17 + 1 michelin 205/45 r17 · 88y citroën ds3, citroën c3 llanta citroën de aleación 4x108 llanta original bitono negro y diamantado rayones no incluye las cubiertas dañadas",
    "wa": "Hola, quería consultar por las 4 llantas Citroën R17 con 1 cubierta Michelin 205/45 R17 que vi en el catálogo (cód. R013).\nhttps://cubiertasmdz.github.io/p/R013/",
    "url": "https://cubiertasmdz.github.io/p/R013/"
+  },
+  {
+   "id": "R014",
+   "tipo": "rueda",
+   "titulo": "4 ruedas Fiat R16 205/55",
+   "subtitulo": "205/55 R16 · 91",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Fiat de aleación",
+    "4x98",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Fiat Linea, Punto, Idea",
+   "detalle": "Juego completo de 4 llantas originales Fiat rodado 16 con rayones (una con más marcas en los rayos). Las cubiertas son todas 205/55 R16 de distintas marcas: 1 Kumho Ecsta, 2 Pirelli P7 y 1 Michelin Primacy.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r014-1.jpg",
+    "fotos/r014-2.jpg",
+    "fotos/r014-3.jpg",
+    "fotos/r014-4.jpg",
+    "fotos/r014-5.jpg",
+    "fotos/r014-6.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "498",
+    "16498"
+   ],
+   "texto": "4 ruedas fiat r16 205/55 205/55 r16 · 91 fiat linea, punto, idea llanta fiat de aleación 4x98 llanta original rayones",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Fiat R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R014).\nhttps://cubiertasmdz.github.io/p/R014/",
+   "url": "https://cubiertasmdz.github.io/p/R014/"
   },
   {
    "id": "C001",
