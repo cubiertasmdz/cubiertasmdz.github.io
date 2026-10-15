@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:36",
+ "actualizado": "2026-10-15 15:40",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -251,6 +251,46 @@
    "texto": "3 llantas chrysler pt cruiser r16 + 1 michelin 205/55 r16 · 91v chrysler pt cruiser llanta chrysler de aleación 5x100 fabricada en 2019 llanta original rayones no incluye cubiertas dañadas",
    "wa": "Hola, quería consultar por las 3 llantas Chrysler PT Cruiser R16 con 1 cubierta Michelin 205/55 R16 que vi en el catálogo (cód. R005).\nhttps://cubiertasmdz.github.io/p/R005/",
    "url": "https://cubiertasmdz.github.io/p/R005/"
+  },
+  {
+   "id": "R006",
+   "tipo": "rueda",
+   "titulo": "4 ruedas Honda Fit R15 con cubiertas Goodyear",
+   "subtitulo": "185/60 R15 · 84H",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Honda de aleación",
+    "4x100",
+    "Fabricadas en 2000 y 2009",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas de más de 10 años"
+   ],
+   "sirve": "Honda Fit, Honda City",
+   "detalle": "Llantas originales Honda con rayones. Las cubiertas tienen buen dibujo pero son antiguas: 2 Goodyear Eagle NCT5 del 2009 y 2 Goodyear Eagle Touring NCT3 del 2000. Por su antigüedad te aconsejamos cambiarlas para circular; queda a criterio de cada cliente.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r006-1.jpg",
+    "fotos/r006-2.jpg",
+    "fotos/r006-3.jpg",
+    "fotos/r006-4.jpg",
+    "fotos/r006-5.jpg",
+    "fotos/r006-6.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "4100",
+    "154100"
+   ],
+   "texto": "4 ruedas honda fit r15 con cubiertas goodyear 185/60 r15 · 84h honda fit, honda city llanta honda de aleación 4x100 fabricadas en 2000 y 2009 llanta original rayones cubiertas de más de 10 años",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Honda Fit R15 y cubiertas Goodyear 185/60 R15 que vi en el catálogo (cód. R006).\nhttps://cubiertasmdz.github.io/p/R006/",
+   "url": "https://cubiertasmdz.github.io/p/R006/"
   },
   {
    "id": "C001",
