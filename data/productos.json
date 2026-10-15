@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 16:08",
+ "actualizado": "2026-10-15 16:12",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -15,21 +15,24 @@
    "nombre": "Cubiertas",
    "singular": "cubierta",
    "plural": "cubiertas",
-   "filtro_rodado": true
+   "filtro_rodado": false,
+   "filtro_medida": true
   },
   {
    "id": "llanta",
    "nombre": "Llantas",
    "singular": "llanta",
    "plural": "llantas",
-   "filtro_rodado": true
+   "filtro_rodado": true,
+   "filtro_medida": false
   },
   {
    "id": "rueda",
    "nombre": "Ruedas completas",
    "singular": "rueda completa",
    "plural": "ruedas completas",
-   "filtro_rodado": true
+   "filtro_rodado": true,
+   "filtro_medida": true
   }
  ],
  "productos": [
@@ -72,7 +75,14 @@
    ],
    "texto": "triangle advantex tc101 185/65 r15 · 88h fiat palio, siena, grand siena, punto, idea, strada, argo, cronos llanta fiat de aleación 4x98 fabricada en 2022 sin parches rayones leves",
    "wa": "Hola, quería consultar por las 4 ruedas completas Triangle 185/65 R15 con llanta Fiat que vi en el catálogo (cód. R001).\nhttps://cubiertasmdz.github.io/p/R001/",
-   "url": "https://cubiertasmdz.github.io/p/R001/"
+   "url": "https://cubiertasmdz.github.io/p/R001/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Triangle"
+   ],
+   "medida_cubierta": "185/65 R15"
   },
   {
    "id": "L002",
@@ -107,7 +117,12 @@
    ],
    "texto": "llanta corse para fiat r14 4x98 · r14 fiat palio, siena, uno, strada, fiorino, idea, punto alternativa aleación rayones en el borde se vende sin cubierta",
    "wa": "Hola, quería consultar por las 2 llantas Corse para Fiat R14 4x98 que vi en el catálogo (cód. L002).\nhttps://cubiertasmdz.github.io/p/L002/",
-   "url": "https://cubiertasmdz.github.io/p/L002/"
+   "url": "https://cubiertasmdz.github.io/p/L002/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
   },
   {
    "id": "R002",
@@ -121,7 +136,7 @@
    "vida": 55,
    "segmentos": 3,
    "etiquetas": [
-    "Llanta de aleación",
+    "Llanta ADVAN Racing de aleación",
     "Fabricada en 2017",
     "Llanta alternativa",
     "Rayones y pintura saltada",
@@ -139,9 +154,16 @@
    "claves": [
     "1955515"
    ],
-   "texto": "3 llantas advan racing r15 + 2 yokohama 195/55 r15 · 85h  llanta de aleación fabricada en 2017 llanta alternativa rayones y pintura saltada no incluye la cubierta dañada",
+   "texto": "3 llantas advan racing r15 + 2 yokohama 195/55 r15 · 85h  llanta advan racing de aleación fabricada en 2017 llanta alternativa rayones y pintura saltada no incluye la cubierta dañada",
    "wa": "Hola, quería consultar por el juego de 3 llantas ADVAN Racing R15 con 2 cubiertas Yokohama 195/55 R15 que vi en el catálogo (cód. R002).\nhttps://cubiertasmdz.github.io/p/R002/",
-   "url": "https://cubiertasmdz.github.io/p/R002/"
+   "url": "https://cubiertasmdz.github.io/p/R002/",
+   "marcas_llanta": [
+    "ADVAN Racing"
+   ],
+   "marcas_cubierta": [
+    "Yokohama"
+   ],
+   "medida_cubierta": "195/55 R15"
   },
   {
    "id": "R003",
@@ -176,7 +198,15 @@
    ],
    "texto": "2 llantas toyota r16 con cubiertas 205/55 r16 toyota corolla (2008 en adelante) llanta toyota de aleación 5x114.3 fabricadas en 2017 y 2020 llanta original rayones leves",
    "wa": "Hola, quería consultar por las 2 ruedas completas con llanta Toyota R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R003).\nhttps://cubiertasmdz.github.io/p/R003/",
-   "url": "https://cubiertasmdz.github.io/p/R003/"
+   "url": "https://cubiertasmdz.github.io/p/R003/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Ohtsu",
+    "Torque"
+   ],
+   "medida_cubierta": "205/55 R16"
   },
   {
    "id": "R004",
@@ -213,7 +243,14 @@
    ],
    "texto": "2 llantas fiat r14 + 1 pirelli 175/65 r14 · 82t fiat mobi, uno, palio, siena, argo, cronos llanta fiat de aleación 4x98 llanta original cordoneadas rayones no incluye la cubierta dañada",
    "wa": "Hola, quería consultar por las 2 llantas Fiat R14 con 1 cubierta Pirelli 175/65 R14 que vi en el catálogo (cód. R004).\nhttps://cubiertasmdz.github.io/p/R004/",
-   "url": "https://cubiertasmdz.github.io/p/R004/"
+   "url": "https://cubiertasmdz.github.io/p/R004/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "175/65 R14"
   },
   {
    "id": "R005",
@@ -250,7 +287,14 @@
    ],
    "texto": "3 llantas chrysler pt cruiser r16 + 1 michelin 205/55 r16 · 91v chrysler pt cruiser llanta chrysler de aleación 5x100 fabricada en 2019 llanta original rayones no incluye cubiertas dañadas",
    "wa": "Hola, quería consultar por las 3 llantas Chrysler PT Cruiser R16 con 1 cubierta Michelin 205/55 R16 que vi en el catálogo (cód. R005).\nhttps://cubiertasmdz.github.io/p/R005/",
-   "url": "https://cubiertasmdz.github.io/p/R005/"
+   "url": "https://cubiertasmdz.github.io/p/R005/",
+   "marcas_llanta": [
+    "Chrysler"
+   ],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "205/55 R16"
   },
   {
    "id": "R006",
@@ -288,7 +332,12 @@
    ],
    "texto": "juego de 4 llantas honda fit r15 4x100 · r15 honda fit, honda city original aleación rayones incluye cubiertas de 2000 y 2009",
    "wa": "Hola, quería consultar por el juego de 4 llantas Honda Fit R15 (vienen con cubiertas Goodyear 185/60 R15) que vi en el catálogo (cód. R006).\nhttps://cubiertasmdz.github.io/p/R006/",
-   "url": "https://cubiertasmdz.github.io/p/R006/"
+   "url": "https://cubiertasmdz.github.io/p/R006/",
+   "marcas_llanta": [
+    "Honda"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
   },
   {
    "id": "R007",
@@ -327,7 +376,14 @@
    ],
    "texto": "4 ruedas chevrolet r17 con dunlop 235/55 r17 · 99v  llanta chevrolet de aleación fabricadas en 2018 y 2019 sin parches llanta original 5 agujeros rayones",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Chevrolet R17 y cubiertas Dunlop 235/55 R17 que vi en el catálogo (cód. R007).\nhttps://cubiertasmdz.github.io/p/R007/",
-   "url": "https://cubiertasmdz.github.io/p/R007/"
+   "url": "https://cubiertasmdz.github.io/p/R007/",
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "235/55 R17"
   },
   {
    "id": "L003",
@@ -362,7 +418,12 @@
    ],
    "texto": "juego de 4 llantas toyota r15 4x100 · r15 toyota yaris, etios original aleación cordoneadas se vende sin cubierta",
    "wa": "Hola, quería consultar por el juego de 4 llantas Toyota R15 que vi en el catálogo (cód. L003).\nhttps://cubiertasmdz.github.io/p/L003/",
-   "url": "https://cubiertasmdz.github.io/p/L003/"
+   "url": "https://cubiertasmdz.github.io/p/L003/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
   },
   {
    "id": "R008",
@@ -404,7 +465,14 @@
    ],
    "texto": "4 llantas toyota yaris r15 + 2 bridgestone 185/60 r15 · 84h toyota yaris, etios llanta toyota de aleación 4x100 fabricada en 2022 llanta original bitono negro y diamantado no incluye las cubiertas dañadas",
    "wa": "Hola, quería consultar por las 4 llantas Toyota Yaris R15 con 2 cubiertas Bridgestone 185/60 R15 que vi en el catálogo (cód. R008).\nhttps://cubiertasmdz.github.io/p/R008/",
-   "url": "https://cubiertasmdz.github.io/p/R008/"
+   "url": "https://cubiertasmdz.github.io/p/R008/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "185/60 R15"
   },
   {
    "id": "R009",
@@ -442,7 +510,14 @@
    ],
    "texto": "4 ruedas vw tiguan r17 con continental 215/65 r17 · 99v vw tiguan allspace llanta volkswagen de aleación 5x112 fabricada en 2019 llanta original rayones",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas VW Tiguan R17 y cubiertas Continental 215/65 R17 que vi en el catálogo (cód. R009).\nhttps://cubiertasmdz.github.io/p/R009/",
-   "url": "https://cubiertasmdz.github.io/p/R009/"
+   "url": "https://cubiertasmdz.github.io/p/R009/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "215/65 R17"
   },
   {
    "id": "R010",
@@ -480,7 +555,14 @@
    ],
    "texto": "4 ruedas subaru forester r18 con bridgestone 225/55 r18 · 98v subaru forester (2019 en adelante) llanta subaru de aleación 5x114.3 fabricada en 2020 llanta original bitono rayones",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Subaru R18 y cubiertas Bridgestone 225/55 R18 que vi en el catálogo (cód. R010).\nhttps://cubiertasmdz.github.io/p/R010/",
-   "url": "https://cubiertasmdz.github.io/p/R010/"
+   "url": "https://cubiertasmdz.github.io/p/R010/",
+   "marcas_llanta": [
+    "Subaru"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "225/55 R18"
   },
   {
    "id": "R011",
@@ -521,7 +603,14 @@
    ],
    "texto": "4 ruedas honda hr-v r17 con tomket 215/55 r17 · 98w honda hr-v llanta honda de aleación 5x114.3 fabricada en 2024 llanta original bitono negro y diamantado rayones",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Honda R17 y cubiertas Tomket 215/55 R17 que vi en el catálogo (cód. R011).\nhttps://cubiertasmdz.github.io/p/R011/",
-   "url": "https://cubiertasmdz.github.io/p/R011/"
+   "url": "https://cubiertasmdz.github.io/p/R011/",
+   "marcas_llanta": [
+    "Honda"
+   ],
+   "marcas_cubierta": [
+    "Tomket"
+   ],
+   "medida_cubierta": "215/55 R17"
   },
   {
    "id": "R012",
@@ -561,7 +650,15 @@
    ],
    "texto": "4 ruedas suzuki grand vitara r17 225/65 r17 suzuki grand vitara llanta suzuki de aleación 5x114.3 llanta original rayones 2 cubiertas nexen del 2012 (más de 10 años)",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Suzuki Grand Vitara R17 y cubiertas 225/65 R17 que vi en el catálogo (cód. R012).\nhttps://cubiertasmdz.github.io/p/R012/",
-   "url": "https://cubiertasmdz.github.io/p/R012/"
+   "url": "https://cubiertasmdz.github.io/p/R012/",
+   "marcas_llanta": [
+    "Suzuki"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone",
+    "Nexen"
+   ],
+   "medida_cubierta": "225/65 R17"
   },
   {
    "id": "R013",
@@ -601,7 +698,14 @@
    ],
    "texto": "4 llantas citroën r17 + 1 michelin 205/45 r17 · 88y citroën ds3, citroën c3 llanta citroën de aleación 4x108 llanta original bitono negro y diamantado rayones no incluye las cubiertas dañadas",
    "wa": "Hola, quería consultar por las 4 llantas Citroën R17 con 1 cubierta Michelin 205/45 R17 que vi en el catálogo (cód. R013).\nhttps://cubiertasmdz.github.io/p/R013/",
-   "url": "https://cubiertasmdz.github.io/p/R013/"
+   "url": "https://cubiertasmdz.github.io/p/R013/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "205/45 R17"
   },
   {
    "id": "R014",
@@ -640,7 +744,16 @@
    ],
    "texto": "4 ruedas fiat r16 205/55 205/55 r16 fiat linea, punto, idea llanta fiat de aleación 4x98 llanta original rayones cubiertas de distintas marcas",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Fiat R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R014).\nhttps://cubiertasmdz.github.io/p/R014/",
-   "url": "https://cubiertasmdz.github.io/p/R014/"
+   "url": "https://cubiertasmdz.github.io/p/R014/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Kumho",
+    "Pirelli",
+    "Michelin"
+   ],
+   "medida_cubierta": "205/55 R16"
   },
   {
    "id": "R015",
@@ -678,7 +791,14 @@
    ],
    "texto": "2 ruedas vw r16 con pirelli 205/55 r16 · 94w vw golf, vento llanta volkswagen de aleación 5x112 fabricada en 2019 llanta original rayones",
    "wa": "Hola, quería consultar por las 2 ruedas completas con llantas VW R16 y cubiertas Pirelli 205/55 R16 que vi en el catálogo (cód. R015).\nhttps://cubiertasmdz.github.io/p/R015/",
-   "url": "https://cubiertasmdz.github.io/p/R015/"
+   "url": "https://cubiertasmdz.github.io/p/R015/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "205/55 R16"
   },
   {
    "id": "R016",
@@ -716,7 +836,15 @@
    ],
    "texto": "2 ruedas fiat r14 175/65 175/65 r14 · 82h fiat palio, siena, grand siena, punto, uno llanta fiat de aleación 4x98 fabricada en 2019 llanta original rayones cubiertas de distintas marcas",
    "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Fiat R14 y cubiertas 175/65 R14 que vi en el catálogo (cód. R016).\nhttps://cubiertasmdz.github.io/p/R016/",
-   "url": "https://cubiertasmdz.github.io/p/R016/"
+   "url": "https://cubiertasmdz.github.io/p/R016/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone",
+    "Pirelli"
+   ],
+   "medida_cubierta": "175/65 R14"
   },
   {
    "id": "R017",
@@ -754,7 +882,14 @@
    ],
    "texto": "2 llantas citroën r14 + 1 fate 165/70 r14 · c citroën c3, xsara, berlingo llanta citroën de aleación 4x108 llanta original rayones no incluye la cubierta dañada",
    "wa": "Hola, quería consultar por las 2 llantas Citroën R14 con 1 cubierta Fate 165/70 R14 que vi en el catálogo (cód. R017).\nhttps://cubiertasmdz.github.io/p/R017/",
-   "url": "https://cubiertasmdz.github.io/p/R017/"
+   "url": "https://cubiertasmdz.github.io/p/R017/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "165/70 R14"
   },
   {
    "id": "L004",
@@ -788,7 +923,12 @@
    ],
    "texto": "par de llantas ford focus r16 5x108 · r16 ford focus (2013 en adelante) original aleación rayones se vende sin cubierta",
    "wa": "Hola, quería consultar por el par de llantas Ford Focus R16 que vi en el catálogo (cód. L004).\nhttps://cubiertasmdz.github.io/p/L004/",
-   "url": "https://cubiertasmdz.github.io/p/L004/"
+   "url": "https://cubiertasmdz.github.io/p/L004/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
   },
   {
    "id": "R018",
@@ -827,7 +967,17 @@
    ],
    "texto": "4 llantas alternativas r15 + cubiertas de auxilio 185/65 r15  llanta de aleación llanta alternativa 4 agujeros cubiertas para auxilio cubiertas de distintas marcas y medidas",
    "wa": "Hola, quería consultar por el juego de 4 llantas alternativas R15 con cubiertas de auxilio que vi en el catálogo (cód. R018).\nhttps://cubiertasmdz.github.io/p/R018/",
-   "url": "https://cubiertasmdz.github.io/p/R018/"
+   "url": "https://cubiertasmdz.github.io/p/R018/",
+   "marcas_llanta": [
+    "Alternativa"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone",
+    "Fate",
+    "Hankook",
+    "Maxisport"
+   ],
+   "medida_cubierta": "185/65 R15"
   }
  ]
 }

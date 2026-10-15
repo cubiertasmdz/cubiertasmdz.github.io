@@ -208,6 +208,15 @@ def precios_extra(p, n):
     return out
 
 
+def marcas_de(texto):
+    """'Bridgestone / Nexen' -> ['Bridgestone', 'Nexen']; 'Corse para Fiat' -> ['Fiat']."""
+    if not texto:
+        return []
+    if " para " in texto:
+        texto = texto.split(" para ", 1)[1]
+    return [m.strip() for m in re.split(r"\s*/\s*|\s+y\s+", texto) if m.strip()]
+
+
 # ---------- versión pública de cada producto ----------
 
 def publico(p):
@@ -320,6 +329,10 @@ def publico(p):
         "texto": " ".join([titulo, sub, sirve, " ".join(etiquetas)]).lower(),
         "wa": wa,
         "url": url,
+        "marcas_llanta": marcas_de(p.get("llanta_marca") or (p.get("marca") if p["tipo"] == "llanta" else None))
+        or (["Alternativa"] if p.get("llanta_original", p.get("original")) is False else []),
+        "marcas_cubierta": marcas_de(p.get("marca") if p["tipo"] in ("cubierta", "rueda") else None),
+        "medida_cubierta": medida(p) if p["tipo"] in ("cubierta", "rueda") else None,
         "alta": p.get("fecha_ingreso"),
     }
 
@@ -385,7 +398,7 @@ def build(silencioso=False):
     salida = {
         "actualizado": ahora(),
         "sitio": {k: CONFIG[k] for k in ["titulo", "bajada", "whatsapp", "whatsapp_visible", "ubicacion", "envios", "sitio_url"]},
-        "categorias": [{k: c[k] for k in ["id", "nombre", "singular", "plural", "filtro_rodado"]} for c in CONFIG["categorias"]],
+        "categorias": [{k: c[k] for k in ["id", "nombre", "singular", "plural", "filtro_rodado", "filtro_medida"]} for c in CONFIG["categorias"]],
         "productos": productos,
     }
     texto = json.dumps(salida, ensure_ascii=False, indent=1)

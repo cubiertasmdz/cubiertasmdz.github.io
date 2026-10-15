@@ -2,7 +2,7 @@
   "use strict";
 
   const $ = (s) => document.querySelector(s);
-  const estado = { datos: null, tab: null, rodado: "todos", q: "", solo: null };
+  const estado = { datos: null, tab: null, rodado: "todos", marca: "", medida: "", q: "", solo: null };
   const RODADOS = [
     { id: "todos", txt: "Todos" },
     { id: "13", txt: "R13" },
@@ -38,6 +38,35 @@
     return String(p.rodado) === estado.rodado;
   }
 
+  function pasaMarca(p) {
+    if (!estado.marca) return true;
+    const [tipo, m] = [estado.marca.slice(0, 1), estado.marca.slice(2)];
+    return (tipo === "l" ? p.marcas_llanta : p.marcas_cubierta).includes(m);
+  }
+  function pasaMedida(p) {
+    return !estado.medida || p.medida_cubierta === estado.medida;
+  }
+  const pasaFiltros = (p) => pasaRodado(p) && pasaMarca(p) && pasaMedida(p);
+  const unicos = (arr) => [...new Set(arr)].sort((a, b) => a.localeCompare(b, "es", { numeric: true }));
+
+  function renderFiltros(base, cat) {
+    const ml = unicos(base.flatMap((p) => p.marcas_llanta));
+    const mc = unicos(base.flatMap((p) => p.marcas_cubierta));
+    const opt = (v, t) => `<option value="${esc(v)}"${v === estado.marca ? " selected" : ""}>${esc(t)}</option>`;
+    $("#f-marca").innerHTML = opt("", "Todas") +
+      (ml.length ? `<optgroup label="Marca de llanta">${ml.map((m) => opt("l:" + m, m)).join("")}</optgroup>` : "") +
+      (mc.length ? `<optgroup label="Marca de cubierta">${mc.map((m) => opt("c:" + m, m)).join("")}</optgroup>` : "");
+    const medidas = unicos(base.map((p) => p.medida_cubierta).filter(Boolean));
+    $("#f-medida").innerHTML = [`<option value="">Todas</option>`]
+      .concat(medidas.map((m) => `<option value="${esc(m)}"${m === estado.medida ? " selected" : ""}>${esc(m)}</option>`)).join("");
+    const conMedida = !!(cat && cat.filtro_medida && medidas.length);
+    $("#filtro-medida").style.display = conMedida ? "" : "none";
+    $("#filtros").classList.toggle("uno", !conMedida);
+    $("#filtros").style.display = ml.length || mc.length || conMedida ? "" : "none";
+    $("#f-marca").classList.toggle("activo", !!estado.marca);
+    $("#f-medida").classList.toggle("activo", !!estado.medida);
+  }
+
   function visibles(tab) {
     const q = analizar(estado.q);
     return estado.datos.productos.filter((p) => p.tipo === tab && coincide(p, q));
@@ -52,6 +81,7 @@
       </button>`).join("");
     const cat = cats.find((c) => c.id === estado.tab);
     const base = visibles(estado.tab);
+    renderFiltros(base, cat);
     $("#chips").style.display = cat && cat.filtro_rodado ? "" : "none";
     $("#chips").innerHTML = RODADOS.map((r) => {
       const hay = r.id === "todos" || base.some((p) => (r.id === "17+" ? Number(p.rodado) >= 17 : String(p.rodado) === r.id));
@@ -120,7 +150,7 @@
       if (!p) { estado.solo = null; return render(); }
     } else {
       $("#aviso").innerHTML = "";
-      lista = visibles(estado.tab).filter(pasaRodado);
+      lista = visibles(estado.tab).filter(pasaFiltros);
     }
     $("#lista").innerHTML = lista.length ? lista.map(tarjeta).join("") : vacio();
   }
@@ -135,7 +165,7 @@
 
   document.addEventListener("click", async (e) => {
     const tab = e.target.closest("[data-tab]");
-    if (tab) { estado.tab = tab.dataset.tab; estado.rodado = "todos"; estado.solo = null; return render(); }
+    if (tab) { estado.tab = tab.dataset.tab; estado.rodado = "todos"; estado.marca = ""; estado.medida = ""; estado.solo = null; return render(); }
     const chip = e.target.closest("[data-rodado]");
     if (chip) { estado.rodado = chip.dataset.rodado; return render(); }
     if (e.target.closest("[data-ver-todo]")) {
@@ -168,6 +198,9 @@
     if (c) c.textContent = `${Math.round(f.scrollLeft / f.clientWidth) + 1}/${f.children.length}`;
   }, true);
 
+  $("#f-marca").addEventListener("change", (e) => { estado.marca = e.target.value; estado.solo = null; render(); });
+  $("#f-medida").addEventListener("change", (e) => { estado.medida = e.target.value; estado.solo = null; render(); });
+
   let espera;
   $("#q").addEventListener("input", (e) => {
     clearTimeout(espera);
@@ -184,7 +217,7 @@
   function autoTab() {
     if (visibles(estado.tab).length) return;
     const otra = estado.datos.categorias.find((c) => visibles(c.id).length);
-    if (otra) { estado.tab = otra.id; estado.rodado = "todos"; }
+    if (otra) { estado.tab = otra.id; estado.rodado = "todos"; estado.marca = ""; estado.medida = ""; }
   }
 
   // ---------- inicio ----------

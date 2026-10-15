@@ -14,7 +14,8 @@
       "nombre": "Cubiertas",
       "singular": "cubierta",
       "plural": "cubiertas",
-      "filtro_rodado": true
+      "filtro_rodado": false,
+      "filtro_medida": true
     },
     {
       "id": "llanta",
@@ -22,7 +23,8 @@
       "nombre": "Llantas",
       "singular": "llanta",
       "plural": "llantas",
-      "filtro_rodado": true
+      "filtro_rodado": true,
+      "filtro_medida": false
     },
     {
       "id": "rueda",
@@ -30,7 +32,8 @@
       "nombre": "Ruedas completas",
       "singular": "rueda completa",
       "plural": "ruedas completas",
-      "filtro_rodado": true
+      "filtro_rodado": true,
+      "filtro_medida": true
     }
   ]
 }
