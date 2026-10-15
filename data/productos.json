@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:57",
+ "actualizado": "2026-10-15 15:58",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -607,7 +607,7 @@
    "id": "R014",
    "tipo": "rueda",
    "titulo": "4 ruedas Fiat R16 205/55",
-   "subtitulo": "205/55 R16 · 91",
+   "subtitulo": "205/55 R16",
    "rodado": 16,
    "cantidad": 4,
    "cantidad_txt": "Juego de 4",
@@ -618,7 +618,8 @@
     "Llanta Fiat de aleación",
     "4x98",
     "Llanta original",
-    "Rayones"
+    "Rayones",
+    "Cubiertas de distintas marcas"
    ],
    "sirve": "Fiat Linea, Punto, Idea",
    "detalle": "Juego completo de 4 llantas originales Fiat rodado 16 con rayones (una con más marcas en los rayos). Las cubiertas son todas 205/55 R16 de distintas marcas: 1 Kumho Ecsta, 2 Pirelli P7 y 1 Michelin Primacy.",
@@ -637,7 +638,7 @@
     "498",
     "16498"
    ],
-   "texto": "4 ruedas fiat r16 205/55 205/55 r16 · 91 fiat linea, punto, idea llanta fiat de aleación 4x98 llanta original rayones",
+   "texto": "4 ruedas fiat r16 205/55 205/55 r16 fiat linea, punto, idea llanta fiat de aleación 4x98 llanta original rayones cubiertas de distintas marcas",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Fiat R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R014).\nhttps://cubiertasmdz.github.io/p/R014/",
    "url": "https://cubiertasmdz.github.io/p/R014/"
   },
