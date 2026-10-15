@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 16:04",
+ "actualizado": "2026-10-15 16:05",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -828,121 +828,6 @@
    "texto": "4 llantas alternativas r15 + cubiertas de auxilio 185/65 r15  llanta de aleación llanta alternativa 4 agujeros cubiertas para auxilio cubiertas de distintas marcas y medidas",
    "wa": "Hola, quería consultar por el juego de 4 llantas alternativas R15 con cubiertas de auxilio que vi en el catálogo (cód. R018).\nhttps://cubiertasmdz.github.io/p/R018/",
    "url": "https://cubiertasmdz.github.io/p/R018/"
-  },
-  {
-   "id": "C001",
-   "tipo": "cubierta",
-   "titulo": "Pirelli P400 Evo",
-   "subtitulo": "175/65 R14 · 82T",
-   "rodado": 14,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
-   "estado": "Muy buena",
-   "vida": 80,
-   "segmentos": 4,
-   "etiquetas": [
-    "Fabricada en 2022",
-    "6,5 mm de dibujo",
-    "Sin parches"
-   ],
-   "sirve": "",
-   "detalle": "Desgaste parejo en las cuatro.",
-   "precio_unidad": 40000,
-   "precios_extra": [
-    {
-     "txt": "el par",
-     "monto": 78000
-    },
-    {
-     "txt": "el juego de 4",
-     "monto": 150000
-    }
-   ],
-   "fotos": [
-    "fotos/c001-1.jpg",
-    "fotos/c001-2.jpg"
-   ],
-   "claves": [
-    "1756514"
-   ],
-   "texto": "pirelli p400 evo 175/65 r14 · 82t  fabricada en 2022 6,5 mm de dibujo sin parches",
-   "wa": "Hola, quería consultar por las 4 cubiertas Pirelli 175/65 R14 que vi en el catálogo (cód. C001).\nhttps://cubiertasmdz.github.io/p/C001/",
-   "url": "https://cubiertasmdz.github.io/p/C001/"
-  },
-  {
-   "id": "C002",
-   "tipo": "cubierta",
-   "titulo": "Fate Eximia Pininfarina",
-   "subtitulo": "185/60 R15 · 88H",
-   "rodado": 15,
-   "cantidad": 2,
-   "cantidad_txt": "Par",
-   "estado": "Buena",
-   "vida": 45,
-   "segmentos": 2,
-   "etiquetas": [
-    "Fabricada en 2019",
-    "1 parche",
-    "Ideal auxilio"
-   ],
-   "sirve": "",
-   "detalle": "Una tiene un parche bien hecho.",
-   "precio_unidad": 25000,
-   "precios_extra": [
-    {
-     "txt": "el par",
-     "monto": 45000
-    }
-   ],
-   "fotos": [],
-   "claves": [
-    "1856015"
-   ],
-   "texto": "fate eximia pininfarina 185/60 r15 · 88h  fabricada en 2019 1 parche ideal auxilio",
-   "wa": "Hola, quería consultar por las 2 cubiertas Fate 185/60 R15 que vi en el catálogo (cód. C002).\nhttps://cubiertasmdz.github.io/p/C002/",
-   "url": "https://cubiertasmdz.github.io/p/C002/"
-  },
-  {
-   "id": "L001",
-   "tipo": "llanta",
-   "titulo": "Llanta Volkswagen R15",
-   "subtitulo": "4x100 · R15 · 6\" de ancho · ET38",
-   "rodado": 15,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
-   "estado": "Muy buena",
-   "vida": null,
-   "segmentos": 5,
-   "etiquetas": [
-    "Original",
-    "Aleación",
-    "Sin golpes",
-    "Rayones leves"
-   ],
-   "sirve": "VW Gol Trend, Voyage, Fox, Suran",
-   "detalle": "",
-   "precio_unidad": 70000,
-   "precios_extra": [
-    {
-     "txt": "el par",
-     "monto": 135000
-    },
-    {
-     "txt": "el juego de 4",
-     "monto": 260000
-    }
-   ],
-   "fotos": [
-    "fotos/l001-1.jpg"
-   ],
-   "claves": [
-    "15",
-    "4100",
-    "154100"
-   ],
-   "texto": "llanta volkswagen r15 4x100 · r15 · 6\" de ancho · et38 vw gol trend, voyage, fox, suran original aleación sin golpes rayones leves",
-   "wa": "Hola, quería consultar por las 4 llantas Volkswagen R15 4x100 que vi en el catálogo (cód. L001).\nhttps://cubiertasmdz.github.io/p/L001/",
-   "url": "https://cubiertasmdz.github.io/p/L001/"
   }
  ]
 }
