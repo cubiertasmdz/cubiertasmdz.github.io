@@ -224,7 +224,10 @@ def publico(p):
         if ic:
             sub += f" · {ic}"
         f = dot_fecha(p.get("dot"))
-        if f:
+        f2 = dot_fecha(p.get("dot2"))  # lote con cubiertas de dos fechas distintas
+        if f and f2 and f2[1] != f[1]:
+            etiquetas.append(f"Fabricadas en {min(f[1], f2[1])} y {max(f[1], f2[1])}")
+        elif f:
             etiquetas.append(f"Fabricada en {f[1]}")
         if p.get("mm") is not None:
             etiquetas.append(f'{str(p["mm"]).replace(".", ",")} mm de dibujo')

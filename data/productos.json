@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:23",
+ "actualizado": "2026-10-15 15:27",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -141,6 +141,41 @@
    "texto": "3 llantas advan racing r15 + 2 yokohama 195/55 r15 · 85h  llanta de aleación fabricada en 2017 llanta alternativa rayones y pintura saltada",
    "wa": "Hola, quería consultar por el juego de 3 llantas ADVAN Racing R15 con 2 cubiertas Yokohama 195/55 R15 que vi en el catálogo (cód. R002).\nhttps://cubiertasmdz.github.io/p/R002/",
    "url": "https://cubiertasmdz.github.io/p/R002/"
+  },
+  {
+   "id": "R003",
+   "tipo": "rueda",
+   "titulo": "2 llantas Toyota R16 con cubiertas",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Toyota de aleación",
+    "5x114.3",
+    "Fabricadas en 2017 y 2020",
+    "Llanta original",
+    "Rayones leves"
+   ],
+   "sirve": "Toyota Corolla (2008 en adelante)",
+   "detalle": "Llantas originales Toyota de 5 agujeros. Una cubierta es Ohtsu FP7000 y la otra Torque TQ901, las dos 205/55 R16.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r003-1.jpg",
+    "fotos/r003-2.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "5114.3",
+    "165114.3"
+   ],
+   "texto": "2 llantas toyota r16 con cubiertas 205/55 r16 toyota corolla (2008 en adelante) llanta toyota de aleación 5x114.3 fabricadas en 2017 y 2020 llanta original rayones leves",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llanta Toyota R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R003).\nhttps://cubiertasmdz.github.io/p/R003/",
+   "url": "https://cubiertasmdz.github.io/p/R003/"
   },
   {
    "id": "C001",
