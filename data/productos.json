@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 16:03",
+ "actualizado": "2026-10-15 16:04",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -789,6 +789,45 @@
    "texto": "par de llantas ford focus r16 5x108 · r16 ford focus (2013 en adelante) original aleación rayones se vende sin cubierta",
    "wa": "Hola, quería consultar por el par de llantas Ford Focus R16 que vi en el catálogo (cód. L004).\nhttps://cubiertasmdz.github.io/p/L004/",
    "url": "https://cubiertasmdz.github.io/p/L004/"
+  },
+  {
+   "id": "R018",
+   "tipo": "rueda",
+   "titulo": "4 llantas alternativas R15 + cubiertas de auxilio",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Regular",
+   "vida": 25,
+   "segmentos": 1,
+   "etiquetas": [
+    "Llanta de aleación",
+    "Llanta alternativa",
+    "4 agujeros",
+    "Cubiertas para auxilio",
+    "Cubiertas de distintas marcas y medidas"
+   ],
+   "sirve": "",
+   "detalle": "Juego de 4 llantas alternativas de aleación rodado 15 (4 agujeros). Vienen con cubiertas de distintas marcas para usar de auxilio, no para uso diario: Bridgestone, Fate y Hankook 185/65 R15, y Maxisport 2 195/60 R15 del 2018.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r018-1.jpg",
+    "fotos/r018-2.jpg",
+    "fotos/r018-3.jpg",
+    "fotos/r018-4.jpg",
+    "fotos/r018-5.jpg",
+    "fotos/r018-6.jpg",
+    "fotos/r018-7.jpg",
+    "fotos/r018-8.jpg"
+   ],
+   "claves": [
+    "1856515"
+   ],
+   "texto": "4 llantas alternativas r15 + cubiertas de auxilio 185/65 r15  llanta de aleación llanta alternativa 4 agujeros cubiertas para auxilio cubiertas de distintas marcas y medidas",
+   "wa": "Hola, quería consultar por el juego de 4 llantas alternativas R15 con cubiertas de auxilio que vi en el catálogo (cód. R018).\nhttps://cubiertasmdz.github.io/p/R018/",
+   "url": "https://cubiertasmdz.github.io/p/R018/"
   },
   {
    "id": "C001",
