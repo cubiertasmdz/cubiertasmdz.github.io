@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:11",
+ "actualizado": "2026-10-15 15:17",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -73,6 +73,41 @@
    "texto": "triangle advantex tc101 185/65 r15 · 88h fiat palio, siena, grand siena, punto, idea, strada, argo, cronos llanta fiat de aleación 4x98 fabricada en 2022 sin parches rayones leves",
    "wa": "Hola, quería consultar por las 4 ruedas completas Triangle 185/65 R15 con llanta Fiat que vi en el catálogo (cód. R001).\nhttps://cubiertasmdz.github.io/p/R001/",
    "url": "https://cubiertasmdz.github.io/p/R001/"
+  },
+  {
+   "id": "L002",
+   "tipo": "llanta",
+   "titulo": "Llanta Corse para Fiat R14",
+   "subtitulo": "4x98 · R14",
+   "rodado": 14,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Regular",
+   "vida": null,
+   "segmentos": 2,
+   "etiquetas": [
+    "Alternativa",
+    "Aleación",
+    "Rayones en el borde",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Fiat Palio, Siena, Uno, Strada, Fiorino, Idea, Punto",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l002-1.jpg",
+    "fotos/l002-2.jpg",
+    "fotos/l002-3.jpg"
+   ],
+   "claves": [
+    "14",
+    "498",
+    "14498"
+   ],
+   "texto": "llanta corse para fiat r14 4x98 · r14 fiat palio, siena, uno, strada, fiorino, idea, punto alternativa aleación rayones en el borde se vende sin cubierta",
+   "wa": "Hola, quería consultar por las 2 llantas Corse para Fiat R14 4x98 que vi en el catálogo (cód. L002).\nhttps://cubiertasmdz.github.io/p/L002/",
+   "url": "https://cubiertasmdz.github.io/p/L002/"
   },
   {
    "id": "C001",
