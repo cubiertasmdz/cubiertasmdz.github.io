@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:46",
+ "actualizado": "2026-10-15 15:48",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -363,6 +363,48 @@
    "texto": "juego de 4 llantas toyota r15 4x100 · r15 toyota yaris, etios original aleación cordoneadas se vende sin cubierta",
    "wa": "Hola, quería consultar por el juego de 4 llantas Toyota R15 que vi en el catálogo (cód. L003).\nhttps://cubiertasmdz.github.io/p/L003/",
    "url": "https://cubiertasmdz.github.io/p/L003/"
+  },
+  {
+   "id": "R008",
+   "tipo": "rueda",
+   "titulo": "4 llantas Toyota Yaris R15 + 2 Bridgestone",
+   "subtitulo": "185/60 R15 · 84H",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 2 cubiertas",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Toyota de aleación",
+    "4x100",
+    "Fabricada en 2022",
+    "Llanta original",
+    "Bitono negro y diamantado",
+    "No incluye las cubiertas dañadas"
+   ],
+   "sirve": "Toyota Yaris, Etios",
+   "detalle": "Juego completo de 4 llantas originales Toyota rodado 15. Se vende con 2 cubiertas Bridgestone Turanza ER300 185/60 R15 del 2022 en buen estado. Las otras 2 cubiertas que se ven en las fotos están rajadas y NO se venden: esas llantas se entregan sin cubierta.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r008-1.jpg",
+    "fotos/r008-2.jpg",
+    "fotos/r008-3.jpg",
+    "fotos/r008-4.jpg",
+    "fotos/r008-5.jpg",
+    "fotos/r008-6.jpg",
+    "fotos/r008-7.jpg",
+    "fotos/r008-8.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "4100",
+    "154100"
+   ],
+   "texto": "4 llantas toyota yaris r15 + 2 bridgestone 185/60 r15 · 84h toyota yaris, etios llanta toyota de aleación 4x100 fabricada en 2022 llanta original bitono negro y diamantado no incluye las cubiertas dañadas",
+   "wa": "Hola, quería consultar por las 4 llantas Toyota Yaris R15 con 2 cubiertas Bridgestone 185/60 R15 que vi en el catálogo (cód. R008).\nhttps://cubiertasmdz.github.io/p/R008/",
+   "url": "https://cubiertasmdz.github.io/p/R008/"
   },
   {
    "id": "C001",
