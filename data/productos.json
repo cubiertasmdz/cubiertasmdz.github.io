@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:48",
+ "actualizado": "2026-10-15 15:49",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -405,6 +405,44 @@
    "texto": "4 llantas toyota yaris r15 + 2 bridgestone 185/60 r15 · 84h toyota yaris, etios llanta toyota de aleación 4x100 fabricada en 2022 llanta original bitono negro y diamantado no incluye las cubiertas dañadas",
    "wa": "Hola, quería consultar por las 4 llantas Toyota Yaris R15 con 2 cubiertas Bridgestone 185/60 R15 que vi en el catálogo (cód. R008).\nhttps://cubiertasmdz.github.io/p/R008/",
    "url": "https://cubiertasmdz.github.io/p/R008/"
+  },
+  {
+   "id": "R009",
+   "tipo": "rueda",
+   "titulo": "4 ruedas VW Tiguan R17 con Continental",
+   "subtitulo": "215/65 R17 · 99V",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Volkswagen de aleación",
+    "5x112",
+    "Fabricada en 2019",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Tiguan Allspace",
+   "detalle": "Juego completo de 4 llantas originales VW Tiguan rodado 17 con rayones, con cubiertas Continental ContiEcoContact 5 215/65 R17.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r009-1.jpg",
+    "fotos/r009-2.jpg",
+    "fotos/r009-3.jpg",
+    "fotos/r009-4.jpg",
+    "fotos/r009-5.jpg"
+   ],
+   "claves": [
+    "2156517",
+    "5112",
+    "175112"
+   ],
+   "texto": "4 ruedas vw tiguan r17 con continental 215/65 r17 · 99v vw tiguan allspace llanta volkswagen de aleación 5x112 fabricada en 2019 llanta original rayones",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas VW Tiguan R17 y cubiertas Continental 215/65 R17 que vi en el catálogo (cód. R009).\nhttps://cubiertasmdz.github.io/p/R009/",
+   "url": "https://cubiertasmdz.github.io/p/R009/"
   },
   {
    "id": "C001",
