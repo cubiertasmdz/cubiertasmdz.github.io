@@ -166,6 +166,22 @@ def nombre_interno(p):
     return p.get("titulo", p["id"])
 
 
+def nombre_planilla(p, n):
+    """Nombre fácil de leer para la planilla, ej: '4 ruedas completas Triangle Fiat 185/65 R15'."""
+    cat = categoria(p["tipo"])
+    cosa = cat["singular"] if n == 1 else cat["plural"]
+    if p["tipo"] == "rueda":
+        partes = [p.get("marca"), p.get("llanta_marca"), medida(p)]
+    elif p["tipo"] == "cubierta":
+        partes = [p.get("marca"), medida(p)]
+    elif p["tipo"] == "llanta":
+        partes = [p.get("marca") or p.get("material"), medida(p),
+                  f'{p["agujeros"]}x{p["distancia"]}' if p.get("agujeros") and p.get("distancia") else None]
+    else:
+        partes = [p.get("titulo")]
+    return " ".join(str(x) for x in [n, cosa, *partes] if x)
+
+
 def visible(p):
     return p.get("activo", True) and int(p.get("cantidad", 0)) > 0
 
@@ -627,7 +643,7 @@ def planilla(destino=None):
             ultima_venta[m["id"]] = m["fecha"][:10]
         elif m["tipo"] == "ingreso":
             ingresadas[m["id"]] = ingresadas.get(m["id"], 0) + (m["cantidad"] or 0)
-    cols = ["Código", "Tipo", "En la web", "Producto", "Medida", "Marca", "Modelo", "Rodado", "Estado", "Vida %",
+    cols = ["Código", "Nombre", "Tipo", "En la web", "Producto (web)", "Medida", "Marca", "Modelo", "Rodado", "Estado", "Vida %",
             "mm dibujo", "DOT", "Año fab.", "Antigüedad (años)", "+5 años", "Parches", "Marca llanta", "Agujeros", "Offset", "Material",
             "Original / Alt.", "Sirve para", "Etiquetas (web)", "Observaciones (web)",
             "Ingresadas", "Vendidas", "Stock actual",
@@ -641,8 +657,9 @@ def planilla(destino=None):
         f = dot_fecha(p.get("dot"))
         n = int(p["cantidad"])
         cat = categoria(p["tipo"])
+        lote = ingresadas.get(p["id"], n + vendidas.get(p["id"], 0))
         filas.append([
-            p["id"], cat["singular"].capitalize(), "Sí" if visible(p) else "No", pub["titulo"], pub["subtitulo"],
+            p["id"], nombre_planilla(p, lote), cat["singular"].capitalize(), "Sí" if visible(p) else "No", pub["titulo"], pub["subtitulo"],
             p.get("marca"), p.get("modelo"), p.get("rodado"), estado_de(p), vida_de(p), p.get("mm"),
             p.get("dot"), f[1] if f else None, a, "SÍ" if a and a > CONFIG["anios_alerta"] else "",
             p.get("parches"), p.get("llanta_marca") or (p.get("marca") if p["tipo"] == "llanta" else None),
@@ -663,7 +680,7 @@ def planilla(destino=None):
                                   "Ganancia c/u", "Valor stock (venta)", "Valor stock (costo)"})
     gris = PatternFill("solid", fgColor="E6E6E6")
     for fila in ws.iter_rows(min_row=2):
-        if fila[2].value == "No":
+        if fila[3].value == "No":
             for c in fila:
                 c.fill = gris
 
@@ -682,11 +699,11 @@ def planilla(destino=None):
         filas.append([
             m["fecha"], {"ingreso": "INGRESO", "venta": "SALIDA (venta)", "baja": "BAJA", "alta": "ALTA",
                          "precio": "Cambio de precio", "edicion": "Corrección"}.get(m["tipo"], m["tipo"]),
-            m["id"], m["producto"], cant, unit, m.get("monto"), m.get("costo_unit"), ganancia, m.get("detalle"),
+            m["id"], nombre_planilla(p, cant or int(p["cantidad"])) if p else m["producto"], cant, unit, m.get("monto"), m.get("costo_unit"), ganancia, m.get("detalle"),
             "PRUEBA" if m.get("prueba") else "",
         ])
     hoja(wb.create_sheet("Movimientos"),
-         ["Fecha", "Movimiento", "Código", "Producto", "Cantidad", "Precio c/u (ingreso: costo · venta: cobrado)", "Monto total",
+         ["Fecha", "Movimiento", "Código", "Nombre", "Cantidad", "Precio c/u (ingreso: costo · venta: cobrado)", "Monto total",
           "Costo c/u", "Ganancia", "Detalle", "Prueba"],
          filas, dinero={"Precio c/u (ingreso: costo · venta: cobrado)", "Monto total", "Costo c/u", "Ganancia"})
 
