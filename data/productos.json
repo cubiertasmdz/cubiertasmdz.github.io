@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:54",
+ "actualizado": "2026-10-15 15:56",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -562,6 +562,46 @@
    "texto": "4 ruedas suzuki grand vitara r17 225/65 r17 suzuki grand vitara llanta suzuki de aleación 5x114.3 llanta original rayones 2 cubiertas nexen del 2012 (más de 10 años)",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Suzuki Grand Vitara R17 y cubiertas 225/65 R17 que vi en el catálogo (cód. R012).\nhttps://cubiertasmdz.github.io/p/R012/",
    "url": "https://cubiertasmdz.github.io/p/R012/"
+  },
+  {
+   "id": "R013",
+   "tipo": "rueda",
+   "titulo": "4 llantas Citroën R17 + 1 Michelin",
+   "subtitulo": "205/45 R17 · 88Y",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 1 cubierta",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Citroën de aleación",
+    "4x108",
+    "Llanta original",
+    "Bitono negro y diamantado",
+    "Rayones",
+    "No incluye las cubiertas dañadas"
+   ],
+   "sirve": "Citroën DS3, Citroën C3",
+   "detalle": "Juego completo de 4 llantas originales Citroën rodado 17 con rayones. Se vende con 1 cubierta Michelin Pilot Sport 3 205/45 R17 en uso. Las otras 3 cubiertas que se ven en las fotos (Westlake) están pinchadas y NO se venden: esas llantas se entregan sin cubierta.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r013-1.jpg",
+    "fotos/r013-2.jpg",
+    "fotos/r013-3.jpg",
+    "fotos/r013-4.jpg",
+    "fotos/r013-5.jpg",
+    "fotos/r013-6.jpg"
+   ],
+   "claves": [
+    "2054517",
+    "4108",
+    "174108"
+   ],
+   "texto": "4 llantas citroën r17 + 1 michelin 205/45 r17 · 88y citroën ds3, citroën c3 llanta citroën de aleación 4x108 llanta original bitono negro y diamantado rayones no incluye las cubiertas dañadas",
+   "wa": "Hola, quería consultar por las 4 llantas Citroën R17 con 1 cubierta Michelin 205/45 R17 que vi en el catálogo (cód. R013).\nhttps://cubiertasmdz.github.io/p/R013/",
+   "url": "https://cubiertasmdz.github.io/p/R013/"
   },
   {
    "id": "C001",
