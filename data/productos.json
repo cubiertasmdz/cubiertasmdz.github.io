@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:30",
+ "actualizado": "2026-10-15 15:34",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -212,6 +212,42 @@
    "texto": "2 llantas fiat r14 + 1 pirelli 175/65 r14 · 82t fiat mobi, uno, palio, siena, argo, cronos llanta fiat de aleación 4x98 llanta original cordoneadas rayones",
    "wa": "Hola, quería consultar por las 2 llantas Fiat R14 con 1 cubierta Pirelli 175/65 R14 que vi en el catálogo (cód. R004).\nhttps://cubiertasmdz.github.io/p/R004/",
    "url": "https://cubiertasmdz.github.io/p/R004/"
+  },
+  {
+   "id": "R005",
+   "tipo": "rueda",
+   "titulo": "3 llantas Chrysler PT Cruiser R16 + 1 Michelin",
+   "subtitulo": "205/55 R16 · 91V",
+   "rodado": 16,
+   "cantidad": 3,
+   "cantidad_txt": "3 llantas + 1 cubierta",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Chrysler de aleación",
+    "5x100",
+    "Fabricada en 2019",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Chrysler PT Cruiser",
+   "detalle": "Son 3 llantas originales de Chrysler PT Cruiser rodado 16. Se vende con 1 cubierta Michelin Primacy 4 205/55 R16 en buen estado; las otras cubiertas no se comercializan.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r005-1.jpg",
+    "fotos/r005-2.jpg",
+    "fotos/r005-3.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "5100",
+    "165100"
+   ],
+   "texto": "3 llantas chrysler pt cruiser r16 + 1 michelin 205/55 r16 · 91v chrysler pt cruiser llanta chrysler de aleación 5x100 fabricada en 2019 llanta original rayones",
+   "wa": "Hola, quería consultar por las 3 llantas Chrysler PT Cruiser R16 con 1 cubierta Michelin 205/55 R16 que vi en el catálogo (cód. R005).\nhttps://cubiertasmdz.github.io/p/R005/",
+   "url": "https://cubiertasmdz.github.io/p/R005/"
   },
   {
    "id": "C001",
