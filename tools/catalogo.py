@@ -168,6 +168,8 @@ def nombre_interno(p):
 
 def nombre_planilla(p, n):
     """Nombre fácil de leer para la planilla, ej: '4 ruedas completas Triangle Fiat 185/65 R15'."""
+    if p.get("nombre"):
+        return p["nombre"]
     cat = categoria(p["tipo"])
     cosa = cat["singular"] if n == 1 else cat["plural"]
     if p["tipo"] == "rueda":
@@ -288,8 +290,10 @@ def publico(p):
     etiquetas += p.get("etiquetas", [])
     palabra = cat["singular"] if n == 1 else cat["plural"]
     cuantas = f"la {palabra}" if n == 1 else f"las {n} {palabra}"
+    frase = p.get("mensaje_web") or f"{cuantas} {mensaje_prod}"  # lotes armados: texto a mano
+    titulo = p.get("titulo_web") or titulo
     url = CONFIG["sitio_url"] + f'p/{p["id"]}/'
-    wa = f"Hola, quería consultar por {cuantas} {mensaje_prod} que vi en el catálogo (cód. {p['id']}).\n{url}"
+    wa = f"Hola, quería consultar por {frase} que vi en el catálogo (cód. {p['id']}).\n{url}"
 
     v = vida_de(p)
     return {
@@ -299,7 +303,7 @@ def publico(p):
         "subtitulo": sub,
         "rodado": p.get("rodado"),
         "cantidad": n,
-        "cantidad_txt": etiqueta_cantidad(n),
+        "cantidad_txt": p.get("cantidad_web") or etiqueta_cantidad(n),
         "estado": estado_de(p),
         "vida": v,
         "segmentos": segmentos(p),

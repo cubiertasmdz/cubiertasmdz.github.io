@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:17",
+ "actualizado": "2026-10-15 15:23",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -108,6 +108,39 @@
    "texto": "llanta corse para fiat r14 4x98 · r14 fiat palio, siena, uno, strada, fiorino, idea, punto alternativa aleación rayones en el borde se vende sin cubierta",
    "wa": "Hola, quería consultar por las 2 llantas Corse para Fiat R14 4x98 que vi en el catálogo (cód. L002).\nhttps://cubiertasmdz.github.io/p/L002/",
    "url": "https://cubiertasmdz.github.io/p/L002/"
+  },
+  {
+   "id": "R002",
+   "tipo": "rueda",
+   "titulo": "3 llantas ADVAN Racing R15 + 2 Yokohama",
+   "subtitulo": "195/55 R15 · 85H",
+   "rodado": 15,
+   "cantidad": 3,
+   "cantidad_txt": "3 llantas + 2 cubiertas",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta de aleación",
+    "Fabricada en 2017",
+    "Llanta alternativa",
+    "Rayones y pintura saltada"
+   ],
+   "sirve": "",
+   "detalle": "Son 3 llantas alternativas rodado 15. Dos vienen con cubiertas Yokohama 195/55 R15 en uso; la tercera, sin cubierta utilizable.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r002-1.jpg",
+    "fotos/r002-2.jpg",
+    "fotos/r002-3.jpg"
+   ],
+   "claves": [
+    "1955515"
+   ],
+   "texto": "3 llantas advan racing r15 + 2 yokohama 195/55 r15 · 85h  llanta de aleación fabricada en 2017 llanta alternativa rayones y pintura saltada",
+   "wa": "Hola, quería consultar por el juego de 3 llantas ADVAN Racing R15 con 2 cubiertas Yokohama 195/55 R15 que vi en el catálogo (cód. R002).\nhttps://cubiertasmdz.github.io/p/R002/",
+   "url": "https://cubiertasmdz.github.io/p/R002/"
   },
   {
    "id": "C001",
