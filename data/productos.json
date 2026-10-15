@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 16:01",
+ "actualizado": "2026-10-15 16:02",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -717,6 +717,44 @@
    "texto": "2 ruedas fiat r14 175/65 175/65 r14 · 82h fiat palio, siena, grand siena, punto, uno llanta fiat de aleación 4x98 fabricada en 2019 llanta original rayones cubiertas de distintas marcas",
    "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Fiat R14 y cubiertas 175/65 R14 que vi en el catálogo (cód. R016).\nhttps://cubiertasmdz.github.io/p/R016/",
    "url": "https://cubiertasmdz.github.io/p/R016/"
+  },
+  {
+   "id": "R017",
+   "tipo": "rueda",
+   "titulo": "2 llantas Citroën R14 + 1 Fate",
+   "subtitulo": "165/70 R14 · C",
+   "rodado": 14,
+   "cantidad": 2,
+   "cantidad_txt": "2 llantas + 1 cubierta",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Citroën de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "No incluye la cubierta dañada"
+   ],
+   "sirve": "Citroën C3, Xsara, Berlingo",
+   "detalle": "Par de llantas originales Citroën rodado 14 con rayones. Se vende con 1 cubierta Fate Range Runner H/T 165/70 R14 C (reforzada). La otra cubierta que se ve en las fotos (Pirelli P6 185/65 R14) tiene daño en el hombro y NO se vende: esa llanta se entrega sin cubierta.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r017-1.jpg",
+    "fotos/r017-2.jpg",
+    "fotos/r017-3.jpg",
+    "fotos/r017-4.jpg",
+    "fotos/r017-5.jpg"
+   ],
+   "claves": [
+    "1657014",
+    "4108",
+    "144108"
+   ],
+   "texto": "2 llantas citroën r14 + 1 fate 165/70 r14 · c citroën c3, xsara, berlingo llanta citroën de aleación 4x108 llanta original rayones no incluye la cubierta dañada",
+   "wa": "Hola, quería consultar por las 2 llantas Citroën R14 con 1 cubierta Fate 165/70 R14 que vi en el catálogo (cód. R017).\nhttps://cubiertasmdz.github.io/p/R017/",
+   "url": "https://cubiertasmdz.github.io/p/R017/"
   },
   {
    "id": "C001",
