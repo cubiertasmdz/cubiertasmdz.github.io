@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 16:02",
+ "actualizado": "2026-10-15 16:03",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -755,6 +755,40 @@
    "texto": "2 llantas citroën r14 + 1 fate 165/70 r14 · c citroën c3, xsara, berlingo llanta citroën de aleación 4x108 llanta original rayones no incluye la cubierta dañada",
    "wa": "Hola, quería consultar por las 2 llantas Citroën R14 con 1 cubierta Fate 165/70 R14 que vi en el catálogo (cód. R017).\nhttps://cubiertasmdz.github.io/p/R017/",
    "url": "https://cubiertasmdz.github.io/p/R017/"
+  },
+  {
+   "id": "L004",
+   "tipo": "llanta",
+   "titulo": "Par de llantas Ford Focus R16",
+   "subtitulo": "5x108 · R16",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Ford Focus (2013 en adelante)",
+   "detalle": "Par de llantas originales Ford rodado 16 con rayones. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l004-1.jpg",
+    "fotos/l004-2.jpg"
+   ],
+   "claves": [
+    "16",
+    "5108",
+    "165108"
+   ],
+   "texto": "par de llantas ford focus r16 5x108 · r16 ford focus (2013 en adelante) original aleación rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por el par de llantas Ford Focus R16 que vi en el catálogo (cód. L004).\nhttps://cubiertasmdz.github.io/p/L004/",
+   "url": "https://cubiertasmdz.github.io/p/L004/"
   },
   {
    "id": "C001",
