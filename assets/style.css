@@ -103,7 +103,7 @@ a { color: inherit; }
   padding: 14px 0 10px;
   border-bottom: 1px solid var(--linea);
 }
-.tabs { display: flex; gap: 10px; }
+.tabs { display: flex; gap: 8px; }
 .tab {
   flex: 1;
   min-height: 52px;
@@ -111,13 +111,15 @@ a { color: inherit; }
   border-radius: 14px;
   background: #fff;
   color: var(--negro);
-  font: 800 24px/1 var(--titulos);
+  font: 800 20px/1.02 var(--titulos);
   text-transform: uppercase;
   letter-spacing: .02em;
   cursor: pointer;
   max-width: 280px;
+  padding: 6px 6px;
 }
-.tab .n { font-weight: 600; opacity: .7; }
+@media (min-width: 420px) { .tab { font-size: 23px; } }
+.tab .n { display: block; margin-top: 3px; font-weight: 600; opacity: .7; }
 .tab[aria-selected="true"] { background: var(--negro); color: #fff; }
 .tab[aria-selected="true"] .n { color: var(--amarillo); opacity: 1; }
 

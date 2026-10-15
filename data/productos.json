@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-13 14:53",
+ "actualizado": "2026-10-15 15:10",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -23,9 +23,57 @@
    "singular": "llanta",
    "plural": "llantas",
    "filtro_rodado": true
+  },
+  {
+   "id": "rueda",
+   "nombre": "Ruedas completas",
+   "singular": "rueda completa",
+   "plural": "ruedas completas",
+   "filtro_rodado": true
   }
  ],
  "productos": [
+  {
+   "id": "R001",
+   "tipo": "rueda",
+   "titulo": "Triangle AdvanteX TC101",
+   "subtitulo": "185/65 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Fiat de aleación",
+    "4x98",
+    "Fabricada en 2022",
+    "Sin parches",
+    "Rayones leves"
+   ],
+   "sirve": "Fiat Palio, Siena, Grand Siena, Punto, Idea, Strada, Argo, Cronos",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r001-1.jpg",
+    "fotos/r001-2.jpg",
+    "fotos/r001-3.jpg",
+    "fotos/r001-4.jpg",
+    "fotos/r001-5.jpg",
+    "fotos/r001-6.jpg",
+    "fotos/r001-7.jpg",
+    "fotos/r001-8.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "498",
+    "15498"
+   ],
+   "texto": "triangle advantex tc101 185/65 r15 · 88h fiat palio, siena, grand siena, punto, idea, strada, argo, cronos llanta fiat de aleación 4x98 fabricada en 2022 sin parches rayones leves",
+   "wa": "Hola, quería consultar por las 4 ruedas completas Triangle 185/65 R15 con llanta Fiat que vi en el catálogo (cód. R001).\nhttps://cubiertasmdz.github.io/p/R001/",
+   "url": "https://cubiertasmdz.github.io/p/R001/"
+  },
   {
    "id": "C001",
    "tipo": "cubierta",

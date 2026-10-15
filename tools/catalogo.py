@@ -6,7 +6,7 @@ Uso:  .venv/bin/python tools/catalogo.py <comando> [opciones]
 Comandos:
   ver [texto] [--todos]            Lista productos (con datos internos). --todos incluye ocultos.
   nuevo <archivo.json>             Carga un producto nuevo (ingreso). Imprime el código asignado.
-  sumar <id> <n>                   Suma unidades a un lote existente (ingreso).
+  sumar <id> <n> [--costo X]       Suma unidades a un lote existente (ingreso).
   fotos <id> <img...> [--reemplazar]  Comprime y agrega fotos al producto.
   venta <id> <n> [--monto X] [--nota "..."]
   precio <id> [--unidad X] [--par X|no] [--juego X|no]   (juego = las 4)
@@ -15,7 +15,8 @@ Comandos:
   editar <id> campo=valor ...      Corrige datos (valor en JSON o texto).
   build                            Genera los archivos públicos (data/, p/).
   resumen [--mes AAAA-MM]
-  excel                            Exporta stock e historial a exportes/.
+  planilla                         Regenera PLANILLA STOCK.xlsx (se hace sola en cada movimiento).
+  excel                            Copia fechada de la planilla en exportes/.
   publicar "mensaje"               build + commit + push.
   limpiar-pruebas                  Borra los productos marcados como prueba.
 """
@@ -70,9 +71,11 @@ def registrar(tipo, prod, cantidad=None, monto=None, detalle=""):
     h.append({
         "fecha": ahora(), "tipo": tipo, "id": prod["id"], "producto": nombre_interno(prod),
         "cantidad": cantidad, "monto": monto, "detalle": detalle,
+        "costo_unit": prod.get("costo"), "precio_unit": prod.get("precio_unidad"),
         **({"prueba": True} if prod.get("prueba") else {}),
     })
     HIST.write_text(json.dumps(h, ensure_ascii=False, indent=2) + "\n")
+    planilla()
 
 
 def categoria(cat_id):
@@ -145,7 +148,7 @@ def segmentos(p):
 
 
 def medida(p):
-    if p["tipo"] == "cubierta":
+    if p["tipo"] in ("cubierta", "rueda"):
         return f'{p["ancho"]}/{p["perfil"]} R{p["rodado"]}'
     if p["tipo"] == "llanta":
         return f'R{p["rodado"]}'
@@ -155,6 +158,9 @@ def medida(p):
 def nombre_interno(p):
     if p["tipo"] == "cubierta":
         return f'{p.get("marca", "")} {p.get("modelo", "")} {medida(p)}'.replace("  ", " ").strip()
+    if p["tipo"] == "rueda":
+        return (f'Rueda {p.get("marca", "")} {medida(p)} + llanta {p.get("llanta_marca", "")} '
+                f'{p.get("agujeros", "")}x{p.get("distancia", "")}').replace("  ", " ").strip()
     if p["tipo"] == "llanta":
         return f'Llanta {p.get("material", "")} {medida(p)} {p.get("agujeros", "")}x{p.get("distancia", "")}'.strip()
     return p.get("titulo", p["id"])
@@ -193,8 +199,8 @@ def publico(p):
     detalle = p.get("observaciones") or ""
     sirve = ""
 
-    if p["tipo"] == "cubierta":
-        titulo = f'{p.get("marca", "")} {p.get("modelo", "")}'.strip() or "Cubierta"
+    if p["tipo"] in ("cubierta", "rueda"):
+        titulo = f'{p.get("marca", "")} {p.get("modelo", "")}'.strip() or cat["singular"].capitalize()
         sub = medida(p)
         ic = f'{p.get("indice_carga") or ""}{p.get("indice_velocidad") or ""}'
         if ic:
@@ -210,6 +216,21 @@ def publico(p):
             etiquetas.append(f'{p["parches"]} parche{"s" if p["parches"] > 1 else ""}')
         claves = [f'{p["ancho"]}{p["perfil"]}{p["rodado"]}']
         mensaje_prod = f'{p.get("marca", "")} {medida(p)}'.replace("  ", " ").strip()
+        if p["tipo"] == "rueda":  # cubierta montada en llanta: se suman los datos de la llanta
+            mat = (p.get("llanta_material") or "").lower()
+            llanta = "Llanta" + (f' {p["llanta_marca"]}' if p.get("llanta_marca") else "") + (f" de {mat}" if mat else "")
+            etiquetas.insert(0, llanta)
+            if p.get("agujeros") and p.get("distancia"):
+                etiquetas.insert(1, f'{p["agujeros"]}x{p["distancia"]}')
+                claves += [f'{p["agujeros"]}{p["distancia"]}', f'{p["rodado"]}{p["agujeros"]}{p["distancia"]}']
+            if p.get("llanta_original") is True:
+                etiquetas.append("Llanta original")
+            elif p.get("llanta_original") is False:
+                etiquetas.append("Llanta alternativa")
+            etiquetas += p.get("detalles_llanta", [])
+            sirve = ", ".join(p.get("vehiculos", []))
+            if p.get("llanta_marca"):
+                mensaje_prod += f' con llanta {p["llanta_marca"]}'
     elif p["tipo"] == "llanta":
         mat = (p.get("material") or "").lower()
         if p.get("marca"):
@@ -430,19 +451,23 @@ def cmd_nuevo(ruta):
     datos.setdefault("fotos", [])
     stock["productos"].append(datos)
     guardar(stock)
-    registrar("ingreso", datos, int(datos["cantidad"]), None,
+    registrar("ingreso", datos, int(datos["cantidad"]),
+              int(datos["cantidad"]) * datos["costo"] if datos.get("costo") else None,
               f'Alta. {pesos(datos.get("precio_unidad"))} c/u' + (f', par {pesos(datos["precio_par"])}' if datos.get("precio_par") else "")
               + (f', juego de 4 {pesos(datos["precio_juego"])}' if datos.get("precio_juego") else ""))
     print(datos["id"])
 
 
-def cmd_sumar(pid, n):
+def cmd_sumar(pid, n, op):
     stock = cargar()
     p = buscar(stock, pid)
+    if "costo" in op:
+        p["costo"] = num(op["costo"])
     p["cantidad"] = int(p["cantidad"]) + int(n)
     p["activo"] = True
     guardar(stock)
-    registrar("ingreso", p, int(n), None, f'Se suman al lote. Ahora hay {p["cantidad"]}')
+    registrar("ingreso", p, int(n), int(n) * p["costo"] if p.get("costo") else None,
+              f'Se suman al lote. Ahora hay {p["cantidad"]}')
     print(f'{p["id"]}: ahora {p["cantidad"]}')
 
 
@@ -557,58 +582,155 @@ def cmd_resumen(mes):
           f"{pesos(sum(h['monto'] or 0 for h in ventas))}")
     for h in ventas:
         print(f'   {h["fecha"][:10]}  {h["id"]} {h["producto"]} — {h["cantidad"]} u. {pesos(h["monto"])}')
-    viejas = [(p, antiguedad(p.get("dot"))) for p in vis if p["tipo"] == "cubierta"]
+    viejas = [(p, antiguedad(p.get("dot"))) for p in vis if p["tipo"] in ("cubierta", "rueda")]
     viejas = [(p, a) for p, a in viejas if a and a > CONFIG["anios_alerta"]]
     print(f'\nCUBIERTAS CON MÁS DE {CONFIG["anios_alerta"]} AÑOS: {len(viejas)}')
     for p, a in viejas:
         print(f'   {p["id"]}  {nombre_interno(p)} — DOT {p["dot"]} ({a} años), {p["cantidad"]} u.')
 
 
-def cmd_excel():
+PLANILLA = ROOT / "PLANILLA STOCK.xlsx"
+
+
+def planilla(destino=None):
+    """Planilla Excel siempre actualizada: stock con las mismas características que la web, movimientos y resumen."""
     from openpyxl import Workbook
-    from openpyxl.styles import Font, PatternFill
+    from openpyxl.styles import Alignment, Font, PatternFill
+    from openpyxl.utils import get_column_letter
     stock = cargar()
+    hist = historial()
     wb = Workbook()
-    ws = wb.active
-    ws.title = "Stock"
-    cols = ["Código", "Tipo", "Producto", "Marca", "Modelo", "Medida", "Índice", "DOT", "Antigüedad (años)",
-            "+5 años", "Vida %", "mm", "Estado", "Material", "Agujeros", "Offset", "Vehículos", "Original",
-            "Cantidad", "Precio unidad", "Precio par", "Precio juego de 4", "Valor stock", "Costo", "Visible",
-            "Fecha ingreso", "Observaciones", "Notas privadas", "Fotos"]
-    ws.append(cols)
-    for p in stock["productos"]:
-        a = antiguedad(p.get("dot"))
-        ws.append([
-            p["id"], p["tipo"], nombre_interno(p), p.get("marca"), p.get("modelo"), medida(p),
-            f'{p.get("indice_carga") or ""}{p.get("indice_velocidad") or ""}' or None, p.get("dot"), a,
-            "SÍ" if a and a > CONFIG["anios_alerta"] else "", vida_de(p), p.get("mm"), estado_de(p),
-            p.get("material"), f'{p["agujeros"]}x{p["distancia"]}' if p.get("agujeros") else None, p.get("offset"),
-            ", ".join(p.get("vehiculos", [])) or None,
-            {True: "Original", False: "Alternativa"}.get(p.get("original")),
-            int(p["cantidad"]), p.get("precio_unidad"), p.get("precio_par"), p.get("precio_juego"),
-            int(p["cantidad"]) * (p.get("precio_unidad") or 0), p.get("costo"),
-            "Sí" if visible(p) else "No", p.get("fecha_ingreso"), p.get("observaciones"),
-            p.get("notas_privadas"), len(p.get("fotos", [])),
-        ])
-    h = wb.create_sheet("Historial")
-    h.append(["Fecha", "Movimiento", "Código", "Producto", "Cantidad", "Monto", "Detalle"])
-    for m in historial():
-        h.append([m["fecha"], m["tipo"], m["id"], m["producto"], m["cantidad"], m["monto"], m["detalle"]])
-    for hoja in (ws, h):
-        for c in hoja[1]:
+
+    def hoja(ws, cols, filas, dinero=(), anchos=None):
+        ws.append(cols)
+        for f in filas:
+            ws.append(f)
+        for c in ws[1]:
             c.font = Font(bold=True, color="FFFFFF")
             c.fill = PatternFill("solid", fgColor="111111")
-        hoja.freeze_panes = "A2"
-        for col in hoja.columns:
-            ancho = max(len(str(c.value or "")) for c in col)
-            hoja.column_dimensions[col[0].column_letter].width = min(45, max(9, ancho + 2))
-        for fila in hoja.iter_rows(min_row=2):
-            for c in fila:
-                if hoja[1][c.column - 1].value in ("Precio unidad", "Precio par", "Precio juego de 4", "Valor stock", "Costo", "Monto"):
+            c.alignment = Alignment(vertical="center", wrap_text=True)
+        ws.row_dimensions[1].height = 32
+        ws.freeze_panes = "B2"
+        ws.auto_filter.ref = ws.dimensions
+        for i, col in enumerate(ws.columns, 1):
+            largo = max(len(str(c.value or "")) for c in col)
+            ws.column_dimensions[get_column_letter(i)].width = min(42, max(10, largo + 2))
+            if cols[i - 1] in dinero:
+                for c in col[1:]:
                     c.number_format = '"$"#,##0'
+
+    # --- Stock ---
+    vendidas, ingresadas, ultima_venta = {}, {}, {}
+    for m in hist:
+        if m["tipo"] == "venta":
+            vendidas[m["id"]] = vendidas.get(m["id"], 0) + (m["cantidad"] or 0)
+            ultima_venta[m["id"]] = m["fecha"][:10]
+        elif m["tipo"] == "ingreso":
+            ingresadas[m["id"]] = ingresadas.get(m["id"], 0) + (m["cantidad"] or 0)
+    cols = ["Código", "Tipo", "En la web", "Producto", "Medida", "Marca", "Modelo", "Rodado", "Estado", "Vida %",
+            "mm dibujo", "DOT", "Año fab.", "Antigüedad (años)", "+5 años", "Parches", "Marca llanta", "Agujeros", "Offset", "Material",
+            "Original / Alt.", "Sirve para", "Etiquetas (web)", "Observaciones (web)",
+            "Ingresadas", "Vendidas", "Stock actual",
+            "Precio ingreso c/u", "Precio venta c/u", "Precio par", "Precio juego 4", "Ganancia c/u",
+            "Valor stock (venta)", "Valor stock (costo)", "Fecha ingreso", "Última venta", "Link web",
+            "Notas privadas", "Prueba"]
+    filas = []
+    for p in stock["productos"]:
+        pub = publico(p) if int(p.get("cantidad", 0)) >= 0 else None
+        a = antiguedad(p.get("dot"))
+        f = dot_fecha(p.get("dot"))
+        n = int(p["cantidad"])
+        cat = categoria(p["tipo"])
+        filas.append([
+            p["id"], cat["singular"].capitalize(), "Sí" if visible(p) else "No", pub["titulo"], pub["subtitulo"],
+            p.get("marca"), p.get("modelo"), p.get("rodado"), estado_de(p), vida_de(p), p.get("mm"),
+            p.get("dot"), f[1] if f else None, a, "SÍ" if a and a > CONFIG["anios_alerta"] else "",
+            p.get("parches"), p.get("llanta_marca") or (p.get("marca") if p["tipo"] == "llanta" else None),
+            f'{p["agujeros"]}x{p["distancia"]}' if p.get("agujeros") and p.get("distancia") else None,
+            p.get("offset"), p.get("material") or p.get("llanta_material"),
+            {True: "Original", False: "Alternativa"}.get(p.get("original", p.get("llanta_original"))),
+            pub["sirve"] or None, ", ".join(pub["etiquetas"]) or None, p.get("observaciones"),
+            ingresadas.get(p["id"], n + vendidas.get(p["id"], 0)), vendidas.get(p["id"], 0), n,
+            p.get("costo"), p.get("precio_unidad"), p.get("precio_par"), p.get("precio_juego"),
+            (p["precio_unidad"] - p["costo"]) if p.get("precio_unidad") and p.get("costo") else None,
+            n * (p.get("precio_unidad") or 0), n * (p.get("costo") or 0) if p.get("costo") else None,
+            p.get("fecha_ingreso"), ultima_venta.get(p["id"]), pub["url"], p.get("notas_privadas"),
+            "PRUEBA" if p.get("prueba") else "",
+        ])
+    ws = wb.active
+    ws.title = "Stock"
+    hoja(ws, cols, filas, dinero={"Precio ingreso c/u", "Precio venta c/u", "Precio par", "Precio juego 4",
+                                  "Ganancia c/u", "Valor stock (venta)", "Valor stock (costo)"})
+    gris = PatternFill("solid", fgColor="E6E6E6")
+    for fila in ws.iter_rows(min_row=2):
+        if fila[2].value == "No":
+            for c in fila:
+                c.fill = gris
+
+    # --- Movimientos ---
+    nombres = {p["id"]: p for p in stock["productos"]}
+    filas = []
+    for m in hist:
+        p = nombres.get(m["id"])
+        cant = m.get("cantidad")
+        unit = None
+        if m.get("monto") is not None and cant:
+            unit = m["monto"] / cant
+        ganancia = None
+        if m["tipo"] == "venta" and m.get("monto") is not None and m.get("costo_unit"):
+            ganancia = m["monto"] - cant * m["costo_unit"]
+        filas.append([
+            m["fecha"], {"ingreso": "INGRESO", "venta": "SALIDA (venta)", "baja": "BAJA", "alta": "ALTA",
+                         "precio": "Cambio de precio", "edicion": "Corrección"}.get(m["tipo"], m["tipo"]),
+            m["id"], m["producto"], cant, unit, m.get("monto"), m.get("costo_unit"), ganancia, m.get("detalle"),
+            "PRUEBA" if m.get("prueba") else "",
+        ])
+    hoja(wb.create_sheet("Movimientos"),
+         ["Fecha", "Movimiento", "Código", "Producto", "Cantidad", "Precio c/u (ingreso: costo · venta: cobrado)", "Monto total",
+          "Costo c/u", "Ganancia", "Detalle", "Prueba"],
+         filas, dinero={"Precio c/u (ingreso: costo · venta: cobrado)", "Monto total", "Costo c/u", "Ganancia"})
+
+    # --- Resumen (sin productos de prueba) ---
+    reales = [p for p in stock["productos"] if visible(p) and not p.get("prueba")]
+    mes = hoy().strftime("%Y-%m")
+    ventas_mes = [m for m in hist if m["tipo"] == "venta" and m["fecha"].startswith(mes) and not m.get("prueba")]
+    viejas = [p for p in reales if p["tipo"] in ("cubierta", "rueda") and (antiguedad(p.get("dot")) or 0) > CONFIG["anios_alerta"]]
+    filas = [
+        ["Actualizado", ahora()],
+        ["Productos publicados", len(reales)],
+        ["Unidades en stock", sum(int(p["cantidad"]) for p in reales)],
+        ["Valor del stock (precio de venta)", sum(int(p["cantidad"]) * (p.get("precio_unidad") or 0) for p in reales)],
+        ["Valor del stock (precio de ingreso)", sum(int(p["cantidad"]) * (p.get("costo") or 0) for p in reales)],
+        [f"Ventas de {mes} (unidades)", sum(m["cantidad"] or 0 for m in ventas_mes)],
+        [f"Ventas de {mes} (monto)", sum(m["monto"] or 0 for m in ventas_mes)],
+        [f"Ganancia de {mes}", sum((m["monto"] or 0) - (m["cantidad"] or 0) * (m.get("costo_unit") or 0)
+                                    for m in ventas_mes if m.get("costo_unit"))],
+        [f'Cubiertas con más de {CONFIG["anios_alerta"]} años', ", ".join(p["id"] for p in viejas) or "Ninguna"],
+        ["Nota", "Los totales no incluyen productos de prueba."],
+    ]
+    r = wb.create_sheet("Resumen", 0)
+    hoja(r, ["Dato", "Valor"], filas)
+    r.column_dimensions["A"].width = 38
+    r.column_dimensions["B"].width = 28
+    for fila in r.iter_rows(min_row=2):
+        if "Valor" in fila[0].value or "monto" in fila[0].value or "Ganancia" in fila[0].value:
+            fila[1].number_format = '"$"#,##0'
+    r.freeze_panes = None
+
+    destino = destino or PLANILLA
+    try:
+        wb.save(destino)
+    except PermissionError:
+        alt = destino.with_name(destino.stem + " (nueva).xlsx")
+        wb.save(alt)
+        print(f"AVISO: la planilla estaba abierta; se guardó como {alt.name}")
+    return destino
+
+
+def cmd_excel():
     (ROOT / "exportes").mkdir(exist_ok=True)
-    ruta = ROOT / "exportes" / f"stock-{dt.datetime.now().strftime('%Y-%m-%d_%H%M')}.xlsx"
-    wb.save(ruta)
+    ruta = planilla(ROOT / "exportes" / f"stock-{dt.datetime.now().strftime('%Y-%m-%d_%H%M')}.xlsx")
+    planilla()
     print(ruta)
 
 
@@ -654,7 +776,7 @@ def main():
     elif cmd == "nuevo":
         cmd_nuevo(pos[0])
     elif cmd == "sumar":
-        cmd_sumar(pos[0], pos[1])
+        cmd_sumar(pos[0], pos[1], op)
     elif cmd == "fotos":
         procesar_fotos(pos[0], pos[1:], op.get("reemplazar"))
     elif cmd == "venta":
@@ -671,6 +793,8 @@ def main():
         build()
     elif cmd == "resumen":
         cmd_resumen(op.get("mes"))
+    elif cmd == "planilla":
+        print(planilla())
     elif cmd == "excel":
         cmd_excel()
     elif cmd == "publicar":

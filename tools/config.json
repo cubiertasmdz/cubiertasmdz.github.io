@@ -8,7 +8,29 @@
   "envios": true,
   "anios_alerta": 5,
   "categorias": [
-    {"id": "cubierta", "prefijo": "C", "nombre": "Cubiertas", "singular": "cubierta", "plural": "cubiertas", "filtro_rodado": true},
-    {"id": "llanta", "prefijo": "L", "nombre": "Llantas", "singular": "llanta", "plural": "llantas", "filtro_rodado": true}
+    {
+      "id": "cubierta",
+      "prefijo": "C",
+      "nombre": "Cubiertas",
+      "singular": "cubierta",
+      "plural": "cubiertas",
+      "filtro_rodado": true
+    },
+    {
+      "id": "llanta",
+      "prefijo": "L",
+      "nombre": "Llantas",
+      "singular": "llanta",
+      "plural": "llantas",
+      "filtro_rodado": true
+    },
+    {
+      "id": "rueda",
+      "prefijo": "R",
+      "nombre": "Ruedas completas",
+      "singular": "rueda completa",
+      "plural": "ruedas completas",
+      "filtro_rodado": true
+    }
   ]
 }
