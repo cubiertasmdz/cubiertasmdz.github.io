@@ -341,9 +341,9 @@ def pagina_compartir(p, pub):
             f'{pub["estado"]}' + (f' ({pub["vida"]}% de vida)' if pub["vida"] is not None else "") if pub["estado"] else "",
             f'{pesos(pub["precio_unidad"])} c/u' if pub["precio_unidad"] else "",
         ] if x)
-        img = base + pub["fotos"][0] if pub["fotos"] else base + "assets/og.jpg"
+        img = base + pub["fotos"][0] if pub["fotos"] else base + "assets/og-v2.jpg"
     else:
-        titulo, desc, img = CONFIG["titulo"], "Este producto ya no está disponible. Mirá el resto del stock.", base + "assets/og.jpg"
+        titulo, desc, img = CONFIG["titulo"], "Este producto ya no está disponible. Mirá el resto del stock.", base + "assets/og-v2.jpg"
     return f"""<!doctype html>
 <html lang="es"><head><meta charset="utf-8">
 <title>{esc(titulo)}</title>
@@ -362,7 +362,7 @@ def pagina_compartir(p, pub):
 
 def og_imagen():
     from PIL import Image, ImageDraw, ImageFont
-    destino = ROOT / "assets" / "og.jpg"
+    destino = ROOT / "assets" / "og-v2.jpg"
     im = Image.new("RGB", (1200, 630), "#111111")
     d = ImageDraw.Draw(im)
     big = ImageFont.truetype(str(FONTS / "BarlowCondensed-Bold.ttf"), 118)
@@ -404,7 +404,7 @@ def build(silencioso=False):
         d = carpeta / p["id"]
         d.mkdir(parents=True, exist_ok=True)
         (d / "index.html").write_text(pagina_compartir(p, pubs.get(p["id"])))
-    if not (ROOT / "assets" / "og.jpg").exists():
+    if not (ROOT / "assets" / "og-v2.jpg").exists():
         og_imagen()
     if not silencioso:
         print(f"Build OK: {len(productos)} productos visibles.")
