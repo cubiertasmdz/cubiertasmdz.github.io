@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:40",
+ "actualizado": "2026-10-15 15:41",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -254,25 +254,23 @@
   },
   {
    "id": "R006",
-   "tipo": "rueda",
-   "titulo": "4 ruedas Honda Fit R15 con cubiertas Goodyear",
-   "subtitulo": "185/60 R15 · 84H",
+   "tipo": "llanta",
+   "titulo": "Juego de 4 llantas Honda Fit R15",
+   "subtitulo": "4x100 · R15 · 185\" de ancho",
    "rodado": 15,
    "cantidad": 4,
    "cantidad_txt": "Juego de 4",
    "estado": "Buena",
-   "vida": 60,
-   "segmentos": 3,
+   "vida": null,
+   "segmentos": 4,
    "etiquetas": [
-    "Llanta Honda de aleación",
-    "4x100",
-    "Fabricadas en 2000 y 2009",
-    "Llanta original",
+    "Original",
+    "Aleación",
     "Rayones",
-    "Cubiertas de más de 10 años"
+    "Incluye cubiertas de 2000 y 2009"
    ],
    "sirve": "Honda Fit, Honda City",
-   "detalle": "Llantas originales Honda con rayones. Las cubiertas tienen buen dibujo pero son antiguas: 2 Goodyear Eagle NCT5 del 2009 y 2 Goodyear Eagle Touring NCT3 del 2000. Por su antigüedad te aconsejamos cambiarlas para circular; queda a criterio de cada cliente.",
+   "detalle": "Juego de 4 llantas originales Honda con rayones. Se entregan con cubiertas Goodyear 185/60 R15 con buen dibujo, pero antiguas: 2 del 2009 y 2 del 2000. Por su antigüedad te aconsejamos cambiarlas para circular; queda a criterio de cada cliente.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -284,12 +282,12 @@
     "fotos/r006-6.jpg"
    ],
    "claves": [
-    "1856015",
+    "15",
     "4100",
     "154100"
    ],
-   "texto": "4 ruedas honda fit r15 con cubiertas goodyear 185/60 r15 · 84h honda fit, honda city llanta honda de aleación 4x100 fabricadas en 2000 y 2009 llanta original rayones cubiertas de más de 10 años",
-   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Honda Fit R15 y cubiertas Goodyear 185/60 R15 que vi en el catálogo (cód. R006).\nhttps://cubiertasmdz.github.io/p/R006/",
+   "texto": "juego de 4 llantas honda fit r15 4x100 · r15 · 185\" de ancho honda fit, honda city original aleación rayones incluye cubiertas de 2000 y 2009",
+   "wa": "Hola, quería consultar por el juego de 4 llantas Honda Fit R15 (vienen con cubiertas Goodyear 185/60 R15) que vi en el catálogo (cód. R006).\nhttps://cubiertasmdz.github.io/p/R006/",
    "url": "https://cubiertasmdz.github.io/p/R006/"
   },
   {
