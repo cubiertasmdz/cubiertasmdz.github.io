@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:58",
+ "actualizado": "2026-10-15 15:59",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -641,6 +641,44 @@
    "texto": "4 ruedas fiat r16 205/55 205/55 r16 fiat linea, punto, idea llanta fiat de aleación 4x98 llanta original rayones cubiertas de distintas marcas",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Fiat R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R014).\nhttps://cubiertasmdz.github.io/p/R014/",
    "url": "https://cubiertasmdz.github.io/p/R014/"
+  },
+  {
+   "id": "R015",
+   "tipo": "rueda",
+   "titulo": "2 ruedas VW R16 con Pirelli",
+   "subtitulo": "205/55 R16 · 94W",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Volkswagen de aleación",
+    "5x112",
+    "Fabricada en 2019",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Golf, Vento",
+   "detalle": "Par de llantas originales Volkswagen rodado 16 con rayones, con cubiertas Pirelli Cinturato P7 205/55 R16 del 2019.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r015-1.jpg",
+    "fotos/r015-2.jpg",
+    "fotos/r015-3.jpg",
+    "fotos/r015-4.jpg",
+    "fotos/r015-5.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "5112",
+    "165112"
+   ],
+   "texto": "2 ruedas vw r16 con pirelli 205/55 r16 · 94w vw golf, vento llanta volkswagen de aleación 5x112 fabricada en 2019 llanta original rayones",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas VW R16 y cubiertas Pirelli 205/55 R16 que vi en el catálogo (cód. R015).\nhttps://cubiertasmdz.github.io/p/R015/",
+   "url": "https://cubiertasmdz.github.io/p/R015/"
   },
   {
    "id": "C001",
