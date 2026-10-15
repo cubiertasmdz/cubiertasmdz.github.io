@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:43",
+ "actualizado": "2026-10-15 15:46",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -328,6 +328,41 @@
    "texto": "4 ruedas chevrolet r17 con dunlop 235/55 r17 · 99v  llanta chevrolet de aleación fabricadas en 2018 y 2019 sin parches llanta original 5 agujeros rayones",
    "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Chevrolet R17 y cubiertas Dunlop 235/55 R17 que vi en el catálogo (cód. R007).\nhttps://cubiertasmdz.github.io/p/R007/",
    "url": "https://cubiertasmdz.github.io/p/R007/"
+  },
+  {
+   "id": "L003",
+   "tipo": "llanta",
+   "titulo": "Juego de 4 llantas Toyota R15",
+   "subtitulo": "4x100 · R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Cordoneadas",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Toyota Yaris, Etios",
+   "detalle": "Juego completo de 4 llantas originales Toyota con detalles de cordoneadas. Se venden solo las llantas: las cubiertas que se ven en las fotos están dañadas y NO se venden.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l003-1.jpg",
+    "fotos/l003-2.jpg",
+    "fotos/l003-3.jpg"
+   ],
+   "claves": [
+    "15",
+    "4100",
+    "154100"
+   ],
+   "texto": "juego de 4 llantas toyota r15 4x100 · r15 toyota yaris, etios original aleación cordoneadas se vende sin cubierta",
+   "wa": "Hola, quería consultar por el juego de 4 llantas Toyota R15 que vi en el catálogo (cód. L003).\nhttps://cubiertasmdz.github.io/p/L003/",
+   "url": "https://cubiertasmdz.github.io/p/L003/"
   },
   {
    "id": "C001",
