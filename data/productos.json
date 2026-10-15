@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:27",
+ "actualizado": "2026-10-15 15:30",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -176,6 +176,42 @@
    "texto": "2 llantas toyota r16 con cubiertas 205/55 r16 toyota corolla (2008 en adelante) llanta toyota de aleación 5x114.3 fabricadas en 2017 y 2020 llanta original rayones leves",
    "wa": "Hola, quería consultar por las 2 ruedas completas con llanta Toyota R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R003).\nhttps://cubiertasmdz.github.io/p/R003/",
    "url": "https://cubiertasmdz.github.io/p/R003/"
+  },
+  {
+   "id": "R004",
+   "tipo": "rueda",
+   "titulo": "2 llantas Fiat R14 + 1 Pirelli",
+   "subtitulo": "175/65 R14 · 82T",
+   "rodado": 14,
+   "cantidad": 2,
+   "cantidad_txt": "2 llantas + 1 cubierta",
+   "estado": "Muy buena",
+   "vida": 80,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Fiat de aleación",
+    "4x98",
+    "Llanta original",
+    "Cordoneadas",
+    "Rayones"
+   ],
+   "sirve": "Fiat Mobi, Uno, Palio, Siena, Argo, Cronos",
+   "detalle": "Son 2 llantas originales Fiat rodado 14. Se vende con 1 cubierta Pirelli 175/65 R14 en buen estado; la otra cubierta tiene un corte en el costado y no se comercializa.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r004-1.jpg",
+    "fotos/r004-2.jpg",
+    "fotos/r004-3.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "498",
+    "14498"
+   ],
+   "texto": "2 llantas fiat r14 + 1 pirelli 175/65 r14 · 82t fiat mobi, uno, palio, siena, argo, cronos llanta fiat de aleación 4x98 llanta original cordoneadas rayones",
+   "wa": "Hola, quería consultar por las 2 llantas Fiat R14 con 1 cubierta Pirelli 175/65 R14 que vi en el catálogo (cód. R004).\nhttps://cubiertasmdz.github.io/p/R004/",
+   "url": "https://cubiertasmdz.github.io/p/R004/"
   },
   {
    "id": "C001",
