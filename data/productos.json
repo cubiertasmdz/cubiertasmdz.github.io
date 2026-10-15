@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15 15:41",
+ "actualizado": "2026-10-15 15:43",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -289,6 +289,45 @@
    "texto": "juego de 4 llantas honda fit r15 4x100 · r15 honda fit, honda city original aleación rayones incluye cubiertas de 2000 y 2009",
    "wa": "Hola, quería consultar por el juego de 4 llantas Honda Fit R15 (vienen con cubiertas Goodyear 185/60 R15) que vi en el catálogo (cód. R006).\nhttps://cubiertasmdz.github.io/p/R006/",
    "url": "https://cubiertasmdz.github.io/p/R006/"
+  },
+  {
+   "id": "R007",
+   "tipo": "rueda",
+   "titulo": "4 ruedas Chevrolet R17 con Dunlop",
+   "subtitulo": "235/55 R17 · 99V",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Chevrolet de aleación",
+    "Fabricadas en 2018 y 2019",
+    "Sin parches",
+    "Llanta original",
+    "5 agujeros",
+    "Rayones"
+   ],
+   "sirve": "",
+   "detalle": "Juego completo de 4 llantas Chevrolet rodado 17 con rayones, con cubiertas Dunlop SP Sport LM704 235/55 R17 en muy buen estado.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r007-1.jpg",
+    "fotos/r007-2.jpg",
+    "fotos/r007-3.jpg",
+    "fotos/r007-4.jpg",
+    "fotos/r007-5.jpg",
+    "fotos/r007-6.jpg",
+    "fotos/r007-7.jpg"
+   ],
+   "claves": [
+    "2355517"
+   ],
+   "texto": "4 ruedas chevrolet r17 con dunlop 235/55 r17 · 99v  llanta chevrolet de aleación fabricadas en 2018 y 2019 sin parches llanta original 5 agujeros rayones",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Chevrolet R17 y cubiertas Dunlop 235/55 R17 que vi en el catálogo (cód. R007).\nhttps://cubiertasmdz.github.io/p/R007/",
+   "url": "https://cubiertasmdz.github.io/p/R007/"
   },
   {
    "id": "C001",
