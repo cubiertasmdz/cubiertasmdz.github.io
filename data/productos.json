@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 16:54",
+ "actualizado": "2026-10-16 17:00",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -36,6 +36,41 @@
   }
  ],
  "productos": [
+  {
+   "id": "C003",
+   "tipo": "cubierta",
+   "titulo": "Firemax FM316",
+   "subtitulo": "205/60 R16 · 92H",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 90,
+   "segmentos": 4,
+   "etiquetas": [
+    "Fabricada en 2023"
+   ],
+   "sirve": "",
+   "detalle": "Cubierta suelta con el dibujo casi nuevo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c003-1.jpg",
+    "fotos/c003-2.jpg",
+    "fotos/c003-3.jpg"
+   ],
+   "claves": [
+    "2056016"
+   ],
+   "texto": "firemax fm316 205/60 r16 · 92h  fabricada en 2023",
+   "wa": "Hola, quería consultar por la cubierta Firemax 205/60 R16 que vi en el catálogo (cód. C003).\nhttps://cubiertasmdz.github.io/p/C003/",
+   "url": "https://cubiertasmdz.github.io/p/C003/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Firemax"
+   ],
+   "medida_cubierta": "205/60 R16"
+  },
   {
    "id": "R001",
    "tipo": "rueda",
