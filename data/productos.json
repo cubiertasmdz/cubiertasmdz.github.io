@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:08",
+ "actualizado": "2026-10-16 18:09",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1134,6 +1134,42 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/65 R17"
+  },
+  {
+   "id": "C035",
+   "tipo": "cubierta",
+   "titulo": "Pirelli Scorpion ATR",
+   "subtitulo": "245/70 R16 · 111T",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 45,
+   "segmentos": 2,
+   "etiquetas": [
+    "Para camioneta / SUV",
+    "Uso mixto (asfalto y ripio)"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c035-1.jpg",
+    "fotos/c035-2.jpg",
+    "fotos/c035-3.jpg"
+   ],
+   "claves": [
+    "2457016"
+   ],
+   "texto": "pirelli scorpion atr 245/70 r16 · 111t  para camioneta / suv uso mixto (asfalto y ripio)",
+   "wa": "Hola, quería consultar por la cubierta Pirelli 245/70 R16 que vi en el catálogo (cód. C035).\nhttps://cubiertasmdz.github.io/p/C035/",
+   "url": "https://cubiertasmdz.github.io/p/C035/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "245/70 R16"
   },
   {
    "id": "R001",
