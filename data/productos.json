@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:09",
+ "actualizado": "2026-10-16 18:10",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1205,6 +1205,41 @@
    "marcas_llanta": [],
    "marcas_cubierta": [
     "Michelin"
+   ],
+   "medida_cubierta": "245/70 R16"
+  },
+  {
+   "id": "C037",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Dueler A/T Revo 2",
+   "subtitulo": "245/70 R16 · 111T",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Para camioneta / SUV",
+    "Uso mixto (asfalto y ripio)"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c037-1.jpg",
+    "fotos/c037-2.jpg"
+   ],
+   "claves": [
+    "2457016"
+   ],
+   "texto": "bridgestone dueler a/t revo 2 245/70 r16 · 111t  para camioneta / suv uso mixto (asfalto y ripio)",
+   "wa": "Hola, quería consultar por la cubierta Bridgestone 245/70 R16 que vi en el catálogo (cód. C037).\nhttps://cubiertasmdz.github.io/p/C037/",
+   "url": "https://cubiertasmdz.github.io/p/C037/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
    ],
    "medida_cubierta": "245/70 R16"
   },
