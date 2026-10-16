@@ -308,6 +308,42 @@
    "medida_cubierta": "225/40 R18"
   },
   {
+   "id": "C011",
+   "tipo": "cubierta",
+   "titulo": "Continental ContiSportContact 3",
+   "subtitulo": "245/40 R18 · 97Y",
+   "rodado": 18,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Homologada Audi (AO)"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c011-1.jpg",
+    "fotos/c011-2.jpg",
+    "fotos/c011-3.jpg",
+    "fotos/c011-4.jpg"
+   ],
+   "claves": [
+    "2454018"
+   ],
+   "texto": "continental contisportcontact 3 245/40 r18 · 97y  homologada audi (ao)",
+   "wa": "Hola, quería consultar por las 2 cubiertas Continental 245/40 R18 que vi en el catálogo (cód. C011).\nhttps://cubiertasmdz.github.io/p/C011/",
+   "url": "https://cubiertasmdz.github.io/p/C011/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "245/40 R18"
+  },
+  {
    "id": "R001",
    "tipo": "rueda",
    "titulo": "Triangle AdvanteX TC101",
