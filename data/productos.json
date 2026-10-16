@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:13",
+ "actualizado": "2026-10-16 18:14",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1315,6 +1315,41 @@
     "Continental"
    ],
    "medida_cubierta": "245/65 R17"
+  },
+  {
+   "id": "C040",
+   "tipo": "cubierta",
+   "titulo": "Michelin LTX A/S",
+   "subtitulo": "265/65 R17 · 112T",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Para camioneta / SUV"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c040-1.jpg",
+    "fotos/c040-2.jpg",
+    "fotos/c040-3.jpg"
+   ],
+   "claves": [
+    "2656517"
+   ],
+   "texto": "michelin ltx a/s 265/65 r17 · 112t  para camioneta / suv",
+   "wa": "Hola, quería consultar por la cubierta Michelin 265/65 R17 que vi en el catálogo (cód. C040).\nhttps://cubiertasmdz.github.io/p/C040/",
+   "url": "https://cubiertasmdz.github.io/p/C040/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "265/65 R17"
   },
   {
    "id": "R001",
