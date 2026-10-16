@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:14",
+ "actualizado": "2026-10-16 18:15",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1106,10 +1106,10 @@
    "titulo": "Bridgestone Dueler H/P Sport AS",
    "subtitulo": "225/65 R17 · 102T",
    "rodado": 17,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
+   "cantidad": 2,
+   "cantidad_txt": "Par",
    "estado": "Muy buena",
-   "vida": 75,
+   "vida": 70,
    "segmentos": 4,
    "etiquetas": [
     "Para camioneta / SUV"
@@ -1121,13 +1121,16 @@
    "fotos": [
     "fotos/c034-1.jpg",
     "fotos/c034-2.jpg",
-    "fotos/c034-3.jpg"
+    "fotos/c034-3.jpg",
+    "fotos/c034-4.jpg",
+    "fotos/c034-5.jpg",
+    "fotos/c034-6.jpg"
    ],
    "claves": [
     "2256517"
    ],
    "texto": "bridgestone dueler h/p sport as 225/65 r17 · 102t  para camioneta / suv",
-   "wa": "Hola, quería consultar por la cubierta Bridgestone 225/65 R17 que vi en el catálogo (cód. C034).\nhttps://cubiertasmdz.github.io/p/C034/",
+   "wa": "Hola, quería consultar por las 2 cubiertas Bridgestone 225/65 R17 que vi en el catálogo (cód. C034).\nhttps://cubiertasmdz.github.io/p/C034/",
    "url": "https://cubiertasmdz.github.io/p/C034/",
    "marcas_llanta": [],
    "marcas_cubierta": [
