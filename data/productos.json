@@ -1172,6 +1172,43 @@
    "medida_cubierta": "245/70 R16"
   },
   {
+   "id": "C036",
+   "tipo": "cubierta",
+   "titulo": "Michelin LTX Force",
+   "subtitulo": "245/70 R16 · 111T",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 90,
+   "segmentos": 4,
+   "etiquetas": [
+    "Para camioneta / SUV",
+    "Uso mixto (asfalto y ripio)",
+    "Reforzada (XL)"
+   ],
+   "sirve": "",
+   "detalle": "Dibujo casi nuevo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c036-1.jpg",
+    "fotos/c036-2.jpg",
+    "fotos/c036-3.jpg"
+   ],
+   "claves": [
+    "2457016"
+   ],
+   "texto": "michelin ltx force 245/70 r16 · 111t  para camioneta / suv uso mixto (asfalto y ripio) reforzada (xl)",
+   "wa": "Hola, quería consultar por la cubierta Michelin 245/70 R16 que vi en el catálogo (cód. C036).\nhttps://cubiertasmdz.github.io/p/C036/",
+   "url": "https://cubiertasmdz.github.io/p/C036/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "245/70 R16"
+  },
+  {
    "id": "R001",
    "tipo": "rueda",
    "titulo": "Triangle AdvanteX TC101",
