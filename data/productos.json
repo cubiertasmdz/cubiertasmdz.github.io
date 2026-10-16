@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:03",
+ "actualizado": "2026-10-16 18:04",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -954,6 +954,41 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/60 R16"
+  },
+  {
+   "id": "C030",
+   "tipo": "cubierta",
+   "titulo": "Triangle Sapphire TR257",
+   "subtitulo": "235/60 R18 · 103V",
+   "rodado": 18,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Para camioneta / SUV"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c030-1.jpg",
+    "fotos/c030-2.jpg",
+    "fotos/c030-3.jpg"
+   ],
+   "claves": [
+    "2356018"
+   ],
+   "texto": "triangle sapphire tr257 235/60 r18 · 103v  para camioneta / suv",
+   "wa": "Hola, quería consultar por la cubierta Triangle 235/60 R18 que vi en el catálogo (cód. C030).\nhttps://cubiertasmdz.github.io/p/C030/",
+   "url": "https://cubiertasmdz.github.io/p/C030/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Triangle"
+   ],
+   "medida_cubierta": "235/60 R18"
   },
   {
    "id": "R001",
