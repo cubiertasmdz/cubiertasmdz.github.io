@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:08",
+ "actualizado": "2026-10-16 17:10",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -206,6 +206,39 @@
     "Yokohama"
    ],
    "medida_cubierta": "205/55 R17"
+  },
+  {
+   "id": "C008",
+   "tipo": "cubierta",
+   "titulo": "Toyo Versado LX II",
+   "subtitulo": "215/60 R17 · 96H",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c008-1.jpg",
+    "fotos/c008-2.jpg",
+    "fotos/c008-3.jpg"
+   ],
+   "claves": [
+    "2156017"
+   ],
+   "texto": "toyo versado lx ii 215/60 r17 · 96h  ",
+   "wa": "Hola, quería consultar por la cubierta Toyo 215/60 R17 que vi en el catálogo (cód. C008).\nhttps://cubiertasmdz.github.io/p/C008/",
+   "url": "https://cubiertasmdz.github.io/p/C008/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Toyo"
+   ],
+   "medida_cubierta": "215/60 R17"
   },
   {
    "id": "R001",
