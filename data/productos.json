@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:05",
+ "actualizado": "2026-10-16 17:06",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -136,6 +136,39 @@
    "marcas_llanta": [],
    "marcas_cubierta": [
     "Pirelli"
+   ],
+   "medida_cubierta": "205/55 R17"
+  },
+  {
+   "id": "C006",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Turanza T005",
+   "subtitulo": "205/55 R17 · 91V",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c006-1.jpg",
+    "fotos/c006-2.jpg",
+    "fotos/c006-3.jpg"
+   ],
+   "claves": [
+    "2055517"
+   ],
+   "texto": "bridgestone turanza t005 205/55 r17 · 91v  ",
+   "wa": "Hola, quería consultar por la cubierta Bridgestone 205/55 R17 que vi en el catálogo (cód. C006).\nhttps://cubiertasmdz.github.io/p/C006/",
+   "url": "https://cubiertasmdz.github.io/p/C006/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
    ],
    "medida_cubierta": "205/55 R17"
   },
