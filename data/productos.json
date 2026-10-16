@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:38",
+ "actualizado": "2026-10-16 17:39",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -713,6 +713,38 @@
     "Pirelli"
    ],
    "medida_cubierta": "215/50 R17"
+  },
+  {
+   "id": "C023",
+   "tipo": "cubierta",
+   "titulo": "Michelin Primacy 3",
+   "subtitulo": "205/55 R16 · 91V",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c023-1.jpg",
+    "fotos/c023-2.jpg"
+   ],
+   "claves": [
+    "2055516"
+   ],
+   "texto": "michelin primacy 3 205/55 r16 · 91v  ",
+   "wa": "Hola, quería consultar por la cubierta Michelin 205/55 R16 que vi en el catálogo (cód. C023).\nhttps://cubiertasmdz.github.io/p/C023/",
+   "url": "https://cubiertasmdz.github.io/p/C023/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "205/55 R16"
   },
   {
    "id": "R001",
