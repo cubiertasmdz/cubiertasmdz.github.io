@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:29",
+ "actualizado": "2026-10-16 17:31",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -578,6 +578,42 @@
     "Westlake"
    ],
    "medida_cubierta": "225/45 R17"
+  },
+  {
+   "id": "C019",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Turanza ER300",
+   "subtitulo": "185/55 R16 · 83V",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Fabricada en 2015",
+    "Cubierta de más de 10 años"
+   ],
+   "sirve": "",
+   "detalle": "Tiene buen dibujo pero es del 2015: por su antigüedad te aconsejamos usarla de auxilio o cambiarla para circular; queda a criterio de cada cliente.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c019-1.jpg",
+    "fotos/c019-2.jpg",
+    "fotos/c019-3.jpg"
+   ],
+   "claves": [
+    "1855516"
+   ],
+   "texto": "bridgestone turanza er300 185/55 r16 · 83v  fabricada en 2015 cubierta de más de 10 años",
+   "wa": "Hola, quería consultar por la cubierta Bridgestone 185/55 R16 que vi en el catálogo (cód. C019).\nhttps://cubiertasmdz.github.io/p/C019/",
+   "url": "https://cubiertasmdz.github.io/p/C019/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "185/55 R16"
   },
   {
    "id": "R001",
