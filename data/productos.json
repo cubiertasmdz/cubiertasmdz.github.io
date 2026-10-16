@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:23",
+ "actualizado": "2026-10-16 17:27",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -512,6 +512,39 @@
     "Fate"
    ],
    "medida_cubierta": "235/60 R16"
+  },
+  {
+   "id": "C017",
+   "tipo": "cubierta",
+   "titulo": "Dunlop SP Sport Maxx",
+   "subtitulo": "225/45 R17 · 91W",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c017-1.jpg",
+    "fotos/c017-2.jpg",
+    "fotos/c017-3.jpg"
+   ],
+   "claves": [
+    "2254517"
+   ],
+   "texto": "dunlop sp sport maxx 225/45 r17 · 91w  ",
+   "wa": "Hola, quería consultar por la cubierta Dunlop 225/45 R17 que vi en el catálogo (cód. C017).\nhttps://cubiertasmdz.github.io/p/C017/",
+   "url": "https://cubiertasmdz.github.io/p/C017/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "225/45 R17"
   },
   {
    "id": "R001",
