@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:05",
+ "actualizado": "2026-10-16 18:06",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1024,6 +1024,44 @@
     "Continental"
    ],
    "medida_cubierta": "245/70 R16"
+  },
+  {
+   "id": "C032",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Dueler H/P Sport",
+   "subtitulo": "225/55 R18",
+   "rodado": 18,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Para camioneta / SUV"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c032-1.jpg",
+    "fotos/c032-2.jpg",
+    "fotos/c032-3.jpg",
+    "fotos/c032-4.jpg",
+    "fotos/c032-5.jpg",
+    "fotos/c032-6.jpg"
+   ],
+   "claves": [
+    "2255518"
+   ],
+   "texto": "bridgestone dueler h/p sport 225/55 r18  para camioneta / suv",
+   "wa": "Hola, quería consultar por las 2 cubiertas Bridgestone 225/55 R18 que vi en el catálogo (cód. C032).\nhttps://cubiertasmdz.github.io/p/C032/",
+   "url": "https://cubiertasmdz.github.io/p/C032/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "225/55 R18"
   },
   {
    "id": "R001",
