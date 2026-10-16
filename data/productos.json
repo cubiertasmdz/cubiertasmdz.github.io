@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:39",
+ "actualizado": "2026-10-16 17:41",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -745,6 +745,41 @@
     "Michelin"
    ],
    "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "C024",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Turanza ER37",
+   "subtitulo": "215/55 R17 · 94V",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Fabricada en 2018"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c024-1.jpg",
+    "fotos/c024-2.jpg",
+    "fotos/c024-3.jpg"
+   ],
+   "claves": [
+    "2155517"
+   ],
+   "texto": "bridgestone turanza er37 215/55 r17 · 94v  fabricada en 2018",
+   "wa": "Hola, quería consultar por la cubierta Bridgestone 215/55 R17 que vi en el catálogo (cód. C024).\nhttps://cubiertasmdz.github.io/p/C024/",
+   "url": "https://cubiertasmdz.github.io/p/C024/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "215/55 R17"
   },
   {
    "id": "R001",
