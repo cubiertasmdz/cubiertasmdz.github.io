@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:00",
+ "actualizado": "2026-10-16 17:02",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -68,6 +68,41 @@
    "marcas_llanta": [],
    "marcas_cubierta": [
     "Firemax"
+   ],
+   "medida_cubierta": "205/60 R16"
+  },
+  {
+   "id": "C004",
+   "tipo": "cubierta",
+   "titulo": "Pirelli Scorpion ATR",
+   "subtitulo": "205/60 R16 · 92H",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Uso mixto (asfalto y ripio)"
+   ],
+   "sirve": "",
+   "detalle": "Cubierta suelta de dibujo mixto, ideal para asfalto y ripio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c004-1.jpg",
+    "fotos/c004-2.jpg",
+    "fotos/c004-3.jpg"
+   ],
+   "claves": [
+    "2056016"
+   ],
+   "texto": "pirelli scorpion atr 205/60 r16 · 92h  uso mixto (asfalto y ripio)",
+   "wa": "Hola, quería consultar por la cubierta Pirelli 205/60 R16 que vi en el catálogo (cód. C004).\nhttps://cubiertasmdz.github.io/p/C004/",
+   "url": "https://cubiertasmdz.github.io/p/C004/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
    ],
    "medida_cubierta": "205/60 R16"
   },
