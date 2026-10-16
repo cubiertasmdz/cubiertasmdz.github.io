@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:02",
+ "actualizado": "2026-10-16 17:04",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -105,6 +105,38 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16"
+  },
+  {
+   "id": "C005",
+   "tipo": "cubierta",
+   "titulo": "Pirelli Cinturato P7",
+   "subtitulo": "205/55 R17 · 91V",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c005-1.jpg",
+    "fotos/c005-2.jpg"
+   ],
+   "claves": [
+    "2055517"
+   ],
+   "texto": "pirelli cinturato p7 205/55 r17 · 91v  ",
+   "wa": "Hola, quería consultar por la cubierta Pirelli 205/55 R17 que vi en el catálogo (cód. C005).\nhttps://cubiertasmdz.github.io/p/C005/",
+   "url": "https://cubiertasmdz.github.io/p/C005/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "205/55 R17"
   },
   {
    "id": "R001",
