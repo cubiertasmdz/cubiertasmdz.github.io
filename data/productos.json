@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:37",
+ "actualizado": "2026-10-16 17:38",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -680,6 +680,39 @@
     "Yokohama"
    ],
    "medida_cubierta": "195/50 R16"
+  },
+  {
+   "id": "C022",
+   "tipo": "cubierta",
+   "titulo": "Pirelli Cinturato P7",
+   "subtitulo": "215/50 R17 · 91V",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c022-1.jpg",
+    "fotos/c022-2.jpg",
+    "fotos/c022-3.jpg"
+   ],
+   "claves": [
+    "2155017"
+   ],
+   "texto": "pirelli cinturato p7 215/50 r17 · 91v  ",
+   "wa": "Hola, quería consultar por la cubierta Pirelli 215/50 R17 que vi en el catálogo (cód. C022).\nhttps://cubiertasmdz.github.io/p/C022/",
+   "url": "https://cubiertasmdz.github.io/p/C022/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "215/50 R17"
   },
   {
    "id": "R001",
