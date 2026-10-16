@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:11",
+ "actualizado": "2026-10-16 17:12",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -272,6 +272,38 @@
    "marcas_llanta": [],
    "marcas_cubierta": [
     "Fate"
+   ],
+   "medida_cubierta": "225/40 R18"
+  },
+  {
+   "id": "C010",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Turanza",
+   "subtitulo": "225/40 R18",
+   "rodado": 18,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Lote de 3 cubiertas iguales.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c010-1.jpg",
+    "fotos/c010-2.jpg"
+   ],
+   "claves": [
+    "2254018"
+   ],
+   "texto": "bridgestone turanza 225/40 r18  ",
+   "wa": "Hola, quería consultar por las 3 cubiertas Bridgestone 225/40 R18 que vi en el catálogo (cód. C010).\nhttps://cubiertasmdz.github.io/p/C010/",
+   "url": "https://cubiertasmdz.github.io/p/C010/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
    ],
    "medida_cubierta": "225/40 R18"
   },
