@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:41",
+ "actualizado": "2026-10-16 17:43",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -780,6 +780,41 @@
     "Bridgestone"
    ],
    "medida_cubierta": "215/55 R17"
+  },
+  {
+   "id": "C025",
+   "tipo": "cubierta",
+   "titulo": "Continental EcoContact 6",
+   "subtitulo": "165/70 R14 · 85T",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 80,
+   "segmentos": 4,
+   "etiquetas": [
+    "Reforzada (XL)"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c025-1.jpg",
+    "fotos/c025-2.jpg",
+    "fotos/c025-3.jpg"
+   ],
+   "claves": [
+    "1657014"
+   ],
+   "texto": "continental ecocontact 6 165/70 r14 · 85t  reforzada (xl)",
+   "wa": "Hola, quería consultar por la cubierta Continental 165/70 R14 que vi en el catálogo (cód. C025).\nhttps://cubiertasmdz.github.io/p/C025/",
+   "url": "https://cubiertasmdz.github.io/p/C025/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "165/70 R14"
   },
   {
    "id": "R001",
