@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:19",
+ "actualizado": "2026-10-16 18:20",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1398,6 +1398,50 @@
     "Kumho"
    ],
    "medida_cubierta": "215/65 R16"
+  },
+  {
+   "id": "R020",
+   "tipo": "rueda",
+   "titulo": "4 llantas VW R15 + 2 Hankook",
+   "subtitulo": "195/55 R15 · 85V",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 2 cubiertas",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Volkswagen de aleación",
+    "5x100",
+    "Fabricada en 2019",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Polo, Virtus",
+   "detalle": "Juego de 4 llantas originales Volkswagen rodado 15 con rayones. Dos vienen con cubiertas Hankook Ventus V2 Concept 2 195/55 R15 del 2019; las otras dos se entregan sin cubierta.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r020-1.jpg",
+    "fotos/r020-2.jpg",
+    "fotos/r020-3.jpg",
+    "fotos/r020-4.jpg"
+   ],
+   "claves": [
+    "1955515",
+    "5100",
+    "155100"
+   ],
+   "texto": "4 llantas vw r15 + 2 hankook 195/55 r15 · 85v vw polo, virtus llanta volkswagen de aleación 5x100 fabricada en 2019 llanta original rayones",
+   "wa": "Hola, quería consultar por las 4 llantas VW R15 con 2 cubiertas Hankook 195/55 R15 que vi en el catálogo (cód. R020).\nhttps://cubiertasmdz.github.io/p/R020/",
+   "url": "https://cubiertasmdz.github.io/p/R020/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Hankook"
+   ],
+   "medida_cubierta": "195/55 R15"
   },
   {
    "id": "R001",
