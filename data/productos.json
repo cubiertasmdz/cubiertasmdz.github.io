@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:12",
+ "actualizado": "2026-10-16 17:15",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -342,6 +342,41 @@
     "Continental"
    ],
    "medida_cubierta": "245/40 R18"
+  },
+  {
+   "id": "C012",
+   "tipo": "cubierta",
+   "titulo": "Michelin Agilis",
+   "subtitulo": "205/75 R16 · 110/108R",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Reforzada para utilitario (C)"
+   ],
+   "sirve": "",
+   "detalle": "Cubierta reforzada para utilitarios y camionetas de carga (Sprinter, Ducato, Master, Boxer y similares).",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c012-1.jpg",
+    "fotos/c012-2.jpg",
+    "fotos/c012-3.jpg"
+   ],
+   "claves": [
+    "2057516"
+   ],
+   "texto": "michelin agilis 205/75 r16 · 110/108r  reforzada para utilitario (c)",
+   "wa": "Hola, quería consultar por la cubierta Michelin 205/75 R16 que vi en el catálogo (cód. C012).\nhttps://cubiertasmdz.github.io/p/C012/",
+   "url": "https://cubiertasmdz.github.io/p/C012/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "205/75 R16"
   },
   {
    "id": "R001",
