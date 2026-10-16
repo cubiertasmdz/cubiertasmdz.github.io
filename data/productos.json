@@ -817,6 +817,39 @@
    "medida_cubierta": "165/70 R14"
   },
   {
+   "id": "C026",
+   "tipo": "cubierta",
+   "titulo": "Goodyear Assurance",
+   "subtitulo": "195/60 R16 · 89T",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c026-1.jpg",
+    "fotos/c026-2.jpg",
+    "fotos/c026-3.jpg"
+   ],
+   "claves": [
+    "1956016"
+   ],
+   "texto": "goodyear assurance 195/60 r16 · 89t  ",
+   "wa": "Hola, quería consultar por la cubierta Goodyear 195/60 R16 que vi en el catálogo (cód. C026).\nhttps://cubiertasmdz.github.io/p/C026/",
+   "url": "https://cubiertasmdz.github.io/p/C026/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "195/60 R16"
+  },
+  {
    "id": "R001",
    "tipo": "rueda",
    "titulo": "Triangle AdvanteX TC101",
