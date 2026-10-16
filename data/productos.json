@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:04",
+ "actualizado": "2026-10-16 17:05",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -123,8 +123,9 @@
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
+    "fotos/c005-1.jpg",
     "fotos/c005-2.jpg",
-    "fotos/c005-1.jpg"
+    "fotos/c005-3.jpg"
    ],
    "claves": [
     "2055517"
