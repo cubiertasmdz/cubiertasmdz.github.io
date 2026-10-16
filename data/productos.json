@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:20",
+ "actualizado": "2026-10-16 18:21",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1442,6 +1442,48 @@
     "Hankook"
    ],
    "medida_cubierta": "195/55 R15"
+  },
+  {
+   "id": "R021",
+   "tipo": "rueda",
+   "titulo": "3 ruedas VW R15 con Goodyear",
+   "subtitulo": "195/65 R15",
+   "rodado": 15,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Regular",
+   "vida": 35,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Volkswagen de aleación",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Gol Trend, Voyage, Fox, Suran, Saveiro",
+   "detalle": "3 llantas originales Volkswagen rodado 15 con rayones, con cubiertas Goodyear EfficientGrip 195/65 R15 con desgaste avanzado.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r021-1.jpg",
+    "fotos/r021-2.jpg",
+    "fotos/r021-3.jpg"
+   ],
+   "claves": [
+    "1956515",
+    "4100",
+    "154100"
+   ],
+   "texto": "3 ruedas vw r15 con goodyear 195/65 r15 vw gol trend, voyage, fox, suran, saveiro llanta volkswagen de aleación 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por las 3 ruedas completas con llantas VW R15 y cubiertas Goodyear 195/65 R15 que vi en el catálogo (cód. R021).\nhttps://cubiertasmdz.github.io/p/R021/",
+   "url": "https://cubiertasmdz.github.io/p/R021/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "195/65 R15"
   },
   {
    "id": "R001",
