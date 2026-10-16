@@ -91,9 +91,9 @@
 
   function tarjeta(p) {
     const fotos = p.fotos.length
-      ? `<div class="fotos">${p.fotos.map((f, i) => `<img src="${esc(f)}" alt="${esc(p.titulo + " " + p.subtitulo)} — foto ${i + 1}" loading="${i === 0 ? "lazy" : "lazy"}" decoding="async">`).join("")}</div>
+      ? `<div class="fotos">${p.fotos.map((f, i) => `<img src="${esc(f)}" alt="${esc(p.titulo + " " + p.subtitulo)} — foto ${i + 1}" loading="lazy" decoding="async" onload="this.classList.add('cargada')">`).join("")}</div>
          ${p.fotos.length > 1 ? `<span class="contador">1/${p.fotos.length}</span>
-         <button class="flecha izq" aria-label="Foto anterior">‹</button><button class="flecha der" aria-label="Foto siguiente">›</button>` : ""}`
+         <button class="flecha izq" aria-label="Foto anterior"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="flecha der" aria-label="Foto siguiente"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>` : ""}`
       : `<div class="sin-foto">${RUEDA}<span>Foto a confirmar</span></div>`;
 
     const clase = (p.estado || "").toLowerCase().replace(/\s+/g, "-");
@@ -210,7 +210,7 @@
     e.preventDefault();
     estado.q = $("#q").value; estado.solo = null; autoTab(); render();
     $("#q").blur();
-    $("#barra").scrollIntoView({ behavior: "smooth" });
+    $("#barra").scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
   });
 
   // si la búsqueda no da nada en la pestaña actual pero sí en otra, cambia de pestaña

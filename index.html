@@ -15,14 +15,17 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?v=7">
+<link rel="stylesheet" href="assets/style.css?v=8">
 </head>
 <body>
 <header class="top">
   <div class="wrap">
-    <p class="loc"><span class="dot" aria-hidden="true"></span>Mendoza · Hacemos envíos</p>
     <h1>Cubiertas y llantas usadas</h1>
     <p class="claim">revisadas y con precio</p>
+    <p class="loc">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M3 6.5h11v9H3zM14 9.5h4l3 3v3h-7z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="7" cy="17.5" r="1.8" fill="var(--negro)" stroke="currentColor" stroke-width="1.8"/><circle cx="17.5" cy="17.5" r="1.8" fill="var(--negro)" stroke="currentColor" stroke-width="1.8"/></svg>
+      Mendoza · Hacemos envíos
+    </p>
     <p class="intro">Mirá el stock, elegí tu medida y consultanos directo por WhatsApp.</p>
     <form class="search" id="buscador" role="search" autocomplete="off">
       <label for="q" class="sr">Buscar por medida</label>
@@ -41,13 +44,17 @@
 <nav class="barra" id="barra">
   <div class="wrap">
     <div class="tabs" id="tabs" role="tablist"></div>
+  </div>
+</nav>
+<div class="zona-filtros">
+  <div class="wrap">
     <div class="chips" id="chips" aria-label="Filtrar por rodado"></div>
     <div class="filtros" id="filtros">
       <label class="filtro"><span>Marca</span><select id="f-marca"></select></label>
       <label class="filtro" id="filtro-medida"><span>Medida de cubierta</span><select id="f-medida"></select></label>
     </div>
   </div>
-</nav>
+</div>
 
 <main class="wrap">
   <div id="aviso"></div>
@@ -68,6 +75,6 @@
   </div>
 </footer>
 
-<script src="assets/app.js?v=8"></script>
+<script src="assets/app.js?v=9"></script>
 </body>
 </html>
