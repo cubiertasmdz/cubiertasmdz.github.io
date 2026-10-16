@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:06",
+ "actualizado": "2026-10-16 18:07",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1062,6 +1062,43 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/55 R18"
+  },
+  {
+   "id": "C033",
+   "tipo": "cubierta",
+   "titulo": "Fate Range Runner A/T S-4",
+   "subtitulo": "245/70 R16 · 113/110T",
+   "rodado": 16,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Para camioneta / SUV",
+    "Reforzada (LT)",
+    "Uso mixto (asfalto y ripio)"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c033-1.jpg",
+    "fotos/c033-2.jpg",
+    "fotos/c033-3.jpg"
+   ],
+   "claves": [
+    "2457016"
+   ],
+   "texto": "fate range runner a/t s-4 245/70 r16 · 113/110t  para camioneta / suv reforzada (lt) uso mixto (asfalto y ripio)",
+   "wa": "Hola, quería consultar por las 3 cubiertas Fate 245/70 R16 que vi en el catálogo (cód. C033).\nhttps://cubiertasmdz.github.io/p/C033/",
+   "url": "https://cubiertasmdz.github.io/p/C033/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "245/70 R16"
   },
   {
    "id": "R001",
