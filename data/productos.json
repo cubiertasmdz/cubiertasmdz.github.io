@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:17",
+ "actualizado": "2026-10-16 17:21",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -408,6 +408,39 @@
    "marcas_llanta": [],
    "marcas_cubierta": [
     "Pirelli"
+   ],
+   "medida_cubierta": "205/60 R16"
+  },
+  {
+   "id": "C014",
+   "tipo": "cubierta",
+   "titulo": "Fate Plentia Cross",
+   "subtitulo": "205/60 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 85,
+   "segmentos": 4,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c014-1.jpg",
+    "fotos/c014-2.jpg",
+    "fotos/c014-3.jpg"
+   ],
+   "claves": [
+    "2056016"
+   ],
+   "texto": "fate plentia cross 205/60 r16  ",
+   "wa": "Hola, quería consultar por la cubierta Fate 205/60 R16 que vi en el catálogo (cód. C014).\nhttps://cubiertasmdz.github.io/p/C014/",
+   "url": "https://cubiertasmdz.github.io/p/C014/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Fate"
    ],
    "medida_cubierta": "205/60 R16"
   },
