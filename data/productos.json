@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:22",
+ "actualizado": "2026-10-16 17:23",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -476,6 +476,40 @@
    "marcas_llanta": [],
    "marcas_cubierta": [
     "Bridgestone"
+   ],
+   "medida_cubierta": "235/60 R16"
+  },
+  {
+   "id": "C016",
+   "tipo": "cubierta",
+   "titulo": "Fate Eximia Pininfarina SUV",
+   "subtitulo": "235/60 R16 · 100H",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Para camioneta / SUV"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c016-1.jpg",
+    "fotos/c016-2.jpg"
+   ],
+   "claves": [
+    "2356016"
+   ],
+   "texto": "fate eximia pininfarina suv 235/60 r16 · 100h  para camioneta / suv",
+   "wa": "Hola, quería consultar por las 2 cubiertas Fate 235/60 R16 que vi en el catálogo (cód. C016).\nhttps://cubiertasmdz.github.io/p/C016/",
+   "url": "https://cubiertasmdz.github.io/p/C016/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Fate"
    ],
    "medida_cubierta": "235/60 R16"
   },
