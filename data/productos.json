@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:15",
+ "actualizado": "2026-10-16 18:19",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1353,6 +1353,51 @@
     "Michelin"
    ],
    "medida_cubierta": "265/65 R17"
+  },
+  {
+   "id": "R019",
+   "tipo": "rueda",
+   "titulo": "4 ruedas Jeep Renegade R16",
+   "subtitulo": "215/65 R16 · 98H",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Jeep de aleación",
+    "5x110",
+    "Fabricada en 2021",
+    "Llanta original",
+    "Llantas sanas",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Jeep Renegade",
+   "detalle": "Juego completo de 4 llantas originales Jeep rodado 16, sanas. Cubiertas 215/65 R16: una Kumho Ecowing ES31 del 2021 y el resto de otras marcas, con desgaste parejo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r019-1.jpg",
+    "fotos/r019-2.jpg",
+    "fotos/r019-3.jpg",
+    "fotos/r019-4.jpg"
+   ],
+   "claves": [
+    "2156516",
+    "5110",
+    "165110"
+   ],
+   "texto": "4 ruedas jeep renegade r16 215/65 r16 · 98h jeep renegade llanta jeep de aleación 5x110 fabricada en 2021 llanta original llantas sanas cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Jeep Renegade R16 y cubiertas 215/65 R16 que vi en el catálogo (cód. R019).\nhttps://cubiertasmdz.github.io/p/R019/",
+   "url": "https://cubiertasmdz.github.io/p/R019/",
+   "marcas_llanta": [
+    "Jeep"
+   ],
+   "marcas_cubierta": [
+    "Kumho"
+   ],
+   "medida_cubierta": "215/65 R16"
   },
   {
    "id": "R001",
