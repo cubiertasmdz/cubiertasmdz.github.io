@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:10",
+ "actualizado": "2026-10-16 17:11",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -239,6 +239,41 @@
     "Toyo"
    ],
    "medida_cubierta": "215/60 R17"
+  },
+  {
+   "id": "C009",
+   "tipo": "cubierta",
+   "titulo": "Fate Eximia Pininfarina Sport",
+   "subtitulo": "225/40 R18",
+   "rodado": 18,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 45,
+   "segmentos": 2,
+   "etiquetas": [
+    "Fabricada en 2019"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c009-1.jpg",
+    "fotos/c009-2.jpg",
+    "fotos/c009-3.jpg"
+   ],
+   "claves": [
+    "2254018"
+   ],
+   "texto": "fate eximia pininfarina sport 225/40 r18  fabricada en 2019",
+   "wa": "Hola, quería consultar por la cubierta Fate 225/40 R18 que vi en el catálogo (cód. C009).\nhttps://cubiertasmdz.github.io/p/C009/",
+   "url": "https://cubiertasmdz.github.io/p/C009/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "225/40 R18"
   },
   {
    "id": "R001",
