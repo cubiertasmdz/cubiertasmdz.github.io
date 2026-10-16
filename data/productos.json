@@ -55,8 +55,8 @@
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
-    "fotos/c003-1.jpg",
     "fotos/c003-2.jpg",
+    "fotos/c003-1.jpg",
     "fotos/c003-3.jpg"
    ],
    "claves": [
@@ -90,8 +90,8 @@
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
-    "fotos/c004-1.jpg",
     "fotos/c004-2.jpg",
+    "fotos/c004-1.jpg",
     "fotos/c004-3.jpg"
    ],
    "claves": [
@@ -123,8 +123,8 @@
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
-    "fotos/c005-1.jpg",
-    "fotos/c005-2.jpg"
+    "fotos/c005-2.jpg",
+    "fotos/c005-1.jpg"
    ],
    "claves": [
     "2055517"
