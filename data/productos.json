@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:07",
+ "actualizado": "2026-10-16 17:08",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -183,19 +183,22 @@
    "estado": "Buena",
    "vida": 55,
    "segmentos": 3,
-   "etiquetas": [],
+   "etiquetas": [
+    "1 parche"
+   ],
    "sirve": "",
-   "detalle": "",
+   "detalle": "Tiene un parche interno (se ve en la segunda foto).",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
     "fotos/c007-1.jpg",
-    "fotos/c007-2.jpg"
+    "fotos/c007-2.jpg",
+    "fotos/c007-3.jpg"
    ],
    "claves": [
     "2055517"
    ],
-   "texto": "yokohama bluearth-a ae50 205/55 r17 · 95v  ",
+   "texto": "yokohama bluearth-a ae50 205/55 r17 · 95v  1 parche",
    "wa": "Hola, quería consultar por la cubierta Yokohama 205/55 R17 que vi en el catálogo (cód. C007).\nhttps://cubiertasmdz.github.io/p/C007/",
    "url": "https://cubiertasmdz.github.io/p/C007/",
    "marcas_llanta": [],
