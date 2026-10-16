@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:11",
+ "actualizado": "2026-10-16 18:13",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -855,8 +855,8 @@
    "titulo": "Bridgestone Dueler A/T",
    "subtitulo": "265/65 R17 · 112T",
    "rodado": 17,
-   "cantidad": 2,
-   "cantidad_txt": "Par",
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
    "estado": "Buena",
    "vida": 50,
    "segmentos": 2,
@@ -872,16 +872,13 @@
    "fotos": [
     "fotos/c027-1.jpg",
     "fotos/c027-2.jpg",
-    "fotos/c027-3.jpg",
-    "fotos/c027-4.jpg",
-    "fotos/c027-5.jpg",
-    "fotos/c027-6.jpg"
+    "fotos/c027-3.jpg"
    ],
    "claves": [
     "2656517"
    ],
    "texto": "bridgestone dueler a/t 265/65 r17 · 112t  fabricada en 2018 para camioneta / suv uso mixto (asfalto y ripio)",
-   "wa": "Hola, quería consultar por las 2 cubiertas Bridgestone 265/65 R17 que vi en el catálogo (cód. C027).\nhttps://cubiertasmdz.github.io/p/C027/",
+   "wa": "Hola, quería consultar por la cubierta Bridgestone 265/65 R17 que vi en el catálogo (cód. C027).\nhttps://cubiertasmdz.github.io/p/C027/",
    "url": "https://cubiertasmdz.github.io/p/C027/",
    "marcas_llanta": [],
    "marcas_cubierta": [
@@ -1245,6 +1242,79 @@
     "Bridgestone"
    ],
    "medida_cubierta": "245/70 R16"
+  },
+  {
+   "id": "C038",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Dueler A/T",
+   "subtitulo": "265/65 R17 · 112S",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Para camioneta / SUV",
+    "Uso mixto (asfalto y ripio)"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c038-1.jpg",
+    "fotos/c038-2.jpg",
+    "fotos/c038-3.jpg"
+   ],
+   "claves": [
+    "2656517"
+   ],
+   "texto": "bridgestone dueler a/t 265/65 r17 · 112s  para camioneta / suv uso mixto (asfalto y ripio)",
+   "wa": "Hola, quería consultar por la cubierta Bridgestone 265/65 R17 que vi en el catálogo (cód. C038).\nhttps://cubiertasmdz.github.io/p/C038/",
+   "url": "https://cubiertasmdz.github.io/p/C038/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "265/65 R17"
+  },
+  {
+   "id": "C039",
+   "tipo": "cubierta",
+   "titulo": "Continental CrossContact ATR",
+   "subtitulo": "245/65 R17 · 111H",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Para camioneta / SUV",
+    "Uso mixto (asfalto y ripio)",
+    "Reforzada (XL)"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c039-1.jpg",
+    "fotos/c039-2.jpg",
+    "fotos/c039-3.jpg"
+   ],
+   "claves": [
+    "2456517"
+   ],
+   "texto": "continental crosscontact atr 245/65 r17 · 111h  para camioneta / suv uso mixto (asfalto y ripio) reforzada (xl)",
+   "wa": "Hola, quería consultar por la cubierta Continental 245/65 R17 que vi en el catálogo (cód. C039).\nhttps://cubiertasmdz.github.io/p/C039/",
+   "url": "https://cubiertasmdz.github.io/p/C039/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "245/65 R17"
   },
   {
    "id": "R001",
