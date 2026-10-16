@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:04",
+ "actualizado": "2026-10-16 18:05",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -989,6 +989,41 @@
     "Triangle"
    ],
    "medida_cubierta": "235/60 R18"
+  },
+  {
+   "id": "C031",
+   "tipo": "cubierta",
+   "titulo": "Continental CrossContact LX",
+   "subtitulo": "245/70 R16 · 111T",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Regular",
+   "vida": 40,
+   "segmentos": 2,
+   "etiquetas": [
+    "Fabricada en 2016",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c031-1.jpg",
+    "fotos/c031-2.jpg"
+   ],
+   "claves": [
+    "2457016"
+   ],
+   "texto": "continental crosscontact lx 245/70 r16 · 111t  fabricada en 2016 para camioneta / suv",
+   "wa": "Hola, quería consultar por la cubierta Continental 245/70 R16 que vi en el catálogo (cód. C031).\nhttps://cubiertasmdz.github.io/p/C031/",
+   "url": "https://cubiertasmdz.github.io/p/C031/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "245/70 R16"
   },
   {
    "id": "R001",
