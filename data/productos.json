@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:35",
+ "actualizado": "2026-10-16 17:37",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -647,6 +647,39 @@
     "Pirelli"
    ],
    "medida_cubierta": "225/45 R17"
+  },
+  {
+   "id": "C021",
+   "tipo": "cubierta",
+   "titulo": "Yokohama BluEarth-A AE50",
+   "subtitulo": "195/50 R16 · 88V",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c021-1.jpg",
+    "fotos/c021-2.jpg",
+    "fotos/c021-3.jpg"
+   ],
+   "claves": [
+    "1955016"
+   ],
+   "texto": "yokohama bluearth-a ae50 195/50 r16 · 88v  ",
+   "wa": "Hola, quería consultar por la cubierta Yokohama 195/50 R16 que vi en el catálogo (cód. C021).\nhttps://cubiertasmdz.github.io/p/C021/",
+   "url": "https://cubiertasmdz.github.io/p/C021/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Yokohama"
+   ],
+   "medida_cubierta": "195/50 R16"
   },
   {
    "id": "R001",
