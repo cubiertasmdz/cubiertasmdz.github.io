@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:27",
+ "actualizado": "2026-10-16 17:29",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -543,6 +543,39 @@
    "marcas_llanta": [],
    "marcas_cubierta": [
     "Dunlop"
+   ],
+   "medida_cubierta": "225/45 R17"
+  },
+  {
+   "id": "C018",
+   "tipo": "cubierta",
+   "titulo": "Westlake SA07",
+   "subtitulo": "225/45 R17 · 94W",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c018-1.jpg",
+    "fotos/c018-2.jpg",
+    "fotos/c018-3.jpg"
+   ],
+   "claves": [
+    "2254517"
+   ],
+   "texto": "westlake sa07 225/45 r17 · 94w  ",
+   "wa": "Hola, quería consultar por la cubierta Westlake 225/45 R17 que vi en el catálogo (cód. C018).\nhttps://cubiertasmdz.github.io/p/C018/",
+   "url": "https://cubiertasmdz.github.io/p/C018/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Westlake"
    ],
    "medida_cubierta": "225/45 R17"
   },
