@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:31",
+ "actualizado": "2026-10-16 17:33",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -614,6 +614,38 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/55 R16"
+  },
+  {
+   "id": "C020",
+   "tipo": "cubierta",
+   "titulo": "Pirelli Cinturato P7",
+   "subtitulo": "225/45 R17 · 91W",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c020-1.jpg",
+    "fotos/c020-2.jpg"
+   ],
+   "claves": [
+    "2254517"
+   ],
+   "texto": "pirelli cinturato p7 225/45 r17 · 91w  ",
+   "wa": "Hola, quería consultar por la cubierta Pirelli 225/45 R17 que vi en el catálogo (cód. C020).\nhttps://cubiertasmdz.github.io/p/C020/",
+   "url": "https://cubiertasmdz.github.io/p/C020/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "225/45 R17"
   },
   {
    "id": "R001",
