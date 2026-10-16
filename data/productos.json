@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:10",
+ "actualizado": "2026-10-16 18:11",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -855,8 +855,8 @@
    "titulo": "Bridgestone Dueler A/T",
    "subtitulo": "265/65 R17 · 112T",
    "rodado": 17,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
+   "cantidad": 2,
+   "cantidad_txt": "Par",
    "estado": "Buena",
    "vida": 50,
    "segmentos": 2,
@@ -872,13 +872,16 @@
    "fotos": [
     "fotos/c027-1.jpg",
     "fotos/c027-2.jpg",
-    "fotos/c027-3.jpg"
+    "fotos/c027-3.jpg",
+    "fotos/c027-4.jpg",
+    "fotos/c027-5.jpg",
+    "fotos/c027-6.jpg"
    ],
    "claves": [
     "2656517"
    ],
    "texto": "bridgestone dueler a/t 265/65 r17 · 112t  fabricada en 2018 para camioneta / suv uso mixto (asfalto y ripio)",
-   "wa": "Hola, quería consultar por la cubierta Bridgestone 265/65 R17 que vi en el catálogo (cód. C027).\nhttps://cubiertasmdz.github.io/p/C027/",
+   "wa": "Hola, quería consultar por las 2 cubiertas Bridgestone 265/65 R17 que vi en el catálogo (cód. C027).\nhttps://cubiertasmdz.github.io/p/C027/",
    "url": "https://cubiertasmdz.github.io/p/C027/",
    "marcas_llanta": [],
    "marcas_cubierta": [
