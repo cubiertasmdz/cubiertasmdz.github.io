@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 17:15",
+ "actualizado": "2026-10-16 17:17",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -377,6 +377,39 @@
     "Michelin"
    ],
    "medida_cubierta": "205/75 R16"
+  },
+  {
+   "id": "C013",
+   "tipo": "cubierta",
+   "titulo": "Pirelli Cinturato P7",
+   "subtitulo": "205/60 R16 · 92H",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c013-1.jpg",
+    "fotos/c013-2.jpg",
+    "fotos/c013-3.jpg"
+   ],
+   "claves": [
+    "2056016"
+   ],
+   "texto": "pirelli cinturato p7 205/60 r16 · 92h  ",
+   "wa": "Hola, quería consultar por la cubierta Pirelli 205/60 R16 que vi en el catálogo (cód. C013).\nhttps://cubiertasmdz.github.io/p/C013/",
+   "url": "https://cubiertasmdz.github.io/p/C013/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "205/60 R16"
   },
   {
    "id": "R001",
