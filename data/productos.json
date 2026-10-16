@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:02",
+ "actualizado": "2026-10-16 18:03",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -921,6 +921,39 @@
     "Dunlop"
    ],
    "medida_cubierta": "265/60 R18"
+  },
+  {
+   "id": "C029",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Turanza ER300",
+   "subtitulo": "195/60 R16 · 89H",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c029-1.jpg",
+    "fotos/c029-2.jpg",
+    "fotos/c029-3.jpg"
+   ],
+   "claves": [
+    "1956016"
+   ],
+   "texto": "bridgestone turanza er300 195/60 r16 · 89h  ",
+   "wa": "Hola, quería consultar por las 2 cubiertas Bridgestone 195/60 R16 que vi en el catálogo (cód. C029).\nhttps://cubiertasmdz.github.io/p/C029/",
+   "url": "https://cubiertasmdz.github.io/p/C029/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "195/60 R16"
   },
   {
    "id": "R001",
