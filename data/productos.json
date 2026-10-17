@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 14:59",
+ "actualizado": "2026-10-17 15:00",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -340,6 +340,53 @@
     "Dunlop"
    ],
    "medida_cubierta": "225/45 R17"
+  },
+  {
+   "id": "R064",
+   "tipo": "rueda",
+   "titulo": "Juego de 4 ruedas Renault R16 con Bridgestone",
+   "subtitulo": "205/55 R16 · 91V",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Renault de aleación",
+    "4x100",
+    "Llanta original",
+    "Diamantada bitono",
+    "Rayones leves"
+   ],
+   "sirve": "Renault Mégane II, Scénic, Clio, Sandero, Logan",
+   "detalle": "Juego completo de 4 llantas originales Renault rodado 16 de 4 agujeros, bitono (grafito y diamantadas), sanas en general con rayones leves, con cubiertas Bridgestone Turanza ER300 205/55 R16 · 91V con buen dibujo. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r064-1.jpg",
+    "fotos/r064-2.jpg",
+    "fotos/r064-3.jpg",
+    "fotos/r064-4.jpg",
+    "fotos/r064-5.jpg",
+    "fotos/r064-6.jpg",
+    "fotos/r064-7.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4100",
+    "164100"
+   ],
+   "texto": "juego de 4 ruedas renault r16 con bridgestone 205/55 r16 · 91v renault mégane ii, scénic, clio, sandero, logan llanta renault de aleación 4x100 llanta original diamantada bitono rayones leves",
+   "wa": "Hola, quería consultar por el juego de 4 ruedas completas con llantas Renault R16 y cubiertas Bridgestone 205/55 R16 que vi en el catálogo (cód. R064).\nhttps://cubiertasmdz.github.io/p/R064/",
+   "url": "https://cubiertasmdz.github.io/p/R064/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "205/55 R16"
   },
   {
    "id": "C003",
