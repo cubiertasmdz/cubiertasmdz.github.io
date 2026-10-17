@@ -1826,6 +1826,50 @@
    "medida_cubierta": "215/45 R16"
   },
   {
+   "id": "R029",
+   "tipo": "rueda",
+   "titulo": "4 ruedas Audi Q5 R18 con Goodyear",
+   "subtitulo": "235/60 R18 · 103W",
+   "rodado": 18,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Audi de aleación",
+    "5x112",
+    "Fabricada en 2020",
+    "Llanta original",
+    "Rayones",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Audi Q5",
+   "detalle": "Juego completo de 4 llantas originales Audi rodado 18 con rayones, con cubiertas Goodyear 235/60 R18 del 2020.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r029-1.jpg",
+    "fotos/r029-2.jpg",
+    "fotos/r029-3.jpg"
+   ],
+   "claves": [
+    "2356018",
+    "5112",
+    "185112"
+   ],
+   "texto": "4 ruedas audi q5 r18 con goodyear 235/60 r18 · 103w audi q5 llanta audi de aleación 5x112 fabricada en 2020 llanta original rayones para camioneta / suv",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Audi R18 y cubiertas Goodyear 235/60 R18 que vi en el catálogo (cód. R029).\nhttps://cubiertasmdz.github.io/p/R029/",
+   "url": "https://cubiertasmdz.github.io/p/R029/",
+   "marcas_llanta": [
+    "Audi"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "235/60 R18"
+  },
+  {
    "id": "R001",
    "tipo": "rueda",
    "titulo": "Triangle AdvanteX TC101",
