@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:27",
+ "actualizado": "2026-10-17 14:50",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -36,6 +36,50 @@
   }
  ],
  "productos": [
+  {
+   "id": "R058",
+   "tipo": "rueda",
+   "titulo": "Rueda Toyota Hilux R17 con Bridgestone",
+   "subtitulo": "265/65 R17 · 112S",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Toyota de aleación",
+    "6x139.7",
+    "Llanta original",
+    "Rayones",
+    "Para camioneta / SUV",
+    "Hombro con desgaste"
+   ],
+   "sirve": "Toyota Hilux (2005 a 2015), SW4",
+   "detalle": "Llanta original Toyota Hilux / SW4 rodado 17 de 6 agujeros, con rayones, con cubierta Bridgestone Dueler A/T 265/65 R17 · 112S. El dibujo está bien, pero un hombro de la cubierta tiene desgaste con la goma marcada: recomendada como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r058-1.jpg",
+    "fotos/r058-2.jpg",
+    "fotos/r058-3.jpg"
+   ],
+   "claves": [
+    "2656517",
+    "6139.7",
+    "176139.7"
+   ],
+   "texto": "rueda toyota hilux r17 con bridgestone 265/65 r17 · 112s toyota hilux (2005 a 2015), sw4 llanta toyota de aleación 6x139.7 llanta original rayones para camioneta / suv hombro con desgaste",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Toyota Hilux R17 y cubierta Bridgestone 265/65 R17 que vi en el catálogo (cód. R058).\nhttps://cubiertasmdz.github.io/p/R058/",
+   "url": "https://cubiertasmdz.github.io/p/R058/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "265/65 R17"
+  },
   {
    "id": "C003",
    "tipo": "cubierta",
