@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:27",
+ "actualizado": "2026-10-17 15:44",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1122,6 +1122,3505 @@
    "medida_cubierta": "185/65 R14"
   },
   {
+   "id": "R080",
+   "tipo": "rueda",
+   "titulo": "Rueda Toyota R15 con Bridgestone",
+   "subtitulo": "255/70 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Toyota de aleación",
+    "6x139.7",
+    "Llanta original",
+    "Rayones",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Toyota Hilux (2005 a 2015), SW4",
+   "detalle": "Llanta original Toyota rodado 15 de 6 agujeros, con cubierta Bridgestone Dueler H/T 840 255/70 R15. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r080-1.jpg",
+    "fotos/r080-2.jpg"
+   ],
+   "claves": [
+    "2557015",
+    "6139.7",
+    "156139.7"
+   ],
+   "texto": "rueda toyota r15 con bridgestone 255/70 r15 toyota hilux (2005 a 2015), sw4 llanta toyota de aleación 6x139.7 llanta original rayones para camioneta / suv",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Toyota R15 y cubierta Bridgestone 255/70 R15 que vi en el catálogo (cód. R080).\nhttps://cubiertasmdz.github.io/p/R080/",
+   "url": "https://cubiertasmdz.github.io/p/R080/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "255/70 R15"
+  },
+  {
+   "id": "R081",
+   "tipo": "rueda",
+   "titulo": "Rueda Nissan R16 con Bridgestone",
+   "subtitulo": "215/65 R16 · 98H",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Nissan de aleación",
+    "5x114.3",
+    "Llanta original",
+    "Rayones",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Nissan X-Trail",
+   "detalle": "Llanta original Nissan rodado 16 de 5 agujeros, con cubierta Bridgestone Dueler H/T 215/65 R16 · 98H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r081-1.jpg",
+    "fotos/r081-2.jpg",
+    "fotos/r081-3.jpg",
+    "fotos/r081-4.jpg"
+   ],
+   "claves": [
+    "2156516",
+    "5114.3",
+    "165114.3"
+   ],
+   "texto": "rueda nissan r16 con bridgestone 215/65 r16 · 98h nissan x-trail llanta nissan de aleación 5x114.3 llanta original rayones para camioneta / suv",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Nissan R16 y cubierta Bridgestone 215/65 R16 que vi en el catálogo (cód. R081).\nhttps://cubiertasmdz.github.io/p/R081/",
+   "url": "https://cubiertasmdz.github.io/p/R081/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "215/65 R16"
+  },
+  {
+   "id": "R082",
+   "tipo": "rueda",
+   "titulo": "Rueda R15 alternativa con GT Radial 31x10.50",
+   "subtitulo": "31/10.5 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 85,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta de aleación",
+    "Llanta alternativa",
+    "Rayones",
+    "Para camioneta / SUV",
+    "Medida 31x10.50 R15 LT"
+   ],
+   "sirve": "",
+   "detalle": "Llanta alternativa rodado 15 de 6 agujeros, con cubierta GT Radial Adventuro AT3 31/10.5 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r082-1.jpg",
+    "fotos/r082-2.jpg"
+   ],
+   "claves": [
+    "3110.515"
+   ],
+   "texto": "rueda r15 alternativa con gt radial 31x10.50 31/10.5 r15  llanta de aleación llanta alternativa rayones para camioneta / suv medida 31x10.50 r15 lt",
+   "wa": "Hola, quería consultar por la rueda completa con llanta alternativa R15 y cubierta GT Radial 31/10.5 R15 que vi en el catálogo (cód. R082).\nhttps://cubiertasmdz.github.io/p/R082/",
+   "url": "https://cubiertasmdz.github.io/p/R082/",
+   "marcas_llanta": [
+    "Alternativa"
+   ],
+   "marcas_cubierta": [
+    "GT Radial"
+   ],
+   "medida_cubierta": "31/10.5 R15"
+  },
+  {
+   "id": "R083",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R14 de chapa con Pirelli",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Llanta sana"
+   ],
+   "sirve": "Peugeot 206, 207, Partner, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 14 de chapa de 4 agujeros, con cubierta Pirelli Chrono 175/65 R14. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r083-1.jpg",
+    "fotos/r083-2.jpg",
+    "fotos/r083-3.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4108",
+    "144108"
+   ],
+   "texto": "rueda peugeot r14 de chapa con pirelli 175/65 r14 peugeot 206, 207, partner, citroën c3 llanta peugeot de chapa 4x108 llanta original llanta sana",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R14 de chapa y cubierta Pirelli 175/65 R14 que vi en el catálogo (cód. R083).\nhttps://cubiertasmdz.github.io/p/R083/",
+   "url": "https://cubiertasmdz.github.io/p/R083/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R084",
+   "tipo": "rueda",
+   "titulo": "Rueda Fiat R15 con Wanli",
+   "subtitulo": "185/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Fiat de aleación",
+    "4x98",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Fiat Palio, Siena, Punto, Idea",
+   "detalle": "Llanta original Fiat rodado 15 de 4 agujeros, con cubierta Wanli 185/60 R15 · 88H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r084-1.jpg",
+    "fotos/r084-2.jpg",
+    "fotos/r084-3.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "498",
+    "15498"
+   ],
+   "texto": "rueda fiat r15 con wanli 185/60 r15 · 88h fiat palio, siena, punto, idea llanta fiat de aleación 4x98 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Fiat R15 y cubierta Wanli 185/60 R15 que vi en el catálogo (cód. R084).\nhttps://cubiertasmdz.github.io/p/R084/",
+   "url": "https://cubiertasmdz.github.io/p/R084/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Wanli"
+   ],
+   "medida_cubierta": "185/60 R15"
+  },
+  {
+   "id": "R085",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R15 con Dunlop",
+   "subtitulo": "185/60 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Volkswagen de aleación",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 15 de 4 agujeros, con cubierta Dunlop Enasave EC300 185/60 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r085-1.jpg",
+    "fotos/r085-2.jpg",
+    "fotos/r085-3.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "4100",
+    "154100"
+   ],
+   "texto": "rueda volkswagen r15 con dunlop 185/60 r15 vw gol, voyage, fox, suran, saveiro llanta volkswagen de aleación 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R15 y cubierta Dunlop 185/60 R15 que vi en el catálogo (cód. R085).\nhttps://cubiertasmdz.github.io/p/R085/",
+   "url": "https://cubiertasmdz.github.io/p/R085/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "185/60 R15"
+  },
+  {
+   "id": "C041",
+   "tipo": "cubierta",
+   "titulo": "Giti Comfort",
+   "subtitulo": "215/50 R17",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c041-1.jpg",
+    "fotos/c041-2.jpg",
+    "fotos/c041-3.jpg"
+   ],
+   "claves": [
+    "2155017"
+   ],
+   "texto": "giti comfort 215/50 r17  ",
+   "wa": "Hola, quería consultar por la cubierta Giti 215/50 R17 que vi en el catálogo (cód. C041).\nhttps://cubiertasmdz.github.io/p/C041/",
+   "url": "https://cubiertasmdz.github.io/p/C041/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Giti"
+   ],
+   "medida_cubierta": "215/50 R17"
+  },
+  {
+   "id": "C042",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Turanza ER300",
+   "subtitulo": "185/55 R16",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c042-1.jpg",
+    "fotos/c042-2.jpg",
+    "fotos/c042-3.jpg",
+    "fotos/c042-4.jpg",
+    "fotos/c042-5.jpg"
+   ],
+   "claves": [
+    "1855516"
+   ],
+   "texto": "bridgestone turanza er300 185/55 r16  ",
+   "wa": "Hola, quería consultar por las 2 cubiertas Bridgestone 185/55 R16 que vi en el catálogo (cód. C042).\nhttps://cubiertasmdz.github.io/p/C042/",
+   "url": "https://cubiertasmdz.github.io/p/C042/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "185/55 R16"
+  },
+  {
+   "id": "C043",
+   "tipo": "cubierta",
+   "titulo": "Dunlop Direzza DZ102",
+   "subtitulo": "195/50 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c043-1.jpg",
+    "fotos/c043-2.jpg",
+    "fotos/c043-3.jpg"
+   ],
+   "claves": [
+    "1955016"
+   ],
+   "texto": "dunlop direzza dz102 195/50 r16  ",
+   "wa": "Hola, quería consultar por la cubierta Dunlop 195/50 R16 que vi en el catálogo (cód. C043).\nhttps://cubiertasmdz.github.io/p/C043/",
+   "url": "https://cubiertasmdz.github.io/p/C043/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "195/50 R16"
+  },
+  {
+   "id": "C044",
+   "tipo": "cubierta",
+   "titulo": "Dunlop Enasave EC300",
+   "subtitulo": "185/60 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c044-1.jpg",
+    "fotos/c044-2.jpg"
+   ],
+   "claves": [
+    "1856015"
+   ],
+   "texto": "dunlop enasave ec300 185/60 r15  ",
+   "wa": "Hola, quería consultar por la cubierta Dunlop 185/60 R15 que vi en el catálogo (cód. C044).\nhttps://cubiertasmdz.github.io/p/C044/",
+   "url": "https://cubiertasmdz.github.io/p/C044/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "185/60 R15"
+  },
+  {
+   "id": "C045",
+   "tipo": "cubierta",
+   "titulo": "Pirelli Cinturato P1",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con desgaste, ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c045-1.jpg",
+    "fotos/c045-2.jpg",
+    "fotos/c045-3.jpg",
+    "fotos/c045-4.jpg",
+    "fotos/c045-5.jpg"
+   ],
+   "claves": [
+    "1856515"
+   ],
+   "texto": "pirelli cinturato p1 185/65 r15  ",
+   "wa": "Hola, quería consultar por las 2 cubiertas Pirelli 185/65 R15 que vi en el catálogo (cód. C045).\nhttps://cubiertasmdz.github.io/p/C045/",
+   "url": "https://cubiertasmdz.github.io/p/C045/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "C046",
+   "tipo": "cubierta",
+   "titulo": "Michelin Primacy 4",
+   "subtitulo": "205/55 R16 · 94V",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c046-1.jpg",
+    "fotos/c046-2.jpg",
+    "fotos/c046-3.jpg"
+   ],
+   "claves": [
+    "2055516"
+   ],
+   "texto": "michelin primacy 4 205/55 r16 · 94v  ",
+   "wa": "Hola, quería consultar por la cubierta Michelin 205/55 R16 que vi en el catálogo (cód. C046).\nhttps://cubiertasmdz.github.io/p/C046/",
+   "url": "https://cubiertasmdz.github.io/p/C046/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "C047",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Ecopia EP150",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con desgaste, ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c047-1.jpg",
+    "fotos/c047-2.jpg"
+   ],
+   "claves": [
+    "1856515"
+   ],
+   "texto": "bridgestone ecopia ep150 185/65 r15  ",
+   "wa": "Hola, quería consultar por la cubierta Bridgestone 185/65 R15 que vi en el catálogo (cód. C047).\nhttps://cubiertasmdz.github.io/p/C047/",
+   "url": "https://cubiertasmdz.github.io/p/C047/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "C048",
+   "tipo": "cubierta",
+   "titulo": "Kumho Sense",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c048-1.jpg",
+    "fotos/c048-2.jpg"
+   ],
+   "claves": [
+    "2055516"
+   ],
+   "texto": "kumho sense 205/55 r16  ",
+   "wa": "Hola, quería consultar por la cubierta Kumho 205/55 R16 que vi en el catálogo (cód. C048).\nhttps://cubiertasmdz.github.io/p/C048/",
+   "url": "https://cubiertasmdz.github.io/p/C048/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Kumho"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "C049",
+   "tipo": "cubierta",
+   "titulo": "Goodyear EfficientGrip",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c049-1.jpg",
+    "fotos/c049-2.jpg",
+    "fotos/c049-3.jpg"
+   ],
+   "claves": [
+    "1856515"
+   ],
+   "texto": "goodyear efficientgrip 185/65 r15  ",
+   "wa": "Hola, quería consultar por la cubierta Goodyear 185/65 R15 que vi en el catálogo (cód. C049).\nhttps://cubiertasmdz.github.io/p/C049/",
+   "url": "https://cubiertasmdz.github.io/p/C049/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "C050",
+   "tipo": "cubierta",
+   "titulo": "Continental ContiPowerContact",
+   "subtitulo": "185/65 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c050-1.jpg",
+    "fotos/c050-2.jpg"
+   ],
+   "claves": [
+    "1856515"
+   ],
+   "texto": "continental contipowercontact 185/65 r15 · 88h  ",
+   "wa": "Hola, quería consultar por la cubierta Continental 185/65 R15 que vi en el catálogo (cód. C050).\nhttps://cubiertasmdz.github.io/p/C050/",
+   "url": "https://cubiertasmdz.github.io/p/C050/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "C051",
+   "tipo": "cubierta",
+   "titulo": "Fate Eximia Pininfarina",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con desgaste, ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c051-1.jpg",
+    "fotos/c051-2.jpg",
+    "fotos/c051-3.jpg"
+   ],
+   "claves": [
+    "2055516"
+   ],
+   "texto": "fate eximia pininfarina 205/55 r16  ",
+   "wa": "Hola, quería consultar por la cubierta Fate 205/55 R16 que vi en el catálogo (cód. C051).\nhttps://cubiertasmdz.github.io/p/C051/",
+   "url": "https://cubiertasmdz.github.io/p/C051/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "C052",
+   "tipo": "cubierta",
+   "titulo": "Kumho Ecowing ES01",
+   "subtitulo": "185/65 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c052-1.jpg",
+    "fotos/c052-2.jpg",
+    "fotos/c052-3.jpg"
+   ],
+   "claves": [
+    "1856515"
+   ],
+   "texto": "kumho ecowing es01 185/65 r15 · 88h  ",
+   "wa": "Hola, quería consultar por la cubierta Kumho 185/65 R15 que vi en el catálogo (cód. C052).\nhttps://cubiertasmdz.github.io/p/C052/",
+   "url": "https://cubiertasmdz.github.io/p/C052/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Kumho"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "C053",
+   "tipo": "cubierta",
+   "titulo": "Bridgestone Turanza ER300",
+   "subtitulo": "205/55 R16 · 91V",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con desgaste, ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c053-1.jpg",
+    "fotos/c053-2.jpg",
+    "fotos/c053-3.jpg"
+   ],
+   "claves": [
+    "2055516"
+   ],
+   "texto": "bridgestone turanza er300 205/55 r16 · 91v  ",
+   "wa": "Hola, quería consultar por la cubierta Bridgestone 205/55 R16 que vi en el catálogo (cód. C053).\nhttps://cubiertasmdz.github.io/p/C053/",
+   "url": "https://cubiertasmdz.github.io/p/C053/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "C054",
+   "tipo": "cubierta",
+   "titulo": "Kelly PA868",
+   "subtitulo": "195/60 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 45,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con desgaste, ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c054-1.jpg",
+    "fotos/c054-2.jpg",
+    "fotos/c054-3.jpg"
+   ],
+   "claves": [
+    "1956015"
+   ],
+   "texto": "kelly pa868 195/60 r15  ",
+   "wa": "Hola, quería consultar por la cubierta Kelly 195/60 R15 que vi en el catálogo (cód. C054).\nhttps://cubiertasmdz.github.io/p/C054/",
+   "url": "https://cubiertasmdz.github.io/p/C054/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Kelly"
+   ],
+   "medida_cubierta": "195/60 R15"
+  },
+  {
+   "id": "C055",
+   "tipo": "cubierta",
+   "titulo": "Pirelli Chrono",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c055-1.jpg",
+    "fotos/c055-2.jpg"
+   ],
+   "claves": [
+    "1756514"
+   ],
+   "texto": "pirelli chrono 175/65 r14  ",
+   "wa": "Hola, quería consultar por la cubierta Pirelli 175/65 R14 que vi en el catálogo (cód. C055).\nhttps://cubiertasmdz.github.io/p/C055/",
+   "url": "https://cubiertasmdz.github.io/p/C055/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "C056",
+   "tipo": "cubierta",
+   "titulo": "Michelin Energy Saver",
+   "subtitulo": "195/55 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c056-1.jpg",
+    "fotos/c056-2.jpg"
+   ],
+   "claves": [
+    "1955516"
+   ],
+   "texto": "michelin energy saver 195/55 r16  ",
+   "wa": "Hola, quería consultar por la cubierta Michelin 195/55 R16 que vi en el catálogo (cód. C056).\nhttps://cubiertasmdz.github.io/p/C056/",
+   "url": "https://cubiertasmdz.github.io/p/C056/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "195/55 R16"
+  },
+  {
+   "id": "C057",
+   "tipo": "cubierta",
+   "titulo": "Pirelli Cinturato P1",
+   "subtitulo": "175/65 R14 · 82T",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c057-1.jpg",
+    "fotos/c057-2.jpg",
+    "fotos/c057-3.jpg"
+   ],
+   "claves": [
+    "1756514"
+   ],
+   "texto": "pirelli cinturato p1 175/65 r14 · 82t  ",
+   "wa": "Hola, quería consultar por la cubierta Pirelli 175/65 R14 que vi en el catálogo (cód. C057).\nhttps://cubiertasmdz.github.io/p/C057/",
+   "url": "https://cubiertasmdz.github.io/p/C057/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "C058",
+   "tipo": "cubierta",
+   "titulo": "Sunfull SF-688",
+   "subtitulo": "175/70 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 85,
+   "segmentos": 4,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c058-1.jpg",
+    "fotos/c058-2.jpg",
+    "fotos/c058-3.jpg"
+   ],
+   "claves": [
+    "1757014"
+   ],
+   "texto": "sunfull sf-688 175/70 r14  ",
+   "wa": "Hola, quería consultar por la cubierta Sunfull 175/70 R14 que vi en el catálogo (cód. C058).\nhttps://cubiertasmdz.github.io/p/C058/",
+   "url": "https://cubiertasmdz.github.io/p/C058/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Sunfull"
+   ],
+   "medida_cubierta": "175/70 R14"
+  },
+  {
+   "id": "C059",
+   "tipo": "cubierta",
+   "titulo": "Goodyear EfficientGrip Performance",
+   "subtitulo": "185/70 R14 · 88H",
+   "rodado": 14,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con desgaste, ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c059-1.jpg",
+    "fotos/c059-2.jpg",
+    "fotos/c059-3.jpg",
+    "fotos/c059-4.jpg",
+    "fotos/c059-5.jpg",
+    "fotos/c059-6.jpg"
+   ],
+   "claves": [
+    "1857014"
+   ],
+   "texto": "goodyear efficientgrip performance 185/70 r14 · 88h  ",
+   "wa": "Hola, quería consultar por las 2 cubiertas Goodyear 185/70 R14 que vi en el catálogo (cód. C059).\nhttps://cubiertasmdz.github.io/p/C059/",
+   "url": "https://cubiertasmdz.github.io/p/C059/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "185/70 R14"
+  },
+  {
+   "id": "C060",
+   "tipo": "cubierta",
+   "titulo": "Tango",
+   "subtitulo": "185/60 R14 · 82H",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c060-1.jpg",
+    "fotos/c060-2.jpg"
+   ],
+   "claves": [
+    "1856014"
+   ],
+   "texto": "tango 185/60 r14 · 82h  ",
+   "wa": "Hola, quería consultar por la cubierta Tango 185/60 R14 que vi en el catálogo (cód. C060).\nhttps://cubiertasmdz.github.io/p/C060/",
+   "url": "https://cubiertasmdz.github.io/p/C060/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Tango"
+   ],
+   "medida_cubierta": "185/60 R14"
+  },
+  {
+   "id": "C061",
+   "tipo": "cubierta",
+   "titulo": "Continental ContiEcoContact 3",
+   "subtitulo": "165/70 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c061-1.jpg",
+    "fotos/c061-2.jpg"
+   ],
+   "claves": [
+    "1657014"
+   ],
+   "texto": "continental contiecocontact 3 165/70 r14  ",
+   "wa": "Hola, quería consultar por la cubierta Continental 165/70 R14 que vi en el catálogo (cód. C061).\nhttps://cubiertasmdz.github.io/p/C061/",
+   "url": "https://cubiertasmdz.github.io/p/C061/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "165/70 R14"
+  },
+  {
+   "id": "C062",
+   "tipo": "cubierta",
+   "titulo": "Goodyear Assurance",
+   "subtitulo": "175/70 R13",
+   "rodado": 13,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta suelta con buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c062-1.jpg",
+    "fotos/c062-2.jpg"
+   ],
+   "claves": [
+    "1757013"
+   ],
+   "texto": "goodyear assurance 175/70 r13  ",
+   "wa": "Hola, quería consultar por la cubierta Goodyear 175/70 R13 que vi en el catálogo (cód. C062).\nhttps://cubiertasmdz.github.io/p/C062/",
+   "url": "https://cubiertasmdz.github.io/p/C062/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "175/70 R13"
+  },
+  {
+   "id": "R086",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Toyota R15 con Goodyear",
+   "subtitulo": "255/70 R15",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Toyota de aleación",
+    "6x139.7",
+    "Llanta original",
+    "Rayones",
+    "Para camioneta / SUV",
+    "Dibujo con grietas"
+   ],
+   "sirve": "Toyota Hilux (2005 a 2015), SW4",
+   "detalle": "Par de llantas originales Toyota rodado 15 de 6 agujeros, con cubiertas Goodyear Wrangler 255/70 R15. El dibujo tiene grietas por resecamiento: recomendadas para auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r086-1.jpg",
+    "fotos/r086-2.jpg",
+    "fotos/r086-3.jpg"
+   ],
+   "claves": [
+    "2557015",
+    "6139.7",
+    "156139.7"
+   ],
+   "texto": "par de ruedas toyota r15 con goodyear 255/70 r15 toyota hilux (2005 a 2015), sw4 llanta toyota de aleación 6x139.7 llanta original rayones para camioneta / suv dibujo con grietas",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Toyota R15 y cubiertas 255/70 R15 que vi en el catálogo (cód. R086).\nhttps://cubiertasmdz.github.io/p/R086/",
+   "url": "https://cubiertasmdz.github.io/p/R086/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "255/70 R15"
+  },
+  {
+   "id": "R087",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R14 de chapa con Firestone",
+   "subtitulo": "185/65 R14 · 86H",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Regular",
+   "vida": 40,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 206, 207, Partner, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 14 de chapa de 4 agujeros, con cubierta Firestone Firehawk 700 185/65 R14 · 86H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r087-1.jpg",
+    "fotos/r087-2.jpg"
+   ],
+   "claves": [
+    "1856514",
+    "4108",
+    "144108"
+   ],
+   "texto": "rueda peugeot r14 de chapa con firestone 185/65 r14 · 86h peugeot 206, 207, partner, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R14 de chapa y cubierta Firestone 185/65 R14 que vi en el catálogo (cód. R087).\nhttps://cubiertasmdz.github.io/p/R087/",
+   "url": "https://cubiertasmdz.github.io/p/R087/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "185/65 R14"
+  },
+  {
+   "id": "R088",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R14 de chapa con Firestone",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 206, 207, Partner, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 14 de chapa de 4 agujeros, con cubierta Firestone F-600 175/65 R14. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r088-1.jpg",
+    "fotos/r088-2.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4108",
+    "144108"
+   ],
+   "texto": "rueda peugeot r14 de chapa con firestone 175/65 r14 peugeot 206, 207, partner, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R14 de chapa y cubierta Firestone 175/65 R14 que vi en el catálogo (cód. R088).\nhttps://cubiertasmdz.github.io/p/R088/",
+   "url": "https://cubiertasmdz.github.io/p/R088/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R089",
+   "tipo": "rueda",
+   "titulo": "Rueda Citroën R15 de chapa con Goodyear",
+   "subtitulo": "185/60 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Citroën de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Citroën C3, C4, Peugeot 207, 208",
+   "detalle": "Llanta original Citroën rodado 15 de chapa de 4 agujeros, con cubierta Goodyear Eagle NCT5 185/60 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r089-1.jpg",
+    "fotos/r089-2.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "4108",
+    "154108"
+   ],
+   "texto": "rueda citroën r15 de chapa con goodyear 185/60 r15 citroën c3, c4, peugeot 207, 208 llanta citroën de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Citroën R15 de chapa y cubierta Goodyear 185/60 R15 que vi en el catálogo (cód. R089).\nhttps://cubiertasmdz.github.io/p/R089/",
+   "url": "https://cubiertasmdz.github.io/p/R089/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "185/60 R15"
+  },
+  {
+   "id": "R090",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R14 de chapa con Goodyear",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 206, 207, Partner, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 14 de chapa de 4 agujeros, con cubierta Goodyear Assurance 175/65 R14. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r090-1.jpg",
+    "fotos/r090-2.jpg",
+    "fotos/r090-3.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4108",
+    "144108"
+   ],
+   "texto": "rueda peugeot r14 de chapa con goodyear 175/65 r14 peugeot 206, 207, partner, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R14 de chapa y cubierta Goodyear 175/65 R14 que vi en el catálogo (cód. R090).\nhttps://cubiertasmdz.github.io/p/R090/",
+   "url": "https://cubiertasmdz.github.io/p/R090/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R091",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R14 de chapa con Firestone",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 14 de chapa de 4 agujeros, con cubierta Firestone F-700 175/65 R14. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r091-1.jpg",
+    "fotos/r091-2.jpg",
+    "fotos/r091-3.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4100",
+    "144100"
+   ],
+   "texto": "rueda volkswagen r14 de chapa con firestone 175/65 r14 vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R14 de chapa y cubierta Firestone 175/65 R14 que vi en el catálogo (cód. R091).\nhttps://cubiertasmdz.github.io/p/R091/",
+   "url": "https://cubiertasmdz.github.io/p/R091/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R092",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas R14 de chapa con Firemax",
+   "subtitulo": "185/65 R14 · 86H",
+   "rodado": 14,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta de chapa",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "",
+   "detalle": "Par de llantas de chapa rodado 14 de 4 agujeros, con cubiertas Firemax FM601 185/65 R14 · 86H. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r092-1.jpg",
+    "fotos/r092-2.jpg",
+    "fotos/r092-3.jpg",
+    "fotos/r092-4.jpg",
+    "fotos/r092-5.jpg"
+   ],
+   "claves": [
+    "1856514"
+   ],
+   "texto": "par de ruedas r14 de chapa con firemax 185/65 r14 · 86h  llanta de chapa llanta original rayones",
+   "wa": "Hola, quería consultar por el par de ruedas completas con llantas de chapa R14 y cubiertas Firemax 185/65 R14 que vi en el catálogo (cód. R092).\nhttps://cubiertasmdz.github.io/p/R092/",
+   "url": "https://cubiertasmdz.github.io/p/R092/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Firemax"
+   ],
+   "medida_cubierta": "185/65 R14"
+  },
+  {
+   "id": "R093",
+   "tipo": "rueda",
+   "titulo": "Rueda Chevrolet R15 de chapa con Fate",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Chevrolet de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Chevrolet Onix, Prisma, Corsa, Classic, Agile",
+   "detalle": "Llanta original Chevrolet rodado 15 de chapa de 4 agujeros, con cubierta Fate Sentiva 185/65 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r093-1.jpg",
+    "fotos/r093-2.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "4100",
+    "154100"
+   ],
+   "texto": "rueda chevrolet r15 de chapa con fate 185/65 r15 chevrolet onix, prisma, corsa, classic, agile llanta chevrolet de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Chevrolet R15 de chapa y cubierta Fate 185/65 R15 que vi en el catálogo (cód. R093).\nhttps://cubiertasmdz.github.io/p/R093/",
+   "url": "https://cubiertasmdz.github.io/p/R093/",
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "R094",
+   "tipo": "rueda",
+   "titulo": "Rueda Honda R16 de chapa con Bridgestone",
+   "subtitulo": "205/55 R16 · 91V",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Honda de chapa",
+    "5x114.3",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Honda Civic",
+   "detalle": "Llanta original Honda rodado 16 de chapa de 5 agujeros, con cubierta Bridgestone Turanza ER300 205/55 R16 · 91V. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r094-1.jpg",
+    "fotos/r094-2.jpg",
+    "fotos/r094-3.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "5114.3",
+    "165114.3"
+   ],
+   "texto": "rueda honda r16 de chapa con bridgestone 205/55 r16 · 91v honda civic llanta honda de chapa 5x114.3 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Honda R16 de chapa y cubierta Bridgestone 205/55 R16 que vi en el catálogo (cód. R094).\nhttps://cubiertasmdz.github.io/p/R094/",
+   "url": "https://cubiertasmdz.github.io/p/R094/",
+   "marcas_llanta": [
+    "Honda"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R095",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R14 de chapa con Bridgestone",
+   "subtitulo": "185/60 R14 · 82H",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 206, 207, Partner, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 14 de chapa de 4 agujeros, con cubierta Bridgestone Potenza GIII 185/60 R14 · 82H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r095-1.jpg",
+    "fotos/r095-2.jpg"
+   ],
+   "claves": [
+    "1856014",
+    "4108",
+    "144108"
+   ],
+   "texto": "rueda peugeot r14 de chapa con bridgestone 185/60 r14 · 82h peugeot 206, 207, partner, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R14 de chapa y cubierta Bridgestone 185/60 R14 que vi en el catálogo (cód. R095).\nhttps://cubiertasmdz.github.io/p/R095/",
+   "url": "https://cubiertasmdz.github.io/p/R095/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "185/60 R14"
+  },
+  {
+   "id": "R096",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R14 de chapa con Pace",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 14 de chapa de 4 agujeros, con cubierta Pace PC50 175/65 R14. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r096-1.jpg",
+    "fotos/r096-2.jpg",
+    "fotos/r096-3.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4100",
+    "144100"
+   ],
+   "texto": "rueda volkswagen r14 de chapa con pace 175/65 r14 vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R14 de chapa y cubierta Pace 175/65 R14 que vi en el catálogo (cód. R096).\nhttps://cubiertasmdz.github.io/p/R096/",
+   "url": "https://cubiertasmdz.github.io/p/R096/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Pace"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R097",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R14 de chapa con Tango",
+   "subtitulo": "175/70 R14 · 84T",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Regular",
+   "vida": 30,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones",
+    "Cubierta gastada"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 14 de chapa de 4 agujeros, con cubierta Tango 175/70 R14 · 84T. La cubierta está gastada. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r097-1.jpg",
+    "fotos/r097-2.jpg"
+   ],
+   "claves": [
+    "1757014",
+    "4100",
+    "144100"
+   ],
+   "texto": "rueda volkswagen r14 de chapa con tango 175/70 r14 · 84t vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones cubierta gastada",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R14 de chapa y cubierta Tango 175/70 R14 que vi en el catálogo (cód. R097).\nhttps://cubiertasmdz.github.io/p/R097/",
+   "url": "https://cubiertasmdz.github.io/p/R097/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Tango"
+   ],
+   "medida_cubierta": "175/70 R14"
+  },
+  {
+   "id": "R098",
+   "tipo": "rueda",
+   "titulo": "Rueda Citroën R14 de chapa con Firestone",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Citroën de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Citroën C3, Peugeot 206, 207",
+   "detalle": "Llanta original Citroën rodado 14 de chapa de 4 agujeros, con cubierta Firestone F-580 175/65 R14. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r098-1.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4108",
+    "144108"
+   ],
+   "texto": "rueda citroën r14 de chapa con firestone 175/65 r14 citroën c3, peugeot 206, 207 llanta citroën de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Citroën R14 de chapa y cubierta Firestone 175/65 R14 que vi en el catálogo (cód. R098).\nhttps://cubiertasmdz.github.io/p/R098/",
+   "url": "https://cubiertasmdz.github.io/p/R098/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R099",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R15 de chapa con Goodyear",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 207, 208, 2008, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 15 de chapa de 4 agujeros, con cubierta Goodyear Eagle Excellence 185/65 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r099-1.jpg",
+    "fotos/r099-2.jpg",
+    "fotos/r099-3.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "4108",
+    "154108"
+   ],
+   "texto": "rueda peugeot r15 de chapa con goodyear 185/65 r15 peugeot 207, 208, 2008, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R15 de chapa y cubierta Goodyear 185/65 R15 que vi en el catálogo (cód. R099).\nhttps://cubiertasmdz.github.io/p/R099/",
+   "url": "https://cubiertasmdz.github.io/p/R099/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "R100",
+   "tipo": "rueda",
+   "titulo": "Rueda Renault R15 de chapa con Continental",
+   "subtitulo": "185/65 R15 · 92T",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 80,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Renault de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Renault Clio, Sandero, Logan, Kangoo, Symbol",
+   "detalle": "Llanta original Renault rodado 15 de chapa de 4 agujeros, con cubierta Continental ContiPowerContact 185/65 R15 · 92T. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r100-1.jpg",
+    "fotos/r100-2.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "4100",
+    "154100"
+   ],
+   "texto": "rueda renault r15 de chapa con continental 185/65 r15 · 92t renault clio, sandero, logan, kangoo, symbol llanta renault de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Renault R15 de chapa y cubierta Continental 185/65 R15 que vi en el catálogo (cód. R100).\nhttps://cubiertasmdz.github.io/p/R100/",
+   "url": "https://cubiertasmdz.github.io/p/R100/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "R101",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Peugeot R15 de chapa con Linglong",
+   "subtitulo": "185/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "Reforzada (XL)"
+   ],
+   "sirve": "Peugeot 207, 208, 2008, Citroën C3",
+   "detalle": "Par de llantas originales Peugeot rodado 15 de 4 agujeros, con cubiertas Linglong L900 185/60 R15 · 88H. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r101-1.jpg",
+    "fotos/r101-2.jpg",
+    "fotos/r101-3.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "4108",
+    "154108"
+   ],
+   "texto": "par de ruedas peugeot r15 de chapa con linglong 185/60 r15 · 88h peugeot 207, 208, 2008, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones reforzada (xl)",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Peugeot R15 de chapa y cubiertas 185/60 R15 que vi en el catálogo (cód. R101).\nhttps://cubiertasmdz.github.io/p/R101/",
+   "url": "https://cubiertasmdz.github.io/p/R101/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Linglong"
+   ],
+   "medida_cubierta": "185/60 R15"
+  },
+  {
+   "id": "R102",
+   "tipo": "rueda",
+   "titulo": "Rueda Renault R14 de chapa con Goodyear",
+   "subtitulo": "195/70 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Renault de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Renault Sandero, Logan, Clio",
+   "detalle": "Llanta original Renault rodado 14 de chapa de 4 agujeros, con cubierta Goodyear GPS3 195/70 R14. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r102-1.jpg",
+    "fotos/r102-2.jpg",
+    "fotos/r102-3.jpg"
+   ],
+   "claves": [
+    "1957014",
+    "4100",
+    "144100"
+   ],
+   "texto": "rueda renault r14 de chapa con goodyear 195/70 r14 renault sandero, logan, clio llanta renault de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Renault R14 de chapa y cubierta Goodyear 195/70 R14 que vi en el catálogo (cód. R102).\nhttps://cubiertasmdz.github.io/p/R102/",
+   "url": "https://cubiertasmdz.github.io/p/R102/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "195/70 R14"
+  },
+  {
+   "id": "R103",
+   "tipo": "rueda",
+   "titulo": "Rueda Toyota R15 de chapa con Pirelli",
+   "subtitulo": "175/65 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Toyota de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Toyota Etios, Yaris",
+   "detalle": "Llanta original Toyota rodado 15 de chapa de 4 agujeros, con cubierta Pirelli Cinturato P4 175/65 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r103-1.jpg",
+    "fotos/r103-2.jpg",
+    "fotos/r103-3.jpg"
+   ],
+   "claves": [
+    "1756515",
+    "4100",
+    "154100"
+   ],
+   "texto": "rueda toyota r15 de chapa con pirelli 175/65 r15 toyota etios, yaris llanta toyota de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Toyota R15 de chapa y cubierta Pirelli 175/65 R15 que vi en el catálogo (cód. R103).\nhttps://cubiertasmdz.github.io/p/R103/",
+   "url": "https://cubiertasmdz.github.io/p/R103/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "175/65 R15"
+  },
+  {
+   "id": "R104",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R15 de chapa con Yokohama",
+   "subtitulo": "175/65 R15 · 84H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 15 de chapa de 4 agujeros, con cubierta Yokohama BluEarth 175/65 R15 · 84H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r104-1.jpg",
+    "fotos/r104-2.jpg",
+    "fotos/r104-3.jpg"
+   ],
+   "claves": [
+    "1756515",
+    "4100",
+    "154100"
+   ],
+   "texto": "rueda volkswagen r15 de chapa con yokohama 175/65 r15 · 84h vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R15 de chapa y cubierta Yokohama 175/65 R15 que vi en el catálogo (cód. R104).\nhttps://cubiertasmdz.github.io/p/R104/",
+   "url": "https://cubiertasmdz.github.io/p/R104/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Yokohama"
+   ],
+   "medida_cubierta": "175/65 R15"
+  },
+  {
+   "id": "R105",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R15 de chapa con Michelin",
+   "subtitulo": "195/60 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 207, 208, 2008, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 15 de chapa de 4 agujeros, con cubierta Michelin Energy Saver 195/60 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r105-1.jpg",
+    "fotos/r105-2.jpg",
+    "fotos/r105-3.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "4108",
+    "154108"
+   ],
+   "texto": "rueda peugeot r15 de chapa con michelin 195/60 r15 peugeot 207, 208, 2008, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R15 de chapa y cubierta Michelin 195/60 R15 que vi en el catálogo (cód. R105).\nhttps://cubiertasmdz.github.io/p/R105/",
+   "url": "https://cubiertasmdz.github.io/p/R105/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "195/60 R15"
+  },
+  {
+   "id": "R106",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R15 de chapa con Dunlop",
+   "subtitulo": "195/65 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 15 de chapa de 4 agujeros, con cubierta Dunlop SP Touring T1 195/65 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r106-1.jpg",
+    "fotos/r106-2.jpg",
+    "fotos/r106-3.jpg"
+   ],
+   "claves": [
+    "1956515",
+    "4100",
+    "154100"
+   ],
+   "texto": "rueda volkswagen r15 de chapa con dunlop 195/65 r15 vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R15 de chapa y cubierta Dunlop 195/65 R15 que vi en el catálogo (cód. R106).\nhttps://cubiertasmdz.github.io/p/R106/",
+   "url": "https://cubiertasmdz.github.io/p/R106/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "195/65 R15"
+  },
+  {
+   "id": "R107",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R15 de chapa con Autodrive",
+   "subtitulo": "195/55 R15 · 85H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 15 de chapa de 4 agujeros, con cubierta Autodrive 195/55 R15 · 85H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r107-1.jpg",
+    "fotos/r107-2.jpg",
+    "fotos/r107-3.jpg"
+   ],
+   "claves": [
+    "1955515",
+    "4100",
+    "154100"
+   ],
+   "texto": "rueda volkswagen r15 de chapa con autodrive 195/55 r15 · 85h vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R15 de chapa y cubierta Autodrive 195/55 R15 que vi en el catálogo (cód. R107).\nhttps://cubiertasmdz.github.io/p/R107/",
+   "url": "https://cubiertasmdz.github.io/p/R107/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Autodrive"
+   ],
+   "medida_cubierta": "195/55 R15"
+  },
+  {
+   "id": "R108",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R15 de chapa con Fate",
+   "subtitulo": "185/65 R15 · 92H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones",
+    "Reforzada (XL)"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 15 de chapa de 4 agujeros, con cubierta Fate Sentiva 185/65 R15 · 92H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r108-1.jpg",
+    "fotos/r108-2.jpg",
+    "fotos/r108-3.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "4100",
+    "154100"
+   ],
+   "texto": "rueda volkswagen r15 de chapa con fate 185/65 r15 · 92h vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones reforzada (xl)",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R15 de chapa y cubierta Fate 185/65 R15 que vi en el catálogo (cód. R108).\nhttps://cubiertasmdz.github.io/p/R108/",
+   "url": "https://cubiertasmdz.github.io/p/R108/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "R109",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R15 de chapa con Firemax",
+   "subtitulo": "195/55 R15 · 85V",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 15 de chapa de 4 agujeros, con cubierta Firemax FM601 195/55 R15 · 85V. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r109-1.jpg",
+    "fotos/r109-2.jpg",
+    "fotos/r109-3.jpg"
+   ],
+   "claves": [
+    "1955515",
+    "4100",
+    "154100"
+   ],
+   "texto": "rueda volkswagen r15 de chapa con firemax 195/55 r15 · 85v vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R15 de chapa y cubierta Firemax 195/55 R15 que vi en el catálogo (cód. R109).\nhttps://cubiertasmdz.github.io/p/R109/",
+   "url": "https://cubiertasmdz.github.io/p/R109/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Firemax"
+   ],
+   "medida_cubierta": "195/55 R15"
+  },
+  {
+   "id": "R110",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R16 de chapa con Bridgestone",
+   "subtitulo": "195/55 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta original Volkswagen rodado 16 de chapa de 4 agujeros, con cubierta Bridgestone Turanza ER300 195/55 R16. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r110-1.jpg",
+    "fotos/r110-2.jpg",
+    "fotos/r110-3.jpg"
+   ],
+   "claves": [
+    "1955516",
+    "4100",
+    "164100"
+   ],
+   "texto": "rueda volkswagen r16 de chapa con bridgestone 195/55 r16 vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R16 de chapa y cubierta Bridgestone 195/55 R16 que vi en el catálogo (cód. R110).\nhttps://cubiertasmdz.github.io/p/R110/",
+   "url": "https://cubiertasmdz.github.io/p/R110/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "195/55 R16"
+  },
+  {
+   "id": "R111",
+   "tipo": "rueda",
+   "titulo": "Rueda Chevrolet R14 de chapa con Fate",
+   "subtitulo": "185/65 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Chevrolet de chapa",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Chevrolet Corsa, Classic, Celta",
+   "detalle": "Llanta original Chevrolet rodado 14 de chapa de 4 agujeros, con cubierta Fate Sentiva AR-360 185/65 R14. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r111-1.jpg",
+    "fotos/r111-2.jpg",
+    "fotos/r111-3.jpg"
+   ],
+   "claves": [
+    "1856514",
+    "4100",
+    "144100"
+   ],
+   "texto": "rueda chevrolet r14 de chapa con fate 185/65 r14 chevrolet corsa, classic, celta llanta chevrolet de chapa 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Chevrolet R14 de chapa y cubierta Fate 185/65 R14 que vi en el catálogo (cód. R111).\nhttps://cubiertasmdz.github.io/p/R111/",
+   "url": "https://cubiertasmdz.github.io/p/R111/",
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "185/65 R14"
+  },
+  {
+   "id": "R112",
+   "tipo": "rueda",
+   "titulo": "Rueda Ford R15 de chapa con Firestone",
+   "subtitulo": "195/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Ford de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Ford Fiesta, Ka, EcoSport (1ª gen)",
+   "detalle": "Llanta original Ford rodado 15 de chapa de 4 agujeros, con cubierta Firestone Firehawk 700 195/60 R15 · 88H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r112-1.jpg",
+    "fotos/r112-2.jpg",
+    "fotos/r112-3.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "4108",
+    "154108"
+   ],
+   "texto": "rueda ford r15 de chapa con firestone 195/60 r15 · 88h ford fiesta, ka, ecosport (1ª gen) llanta ford de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Ford R15 de chapa y cubierta Firestone 195/60 R15 que vi en el catálogo (cód. R112).\nhttps://cubiertasmdz.github.io/p/R112/",
+   "url": "https://cubiertasmdz.github.io/p/R112/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "195/60 R15"
+  },
+  {
+   "id": "R113",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R15 de chapa con Pirelli",
+   "subtitulo": "185/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Pintada de rojo"
+   ],
+   "sirve": "Peugeot 208, 2008, 207",
+   "detalle": "Llanta original Peugeot rodado 15 de chapa de 4 agujeros, con cubierta Pirelli Cinturato P7 185/60 R15 · 88H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r113-1.jpg",
+    "fotos/r113-2.jpg",
+    "fotos/r113-3.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "4108",
+    "154108"
+   ],
+   "texto": "rueda peugeot r15 de chapa con pirelli 185/60 r15 · 88h peugeot 208, 2008, 207 llanta peugeot de chapa 4x108 llanta original pintada de rojo",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R15 de chapa y cubierta Pirelli 185/60 R15 que vi en el catálogo (cód. R113).\nhttps://cubiertasmdz.github.io/p/R113/",
+   "url": "https://cubiertasmdz.github.io/p/R113/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "185/60 R15"
+  },
+  {
+   "id": "R114",
+   "tipo": "rueda",
+   "titulo": "Rueda R16 de chapa con Continental",
+   "subtitulo": "205/60 R16 · 92H",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 85,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta de chapa",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "",
+   "detalle": "Llanta de chapa rodado 16 de 4 agujeros, con cubierta Continental ContiPowerContact 205/60 R16 · 92H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r114-1.jpg",
+    "fotos/r114-2.jpg",
+    "fotos/r114-3.jpg"
+   ],
+   "claves": [
+    "2056016"
+   ],
+   "texto": "rueda r16 de chapa con continental 205/60 r16 · 92h  llanta de chapa llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta de chapa R16 y cubierta Continental 205/60 R16 que vi en el catálogo (cód. R114).\nhttps://cubiertasmdz.github.io/p/R114/",
+   "url": "https://cubiertasmdz.github.io/p/R114/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "205/60 R16"
+  },
+  {
+   "id": "R115",
+   "tipo": "rueda",
+   "titulo": "Rueda Volkswagen R15 de chapa con Fate",
+   "subtitulo": "195/65 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "5x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Suran, Fox",
+   "detalle": "Llanta original Volkswagen rodado 15 de chapa de 5 agujeros, con cubierta Fate Sentiva AR-360 195/65 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r115-1.jpg",
+    "fotos/r115-2.jpg",
+    "fotos/r115-3.jpg"
+   ],
+   "claves": [
+    "1956515",
+    "5100",
+    "155100"
+   ],
+   "texto": "rueda volkswagen r15 de chapa con fate 195/65 r15 vw suran, fox llanta volkswagen de chapa 5x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R15 de chapa y cubierta Fate 195/65 R15 que vi en el catálogo (cód. R115).\nhttps://cubiertasmdz.github.io/p/R115/",
+   "url": "https://cubiertasmdz.github.io/p/R115/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "195/65 R15"
+  },
+  {
+   "id": "R116",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R15 de chapa con Firestone",
+   "subtitulo": "205/60 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 207, 208, 2008, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 15 de chapa de 4 agujeros, con cubierta Firestone Firehawk 900 205/60 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r116-1.jpg",
+    "fotos/r116-2.jpg",
+    "fotos/r116-3.jpg"
+   ],
+   "claves": [
+    "2056015",
+    "4108",
+    "154108"
+   ],
+   "texto": "rueda peugeot r15 de chapa con firestone 205/60 r15 peugeot 207, 208, 2008, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R15 de chapa y cubierta Firestone 205/60 R15 que vi en el catálogo (cód. R116).\nhttps://cubiertasmdz.github.io/p/R116/",
+   "url": "https://cubiertasmdz.github.io/p/R116/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "205/60 R15"
+  },
+  {
+   "id": "R117",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R15 de chapa con Pirelli",
+   "subtitulo": "195/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 207, 208, 2008, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 15 de chapa de 4 agujeros, con cubierta Pirelli Cinturato P1 195/60 R15 · 88H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r117-1.jpg",
+    "fotos/r117-2.jpg",
+    "fotos/r117-3.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "4108",
+    "154108"
+   ],
+   "texto": "rueda peugeot r15 de chapa con pirelli 195/60 r15 · 88h peugeot 207, 208, 2008, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R15 de chapa y cubierta Pirelli 195/60 R15 que vi en el catálogo (cód. R117).\nhttps://cubiertasmdz.github.io/p/R117/",
+   "url": "https://cubiertasmdz.github.io/p/R117/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "195/60 R15"
+  },
+  {
+   "id": "R118",
+   "tipo": "rueda",
+   "titulo": "Rueda Renault R16 de chapa con Pirelli",
+   "subtitulo": "215/65 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Renault de chapa",
+    "5x114.3",
+    "Llanta original",
+    "Rayones",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Renault Duster, Duster Oroch",
+   "detalle": "Llanta original Renault rodado 16 de chapa de 5 agujeros, con cubierta Pirelli Scorpion ATR 215/65 R16. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r118-1.jpg",
+    "fotos/r118-2.jpg",
+    "fotos/r118-3.jpg"
+   ],
+   "claves": [
+    "2156516",
+    "5114.3",
+    "165114.3"
+   ],
+   "texto": "rueda renault r16 de chapa con pirelli 215/65 r16 renault duster, duster oroch llanta renault de chapa 5x114.3 llanta original rayones para camioneta / suv",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Renault R16 de chapa y cubierta Pirelli 215/65 R16 que vi en el catálogo (cód. R118).\nhttps://cubiertasmdz.github.io/p/R118/",
+   "url": "https://cubiertasmdz.github.io/p/R118/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "215/65 R16"
+  },
+  {
+   "id": "R119",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Nissan R16 con Kumho",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Regular",
+   "vida": 40,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Nissan de aleación",
+    "4x100",
+    "Llanta original",
+    "Bitono negro y diamantado",
+    "Rayones",
+    "Dibujo con grietas"
+   ],
+   "sirve": "Nissan Versa, Kicks",
+   "detalle": "Par de llantas originales Nissan rodado 16 de 4 agujeros, con cubiertas Kumho Ecowing 205/55 R16. Las cubiertas tienen el dibujo gastado y con grietas: ideales para aprovechar las llantas. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r119-1.jpg",
+    "fotos/r119-2.jpg",
+    "fotos/r119-3.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4100",
+    "164100"
+   ],
+   "texto": "par de ruedas nissan r16 con kumho 205/55 r16 nissan versa, kicks llanta nissan de aleación 4x100 llanta original bitono negro y diamantado rayones dibujo con grietas",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Nissan R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R119).\nhttps://cubiertasmdz.github.io/p/R119/",
+   "url": "https://cubiertasmdz.github.io/p/R119/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [
+    "Kumho"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R120",
+   "tipo": "rueda",
+   "titulo": "Juego de 4 ruedas Nissan R15",
+   "subtitulo": "195/65 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Nissan de aleación",
+    "4x114.3",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Nissan Tiida, Note",
+   "detalle": "Juego de 4 llantas originales Nissan rodado 15 de 4 agujeros, con cubiertas Continental / Fate 195/65 R15. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r120-1.jpg",
+    "fotos/r120-2.jpg",
+    "fotos/r120-3.jpg"
+   ],
+   "claves": [
+    "1956515",
+    "4114.3",
+    "154114.3"
+   ],
+   "texto": "juego de 4 ruedas nissan r15 195/65 r15 nissan tiida, note llanta nissan de aleación 4x114.3 llanta original rayones cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Nissan R15 y cubiertas 195/65 R15 que vi en el catálogo (cód. R120).\nhttps://cubiertasmdz.github.io/p/R120/",
+   "url": "https://cubiertasmdz.github.io/p/R120/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [
+    "Continental",
+    "Fate"
+   ],
+   "medida_cubierta": "195/65 R15"
+  },
+  {
+   "id": "R121",
+   "tipo": "rueda",
+   "titulo": "Juego de 3 ruedas Nissan R17 con Continental",
+   "subtitulo": "205/55 R17 · 91V",
+   "rodado": 17,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Nissan de aleación",
+    "5x114.3",
+    "Llanta original",
+    "Bitono negro y diamantado",
+    "Rayones"
+   ],
+   "sirve": "Nissan Sentra",
+   "detalle": "Juego de 3 llantas originales Nissan rodado 17 de 5 agujeros, con cubiertas Continental ContiPowerContact 205/55 R17 · 91V. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r121-1.jpg",
+    "fotos/r121-2.jpg",
+    "fotos/r121-3.jpg",
+    "fotos/r121-4.jpg"
+   ],
+   "claves": [
+    "2055517",
+    "5114.3",
+    "175114.3"
+   ],
+   "texto": "juego de 3 ruedas nissan r17 con continental 205/55 r17 · 91v nissan sentra llanta nissan de aleación 5x114.3 llanta original bitono negro y diamantado rayones",
+   "wa": "Hola, quería consultar por las 3 ruedas completas con llantas Nissan R17 y cubiertas 205/55 R17 que vi en el catálogo (cód. R121).\nhttps://cubiertasmdz.github.io/p/R121/",
+   "url": "https://cubiertasmdz.github.io/p/R121/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "205/55 R17"
+  },
+  {
+   "id": "R122",
+   "tipo": "rueda",
+   "titulo": "Juego de 4 ruedas Renault Captur R17",
+   "subtitulo": "215/60 R17",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Renault de aleación",
+    "5x114.3",
+    "Llanta original",
+    "Bitono negro y diamantado",
+    "Raspones en el borde",
+    "Cubiertas de distintas marcas",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Renault Captur",
+   "detalle": "Juego de 4 llantas originales Renault rodado 17 de 5 agujeros, con cubiertas Continental / otras CrossContact LX2 215/60 R17. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r122-1.jpg",
+    "fotos/r122-2.jpg",
+    "fotos/r122-3.jpg",
+    "fotos/r122-4.jpg",
+    "fotos/r122-5.jpg"
+   ],
+   "claves": [
+    "2156017",
+    "5114.3",
+    "175114.3"
+   ],
+   "texto": "juego de 4 ruedas renault captur r17 215/60 r17 renault captur llanta renault de aleación 5x114.3 llanta original bitono negro y diamantado raspones en el borde cubiertas de distintas marcas para camioneta / suv",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Renault R17 y cubiertas 215/60 R17 que vi en el catálogo (cód. R122).\nhttps://cubiertasmdz.github.io/p/R122/",
+   "url": "https://cubiertasmdz.github.io/p/R122/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [
+    "Continental",
+    "otras"
+   ],
+   "medida_cubierta": "215/60 R17"
+  },
+  {
+   "id": "R123",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Renault R15 con Pirelli",
+   "subtitulo": "195/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Renault de aleación",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Renault Clio, Symbol, Logan",
+   "detalle": "Par de llantas originales Renault rodado 15 de 4 agujeros, con cubiertas Pirelli Cinturato P1 195/60 R15 · 88H. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r123-1.jpg",
+    "fotos/r123-2.jpg",
+    "fotos/r123-3.jpg",
+    "fotos/r123-4.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "4100",
+    "154100"
+   ],
+   "texto": "par de ruedas renault r15 con pirelli 195/60 r15 · 88h renault clio, symbol, logan llanta renault de aleación 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Renault R15 y cubiertas 195/60 R15 que vi en el catálogo (cód. R123).\nhttps://cubiertasmdz.github.io/p/R123/",
+   "url": "https://cubiertasmdz.github.io/p/R123/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "195/60 R15"
+  },
+  {
+   "id": "R124",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Renault R14 con Bridgestone",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Regular",
+   "vida": 40,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Renault de aleación",
+    "4x100",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas gastadas"
+   ],
+   "sirve": "Renault Clio, Twingo, Kangoo",
+   "detalle": "Par de llantas originales Renault rodado 14 de 4 agujeros, con cubiertas Bridgestone B250 175/65 R14. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r124-1.jpg",
+    "fotos/r124-2.jpg",
+    "fotos/r124-3.jpg",
+    "fotos/r124-4.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4100",
+    "144100"
+   ],
+   "texto": "par de ruedas renault r14 con bridgestone 175/65 r14 renault clio, twingo, kangoo llanta renault de aleación 4x100 llanta original rayones cubiertas gastadas",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Renault R14 y cubiertas 175/65 R14 que vi en el catálogo (cód. R124).\nhttps://cubiertasmdz.github.io/p/R124/",
+   "url": "https://cubiertasmdz.github.io/p/R124/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R125",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Ford R15 con Goodyear",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Ford Focus (1999 a 2008)",
+   "detalle": "Par de llantas originales Ford rodado 15 de 4 agujeros, con cubiertas Goodyear EfficientGrip 185/65 R15. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r125-1.jpg",
+    "fotos/r125-2.jpg",
+    "fotos/r125-3.jpg",
+    "fotos/r125-4.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "4108",
+    "154108"
+   ],
+   "texto": "par de ruedas ford r15 con goodyear 185/65 r15 ford focus (1999 a 2008) llanta ford de aleación 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Ford R15 y cubiertas 185/65 R15 que vi en el catálogo (cód. R125).\nhttps://cubiertasmdz.github.io/p/R125/",
+   "url": "https://cubiertasmdz.github.io/p/R125/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "185/65 R15"
+  },
+  {
+   "id": "R126",
+   "tipo": "rueda",
+   "titulo": "Juego de 5 ruedas Ford Fiesta R16",
+   "subtitulo": "195/50 R16",
+   "rodado": 16,
+   "cantidad": 5,
+   "cantidad_txt": "5 unidades",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Ford Fiesta Kinetic",
+   "detalle": "Juego de 5 llantas originales Ford rodado 16 de 4 agujeros, con cubiertas Varias marcas 195/50 R16. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r126-1.jpg",
+    "fotos/r126-2.jpg",
+    "fotos/r126-3.jpg",
+    "fotos/r126-4.jpg"
+   ],
+   "claves": [
+    "1955016",
+    "4108",
+    "164108"
+   ],
+   "texto": "juego de 5 ruedas ford fiesta r16 195/50 r16 ford fiesta kinetic llanta ford de aleación 4x108 llanta original rayones cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 5 ruedas completas con llantas Ford R16 y cubiertas 195/50 R16 que vi en el catálogo (cód. R126).\nhttps://cubiertasmdz.github.io/p/R126/",
+   "url": "https://cubiertasmdz.github.io/p/R126/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Varias marcas"
+   ],
+   "medida_cubierta": "195/50 R16"
+  },
+  {
+   "id": "R127",
+   "tipo": "rueda",
+   "titulo": "2 llantas Ford Fiesta R15 + 1 cubierta",
+   "subtitulo": "195/55 R15 · 85V",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "2 llantas + 1 cubierta",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "No incluye la cubierta dañada"
+   ],
+   "sirve": "Ford Fiesta Kinetic",
+   "detalle": "Par de llantas originales Ford rodado 15 de 4 agujeros, con cubiertas Pirelli Cinturato P1 195/55 R15 · 85V. Se venden 2 llantas con 1 cubierta: la otra cubierta tiene un corte en el costado y NO se vende, esa llanta va sin cubierta. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r127-1.jpg",
+    "fotos/r127-2.jpg",
+    "fotos/r127-3.jpg"
+   ],
+   "claves": [
+    "1955515",
+    "4108",
+    "154108"
+   ],
+   "texto": "2 llantas ford fiesta r15 + 1 cubierta 195/55 r15 · 85v ford fiesta kinetic llanta ford de aleación 4x108 llanta original rayones no incluye la cubierta dañada",
+   "wa": "Hola, quería consultar por las 2 llantas Ford Fiesta R15 con 1 cubierta Pirelli 195/55 R15 que vi en el catálogo (cód. R127).\nhttps://cubiertasmdz.github.io/p/R127/",
+   "url": "https://cubiertasmdz.github.io/p/R127/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "195/55 R15"
+  },
+  {
+   "id": "R128",
+   "tipo": "rueda",
+   "titulo": "Juego de 3 ruedas Ford R14",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Ford Fiesta, Ka",
+   "detalle": "Juego de 3 llantas originales Ford rodado 14 de 4 agujeros, con cubiertas Dunlop / otras 175/65 R14. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r128-1.jpg",
+    "fotos/r128-2.jpg",
+    "fotos/r128-3.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4108",
+    "144108"
+   ],
+   "texto": "juego de 3 ruedas ford r14 175/65 r14 ford fiesta, ka llanta ford de aleación 4x108 llanta original rayones cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 3 ruedas completas con llantas Ford R14 y cubiertas 175/65 R14 que vi en el catálogo (cód. R128).\nhttps://cubiertasmdz.github.io/p/R128/",
+   "url": "https://cubiertasmdz.github.io/p/R128/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Dunlop",
+    "otras"
+   ],
+   "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R129",
+   "tipo": "rueda",
+   "titulo": "4 llantas Peugeot R16 + 3 cubiertas",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 3 cubiertas",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas de distintas marcas",
+    "No incluye la cubierta dañada"
+   ],
+   "sirve": "Peugeot 307, 308, 408, Citroën C4",
+   "detalle": "Juego de 4 llantas originales Peugeot rodado 16 de 4 agujeros, con cubiertas Varias marcas 205/55 R16. Se venden 4 llantas con 3 cubiertas: una cubierta tiene un corte en el costado y NO se vende, esa llanta va sin cubierta. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r129-1.jpg",
+    "fotos/r129-2.jpg",
+    "fotos/r129-3.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4108",
+    "164108"
+   ],
+   "texto": "4 llantas peugeot r16 + 3 cubiertas 205/55 r16 peugeot 307, 308, 408, citroën c4 llanta peugeot de aleación 4x108 llanta original rayones cubiertas de distintas marcas no incluye la cubierta dañada",
+   "wa": "Hola, quería consultar por las 4 llantas Peugeot R16 con 3 cubiertas 205/55 R16 que vi en el catálogo (cód. R129).\nhttps://cubiertasmdz.github.io/p/R129/",
+   "url": "https://cubiertasmdz.github.io/p/R129/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Varias marcas"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R130",
+   "tipo": "rueda",
+   "titulo": "Juego de 3 ruedas Peugeot R16 con Bridgestone",
+   "subtitulo": "205/55 R16 · 91V",
+   "rodado": 16,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 307, 308, 408, Citroën C4",
+   "detalle": "Juego de 3 llantas originales Peugeot rodado 16 de 4 agujeros, con cubiertas Bridgestone Turanza ER300 205/55 R16 · 91V. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r130-1.jpg",
+    "fotos/r130-2.jpg",
+    "fotos/r130-3.jpg",
+    "fotos/r130-4.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4108",
+    "164108"
+   ],
+   "texto": "juego de 3 ruedas peugeot r16 con bridgestone 205/55 r16 · 91v peugeot 307, 308, 408, citroën c4 llanta peugeot de aleación 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por las 3 ruedas completas con llantas Peugeot R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R130).\nhttps://cubiertasmdz.github.io/p/R130/",
+   "url": "https://cubiertasmdz.github.io/p/R130/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R131",
+   "tipo": "rueda",
+   "titulo": "Juego de 4 ruedas Peugeot R15",
+   "subtitulo": "195/65 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Regular",
+   "vida": 40,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas de distintas marcas",
+    "Cubiertas gastadas"
+   ],
+   "sirve": "Peugeot 206, 207",
+   "detalle": "Juego de 4 llantas originales Peugeot rodado 15 de 4 agujeros, con cubiertas Fate / otras Sentiva AR-360 195/65 R15. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r131-1.jpg",
+    "fotos/r131-2.jpg",
+    "fotos/r131-3.jpg"
+   ],
+   "claves": [
+    "1956515",
+    "4108",
+    "154108"
+   ],
+   "texto": "juego de 4 ruedas peugeot r15 195/65 r15 peugeot 206, 207 llanta peugeot de aleación 4x108 llanta original rayones cubiertas de distintas marcas cubiertas gastadas",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Peugeot R15 y cubiertas 195/65 R15 que vi en el catálogo (cód. R131).\nhttps://cubiertasmdz.github.io/p/R131/",
+   "url": "https://cubiertasmdz.github.io/p/R131/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Fate",
+    "otras"
+   ],
+   "medida_cubierta": "195/65 R15"
+  },
+  {
+   "id": "R132",
+   "tipo": "rueda",
+   "titulo": "Juego de 4 ruedas Peugeot R14",
+   "subtitulo": "185/65 R14",
+   "rodado": 14,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Peugeot 206, 207",
+   "detalle": "Juego de 4 llantas originales Peugeot rodado 14 de 4 agujeros, con cubiertas Pirelli / otras P6 185/65 R14. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r132-1.jpg",
+    "fotos/r132-2.jpg",
+    "fotos/r132-3.jpg",
+    "fotos/r132-4.jpg"
+   ],
+   "claves": [
+    "1856514",
+    "4108",
+    "144108"
+   ],
+   "texto": "juego de 4 ruedas peugeot r14 185/65 r14 peugeot 206, 207 llanta peugeot de aleación 4x108 llanta original rayones cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Peugeot R14 y cubiertas 185/65 R14 que vi en el catálogo (cód. R132).\nhttps://cubiertasmdz.github.io/p/R132/",
+   "url": "https://cubiertasmdz.github.io/p/R132/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Pirelli",
+    "otras"
+   ],
+   "medida_cubierta": "185/65 R14"
+  },
+  {
+   "id": "R133",
+   "tipo": "rueda",
+   "titulo": "Juego de 3 ruedas Peugeot 208 R16",
+   "subtitulo": "195/55 R16",
+   "rodado": 16,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Regular",
+   "vida": 35,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original",
+    "Bitono",
+    "Rayones",
+    "Cubiertas de distintas marcas",
+    "Cubiertas gastadas"
+   ],
+   "sirve": "Peugeot 208, 2008",
+   "detalle": "Juego de 3 llantas originales Peugeot rodado 16 de 4 agujeros, con cubiertas Pirelli / otras Cinturato P1 195/55 R16. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r133-1.jpg",
+    "fotos/r133-2.jpg",
+    "fotos/r133-3.jpg"
+   ],
+   "claves": [
+    "1955516",
+    "4108",
+    "164108"
+   ],
+   "texto": "juego de 3 ruedas peugeot 208 r16 195/55 r16 peugeot 208, 2008 llanta peugeot de aleación 4x108 llanta original bitono rayones cubiertas de distintas marcas cubiertas gastadas",
+   "wa": "Hola, quería consultar por las 3 ruedas completas con llantas Peugeot R16 y cubiertas 195/55 R16 que vi en el catálogo (cód. R133).\nhttps://cubiertasmdz.github.io/p/R133/",
+   "url": "https://cubiertasmdz.github.io/p/R133/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Pirelli",
+    "otras"
+   ],
+   "medida_cubierta": "195/55 R16"
+  },
+  {
+   "id": "R134",
+   "tipo": "rueda",
+   "titulo": "Juego de 4 ruedas Mercedes-Benz R17",
+   "subtitulo": "245/45 R17",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 45,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Mercedes-Benz de aleación",
+    "5x112",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Mercedes-Benz Clase C, Clase E",
+   "detalle": "Juego de 4 llantas originales Mercedes-Benz rodado 17 de 5 agujeros, con cubiertas Varias marcas 245/45 R17. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r134-1.jpg",
+    "fotos/r134-2.jpg",
+    "fotos/r134-3.jpg"
+   ],
+   "claves": [
+    "2454517",
+    "5112",
+    "175112"
+   ],
+   "texto": "juego de 4 ruedas mercedes-benz r17 245/45 r17 mercedes-benz clase c, clase e llanta mercedes-benz de aleación 5x112 llanta original rayones cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Mercedes-Benz R17 y cubiertas 245/45 R17 que vi en el catálogo (cód. R134).\nhttps://cubiertasmdz.github.io/p/R134/",
+   "url": "https://cubiertasmdz.github.io/p/R134/",
+   "marcas_llanta": [
+    "Mercedes-Benz"
+   ],
+   "marcas_cubierta": [
+    "Varias marcas"
+   ],
+   "medida_cubierta": "245/45 R17"
+  },
+  {
+   "id": "R135",
+   "tipo": "rueda",
+   "titulo": "Juego de 3 ruedas Peugeot R16 con Pirelli",
+   "subtitulo": "195/55 R16",
+   "rodado": 16,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original",
+    "Bitono",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 208, 2008",
+   "detalle": "Juego de 3 llantas originales Peugeot rodado 16 de 4 agujeros, con cubiertas Pirelli Cinturato P7 195/55 R16. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r135-1.jpg",
+    "fotos/r135-2.jpg",
+    "fotos/r135-3.jpg",
+    "fotos/r135-4.jpg"
+   ],
+   "claves": [
+    "1955516",
+    "4108",
+    "164108"
+   ],
+   "texto": "juego de 3 ruedas peugeot r16 con pirelli 195/55 r16 peugeot 208, 2008 llanta peugeot de aleación 4x108 llanta original bitono rayones",
+   "wa": "Hola, quería consultar por las 3 ruedas completas con llantas Peugeot R16 y cubiertas 195/55 R16 que vi en el catálogo (cód. R135).\nhttps://cubiertasmdz.github.io/p/R135/",
+   "url": "https://cubiertasmdz.github.io/p/R135/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "195/55 R16"
+  },
+  {
+   "id": "R136",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Peugeot R15 con Firestone",
+   "subtitulo": "185/60 R15",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 206, 207",
+   "detalle": "Par de llantas originales Peugeot rodado 15 de 4 agujeros, con cubiertas Firestone Firehawk 700 185/60 R15. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r136-1.jpg",
+    "fotos/r136-2.jpg",
+    "fotos/r136-3.jpg",
+    "fotos/r136-4.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "4108",
+    "154108"
+   ],
+   "texto": "par de ruedas peugeot r15 con firestone 185/60 r15 peugeot 206, 207 llanta peugeot de aleación 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Peugeot R15 y cubiertas 185/60 R15 que vi en el catálogo (cód. R136).\nhttps://cubiertasmdz.github.io/p/R136/",
+   "url": "https://cubiertasmdz.github.io/p/R136/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "185/60 R15"
+  },
+  {
+   "id": "R137",
+   "tipo": "rueda",
+   "titulo": "Juego de 3 ruedas Peugeot R16 con Michelin",
+   "subtitulo": "205/55 R16 · 91V",
+   "rodado": 16,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Peugeot 307, 308, 408, Citroën C4",
+   "detalle": "Juego de 3 llantas originales Peugeot rodado 16 de 4 agujeros, con cubiertas Michelin Primacy 3 205/55 R16 · 91V. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r137-1.jpg",
+    "fotos/r137-2.jpg",
+    "fotos/r137-3.jpg",
+    "fotos/r137-4.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4108",
+    "164108"
+   ],
+   "texto": "juego de 3 ruedas peugeot r16 con michelin 205/55 r16 · 91v peugeot 307, 308, 408, citroën c4 llanta peugeot de aleación 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por las 3 ruedas completas con llantas Peugeot R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R137).\nhttps://cubiertasmdz.github.io/p/R137/",
+   "url": "https://cubiertasmdz.github.io/p/R137/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R138",
+   "tipo": "rueda",
+   "titulo": "Rueda Ford R16 con Pirelli",
+   "subtitulo": "205/65 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "Llanta original",
+    "Rayones",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Ford EcoSport (2013 en adelante)",
+   "detalle": "Llanta original Ford rodado 16, con cubierta Pirelli Scorpion ATR 205/65 R16. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r138-1.jpg",
+    "fotos/r138-2.jpg"
+   ],
+   "claves": [
+    "2056516"
+   ],
+   "texto": "rueda ford r16 con pirelli 205/65 r16 ford ecosport (2013 en adelante) llanta ford de aleación llanta original rayones para camioneta / suv",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Ford R16 y cubierta Pirelli 205/65 R16 que vi en el catálogo (cód. R138).\nhttps://cubiertasmdz.github.io/p/R138/",
+   "url": "https://cubiertasmdz.github.io/p/R138/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "205/65 R16"
+  },
+  {
+   "id": "R139",
+   "tipo": "rueda",
+   "titulo": "Rueda Ford R15 con Firemax",
+   "subtitulo": "205/65 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Ford EcoSport (1ª gen)",
+   "detalle": "Llanta original Ford rodado 15, con cubierta Firemax 205/65 R15. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r139-1.jpg",
+    "fotos/r139-2.jpg"
+   ],
+   "claves": [
+    "2056515"
+   ],
+   "texto": "rueda ford r15 con firemax 205/65 r15 ford ecosport (1ª gen) llanta ford de aleación llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Ford R15 y cubierta Firemax 205/65 R15 que vi en el catálogo (cód. R139).\nhttps://cubiertasmdz.github.io/p/R139/",
+   "url": "https://cubiertasmdz.github.io/p/R139/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Firemax"
+   ],
+   "medida_cubierta": "205/65 R15"
+  },
+  {
+   "id": "L010",
+   "tipo": "llanta",
+   "titulo": "Llanta Peugeot R14",
+   "subtitulo": "4x108 · R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Peugeot 206, 207, Partner, Citroën C3",
+   "detalle": "Llanta original Peugeot rodado 14 de 4 agujeros. Se vende sin cubierta. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l010-1.jpg",
+    "fotos/l010-2.jpg"
+   ],
+   "claves": [
+    "14",
+    "4108",
+    "144108"
+   ],
+   "texto": "llanta peugeot r14 4x108 · r14 peugeot 206, 207, partner, citroën c3 original aleación rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Peugeot R14 que vi en el catálogo (cód. L010).\nhttps://cubiertasmdz.github.io/p/L010/",
+   "url": "https://cubiertasmdz.github.io/p/L010/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L011",
+   "tipo": "llanta",
+   "titulo": "Par de llantas Fiat R13 de chapa",
+   "subtitulo": "4x98 · R13",
+   "rodado": 13,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Chapa",
+    "Óxido superficial",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Fiat Uno, Fiorino, Palio",
+   "detalle": "Par de llantas originales Fiat rodado 13 de chapa de 4 agujeros. Se venden sin cubierta. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l011-1.jpg"
+   ],
+   "claves": [
+    "13",
+    "498",
+    "13498"
+   ],
+   "texto": "par de llantas fiat r13 de chapa 4x98 · r13 fiat uno, fiorino, palio original chapa óxido superficial se vende sin cubierta",
+   "wa": "Hola, quería consultar por el par de llantas Fiat R13 de chapa que vi en el catálogo (cód. L011).\nhttps://cubiertasmdz.github.io/p/L011/",
+   "url": "https://cubiertasmdz.github.io/p/L011/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L012",
+   "tipo": "llanta",
+   "titulo": "Llanta Ford R14 de chapa",
+   "subtitulo": "4x108 · R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Chapa",
+    "Óxido superficial",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Ford Fiesta, Ka, EcoSport (1ª gen)",
+   "detalle": "Llanta original Ford rodado 14 de chapa de 4 agujeros. Se vende sin cubierta. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l012-1.jpg"
+   ],
+   "claves": [
+    "14",
+    "4108",
+    "144108"
+   ],
+   "texto": "llanta ford r14 de chapa 4x108 · r14 ford fiesta, ka, ecosport (1ª gen) original chapa óxido superficial se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Ford R14 de chapa que vi en el catálogo (cód. L012).\nhttps://cubiertasmdz.github.io/p/L012/",
+   "url": "https://cubiertasmdz.github.io/p/L012/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L013",
+   "tipo": "llanta",
+   "titulo": "Llanta Toyota R15",
+   "subtitulo": "6x139.7 · R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Rayones",
+    "Pintura saltada",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Toyota Hilux (2005 a 2015), SW4",
+   "detalle": "Llanta original Toyota rodado 15 de 6 agujeros. Se vende sin cubierta. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l013-1.jpg",
+    "fotos/l013-2.jpg"
+   ],
+   "claves": [
+    "15",
+    "6139.7",
+    "156139.7"
+   ],
+   "texto": "llanta toyota r15 6x139.7 · r15 toyota hilux (2005 a 2015), sw4 original aleación rayones pintura saltada se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Toyota R15 que vi en el catálogo (cód. L013).\nhttps://cubiertasmdz.github.io/p/L013/",
+   "url": "https://cubiertasmdz.github.io/p/L013/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L014",
+   "tipo": "llanta",
+   "titulo": "Llanta Toyota R15 de chapa",
+   "subtitulo": "4x100 · R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Chapa",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Toyota Etios, Yaris",
+   "detalle": "Llanta original Toyota rodado 15 de chapa de 4 agujeros. Se vende sin cubierta. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l014-1.jpg",
+    "fotos/l014-2.jpg"
+   ],
+   "claves": [
+    "15",
+    "4100",
+    "154100"
+   ],
+   "texto": "llanta toyota r15 de chapa 4x100 · r15 toyota etios, yaris original chapa rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Toyota R15 de chapa que vi en el catálogo (cód. L014).\nhttps://cubiertasmdz.github.io/p/L014/",
+   "url": "https://cubiertasmdz.github.io/p/L014/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L015",
+   "tipo": "llanta",
+   "titulo": "Llanta Peugeot R15 de chapa",
+   "subtitulo": "4x108 · R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Chapa",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Peugeot 207, 208, 2008, Citroën C3",
+   "detalle": "Llanta de chapa Peugeot rodado 15 de 4 agujeros. Se vende sin cubierta: la Firestone que se ve en las fotos tiene un corte en el dibujo y NO se vende. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l015-1.jpg",
+    "fotos/l015-2.jpg",
+    "fotos/l015-3.jpg"
+   ],
+   "claves": [
+    "15",
+    "4108",
+    "154108"
+   ],
+   "texto": "llanta peugeot r15 de chapa 4x108 · r15 peugeot 207, 208, 2008, citroën c3 original chapa rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Peugeot R15 de chapa que vi en el catálogo (cód. L015).\nhttps://cubiertasmdz.github.io/p/L015/",
+   "url": "https://cubiertasmdz.github.io/p/L015/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
    "id": "C003",
    "tipo": "cubierta",
    "titulo": "Firemax FM316",
@@ -1872,8 +5371,8 @@
    "titulo": "Continental EcoContact 6",
    "subtitulo": "165/70 R14 · 85T",
    "rodado": 14,
-   "cantidad": 2,
-   "cantidad_txt": "Par",
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
    "estado": "Muy buena",
    "vida": 80,
    "segmentos": 4,
@@ -1892,13 +5391,16 @@
     "fotos/c025-4.jpg",
     "fotos/c025-5.jpg",
     "fotos/c025-6.jpg",
-    "fotos/c025-7.jpg"
+    "fotos/c025-7.jpg",
+    "fotos/c025-8.jpg",
+    "fotos/c025-9.jpg",
+    "fotos/c025-10.jpg"
    ],
    "claves": [
     "1657014"
    ],
    "texto": "continental ecocontact 6 165/70 r14 · 85t  fabricada en 2025 reforzada (xl)",
-   "wa": "Hola, quería consultar por las 2 cubiertas Continental 165/70 R14 que vi en el catálogo (cód. C025).\nhttps://cubiertasmdz.github.io/p/C025/",
+   "wa": "Hola, quería consultar por las 3 cubiertas Continental 165/70 R14 que vi en el catálogo (cód. C025).\nhttps://cubiertasmdz.github.io/p/C025/",
    "url": "https://cubiertasmdz.github.io/p/C025/",
    "marcas_llanta": [],
    "marcas_cubierta": [
