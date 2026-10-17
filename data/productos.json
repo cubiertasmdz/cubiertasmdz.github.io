@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:20",
+ "actualizado": "2026-10-16 23:21",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2774,6 +2774,47 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R051",
+   "tipo": "rueda",
+   "titulo": "Rueda Hyundai R16 con Goodyear",
+   "subtitulo": "215/65 R16 · 98H",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Hyundai de aleación",
+    "5x114.3",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Hyundai Tucson, Creta",
+   "detalle": "Llanta original Hyundai rodado 16 de 5 agujeros, con rayones, con cubierta Goodyear 215/65 R16 · 98H. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r051-1.jpg",
+    "fotos/r051-2.jpg"
+   ],
+   "claves": [
+    "2156516",
+    "5114.3",
+    "165114.3"
+   ],
+   "texto": "rueda hyundai r16 con goodyear 215/65 r16 · 98h hyundai tucson, creta llanta hyundai de aleación 5x114.3 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Hyundai R16 y cubierta Goodyear 215/65 R16 que vi en el catálogo (cód. R051).\nhttps://cubiertasmdz.github.io/p/R051/",
+   "url": "https://cubiertasmdz.github.io/p/R051/",
+   "marcas_llanta": [
+    "Hyundai"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "215/65 R16"
   },
   {
    "id": "R001",
