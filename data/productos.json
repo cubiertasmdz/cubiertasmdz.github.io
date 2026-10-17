@@ -2004,6 +2004,48 @@
    "medida_cubierta": "205/55 R16"
   },
   {
+   "id": "R033",
+   "tipo": "rueda",
+   "titulo": "Rueda Citroën R16 con Pirelli",
+   "subtitulo": "205/55 R16 · 94W",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Citroën de aleación",
+    "4x108",
+    "Fabricada en 2019",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Citroën C4, C3, DS3, Peugeot 207, 307, 308",
+   "detalle": "Llanta original Citroën rodado 16 con rayones, con cubierta Pirelli Cinturato P7 205/55 R16 · 94W. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r033-1.jpg",
+    "fotos/r033-2.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4108",
+    "164108"
+   ],
+   "texto": "rueda citroën r16 con pirelli 205/55 r16 · 94w citroën c4, c3, ds3, peugeot 207, 307, 308 llanta citroën de aleación 4x108 fabricada en 2019 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Citroën R16 y cubierta Pirelli 205/55 R16 que vi en el catálogo (cód. R033).\nhttps://cubiertasmdz.github.io/p/R033/",
+   "url": "https://cubiertasmdz.github.io/p/R033/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
    "id": "R001",
    "tipo": "rueda",
    "titulo": "Triangle AdvanteX TC101",
