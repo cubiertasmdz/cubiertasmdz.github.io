@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 22:45",
+ "actualizado": "2026-10-16 22:46",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1652,6 +1652,47 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/65 R14"
+  },
+  {
+   "id": "R025",
+   "tipo": "rueda",
+   "titulo": "4 llantas Nissan R16 + 2 cubiertas",
+   "subtitulo": "195/55 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 2 cubiertas",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Nissan de aleación",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Nissan March, Versa, Note, Tiida",
+   "detalle": "Juego de 4 llantas originales Nissan rodado 16 con rayones. Dos vienen con cubiertas 195/55 R16 (una más gastada que la otra); las otras dos se entregan sin cubierta.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r025-1.jpg",
+    "fotos/r025-2.jpg"
+   ],
+   "claves": [
+    "1955516",
+    "4100",
+    "164100"
+   ],
+   "texto": "4 llantas nissan r16 + 2 cubiertas 195/55 r16 nissan march, versa, note, tiida llanta nissan de aleación 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por las 4 llantas Nissan R16 con 2 cubiertas 195/55 R16 que vi en el catálogo (cód. R025).\nhttps://cubiertasmdz.github.io/p/R025/",
+   "url": "https://cubiertasmdz.github.io/p/R025/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "195/55 R16"
   },
   {
    "id": "R001",
