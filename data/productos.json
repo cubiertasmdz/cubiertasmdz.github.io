@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:25",
+ "actualizado": "2026-10-17 15:26",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1035,6 +1035,48 @@
     "Firestone"
    ],
    "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R078",
+   "tipo": "rueda",
+   "titulo": "Rueda Chery R15 con Firestone Firehawk",
+   "subtitulo": "185/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Chery de aleación",
+    "Fabricada en 2017",
+    "Llanta original",
+    "4 agujeros",
+    "Rayones"
+   ],
+   "sirve": "",
+   "detalle": "Llanta original Chery rodado 15 de 4 agujeros, con rayones, con cubierta Firestone Firehawk 900 185/60 R15 · 88H del 2017 con buen dibujo. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r078-1.jpg",
+    "fotos/r078-2.jpg",
+    "fotos/r078-3.jpg",
+    "fotos/r078-4.jpg"
+   ],
+   "claves": [
+    "1856015"
+   ],
+   "texto": "rueda chery r15 con firestone firehawk 185/60 r15 · 88h  llanta chery de aleación fabricada en 2017 llanta original 4 agujeros rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Chery R15 y cubierta Firestone Firehawk 185/60 R15 que vi en el catálogo (cód. R078).\nhttps://cubiertasmdz.github.io/p/R078/",
+   "url": "https://cubiertasmdz.github.io/p/R078/",
+   "marcas_llanta": [
+    "Chery"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "185/60 R15"
   },
   {
    "id": "C003",
