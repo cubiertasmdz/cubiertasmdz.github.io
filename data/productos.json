@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 21:41",
+ "actualizado": "2026-10-16 22:43",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1523,6 +1523,49 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null
+  },
+  {
+   "id": "R022",
+   "tipo": "rueda",
+   "titulo": "4 llantas Citroën R15 + 1 Pirelli",
+   "subtitulo": "195/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 1 cubierta",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Citroën de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "No incluye las cubiertas gastadas"
+   ],
+   "sirve": "Citroën C3, C4, Xsara Picasso, Berlingo, Peugeot 206, 207, 307, 308",
+   "detalle": "Juego de 4 llantas originales Citroën rodado 15 con rayones. Se vende con 1 cubierta Pirelli Cinturato P1 195/60 R15 en buen estado. Las otras cubiertas que se ven en las fotos están gastadas y NO se venden: esas llantas se entregan sin cubierta.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r022-1.jpg",
+    "fotos/r022-2.jpg",
+    "fotos/r022-3.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "4108",
+    "154108"
+   ],
+   "texto": "4 llantas citroën r15 + 1 pirelli 195/60 r15 · 88h citroën c3, c4, xsara picasso, berlingo, peugeot 206, 207, 307, 308 llanta citroën de aleación 4x108 llanta original rayones no incluye las cubiertas gastadas",
+   "wa": "Hola, quería consultar por las 4 llantas Citroën R15 con 1 cubierta Pirelli 195/60 R15 que vi en el catálogo (cód. R022).\nhttps://cubiertasmdz.github.io/p/R022/",
+   "url": "https://cubiertasmdz.github.io/p/R022/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "195/60 R15"
   },
   {
    "id": "R001",
