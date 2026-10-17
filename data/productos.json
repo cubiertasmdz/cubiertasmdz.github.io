@@ -434,6 +434,48 @@
    "medida_cubierta": "205/55 R16"
   },
   {
+   "id": "R066",
+   "tipo": "rueda",
+   "titulo": "Juego de 4 ruedas R15 alternativas TVW con Pace",
+   "subtitulo": "195/65 R15 · 91V",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Regular",
+   "vida": 30,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta TVW de aleación",
+    "Llanta alternativa",
+    "4 agujeros",
+    "Llantas sanas",
+    "Cubiertas gastadas"
+   ],
+   "sirve": "",
+   "detalle": "Juego completo de 4 llantas alternativas TVW de aleación rodado 15 (4 agujeros), sanas, con cubiertas Pace PC20 195/65 R15 · 91V con bastante desgaste. Ideal para aprovechar las llantas. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r066-1.jpg",
+    "fotos/r066-2.jpg",
+    "fotos/r066-3.jpg",
+    "fotos/r066-4.jpg"
+   ],
+   "claves": [
+    "1956515"
+   ],
+   "texto": "juego de 4 ruedas r15 alternativas tvw con pace 195/65 r15 · 91v  llanta tvw de aleación llanta alternativa 4 agujeros llantas sanas cubiertas gastadas",
+   "wa": "Hola, quería consultar por el juego de 4 ruedas completas con llantas alternativas TVW R15 y cubiertas Pace 195/65 R15 que vi en el catálogo (cód. R066).\nhttps://cubiertasmdz.github.io/p/R066/",
+   "url": "https://cubiertasmdz.github.io/p/R066/",
+   "marcas_llanta": [
+    "TVW"
+   ],
+   "marcas_cubierta": [
+    "Pace"
+   ],
+   "medida_cubierta": "195/65 R15"
+  },
+  {
    "id": "C003",
    "tipo": "cubierta",
    "titulo": "Firemax FM316",
