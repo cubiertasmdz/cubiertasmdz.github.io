@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:50",
+ "actualizado": "2026-10-17 15:54",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -4616,6 +4616,91 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null
+  },
+  {
+   "id": "R140",
+   "tipo": "rueda",
+   "titulo": "9 ruedas Ford R16",
+   "subtitulo": "185/60 R16",
+   "rodado": 16,
+   "cantidad": 9,
+   "cantidad_txt": "9 ruedas",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Ford Fiesta, Ka, Focus (1ª gen)",
+   "detalle": "Lote de 9 llantas originales Ford rodado 16 de 4 agujeros, todas con cubierta 185/60 R16 en buen estado (entre ellas Pirelli Cinturato). Se venden por unidad, par o juego. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r140-1.jpg",
+    "fotos/r140-2.jpg",
+    "fotos/r140-3.jpg"
+   ],
+   "claves": [
+    "1856016",
+    "4108",
+    "164108"
+   ],
+   "texto": "9 ruedas ford r16 185/60 r16 ford fiesta, ka, focus (1ª gen) llanta ford de aleación 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por las ruedas completas con llantas Ford R16 y cubiertas 185/60 R16 que vi en el catálogo (cód. R140).\nhttps://cubiertasmdz.github.io/p/R140/",
+   "url": "https://cubiertasmdz.github.io/p/R140/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Varias marcas"
+   ],
+   "medida_cubierta": "185/60 R16"
+  },
+  {
+   "id": "R141",
+   "tipo": "rueda",
+   "titulo": "Juego de 4 ruedas Renault R15",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Renault de aleación",
+    "4x100",
+    "Llanta original",
+    "Rayones",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Renault Clio, Symbol, Logan, Sandero",
+   "detalle": "Juego de 4 llantas originales Renault rodado 15 de 4 agujeros, con cubiertas 185/65 R15 de distintas marcas (Firestone, Goodyear y otras) con buen dibujo. Las cubiertas están destalonadas: hay que volver a montarlas y revisarlas al hacerlo. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r141-1.jpg",
+    "fotos/r141-2.jpg",
+    "fotos/r141-3.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "4100",
+    "154100"
+   ],
+   "texto": "juego de 4 ruedas renault r15 185/65 r15 renault clio, symbol, logan, sandero llanta renault de aleación 4x100 llanta original rayones cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por el juego de 4 ruedas completas con llantas Renault R15 y cubiertas 185/65 R15 que vi en el catálogo (cód. R141).\nhttps://cubiertasmdz.github.io/p/R141/",
+   "url": "https://cubiertasmdz.github.io/p/R141/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [
+    "Varias marcas"
+   ],
+   "medida_cubierta": "185/65 R15"
   },
   {
    "id": "C003",
