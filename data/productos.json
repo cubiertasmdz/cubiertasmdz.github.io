@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:12",
+ "actualizado": "2026-10-17 15:15",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -739,6 +739,51 @@
     "Kumho"
    ],
    "medida_cubierta": "185/65 R14"
+  },
+  {
+   "id": "R073",
+   "tipo": "rueda",
+   "titulo": "4 llantas Chevrolet Tracker R16 + 2 cubiertas",
+   "subtitulo": "205/70 R16 · 96H",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 2 cubiertas",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Chevrolet de aleación",
+    "5x105",
+    "Fabricada en 2017",
+    "Llanta original",
+    "Llantas sanas",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Chevrolet Tracker (2013 a 2019)",
+   "detalle": "Juego de 4 llantas originales Chevrolet Tracker rodado 16 de 5 agujeros, sanas. Se venden con 2 cubiertas Continental ContiProContact 205/70 R16 · 96H del 2017; las otras 2 llantas van sin cubierta.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r073-1.jpg",
+    "fotos/r073-2.jpg",
+    "fotos/r073-3.jpg",
+    "fotos/r073-4.jpg"
+   ],
+   "claves": [
+    "2057016",
+    "5105",
+    "165105"
+   ],
+   "texto": "4 llantas chevrolet tracker r16 + 2 cubiertas 205/70 r16 · 96h chevrolet tracker (2013 a 2019) llanta chevrolet de aleación 5x105 fabricada en 2017 llanta original llantas sanas para camioneta / suv",
+   "wa": "Hola, quería consultar por las 4 llantas Chevrolet Tracker R16 con 2 cubiertas Continental 205/70 R16 que vi en el catálogo (cód. R073).\nhttps://cubiertasmdz.github.io/p/R073/",
+   "url": "https://cubiertasmdz.github.io/p/R073/",
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "205/70 R16"
   },
   {
    "id": "C003",
