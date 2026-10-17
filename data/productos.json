@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:06",
+ "actualizado": "2026-10-17 15:07",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -562,6 +562,50 @@
     "Firemax"
    ],
    "medida_cubierta": "185/65 R14"
+  },
+  {
+   "id": "R069",
+   "tipo": "rueda",
+   "titulo": "Rueda Fiat Adventure R15 con Pace",
+   "subtitulo": "205/65 R15 · 94H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Fiat de aleación",
+    "4x98",
+    "Fabricada en 2022",
+    "Llanta original",
+    "Pintura saltada",
+    "Rayones"
+   ],
+   "sirve": "Fiat Palio Adventure, Idea Adventure, Strada Adventure",
+   "detalle": "Llanta original Fiat Adventure rodado 15 de 4 agujeros, con pintura saltada y rayones, con cubierta Pace Alventi 205/65 R15 · 94H del 2022, sana y con muy buen dibujo (está destalonada, hay que volver a montarla). Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r069-1.jpg",
+    "fotos/r069-2.jpg",
+    "fotos/r069-3.jpg"
+   ],
+   "claves": [
+    "2056515",
+    "498",
+    "15498"
+   ],
+   "texto": "rueda fiat adventure r15 con pace 205/65 r15 · 94h fiat palio adventure, idea adventure, strada adventure llanta fiat de aleación 4x98 fabricada en 2022 llanta original pintura saltada rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Fiat Adventure R15 y cubierta Pace 205/65 R15 que vi en el catálogo (cód. R069).\nhttps://cubiertasmdz.github.io/p/R069/",
+   "url": "https://cubiertasmdz.github.io/p/R069/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Pace"
+   ],
+   "medida_cubierta": "205/65 R15"
   },
   {
    "id": "C003",
