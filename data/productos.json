@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:04",
+ "actualizado": "2026-10-17 15:06",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -474,6 +474,51 @@
     "Pace"
    ],
    "medida_cubierta": "195/65 R15"
+  },
+  {
+   "id": "R067",
+   "tipo": "rueda",
+   "titulo": "Rueda Nissan R16 con Goodyear",
+   "subtitulo": "205/60 R16 · 92V",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Nissan de aleación",
+    "4x100",
+    "Fabricada en 2023",
+    "Llanta original",
+    "Rayones",
+    "Diamantada bitono"
+   ],
+   "sirve": "Nissan Kicks, Versa, March, Note",
+   "detalle": "Llanta original Nissan rodado 16 de 4 agujeros, bitono (negra y diamantada), con rayones, con cubierta Goodyear EfficientGrip Performance 205/60 R16 · 92V del 2023 con muy buen dibujo. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r067-1.jpg",
+    "fotos/r067-2.jpg",
+    "fotos/r067-3.jpg",
+    "fotos/r067-4.jpg"
+   ],
+   "claves": [
+    "2056016",
+    "4100",
+    "164100"
+   ],
+   "texto": "rueda nissan r16 con goodyear 205/60 r16 · 92v nissan kicks, versa, march, note llanta nissan de aleación 4x100 fabricada en 2023 llanta original rayones diamantada bitono",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Nissan R16 y cubierta Goodyear 205/60 R16 que vi en el catálogo (cód. R067).\nhttps://cubiertasmdz.github.io/p/R067/",
+   "url": "https://cubiertasmdz.github.io/p/R067/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "205/60 R16"
   },
   {
    "id": "C003",
