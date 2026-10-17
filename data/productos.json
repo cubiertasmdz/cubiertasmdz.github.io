@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:24",
+ "actualizado": "2026-10-16 23:25",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2901,6 +2901,51 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16"
+  },
+  {
+   "id": "R054",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Toyota Hilux R15 con Fate",
+   "subtitulo": "255/70 R15",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Toyota de aleación",
+    "6x139.7",
+    "Llanta original",
+    "Rayones",
+    "Pintura saltada",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Toyota Hilux (2005 a 2015), SW4",
+   "detalle": "Par de llantas originales Toyota Hilux rodado 15 de 6 agujeros, con rayones y pintura saltada, con cubiertas Fate Range Runner H/T 255/70 R15 C (reforzadas para camioneta) con muy buen dibujo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r054-1.jpg",
+    "fotos/r054-2.jpg",
+    "fotos/r054-3.jpg",
+    "fotos/r054-4.jpg"
+   ],
+   "claves": [
+    "2557015",
+    "6139.7",
+    "156139.7"
+   ],
+   "texto": "par de ruedas toyota hilux r15 con fate 255/70 r15 toyota hilux (2005 a 2015), sw4 llanta toyota de aleación 6x139.7 llanta original rayones pintura saltada para camioneta / suv",
+   "wa": "Hola, quería consultar por el par de ruedas completas con llantas Toyota Hilux R15 y cubiertas Fate 255/70 R15 que vi en el catálogo (cód. R054).\nhttps://cubiertasmdz.github.io/p/R054/",
+   "url": "https://cubiertasmdz.github.io/p/R054/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "255/70 R15"
   },
   {
    "id": "R001",
