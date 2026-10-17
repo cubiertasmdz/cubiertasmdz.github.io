@@ -2732,6 +2732,50 @@
    "medida_cubierta": "185/60 R15"
   },
   {
+   "id": "R050",
+   "tipo": "rueda",
+   "titulo": "Rueda Toyota Corolla R16 con Pirelli",
+   "subtitulo": "205/55 R16 · 94W",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Toyota de aleación",
+    "5x100",
+    "Fabricada en 2020",
+    "Llanta original",
+    "Rayones",
+    "Reforzada (XL)"
+   ],
+   "sirve": "Toyota Corolla (2003 a 2008)",
+   "detalle": "Llanta original Toyota rodado 16 de 5 agujeros, con rayones, con cubierta Pirelli Cinturato P7 205/55 R16 · 94W del 2020 con buen dibujo. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r050-1.jpg",
+    "fotos/r050-2.jpg",
+    "fotos/r050-3.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "5100",
+    "165100"
+   ],
+   "texto": "rueda toyota corolla r16 con pirelli 205/55 r16 · 94w toyota corolla (2003 a 2008) llanta toyota de aleación 5x100 fabricada en 2020 llanta original rayones reforzada (xl)",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Toyota R16 y cubierta Pirelli 205/55 R16 que vi en el catálogo (cód. R050).\nhttps://cubiertasmdz.github.io/p/R050/",
+   "url": "https://cubiertasmdz.github.io/p/R050/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
    "id": "R001",
    "tipo": "rueda",
    "titulo": "Triangle AdvanteX TC101",
