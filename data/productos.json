@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:06",
+ "actualizado": "2026-10-16 23:08",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2385,6 +2385,51 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14"
+  },
+  {
+   "id": "R043",
+   "tipo": "rueda",
+   "titulo": "2 ruedas Nissan R16 205/55",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Nissan de aleación",
+    "4x100",
+    "Llanta original",
+    "Bitono negro y diamantado",
+    "Rayones leves",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Nissan Versa, Kicks",
+   "detalle": "Par de llantas originales Nissan rodado 16 bitono, un poco rayadas. Cubiertas 205/55 R16: una Kumho Ecowing ES31 y una Bridgestone Turanza ER300.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r043-1.jpg",
+    "fotos/r043-2.jpg",
+    "fotos/r043-3.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4100",
+    "164100"
+   ],
+   "texto": "2 ruedas nissan r16 205/55 205/55 r16 nissan versa, kicks llanta nissan de aleación 4x100 llanta original bitono negro y diamantado rayones leves cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Nissan R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R043).\nhttps://cubiertasmdz.github.io/p/R043/",
+   "url": "https://cubiertasmdz.github.io/p/R043/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [
+    "Kumho",
+    "Bridgestone"
+   ],
+   "medida_cubierta": "205/55 R16"
   },
   {
    "id": "R001",
