@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:17",
+ "actualizado": "2026-10-16 23:18",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2646,6 +2646,46 @@
     "Dunlop"
    ],
    "medida_cubierta": "185/65 R14"
+  },
+  {
+   "id": "L006",
+   "tipo": "llanta",
+   "titulo": "Juego de 3 llantas Renault R16",
+   "subtitulo": "4x100 · R16",
+   "rodado": 16,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Renault Sandero, Stepway, Logan, Clio",
+   "detalle": "Juego de 3 llantas originales Renault rodado 16 de 4 agujeros, con rayones. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l006-1.jpg",
+    "fotos/l006-2.jpg",
+    "fotos/l006-3.jpg"
+   ],
+   "claves": [
+    "16",
+    "4100",
+    "164100"
+   ],
+   "texto": "juego de 3 llantas renault r16 4x100 · r16 renault sandero, stepway, logan, clio original aleación rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por el juego de 3 llantas Renault R16 que vi en el catálogo (cód. L006).\nhttps://cubiertasmdz.github.io/p/L006/",
+   "url": "https://cubiertasmdz.github.io/p/L006/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
   },
   {
    "id": "R001",
