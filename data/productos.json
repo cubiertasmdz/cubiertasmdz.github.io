@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 18:21",
+ "actualizado": "2026-10-16 21:41",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1484,6 +1484,45 @@
     "Goodyear"
    ],
    "medida_cubierta": "195/65 R15"
+  },
+  {
+   "id": "L005",
+   "tipo": "llanta",
+   "titulo": "Juego de 4 llantas Ford Ranger R18",
+   "subtitulo": "6x139.7 · R18",
+   "rodado": 18,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Ford Ranger (2012 en adelante), Ford Everest",
+   "detalle": "Juego completo de 4 llantas originales Ford Ranger rodado 18, bitono, con rayones. Se venden sin cubiertas.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l005-1.jpg",
+    "fotos/l005-2.jpg"
+   ],
+   "claves": [
+    "18",
+    "6139.7",
+    "186139.7"
+   ],
+   "texto": "juego de 4 llantas ford ranger r18 6x139.7 · r18 ford ranger (2012 en adelante), ford everest original aleación rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por el juego de 4 llantas Ford Ranger R18 que vi en el catálogo (cód. L005).\nhttps://cubiertasmdz.github.io/p/L005/",
+   "url": "https://cubiertasmdz.github.io/p/L005/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
   },
   {
    "id": "R001",
