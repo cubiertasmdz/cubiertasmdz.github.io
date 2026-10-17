@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:08",
+ "actualizado": "2026-10-17 15:09",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -650,6 +650,48 @@
     "Pirelli"
    ],
    "medida_cubierta": "215/50 R17"
+  },
+  {
+   "id": "R071",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R15 de chapa con Goodyear",
+   "subtitulo": "185/65 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Óxido superficial"
+   ],
+   "sirve": "Peugeot 208, 207, 2008, Citroën C3",
+   "detalle": "Llanta de chapa Peugeot rodado 15 (4 agujeros), con óxido superficial, con cubierta Goodyear EfficientGrip Performance 185/65 R15 · 88H fabricada en Brasil. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r071-1.jpg",
+    "fotos/r071-2.jpg",
+    "fotos/r071-3.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "4108",
+    "154108"
+   ],
+   "texto": "rueda peugeot r15 de chapa con goodyear 185/65 r15 · 88h peugeot 208, 207, 2008, citroën c3 llanta peugeot de chapa 4x108 llanta original óxido superficial",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R15 de chapa y cubierta Goodyear 185/65 R15 que vi en el catálogo (cód. R071).\nhttps://cubiertasmdz.github.io/p/R071/",
+   "url": "https://cubiertasmdz.github.io/p/R071/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "185/65 R15"
   },
   {
    "id": "C003",
