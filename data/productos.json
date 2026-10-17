@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 22:50",
+ "actualizado": "2026-10-16 22:51",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1868,6 +1868,48 @@
     "Goodyear"
    ],
    "medida_cubierta": "235/60 R18"
+  },
+  {
+   "id": "R030",
+   "tipo": "rueda",
+   "titulo": "4 llantas BMW R18 + 2 Continental",
+   "subtitulo": "225/45 R18",
+   "rodado": 18,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 2 cubiertas",
+   "estado": "Regular",
+   "vida": 40,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta BMW de aleación",
+    "5x120",
+    "Llanta original",
+    "Bitono",
+    "Rayones"
+   ],
+   "sirve": "BMW Serie 3 (F30), Serie 4 (F32)",
+   "detalle": "Juego de 4 llantas originales BMW rodado 18, bitono, con rayones. Dos vienen con cubiertas Continental 225/45 R18 con desgaste avanzado; las otras dos se entregan sin cubierta.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r030-1.jpg",
+    "fotos/r030-2.jpg"
+   ],
+   "claves": [
+    "2254518",
+    "5120",
+    "185120"
+   ],
+   "texto": "4 llantas bmw r18 + 2 continental 225/45 r18 bmw serie 3 (f30), serie 4 (f32) llanta bmw de aleación 5x120 llanta original bitono rayones",
+   "wa": "Hola, quería consultar por las 4 llantas BMW R18 con 2 cubiertas Continental 225/45 R18 que vi en el catálogo (cód. R030).\nhttps://cubiertasmdz.github.io/p/R030/",
+   "url": "https://cubiertasmdz.github.io/p/R030/",
+   "marcas_llanta": [
+    "BMW"
+   ],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "225/45 R18"
   },
   {
    "id": "R001",
