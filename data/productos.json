@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 22:54",
+ "actualizado": "2026-10-16 22:55",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2086,6 +2086,50 @@
    ],
    "marcas_cubierta": [
     "Triangle"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R035",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot 408 R16 con Pirelli",
+   "subtitulo": "205/55 R16 · 91V",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Fabricada en 2019",
+    "Llanta original",
+    "Rayones",
+    "Desgaste irregular"
+   ],
+   "sirve": "Peugeot 408, 307, 308, Citroën C4",
+   "detalle": "Llanta original Peugeot 408 rodado 16 con rayones, con cubierta Pirelli Cinturato P1 Plus 205/55 R16 del 2019. La cubierta tiene desgaste irregular en el canal central. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r035-1.jpg",
+    "fotos/r035-2.jpg",
+    "fotos/r035-3.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4108",
+    "164108"
+   ],
+   "texto": "rueda peugeot 408 r16 con pirelli 205/55 r16 · 91v peugeot 408, 307, 308, citroën c4 llanta peugeot de aleación 4x108 fabricada en 2019 llanta original rayones desgaste irregular",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R16 y cubierta Pirelli 205/55 R16 que vi en el catálogo (cód. R035).\nhttps://cubiertasmdz.github.io/p/R035/",
+   "url": "https://cubiertasmdz.github.io/p/R035/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
    ],
    "medida_cubierta": "205/55 R16"
   },
