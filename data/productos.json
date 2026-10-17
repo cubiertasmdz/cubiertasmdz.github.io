@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:00",
+ "actualizado": "2026-10-17 15:04",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -385,6 +385,51 @@
    ],
    "marcas_cubierta": [
     "Bridgestone"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R065",
+   "tipo": "rueda",
+   "titulo": "Rueda Citroën C3 R16 con Pirelli",
+   "subtitulo": "205/55 R16 · 94W",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 45,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Citroën de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones",
+    "Reforzada (XL)",
+    "Hombro con desgaste"
+   ],
+   "sirve": "Citroën C3 (2017 en adelante), C4 Cactus",
+   "detalle": "Llanta original Citroën rodado 16 de 4 agujeros, con rayones, con cubierta Pirelli 205/55 R16 · 94W reforzada, fabricada en Argentina. La cubierta tiene un hombro con más desgaste. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r065-1.jpg",
+    "fotos/r065-2.jpg",
+    "fotos/r065-3.jpg",
+    "fotos/r065-4.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4108",
+    "164108"
+   ],
+   "texto": "rueda citroën c3 r16 con pirelli 205/55 r16 · 94w citroën c3 (2017 en adelante), c4 cactus llanta citroën de aleación 4x108 llanta original rayones reforzada (xl) hombro con desgaste",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Citroën R16 y cubierta Pirelli 205/55 R16 que vi en el catálogo (cód. R065).\nhttps://cubiertasmdz.github.io/p/R065/",
+   "url": "https://cubiertasmdz.github.io/p/R065/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
    ],
    "medida_cubierta": "205/55 R16"
   },
