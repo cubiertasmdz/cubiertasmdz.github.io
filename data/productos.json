@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:15",
+ "actualizado": "2026-10-17 15:16",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -784,6 +784,48 @@
     "Continental"
    ],
    "medida_cubierta": "205/70 R16"
+  },
+  {
+   "id": "L008",
+   "tipo": "llanta",
+   "titulo": "Llanta Renault R15 de chapa",
+   "subtitulo": "4x100 · R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Regular",
+   "vida": null,
+   "segmentos": 2,
+   "etiquetas": [
+    "Original",
+    "Chapa",
+    "Óxido superficial",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Renault Sandero, Logan, Kangoo, Clio",
+   "detalle": "Llanta de chapa Renault rodado 15 de 4 agujeros, con óxido superficial y rayones. Se vende solo la llanta: la cubierta que se ve en las fotos no se incluye. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l008-1.jpg",
+    "fotos/l008-2.jpg",
+    "fotos/l008-3.jpg",
+    "fotos/l008-4.jpg"
+   ],
+   "claves": [
+    "15",
+    "4100",
+    "154100"
+   ],
+   "texto": "llanta renault r15 de chapa 4x100 · r15 renault sandero, logan, kangoo, clio original chapa óxido superficial rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Renault R15 de chapa que vi en el catálogo (cód. L008).\nhttps://cubiertasmdz.github.io/p/L008/",
+   "url": "https://cubiertasmdz.github.io/p/L008/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
   },
   {
    "id": "C003",
