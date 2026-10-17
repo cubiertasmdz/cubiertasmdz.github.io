@@ -2022,7 +2022,7 @@
     "Rayones"
    ],
    "sirve": "Citroën C4, C3, DS3, Peugeot 207, 307, 308",
-   "detalle": "Llanta original Citroën rodado 16 con rayones, con cubierta Pirelli Cinturato P7 205/55 R16 · 94W. Ideal como auxilio.",
+   "detalle": "Llanta original Citroën rodado 16 con rayones, con cubierta Pirelli Cinturato P7 205/55 R16 · 94W. Hay otra rueda igual (cód. R038): se pueden llevar las dos.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -2214,6 +2214,46 @@
     "Michelin"
    ],
    "medida_cubierta": "195/60 R15"
+  },
+  {
+   "id": "R038",
+   "tipo": "rueda",
+   "titulo": "Rueda Citroën R16 con Pirelli",
+   "subtitulo": "205/55 R16 · 94W",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 45,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Citroën de aleación",
+    "4x108",
+    "Fabricada en 2019",
+    "Llanta original",
+    "Rayones",
+    "Reforzada (XL)"
+   ],
+   "sirve": "Citroën C4, C3, DS3, Peugeot 207, 307, 308",
+   "detalle": "Llanta original Citroën rodado 16 con rayones, con cubierta Pirelli Cinturato P7 205/55 R16 · 94W del 2019. Hay otra rueda igual (cód. R033): se pueden llevar las dos.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [],
+   "claves": [
+    "2055516",
+    "4108",
+    "164108"
+   ],
+   "texto": "rueda citroën r16 con pirelli 205/55 r16 · 94w citroën c4, c3, ds3, peugeot 207, 307, 308 llanta citroën de aleación 4x108 fabricada en 2019 llanta original rayones reforzada (xl)",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Citroën R16 y cubierta Pirelli 205/55 R16 (cód. R038) que vi en el catálogo (cód. R038).\nhttps://cubiertasmdz.github.io/p/R038/",
+   "url": "https://cubiertasmdz.github.io/p/R038/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "205/55 R16"
   },
   {
    "id": "R001",
