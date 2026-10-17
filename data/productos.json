@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:07",
+ "actualizado": "2026-10-17 15:08",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -606,6 +606,50 @@
     "Pace"
    ],
    "medida_cubierta": "205/65 R15"
+  },
+  {
+   "id": "R070",
+   "tipo": "rueda",
+   "titulo": "Rueda Chevrolet Cruze R17 con Pirelli",
+   "subtitulo": "215/50 R17 · 91V",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Chevrolet de aleación",
+    "5x105",
+    "Llanta original",
+    "Rayones",
+    "Dibujo con grietas"
+   ],
+   "sirve": "Chevrolet Cruze (2016 en adelante)",
+   "detalle": "Llanta original Chevrolet Cruze rodado 17 de 5 agujeros, con rayones, con cubierta Pirelli Cinturato P7 215/50 R17 · 91V. La cubierta tiene grietas en los tacos de un costado del dibujo: recomendada como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r070-1.jpg",
+    "fotos/r070-2.jpg",
+    "fotos/r070-3.jpg",
+    "fotos/r070-4.jpg"
+   ],
+   "claves": [
+    "2155017",
+    "5105",
+    "175105"
+   ],
+   "texto": "rueda chevrolet cruze r17 con pirelli 215/50 r17 · 91v chevrolet cruze (2016 en adelante) llanta chevrolet de aleación 5x105 llanta original rayones dibujo con grietas",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Chevrolet Cruze R17 y cubierta Pirelli 215/50 R17 que vi en el catálogo (cód. R070).\nhttps://cubiertasmdz.github.io/p/R070/",
+   "url": "https://cubiertasmdz.github.io/p/R070/",
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "215/50 R17"
   },
   {
    "id": "C003",
