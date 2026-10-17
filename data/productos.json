@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 14:55",
+ "actualizado": "2026-10-17 14:58",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -251,6 +251,50 @@
     "Tango"
    ],
    "medida_cubierta": "195/65 R15"
+  },
+  {
+   "id": "R062",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Nissan Kicks R16 con Pirelli",
+   "subtitulo": "205/60 R16 · 92H",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Regular",
+   "vida": 40,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Nissan de aleación",
+    "4x100",
+    "Llanta original",
+    "Rayones",
+    "Diamantada bitono",
+    "Cubiertas gastadas"
+   ],
+   "sirve": "Nissan Kicks",
+   "detalle": "Par de llantas originales Nissan rodado 16 de 4 agujeros, bitono (negras y diamantadas), con rayones, con cubiertas Pirelli Scorpion ATR 205/60 R16 · 92H con desgaste. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r062-1.jpg",
+    "fotos/r062-2.jpg",
+    "fotos/r062-3.jpg"
+   ],
+   "claves": [
+    "2056016",
+    "4100",
+    "164100"
+   ],
+   "texto": "par de ruedas nissan kicks r16 con pirelli 205/60 r16 · 92h nissan kicks llanta nissan de aleación 4x100 llanta original rayones diamantada bitono cubiertas gastadas",
+   "wa": "Hola, quería consultar por el par de ruedas completas con llantas Nissan R16 y cubiertas Pirelli Scorpion 205/60 R16 que vi en el catálogo (cód. R062).\nhttps://cubiertasmdz.github.io/p/R062/",
+   "url": "https://cubiertasmdz.github.io/p/R062/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "205/60 R16"
   },
   {
    "id": "C003",
