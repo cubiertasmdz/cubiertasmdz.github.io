@@ -3040,6 +3040,49 @@
    "medida_cubierta": "265/70 R16"
   },
   {
+   "id": "R057",
+   "tipo": "rueda",
+   "titulo": "Rueda Ford Focus R15 con Michelin",
+   "subtitulo": "195/65 R15 · 91H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "4x108",
+    "Fabricada en 2017",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Ford Focus (1999 a 2008)",
+   "detalle": "Llanta original Ford Focus rodado 15 (6J x 15) de 4 agujeros, con rayones, con cubierta Michelin Primacy 3 195/65 R15 · 91H del 2017. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r057-1.jpg",
+    "fotos/r057-2.jpg",
+    "fotos/r057-3.jpg"
+   ],
+   "claves": [
+    "1956515",
+    "4108",
+    "154108"
+   ],
+   "texto": "rueda ford focus r15 con michelin 195/65 r15 · 91h ford focus (1999 a 2008) llanta ford de aleación 4x108 fabricada en 2017 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Ford Focus R15 y cubierta Michelin 195/65 R15 que vi en el catálogo (cód. R057).\nhttps://cubiertasmdz.github.io/p/R057/",
+   "url": "https://cubiertasmdz.github.io/p/R057/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "195/65 R15"
+  },
+  {
    "id": "R001",
    "tipo": "rueda",
    "titulo": "Triangle AdvanteX TC101",
