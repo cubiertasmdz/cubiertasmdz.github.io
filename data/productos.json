@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:44",
+ "actualizado": "2026-10-17 15:50",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2142,47 +2142,6 @@
    "medida_cubierta": "255/70 R15"
   },
   {
-   "id": "R087",
-   "tipo": "rueda",
-   "titulo": "Rueda Peugeot R14 de chapa con Firestone",
-   "subtitulo": "185/65 R14 · 86H",
-   "rodado": 14,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
-   "estado": "Regular",
-   "vida": 40,
-   "segmentos": 2,
-   "etiquetas": [
-    "Llanta Peugeot de chapa",
-    "4x108",
-    "Llanta original",
-    "Rayones"
-   ],
-   "sirve": "Peugeot 206, 207, Partner, Citroën C3",
-   "detalle": "Llanta original Peugeot rodado 14 de chapa de 4 agujeros, con cubierta Firestone Firehawk 700 185/65 R14 · 86H. Ideal como auxilio. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/r087-1.jpg",
-    "fotos/r087-2.jpg"
-   ],
-   "claves": [
-    "1856514",
-    "4108",
-    "144108"
-   ],
-   "texto": "rueda peugeot r14 de chapa con firestone 185/65 r14 · 86h peugeot 206, 207, partner, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
-   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R14 de chapa y cubierta Firestone 185/65 R14 que vi en el catálogo (cód. R087).\nhttps://cubiertasmdz.github.io/p/R087/",
-   "url": "https://cubiertasmdz.github.io/p/R087/",
-   "marcas_llanta": [
-    "Peugeot"
-   ],
-   "marcas_cubierta": [
-    "Firestone"
-   ],
-   "medida_cubierta": "185/65 R14"
-  },
-  {
    "id": "R088",
    "tipo": "rueda",
    "titulo": "Rueda Peugeot R14 de chapa con Firestone",
@@ -2351,7 +2310,7 @@
   {
    "id": "R092",
    "tipo": "rueda",
-   "titulo": "Par de ruedas R14 de chapa con Firemax",
+   "titulo": "Par de ruedas R14 alternativas con Firemax",
    "subtitulo": "185/65 R14 · 86H",
    "rodado": 14,
    "cantidad": 2,
@@ -2361,11 +2320,11 @@
    "segmentos": 3,
    "etiquetas": [
     "Llanta de chapa",
-    "Llanta original",
+    "Llanta alternativa",
     "Rayones"
    ],
    "sirve": "",
-   "detalle": "Par de llantas de chapa rodado 14 de 4 agujeros, con cubiertas Firemax FM601 185/65 R14 · 86H. Consultá por tu auto.",
+   "detalle": "Par de llantas alternativas de chapa rodado 14 de 4 agujeros, con cubiertas Firemax FM601 185/65 R14 · 86H. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -2378,10 +2337,12 @@
    "claves": [
     "1856514"
    ],
-   "texto": "par de ruedas r14 de chapa con firemax 185/65 r14 · 86h  llanta de chapa llanta original rayones",
-   "wa": "Hola, quería consultar por el par de ruedas completas con llantas de chapa R14 y cubiertas Firemax 185/65 R14 que vi en el catálogo (cód. R092).\nhttps://cubiertasmdz.github.io/p/R092/",
+   "texto": "par de ruedas r14 alternativas con firemax 185/65 r14 · 86h  llanta de chapa llanta alternativa rayones",
+   "wa": "Hola, quería consultar por el par de ruedas completas con llantas alternativas R14 y cubiertas Firemax 185/65 R14 que vi en el catálogo (cód. R092).\nhttps://cubiertasmdz.github.io/p/R092/",
    "url": "https://cubiertasmdz.github.io/p/R092/",
-   "marcas_llanta": [],
+   "marcas_llanta": [
+    "Alternativa"
+   ],
    "marcas_cubierta": [
     "Firemax"
    ],
@@ -2550,88 +2511,6 @@
    ],
    "marcas_cubierta": [
     "Pace"
-   ],
-   "medida_cubierta": "175/65 R14"
-  },
-  {
-   "id": "R097",
-   "tipo": "rueda",
-   "titulo": "Rueda Volkswagen R14 de chapa con Tango",
-   "subtitulo": "175/70 R14 · 84T",
-   "rodado": 14,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
-   "estado": "Regular",
-   "vida": 30,
-   "segmentos": 2,
-   "etiquetas": [
-    "Llanta Volkswagen de chapa",
-    "4x100",
-    "Llanta original",
-    "Rayones",
-    "Cubierta gastada"
-   ],
-   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
-   "detalle": "Llanta original Volkswagen rodado 14 de chapa de 4 agujeros, con cubierta Tango 175/70 R14 · 84T. La cubierta está gastada. Ideal como auxilio. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/r097-1.jpg",
-    "fotos/r097-2.jpg"
-   ],
-   "claves": [
-    "1757014",
-    "4100",
-    "144100"
-   ],
-   "texto": "rueda volkswagen r14 de chapa con tango 175/70 r14 · 84t vw gol, voyage, fox, suran, saveiro llanta volkswagen de chapa 4x100 llanta original rayones cubierta gastada",
-   "wa": "Hola, quería consultar por la rueda completa con llanta Volkswagen R14 de chapa y cubierta Tango 175/70 R14 que vi en el catálogo (cód. R097).\nhttps://cubiertasmdz.github.io/p/R097/",
-   "url": "https://cubiertasmdz.github.io/p/R097/",
-   "marcas_llanta": [
-    "Volkswagen"
-   ],
-   "marcas_cubierta": [
-    "Tango"
-   ],
-   "medida_cubierta": "175/70 R14"
-  },
-  {
-   "id": "R098",
-   "tipo": "rueda",
-   "titulo": "Rueda Citroën R14 de chapa con Firestone",
-   "subtitulo": "175/65 R14",
-   "rodado": 14,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
-   "estado": "Buena",
-   "vida": 50,
-   "segmentos": 2,
-   "etiquetas": [
-    "Llanta Citroën de chapa",
-    "4x108",
-    "Llanta original",
-    "Rayones"
-   ],
-   "sirve": "Citroën C3, Peugeot 206, 207",
-   "detalle": "Llanta original Citroën rodado 14 de chapa de 4 agujeros, con cubierta Firestone F-580 175/65 R14. Ideal como auxilio. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/r098-1.jpg"
-   ],
-   "claves": [
-    "1756514",
-    "4108",
-    "144108"
-   ],
-   "texto": "rueda citroën r14 de chapa con firestone 175/65 r14 citroën c3, peugeot 206, 207 llanta citroën de chapa 4x108 llanta original rayones",
-   "wa": "Hola, quería consultar por la rueda completa con llanta Citroën R14 de chapa y cubierta Firestone 175/65 R14 que vi en el catálogo (cód. R098).\nhttps://cubiertasmdz.github.io/p/R098/",
-   "url": "https://cubiertasmdz.github.io/p/R098/",
-   "marcas_llanta": [
-    "Citroën"
-   ],
-   "marcas_cubierta": [
-    "Firestone"
    ],
    "medida_cubierta": "175/65 R14"
   },
@@ -2890,7 +2769,7 @@
   {
    "id": "R105",
    "tipo": "rueda",
-   "titulo": "Rueda Peugeot R15 de chapa con Michelin",
+   "titulo": "Rueda Citroën R15 de chapa con Michelin",
    "subtitulo": "195/60 R15",
    "rodado": 15,
    "cantidad": 1,
@@ -2899,13 +2778,13 @@
    "vida": 70,
    "segmentos": 4,
    "etiquetas": [
-    "Llanta Peugeot de chapa",
+    "Llanta Citroën de chapa",
     "4x108",
     "Llanta original",
     "Rayones"
    ],
-   "sirve": "Peugeot 207, 208, 2008, Citroën C3",
-   "detalle": "Llanta original Peugeot rodado 15 de chapa de 4 agujeros, con cubierta Michelin Energy Saver 195/60 R15. Ideal como auxilio. Consultá por tu auto.",
+   "sirve": "Citroën C3, C4, Peugeot 207, 208",
+   "detalle": "Llanta original Citroën rodado 15 de chapa de 4 agujeros, con cubierta Michelin Energy Saver 195/60 R15. Ideal como auxilio. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -2918,11 +2797,11 @@
     "4108",
     "154108"
    ],
-   "texto": "rueda peugeot r15 de chapa con michelin 195/60 r15 peugeot 207, 208, 2008, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones",
-   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R15 de chapa y cubierta Michelin 195/60 R15 que vi en el catálogo (cód. R105).\nhttps://cubiertasmdz.github.io/p/R105/",
+   "texto": "rueda citroën r15 de chapa con michelin 195/60 r15 citroën c3, c4, peugeot 207, 208 llanta citroën de chapa 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Citroën R15 de chapa y cubierta Michelin 195/60 R15 que vi en el catálogo (cód. R105).\nhttps://cubiertasmdz.github.io/p/R105/",
    "url": "https://cubiertasmdz.github.io/p/R105/",
    "marcas_llanta": [
-    "Peugeot"
+    "Citroën"
    ],
    "marcas_cubierta": [
     "Michelin"
@@ -3269,7 +3148,7 @@
   {
    "id": "R114",
    "tipo": "rueda",
-   "titulo": "Rueda R16 de chapa con Continental",
+   "titulo": "Rueda R16 alternativa con Continental",
    "subtitulo": "205/60 R16 · 92H",
    "rodado": 16,
    "cantidad": 1,
@@ -3279,11 +3158,11 @@
    "segmentos": 4,
    "etiquetas": [
     "Llanta de chapa",
-    "Llanta original",
+    "Llanta alternativa",
     "Rayones"
    ],
    "sirve": "",
-   "detalle": "Llanta de chapa rodado 16 de 4 agujeros, con cubierta Continental ContiPowerContact 205/60 R16 · 92H. Ideal como auxilio. Consultá por tu auto.",
+   "detalle": "Llanta alternativa de chapa rodado 16 de 4 agujeros, con cubierta Continental ContiPowerContact 205/60 R16 · 92H. Ideal como auxilio. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -3294,10 +3173,12 @@
    "claves": [
     "2056016"
    ],
-   "texto": "rueda r16 de chapa con continental 205/60 r16 · 92h  llanta de chapa llanta original rayones",
+   "texto": "rueda r16 alternativa con continental 205/60 r16 · 92h  llanta de chapa llanta alternativa rayones",
    "wa": "Hola, quería consultar por la rueda completa con llanta de chapa R16 y cubierta Continental 205/60 R16 que vi en el catálogo (cód. R114).\nhttps://cubiertasmdz.github.io/p/R114/",
    "url": "https://cubiertasmdz.github.io/p/R114/",
-   "marcas_llanta": [],
+   "marcas_llanta": [
+    "Alternativa"
+   ],
    "marcas_cubierta": [
     "Continental"
    ],
@@ -3975,7 +3856,7 @@
     "Rayones"
    ],
    "sirve": "Peugeot 307, 308, 408, Citroën C4",
-   "detalle": "Juego de 3 llantas originales Peugeot rodado 16 de 4 agujeros, con cubiertas Bridgestone Turanza ER300 205/55 R16 · 91V. Consultá por tu auto.",
+   "detalle": "Juego de 3 llantas originales Peugeot rodado 16 de 4 agujeros, con rayones, con cubiertas Bridgestone Turanza 205/55 R16 · 91V. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -4616,6 +4497,122 @@
    "url": "https://cubiertasmdz.github.io/p/L015/",
    "marcas_llanta": [
     "Peugeot"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L016",
+   "tipo": "llanta",
+   "titulo": "Llanta Peugeot R14 de chapa",
+   "subtitulo": "4x108 · R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Chapa",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Peugeot 206, 207, Partner, Citroën C3",
+   "detalle": "Llanta de chapa Peugeot rodado 14 de 4 agujeros. Se vende sin cubierta: la cubierta que se ve en las fotos no se incluye. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l016-1.jpg",
+    "fotos/l016-2.jpg"
+   ],
+   "claves": [
+    "14",
+    "4108",
+    "144108"
+   ],
+   "texto": "llanta peugeot r14 de chapa 4x108 · r14 peugeot 206, 207, partner, citroën c3 original chapa rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Peugeot R14 de chapa que vi en el catálogo (cód. L016).\nhttps://cubiertasmdz.github.io/p/L016/",
+   "url": "https://cubiertasmdz.github.io/p/L016/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L017",
+   "tipo": "llanta",
+   "titulo": "Llanta Volkswagen R14 de chapa",
+   "subtitulo": "4x100 · R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Chapa",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro",
+   "detalle": "Llanta de chapa Volkswagen rodado 14 de 4 agujeros. Se vende sin cubierta: la cubierta que se ve en las fotos no se incluye. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l017-1.jpg",
+    "fotos/l017-2.jpg"
+   ],
+   "claves": [
+    "14",
+    "4100",
+    "144100"
+   ],
+   "texto": "llanta volkswagen r14 de chapa 4x100 · r14 vw gol, voyage, fox, suran, saveiro original chapa rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Volkswagen R14 de chapa que vi en el catálogo (cód. L017).\nhttps://cubiertasmdz.github.io/p/L017/",
+   "url": "https://cubiertasmdz.github.io/p/L017/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L018",
+   "tipo": "llanta",
+   "titulo": "Llanta Citroën R14 de chapa",
+   "subtitulo": "4x108 · R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Chapa",
+    "Rayones",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "Citroën C3, Peugeot 206, 207",
+   "detalle": "Llanta de chapa Citroën rodado 14 de 4 agujeros. Se vende sin cubierta: la cubierta que se ve en la foto no se incluye. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l018-1.jpg"
+   ],
+   "claves": [
+    "14",
+    "4108",
+    "144108"
+   ],
+   "texto": "llanta citroën r14 de chapa 4x108 · r14 citroën c3, peugeot 206, 207 original chapa rayones se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Citroën R14 de chapa que vi en el catálogo (cód. L018).\nhttps://cubiertasmdz.github.io/p/L018/",
+   "url": "https://cubiertasmdz.github.io/p/L018/",
+   "marcas_llanta": [
+    "Citroën"
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null
