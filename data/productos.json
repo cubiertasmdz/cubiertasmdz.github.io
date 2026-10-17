@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:17",
+ "actualizado": "2026-10-17 15:20",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -911,6 +911,47 @@
    "medida_cubierta": null
   },
   {
+   "id": "R075",
+   "tipo": "rueda",
+   "titulo": "Rueda R14 alternativa con Pirelli",
+   "subtitulo": "185/65 R14 · 85T",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta de aleación",
+    "Llanta alternativa",
+    "4 agujeros",
+    "Rayones"
+   ],
+   "sirve": "",
+   "detalle": "Llanta alternativa de aleación rodado 14 de 4 agujeros, con rayones, con cubierta Pirelli P400 Touring 185/65 R14 · 85T fabricada en Argentina, con buen dibujo. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r075-1.jpg",
+    "fotos/r075-2.jpg",
+    "fotos/r075-3.jpg",
+    "fotos/r075-4.jpg"
+   ],
+   "claves": [
+    "1856514"
+   ],
+   "texto": "rueda r14 alternativa con pirelli 185/65 r14 · 85t  llanta de aleación llanta alternativa 4 agujeros rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta alternativa R14 y cubierta Pirelli 185/65 R14 que vi en el catálogo (cód. R075).\nhttps://cubiertasmdz.github.io/p/R075/",
+   "url": "https://cubiertasmdz.github.io/p/R075/",
+   "marcas_llanta": [
+    "Alternativa"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "185/65 R14"
+  },
+  {
    "id": "C003",
    "tipo": "cubierta",
    "titulo": "Firemax FM316",
@@ -1661,12 +1702,13 @@
    "titulo": "Continental EcoContact 6",
    "subtitulo": "165/70 R14 · 85T",
    "rodado": 14,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
+   "cantidad": 2,
+   "cantidad_txt": "Par",
    "estado": "Muy buena",
    "vida": 80,
    "segmentos": 4,
    "etiquetas": [
+    "Fabricada en 2025",
     "Reforzada (XL)"
    ],
    "sirve": "",
@@ -1676,13 +1718,17 @@
    "fotos": [
     "fotos/c025-1.jpg",
     "fotos/c025-2.jpg",
-    "fotos/c025-3.jpg"
+    "fotos/c025-3.jpg",
+    "fotos/c025-4.jpg",
+    "fotos/c025-5.jpg",
+    "fotos/c025-6.jpg",
+    "fotos/c025-7.jpg"
    ],
    "claves": [
     "1657014"
    ],
-   "texto": "continental ecocontact 6 165/70 r14 · 85t  reforzada (xl)",
-   "wa": "Hola, quería consultar por la cubierta Continental 165/70 R14 que vi en el catálogo (cód. C025).\nhttps://cubiertasmdz.github.io/p/C025/",
+   "texto": "continental ecocontact 6 165/70 r14 · 85t  fabricada en 2025 reforzada (xl)",
+   "wa": "Hola, quería consultar por las 2 cubiertas Continental 165/70 R14 que vi en el catálogo (cód. C025).\nhttps://cubiertasmdz.github.io/p/C025/",
    "url": "https://cubiertasmdz.github.io/p/C025/",
    "marcas_llanta": [],
    "marcas_cubierta": [
