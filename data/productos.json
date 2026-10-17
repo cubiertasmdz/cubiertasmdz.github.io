@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 22:46",
+ "actualizado": "2026-10-16 22:47",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1693,6 +1693,51 @@
     "Continental"
    ],
    "medida_cubierta": "195/55 R16"
+  },
+  {
+   "id": "R026",
+   "tipo": "rueda",
+   "titulo": "4 ruedas Mini Cooper R15",
+   "subtitulo": "175/65 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Mini de aleación",
+    "4x100",
+    "Llanta original",
+    "Llantas sanas",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Mini Cooper (2001 a 2006)",
+   "detalle": "Juego completo de 4 llantas originales Mini rodado 15, sanas. Cubiertas 175/65 R15 de distintas marcas (Pirelli Cinturato P1, Goodyear y otra).",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r026-1.jpg",
+    "fotos/r026-2.jpg",
+    "fotos/r026-3.jpg",
+    "fotos/r026-4.jpg"
+   ],
+   "claves": [
+    "1756515",
+    "4100",
+    "154100"
+   ],
+   "texto": "4 ruedas mini cooper r15 175/65 r15 mini cooper (2001 a 2006) llanta mini de aleación 4x100 llanta original llantas sanas cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Mini Cooper R15 y cubiertas 175/65 R15 que vi en el catálogo (cód. R026).\nhttps://cubiertasmdz.github.io/p/R026/",
+   "url": "https://cubiertasmdz.github.io/p/R026/",
+   "marcas_llanta": [
+    "Mini"
+   ],
+   "marcas_cubierta": [
+    "Pirelli",
+    "Goodyear"
+   ],
+   "medida_cubierta": "175/65 R15"
   },
   {
    "id": "R001",
