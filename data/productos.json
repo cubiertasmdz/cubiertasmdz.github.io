@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:16",
+ "actualizado": "2026-10-16 23:17",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2604,6 +2604,48 @@
     "Bridgestone"
    ],
    "medida_cubierta": "215/65 R16"
+  },
+  {
+   "id": "R048",
+   "tipo": "rueda",
+   "titulo": "Rueda Fiat R14 de chapa con Dunlop",
+   "subtitulo": "185/65 R14 · 86T",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Fiat de chapa",
+    "4x98",
+    "Llanta original",
+    "Llanta sana",
+    "Óxido superficial"
+   ],
+   "sirve": "Fiat Palio, Siena, Uno, Strada, Idea",
+   "detalle": "Llanta de chapa Fiat rodado 14 (4 agujeros), con óxido superficial en el centro, con cubierta Dunlop SP Touring T1 185/65 R14 · 86T. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r048-1.jpg",
+    "fotos/r048-2.jpg"
+   ],
+   "claves": [
+    "1856514",
+    "498",
+    "14498"
+   ],
+   "texto": "rueda fiat r14 de chapa con dunlop 185/65 r14 · 86t fiat palio, siena, uno, strada, idea llanta fiat de chapa 4x98 llanta original llanta sana óxido superficial",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Fiat R14 de chapa y cubierta Dunlop 185/65 R14 que vi en el catálogo (cód. R048).\nhttps://cubiertasmdz.github.io/p/R048/",
+   "url": "https://cubiertasmdz.github.io/p/R048/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "185/65 R14"
   },
   {
    "id": "R001",
