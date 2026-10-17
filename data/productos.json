@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:26",
+ "actualizado": "2026-10-17 15:27",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1077,6 +1077,49 @@
     "Firestone"
    ],
    "medida_cubierta": "185/60 R15"
+  },
+  {
+   "id": "R079",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R14 de chapa con Fate Maxisport",
+   "subtitulo": "185/65 R14 · 86T",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Fabricada en 2023",
+    "Llanta original",
+    "Llanta sana"
+   ],
+   "sirve": "Peugeot 206, 207, Partner, Citroën C3, Berlingo",
+   "detalle": "Llanta de chapa Peugeot rodado 14 (4 agujeros) con cubierta Fate Maxisport 2 185/65 R14 · 86T del 2023, fabricada en Argentina, con buen dibujo. Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r079-1.jpg",
+    "fotos/r079-2.jpg",
+    "fotos/r079-3.jpg"
+   ],
+   "claves": [
+    "1856514",
+    "4108",
+    "144108"
+   ],
+   "texto": "rueda peugeot r14 de chapa con fate maxisport 185/65 r14 · 86t peugeot 206, 207, partner, citroën c3, berlingo llanta peugeot de chapa 4x108 fabricada en 2023 llanta original llanta sana",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R14 de chapa y cubierta Fate Maxisport 2 185/65 R14 que vi en el catálogo (cód. R079).\nhttps://cubiertasmdz.github.io/p/R079/",
+   "url": "https://cubiertasmdz.github.io/p/R079/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "185/65 R14"
   },
   {
    "id": "C003",
