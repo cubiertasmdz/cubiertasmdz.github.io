@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 22:43",
+ "actualizado": "2026-10-16 22:44",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1566,6 +1566,51 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15"
+  },
+  {
+   "id": "R023",
+   "tipo": "rueda",
+   "titulo": "2 ruedas VW R15 con Pirelli",
+   "subtitulo": "195/55 R15 · 85V",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Volkswagen de aleación",
+    "5x100",
+    "Llanta original",
+    "Rayones",
+    "Desgaste irregular"
+   ],
+   "sirve": "VW Polo, Virtus",
+   "detalle": "Par de llantas originales Volkswagen rodado 15 con rayones, con cubiertas Pirelli Cinturato P1 195/55 R15. Una cubierta tiene desgaste irregular en el canal central.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r023-1.jpg",
+    "fotos/r023-2.jpg",
+    "fotos/r023-3.jpg",
+    "fotos/r023-4.jpg",
+    "fotos/r023-5.jpg"
+   ],
+   "claves": [
+    "1955515",
+    "5100",
+    "155100"
+   ],
+   "texto": "2 ruedas vw r15 con pirelli 195/55 r15 · 85v vw polo, virtus llanta volkswagen de aleación 5x100 llanta original rayones desgaste irregular",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas VW R15 y cubiertas Pirelli 195/55 R15 que vi en el catálogo (cód. R023).\nhttps://cubiertasmdz.github.io/p/R023/",
+   "url": "https://cubiertasmdz.github.io/p/R023/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "195/55 R15"
   },
   {
    "id": "R001",
