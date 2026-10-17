@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 22:53",
+ "actualizado": "2026-10-16 22:54",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2042,6 +2042,50 @@
    ],
    "marcas_cubierta": [
     "Pirelli"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R034",
+   "tipo": "rueda",
+   "titulo": "Rueda Peugeot R16 con Triangle",
+   "subtitulo": "205/55 R16 · 94W",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Fabricada en 2021",
+    "Llanta original",
+    "Rayones leves",
+    "Reforzada (XL)"
+   ],
+   "sirve": "Peugeot 207, 307, 308, Citroën C4",
+   "detalle": "Llanta original Peugeot rodado 16 con cubierta Triangle Sportex 205/55 R16 del 2021. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r034-1.jpg",
+    "fotos/r034-2.jpg",
+    "fotos/r034-3.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4108",
+    "164108"
+   ],
+   "texto": "rueda peugeot r16 con triangle 205/55 r16 · 94w peugeot 207, 307, 308, citroën c4 llanta peugeot de aleación 4x108 fabricada en 2021 llanta original rayones leves reforzada (xl)",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Peugeot R16 y cubierta Triangle 205/55 R16 que vi en el catálogo (cód. R034).\nhttps://cubiertasmdz.github.io/p/R034/",
+   "url": "https://cubiertasmdz.github.io/p/R034/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Triangle"
    ],
    "medida_cubierta": "205/55 R16"
   },
