@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:22",
+ "actualizado": "2026-10-16 23:24",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2857,6 +2857,50 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15"
+  },
+  {
+   "id": "R053",
+   "tipo": "rueda",
+   "titulo": "Rueda Citroën R16 con Pirelli Scorpion",
+   "subtitulo": "205/60 R16 · 92H",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Citroën de aleación",
+    "4x108",
+    "Fabricada en 2017",
+    "Llanta original",
+    "Rayones",
+    "Diamantada bitono"
+   ],
+   "sirve": "Citroën C3 Aircross, C3 Picasso, C3, C4",
+   "detalle": "Llanta original Citroën rodado 16 bitono (negra y diamantada) de 4 agujeros, con rayones, con cubierta Pirelli Scorpion ATR 205/60 R16 · 92H del 2017. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r053-1.jpg",
+    "fotos/r053-2.jpg",
+    "fotos/r053-3.jpg"
+   ],
+   "claves": [
+    "2056016",
+    "4108",
+    "164108"
+   ],
+   "texto": "rueda citroën r16 con pirelli scorpion 205/60 r16 · 92h citroën c3 aircross, c3 picasso, c3, c4 llanta citroën de aleación 4x108 fabricada en 2017 llanta original rayones diamantada bitono",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Citroën R16 y cubierta Pirelli Scorpion ATR 205/60 R16 que vi en el catálogo (cód. R053).\nhttps://cubiertasmdz.github.io/p/R053/",
+   "url": "https://cubiertasmdz.github.io/p/R053/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "205/60 R16"
   },
   {
    "id": "R001",
