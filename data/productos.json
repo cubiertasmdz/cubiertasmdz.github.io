@@ -2432,6 +2432,48 @@
    "medida_cubierta": "205/55 R16"
   },
   {
+   "id": "R044",
+   "tipo": "rueda",
+   "titulo": "Rueda Honda Civic R16 con Bridgestone",
+   "subtitulo": "205/55 R16 · 91V",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 75,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Honda de aleación",
+    "5x114.3",
+    "Llanta original",
+    "Llanta sana"
+   ],
+   "sirve": "Honda Civic (2006 a 2011)",
+   "detalle": "Llanta original Honda rodado 16, sana, con cubierta Bridgestone Turanza ER300 205/55 R16 · 91V con muy buen dibujo. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r044-1.jpg",
+    "fotos/r044-2.jpg",
+    "fotos/r044-3.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "5114.3",
+    "165114.3"
+   ],
+   "texto": "rueda honda civic r16 con bridgestone 205/55 r16 · 91v honda civic (2006 a 2011) llanta honda de aleación 5x114.3 llanta original llanta sana",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Honda R16 y cubierta Bridgestone 205/55 R16 que vi en el catálogo (cód. R044).\nhttps://cubiertasmdz.github.io/p/R044/",
+   "url": "https://cubiertasmdz.github.io/p/R044/",
+   "marcas_llanta": [
+    "Honda"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "205/55 R16"
+  },
+  {
    "id": "R001",
    "tipo": "rueda",
    "titulo": "Triangle AdvanteX TC101",
