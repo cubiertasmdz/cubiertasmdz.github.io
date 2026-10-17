@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:01",
+ "actualizado": "2026-10-16 23:02",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2157,8 +2157,7 @@
    "precios_extra": [],
    "fotos": [
     "fotos/r036-1.jpg",
-    "fotos/r036-2.jpg",
-    "fotos/r036-3.jpg"
+    "fotos/r036-2.jpg"
    ],
    "claves": [
     "1956015",
@@ -2295,6 +2294,49 @@
     "Fate"
    ],
    "medida_cubierta": "175/70 R13"
+  },
+  {
+   "id": "R040",
+   "tipo": "rueda",
+   "titulo": "Rueda Honda CR-V R17 con Yokohama",
+   "subtitulo": "225/65 R17 · 102H",
+   "rodado": 17,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 45,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Honda de aleación",
+    "5x114.3",
+    "Llanta original",
+    "Rayones",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Honda CR-V (2007 a 2011)",
+   "detalle": "Llanta original Honda CR-V rodado 17 con rayones, con cubierta Yokohama Geolandar G91 225/65 R17. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r040-1.jpg",
+    "fotos/r040-2.jpg",
+    "fotos/r040-3.jpg"
+   ],
+   "claves": [
+    "2256517",
+    "5114.3",
+    "175114.3"
+   ],
+   "texto": "rueda honda cr-v r17 con yokohama 225/65 r17 · 102h honda cr-v (2007 a 2011) llanta honda de aleación 5x114.3 llanta original rayones para camioneta / suv",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Honda R17 y cubierta Yokohama 225/65 R17 que vi en el catálogo (cód. R040).\nhttps://cubiertasmdz.github.io/p/R040/",
+   "url": "https://cubiertasmdz.github.io/p/R040/",
+   "marcas_llanta": [
+    "Honda"
+   ],
+   "marcas_cubierta": [
+    "Yokohama"
+   ],
+   "medida_cubierta": "225/65 R17"
   },
   {
    "id": "R001",
