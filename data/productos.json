@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:08",
+ "actualizado": "2026-10-16 23:09",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2472,6 +2472,47 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R045",
+   "tipo": "rueda",
+   "titulo": "Rueda Chery R15 con Firestone",
+   "subtitulo": "185/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Chery de aleación",
+    "Llanta original",
+    "4 agujeros",
+    "Rayones leves",
+    "Costado con goma resecada"
+   ],
+   "sirve": "",
+   "detalle": "Llanta original Chery rodado 15 con cubierta Firestone 185/60 R15 · 88H. El dibujo está bien, pero el costado tiene la goma resecada (pequeñas grietas): recomendada como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r045-1.jpg",
+    "fotos/r045-2.jpg",
+    "fotos/r045-3.jpg"
+   ],
+   "claves": [
+    "1856015"
+   ],
+   "texto": "rueda chery r15 con firestone 185/60 r15 · 88h  llanta chery de aleación llanta original 4 agujeros rayones leves costado con goma resecada",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Chery R15 y cubierta Firestone 185/60 R15 que vi en el catálogo (cód. R045).\nhttps://cubiertasmdz.github.io/p/R045/",
+   "url": "https://cubiertasmdz.github.io/p/R045/",
+   "marcas_llanta": [
+    "Chery"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "185/60 R15"
   },
   {
    "id": "R001",
