@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 15:24",
+ "actualizado": "2026-10-17 15:25",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -993,6 +993,48 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R14"
+  },
+  {
+   "id": "R077",
+   "tipo": "rueda",
+   "titulo": "Rueda Ford R14 con Firestone",
+   "subtitulo": "175/65 R14 · 82T",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Ford Fiesta, Ka, EcoSport (1ª gen)",
+   "detalle": "Llanta original Ford rodado 14 (5½J x 14) de 4 agujeros, con rayones, con cubierta Firestone F-700 175/65 R14 · 82T con muy buen dibujo (está destalonada, hay que volver a montarla). Ideal como auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r077-1.jpg",
+    "fotos/r077-2.jpg",
+    "fotos/r077-3.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4108",
+    "144108"
+   ],
+   "texto": "rueda ford r14 con firestone 175/65 r14 · 82t ford fiesta, ka, ecosport (1ª gen) llanta ford de aleación 4x108 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Ford R14 y cubierta Firestone 175/65 R14 que vi en el catálogo (cód. R077).\nhttps://cubiertasmdz.github.io/p/R077/",
+   "url": "https://cubiertasmdz.github.io/p/R077/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Firestone"
+   ],
+   "medida_cubierta": "175/65 R14"
   },
   {
    "id": "C003",
