@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 14:54",
+ "actualizado": "2026-10-17 14:55",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -208,6 +208,49 @@
     "Fate"
    ],
    "medida_cubierta": "235/65 R17"
+  },
+  {
+   "id": "R061",
+   "tipo": "rueda",
+   "titulo": "Rueda R15 alternativa con Tango",
+   "subtitulo": "195/65 R15 · 91H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Regular",
+   "vida": 35,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta de aleación",
+    "Llanta alternativa",
+    "4 agujeros",
+    "Diamantada bitono",
+    "Rayones",
+    "Cubierta gastada",
+    "Hombro con desgaste"
+   ],
+   "sirve": "",
+   "detalle": "Llanta alternativa de aleación rodado 15 (4 agujeros), bitono negra y diamantada, con rayones, con cubierta Tango 195/65 R15 · 91H. La cubierta está gastada y un hombro tiene desgaste con la goma marcada: recomendada solo como auxilio, o para aprovechar la llanta. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r061-1.jpg",
+    "fotos/r061-2.jpg",
+    "fotos/r061-3.jpg"
+   ],
+   "claves": [
+    "1956515"
+   ],
+   "texto": "rueda r15 alternativa con tango 195/65 r15 · 91h  llanta de aleación llanta alternativa 4 agujeros diamantada bitono rayones cubierta gastada hombro con desgaste",
+   "wa": "Hola, quería consultar por la rueda completa con llanta alternativa R15 y cubierta Tango 195/65 R15 que vi en el catálogo (cód. R061).\nhttps://cubiertasmdz.github.io/p/R061/",
+   "url": "https://cubiertasmdz.github.io/p/R061/",
+   "marcas_llanta": [
+    "Alternativa"
+   ],
+   "marcas_cubierta": [
+    "Tango"
+   ],
+   "medida_cubierta": "195/65 R15"
   },
   {
    "id": "C003",
