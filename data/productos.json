@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:18",
+ "actualizado": "2026-10-16 23:20",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2686,6 +2686,50 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null
+  },
+  {
+   "id": "R049",
+   "tipo": "rueda",
+   "titulo": "4 llantas Chevrolet R15 de chapa + 3 cubiertas",
+   "subtitulo": "185/60 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 3 cubiertas",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Chevrolet de chapa",
+    "4x100",
+    "Llanta original",
+    "Llantas sanas",
+    "No incluye la cubierta dañada"
+   ],
+   "sirve": "Chevrolet Onix, Prisma, Agile, Corsa, Classic",
+   "detalle": "Juego de 4 llantas de chapa Chevrolet rodado 15 (4 agujeros). Se venden con 3 cubiertas Dunlop 185/60 R15 con buen dibujo. La cuarta cubierta está dañada (banda rajada) y NO se vende: esa llanta se entrega sin cubierta.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r049-1.jpg",
+    "fotos/r049-2.jpg",
+    "fotos/r049-3.jpg",
+    "fotos/r049-4.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "4100",
+    "154100"
+   ],
+   "texto": "4 llantas chevrolet r15 de chapa + 3 cubiertas 185/60 r15 chevrolet onix, prisma, agile, corsa, classic llanta chevrolet de chapa 4x100 llanta original llantas sanas no incluye la cubierta dañada",
+   "wa": "Hola, quería consultar por las 4 llantas Chevrolet R15 de chapa con 3 cubiertas Dunlop 185/60 R15 que vi en el catálogo (cód. R049).\nhttps://cubiertasmdz.github.io/p/R049/",
+   "url": "https://cubiertasmdz.github.io/p/R049/",
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "185/60 R15"
   },
   {
    "id": "R001",
