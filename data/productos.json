@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:26",
+ "actualizado": "2026-10-16 23:27",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2994,6 +2994,50 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/50 R18"
+  },
+  {
+   "id": "R056",
+   "tipo": "rueda",
+   "titulo": "Rueda Toyota Hilux R16 con Bridgestone",
+   "subtitulo": "265/70 R16 · 112S",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Toyota de aleación",
+    "6x139.7",
+    "Llanta original",
+    "Pintura saltada",
+    "Sin tapa central",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Toyota Hilux (2005 a 2015), SW4",
+   "detalle": "Llanta Toyota Hilux / SW4 rodado 16 de 6 agujeros, con pintura saltada y sin tapa central, con cubierta Bridgestone Dueler H/T 840 265/70 R16 · 112S. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r056-1.jpg",
+    "fotos/r056-2.jpg",
+    "fotos/r056-3.jpg"
+   ],
+   "claves": [
+    "2657016",
+    "6139.7",
+    "166139.7"
+   ],
+   "texto": "rueda toyota hilux r16 con bridgestone 265/70 r16 · 112s toyota hilux (2005 a 2015), sw4 llanta toyota de aleación 6x139.7 llanta original pintura saltada sin tapa central para camioneta / suv",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Toyota Hilux R16 y cubierta Bridgestone 265/70 R16 que vi en el catálogo (cód. R056).\nhttps://cubiertasmdz.github.io/p/R056/",
+   "url": "https://cubiertasmdz.github.io/p/R056/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "265/70 R16"
   },
   {
    "id": "R001",
