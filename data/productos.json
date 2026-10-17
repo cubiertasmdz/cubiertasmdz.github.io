@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:02",
+ "actualizado": "2026-10-16 23:03",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2337,6 +2337,52 @@
     "Yokohama"
    ],
    "medida_cubierta": "225/65 R17"
+  },
+  {
+   "id": "R041",
+   "tipo": "rueda",
+   "titulo": "2 ruedas Nissan Sentra R17 con Michelin",
+   "subtitulo": "215/50 R17 · 91V",
+   "rodado": 17,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Nissan de aleación",
+    "5x114.3",
+    "Fabricada en 2020",
+    "Llanta original",
+    "Bitono negro y diamantado",
+    "Rayones leves"
+   ],
+   "sirve": "Nissan Sentra (2020 en adelante)",
+   "detalle": "Llantas originales Nissan Sentra rodado 17 bitono, con muy pocos detalles, y cubiertas Michelin Primacy 4 215/50 R17 del 2020.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r041-1.jpg",
+    "fotos/r041-2.jpg",
+    "fotos/r041-3.jpg",
+    "fotos/r041-4.jpg",
+    "fotos/r041-5.jpg"
+   ],
+   "claves": [
+    "2155017",
+    "5114.3",
+    "175114.3"
+   ],
+   "texto": "2 ruedas nissan sentra r17 con michelin 215/50 r17 · 91v nissan sentra (2020 en adelante) llanta nissan de aleación 5x114.3 fabricada en 2020 llanta original bitono negro y diamantado rayones leves",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Nissan R17 y cubiertas Michelin 215/50 R17 que vi en el catálogo (cód. R041).\nhttps://cubiertasmdz.github.io/p/R041/",
+   "url": "https://cubiertasmdz.github.io/p/R041/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "215/50 R17"
   },
   {
    "id": "R001",
