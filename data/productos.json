@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 23:25",
+ "actualizado": "2026-10-16 23:26",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2946,6 +2946,54 @@
     "Fate"
    ],
    "medida_cubierta": "255/70 R15"
+  },
+  {
+   "id": "R055",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Toyota Corolla Cross R18 con Bridgestone",
+   "subtitulo": "225/50 R18 · 95V",
+   "rodado": 18,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Toyota de aleación",
+    "5x114.3",
+    "Fabricada en 2022",
+    "Llanta original",
+    "Rayones",
+    "Diamantada bitono",
+    "Para camioneta / SUV"
+   ],
+   "sirve": "Toyota Corolla Cross",
+   "detalle": "Par de llantas originales Toyota Corolla Cross rodado 18, bitono (negras y diamantadas), con rayones, con cubiertas Bridgestone Alenza 001 225/50 R18 · 95V del 2022 (las originales de fábrica).",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r055-1.jpg",
+    "fotos/r055-2.jpg",
+    "fotos/r055-3.jpg",
+    "fotos/r055-4.jpg",
+    "fotos/r055-5.jpg",
+    "fotos/r055-6.jpg"
+   ],
+   "claves": [
+    "2255018",
+    "5114.3",
+    "185114.3"
+   ],
+   "texto": "par de ruedas toyota corolla cross r18 con bridgestone 225/50 r18 · 95v toyota corolla cross llanta toyota de aleación 5x114.3 fabricada en 2022 llanta original rayones diamantada bitono para camioneta / suv",
+   "wa": "Hola, quería consultar por el par de ruedas completas con llantas Toyota Corolla Cross R18 y cubiertas Bridgestone 225/50 R18 que vi en el catálogo (cód. R055).\nhttps://cubiertasmdz.github.io/p/R055/",
+   "url": "https://cubiertasmdz.github.io/p/R055/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "225/50 R18"
   },
   {
    "id": "R001",
