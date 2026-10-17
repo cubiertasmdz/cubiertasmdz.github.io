@@ -873,6 +873,44 @@
    "medida_cubierta": "205/60 R16"
   },
   {
+   "id": "L009",
+   "tipo": "llanta",
+   "titulo": "Llanta alternativa BSA R14",
+   "subtitulo": "R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Alternativa",
+    "Aleación",
+    "4 agujeros",
+    "Llanta sana",
+    "Se vende sin cubierta"
+   ],
+   "sirve": "",
+   "detalle": "Llanta alternativa BSA Motorsports de aleación rodado 14 (4 agujeros), negra con borde pulido, sana. Se vende solo la llanta: la cubierta que se ve en las fotos no se incluye. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l009-1.jpg",
+    "fotos/l009-2.jpg"
+   ],
+   "claves": [
+    "14"
+   ],
+   "texto": "llanta alternativa bsa r14 r14  alternativa aleación 4 agujeros llanta sana se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta alternativa BSA R14 que vi en el catálogo (cód. L009).\nhttps://cubiertasmdz.github.io/p/L009/",
+   "url": "https://cubiertasmdz.github.io/p/L009/",
+   "marcas_llanta": [
+    "BSA"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
    "id": "C003",
    "tipo": "cubierta",
    "titulo": "Firemax FM316",
