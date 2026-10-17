@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 22:58",
+ "actualizado": "2026-10-16 22:59",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2254,6 +2254,46 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R039",
+   "tipo": "rueda",
+   "titulo": "Rueda R13 alternativa con Fate",
+   "subtitulo": "175/70 R13 · 82T",
+   "rodado": 13,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta de aleación",
+    "Llanta alternativa",
+    "4 agujeros",
+    "Rayones"
+   ],
+   "sirve": "",
+   "detalle": "Llanta alternativa de aleación rodado 13 (4 agujeros) con rayones, con cubierta Fate Sentiva AR-360 175/70 R13. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r039-1.jpg",
+    "fotos/r039-2.jpg",
+    "fotos/r039-3.jpg"
+   ],
+   "claves": [
+    "1757013"
+   ],
+   "texto": "rueda r13 alternativa con fate 175/70 r13 · 82t  llanta de aleación llanta alternativa 4 agujeros rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta alternativa R13 y cubierta Fate 175/70 R13 que vi en el catálogo (cód. R039).\nhttps://cubiertasmdz.github.io/p/R039/",
+   "url": "https://cubiertasmdz.github.io/p/R039/",
+   "marcas_llanta": [
+    "Alternativa"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "175/70 R13"
   },
   {
    "id": "R001",
