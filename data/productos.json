@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 22:48",
+ "actualizado": "2026-10-16 22:50",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1779,6 +1779,51 @@
     "Dunlop"
    ],
    "medida_cubierta": "195/60 R15"
+  },
+  {
+   "id": "R028",
+   "tipo": "rueda",
+   "titulo": "4 ruedas Audi R16 con Continental",
+   "subtitulo": "215/45 R16 · 90V",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Audi de aleación",
+    "5x112",
+    "Fabricada en 2018",
+    "Llanta original",
+    "Llantas sanas",
+    "Reforzada (XL)"
+   ],
+   "sirve": "Audi A3 (2013 en adelante), A1",
+   "detalle": "Juego completo de 4 llantas originales Audi rodado 16, sanas, con cubiertas Continental ContiPremiumContact 2 215/45 R16.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r028-1.jpg",
+    "fotos/r028-2.jpg",
+    "fotos/r028-3.jpg",
+    "fotos/r028-4.jpg"
+   ],
+   "claves": [
+    "2154516",
+    "5112",
+    "165112"
+   ],
+   "texto": "4 ruedas audi r16 con continental 215/45 r16 · 90v audi a3 (2013 en adelante), a1 llanta audi de aleación 5x112 fabricada en 2018 llanta original llantas sanas reforzada (xl)",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Audi R16 y cubiertas Continental 215/45 R16 que vi en el catálogo (cód. R028).\nhttps://cubiertasmdz.github.io/p/R028/",
+   "url": "https://cubiertasmdz.github.io/p/R028/",
+   "marcas_llanta": [
+    "Audi"
+   ],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "215/45 R16"
   },
   {
    "id": "R001",
