@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17 14:58",
+ "actualizado": "2026-10-17 14:59",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -299,11 +299,11 @@
   {
    "id": "R063",
    "tipo": "rueda",
-   "titulo": "Par de ruedas Alfa Romeo R17 con Dunlop",
+   "titulo": "3 ruedas Alfa Romeo R17 con Dunlop",
    "subtitulo": "225/45 R17 · 94W",
    "rodado": 17,
-   "cantidad": 2,
-   "cantidad_txt": "Par",
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
    "estado": "Buena",
    "vida": 65,
    "segmentos": 3,
@@ -316,7 +316,7 @@
     "Reforzada (XL)"
    ],
    "sirve": "Alfa Romeo 147, 156, GT",
-   "detalle": "Par de llantas originales Alfa Romeo rodado 17 de 4 agujeros, con rayones, con cubiertas Dunlop Direzza DZ102 225/45 R17 · 94W reforzadas del 2022, sanas y con buen dibujo. Consultá por tu auto.",
+   "detalle": "Juego de 3 llantas originales Alfa Romeo rodado 17 de 4 agujeros, con rayones, con cubiertas Dunlop Direzza DZ102 225/45 R17 · 94W reforzadas del 2022, sanas y con buen dibujo. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -330,8 +330,8 @@
     "498",
     "17498"
    ],
-   "texto": "par de ruedas alfa romeo r17 con dunlop 225/45 r17 · 94w alfa romeo 147, 156, gt llanta alfa romeo de aleación 4x98 fabricada en 2022 llanta original rayones reforzada (xl)",
-   "wa": "Hola, quería consultar por el par de ruedas completas con llantas Alfa Romeo R17 y cubiertas Dunlop 225/45 R17 que vi en el catálogo (cód. R063).\nhttps://cubiertasmdz.github.io/p/R063/",
+   "texto": "3 ruedas alfa romeo r17 con dunlop 225/45 r17 · 94w alfa romeo 147, 156, gt llanta alfa romeo de aleación 4x98 fabricada en 2022 llanta original rayones reforzada (xl)",
+   "wa": "Hola, quería consultar por las 3 ruedas completas con llantas Alfa Romeo R17 y cubiertas Dunlop 225/45 R17 que vi en el catálogo (cód. R063).\nhttps://cubiertasmdz.github.io/p/R063/",
    "url": "https://cubiertasmdz.github.io/p/R063/",
    "marcas_llanta": [
     "Alfa Romeo"
