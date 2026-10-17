@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16 22:55",
+ "actualizado": "2026-10-16 22:56",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -2132,6 +2132,48 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16"
+  },
+  {
+   "id": "R036",
+   "tipo": "rueda",
+   "titulo": "Rueda VW R15 con Bridgestone",
+   "subtitulo": "195/60 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Regular",
+   "vida": 40,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Volkswagen de aleación",
+    "5x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Polo, Virtus",
+   "detalle": "Llanta original Volkswagen rodado 15 con rayones, con cubierta Bridgestone Ecopia EP150 195/60 R15. Ideal como auxilio.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r036-1.jpg",
+    "fotos/r036-2.jpg",
+    "fotos/r036-3.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "5100",
+    "155100"
+   ],
+   "texto": "rueda vw r15 con bridgestone 195/60 r15 · 88h vw polo, virtus llanta volkswagen de aleación 5x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda completa con llanta VW R15 y cubierta Bridgestone 195/60 R15 que vi en el catálogo (cód. R036).\nhttps://cubiertasmdz.github.io/p/R036/",
+   "url": "https://cubiertasmdz.github.io/p/R036/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "195/60 R15"
   },
   {
    "id": "R001",
