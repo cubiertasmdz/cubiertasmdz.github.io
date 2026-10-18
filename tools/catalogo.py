@@ -219,6 +219,19 @@ def marcas_de(texto):
 
 # ---------- versión pública de cada producto ----------
 
+def numeros(p, claves):
+    """Cada número suelto del producto (ancho, perfil, rodado, agujeros, distancia...) para que el
+    buscador encuentre "195" o "R15" sin escribir la medida completa."""
+    campos = ["ancho", "perfil", "rodado", "agujeros", "distancia", "offset"]
+    if p["tipo"] not in ("cubierta", "rueda", "llanta"):
+        return sorted(set(claves))
+    nums = set()
+    for c in campos:
+        v = p.get(c)
+        if v not in (None, ""):
+            nums.add(re.sub(r"\D", "", str(v).replace(".0", "")))
+    return sorted(n for n in nums if n)
+
 def publico(p):
     cat = categoria(p["tipo"])
     n = int(p["cantidad"])
@@ -326,6 +339,7 @@ def publico(p):
         "precios_extra": precios_extra(p, n),
         "fotos": p.get("fotos", []),
         "claves": claves,
+        "nums": numeros(p, claves),
         "texto": " ".join([titulo, sub, sirve, " ".join(etiquetas)]).lower(),
         "wa": wa,
         "url": url,
@@ -441,11 +455,15 @@ def procesar_fotos(pid, rutas, reemplazar=False):
         n += 1
         im = Image.open(ruta)
         im = ImageOps.exif_transpose(im).convert("RGB")  # endereza y descarta EXIF (GPS, etc.)
+        girada = im.width > im.height  # WhatsApp a veces manda la foto acostada: todas van verticales
+        if girada:
+            im = im.transpose(Image.ROTATE_270)
         im.thumbnail((1280, 1280), Image.LANCZOS)
         nombre = f"fotos/{p['id'].lower()}-{n}.jpg"
         im.save(ROOT / nombre, "JPEG", quality=72, optimize=True, progressive=True)
         p["fotos"].append(nombre)
-        print(f"{nombre}  {(ROOT / nombre).stat().st_size // 1024} KB")
+        aviso = "  (girada a vertical: revisar que no quede al revés)" if girada else ""
+        print(f"{nombre}  {(ROOT / nombre).stat().st_size // 1024} KB{aviso}")
     guardar(stock)
 
 

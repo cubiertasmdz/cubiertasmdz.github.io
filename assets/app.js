@@ -19,16 +19,24 @@
   const pesos = (n) => "$" + Math.round(n).toLocaleString("es-AR");
   const wa = (texto) => `https://wa.me/${estado.datos.sitio.whatsapp}?text=${encodeURIComponent(texto)}`;
 
-  // "205/55 R16" -> "2055516"; "gol 4x100" -> {num: "4100", palabras: ["gol"]}
+  // "205/55 R16" -> {nums: ["205","55","16"]}; "gol 4x100" -> {nums: ["4","100"], palabras: ["gol"]}
   function analizar(q) {
     const t = q.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
-    const num = t.replace(/\D/g, "");
+    const nums = t.match(/\d+/g) || [];
     const palabras = t.replace(/\d+/g, " ").split(/[^a-zñ]+/).filter((w) => w.length > 1);
-    return { num, palabras };
+    return { nums, palabras };
+  }
+  // cada número buscado tiene que estar en el producto: "195" trae todas las 195, "15" todas las R15,
+  // "195 15" las 195 rodado 15. Un número largo pegado ("1956515") se compara con la medida completa.
+  function coincideNum(p, n) {
+    const sueltos = p.nums || [];
+    if (sueltos.includes(n)) return true;
+    if (n.length >= 3 && sueltos.some((k) => k.startsWith(n))) return true;
+    return n.length >= 4 && p.claves.some((k) => k.startsWith(n) || k.includes(n));
   }
   function coincide(p, q) {
-    if (!q.num && !q.palabras.length) return true;
-    if (q.num && !p.claves.some((k) => k.startsWith(q.num) || (q.num.length >= 4 && k.includes(q.num)))) return false;
+    if (!q.nums.length && !q.palabras.length) return true;
+    if (!q.nums.every((n) => coincideNum(p, n))) return false;
     const texto = p.texto.normalize("NFD").replace(/[̀-ͯ]/g, "");
     return q.palabras.every((w) => texto.includes(w));
   }
