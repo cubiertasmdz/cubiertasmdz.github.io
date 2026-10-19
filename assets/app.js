@@ -179,6 +179,8 @@
     if (e.target.closest("[data-ver-todo]")) {
       estado.solo = null; history.replaceState(null, "", location.pathname); return render();
     }
+    const foto = e.target.closest(".fotos img");
+    if (foto) { abrirVisor(foto); return; }
     const flecha = e.target.closest(".flecha");
     if (flecha) {
       const f = flecha.parentElement.querySelector(".fotos");
@@ -205,6 +207,67 @@
     const c = f.parentElement.querySelector(".contador");
     if (c) c.textContent = `${Math.round(f.scrollLeft / f.clientWidth) + 1}/${f.children.length}`;
   }, true);
+
+  // ---------- visor de fotos en grande (foto completa, sin recortar) ----------
+  const visor = document.createElement("div");
+  visor.className = "visor";
+  visor.hidden = true;
+  visor.setAttribute("role", "dialog");
+  visor.setAttribute("aria-modal", "true");
+  visor.setAttribute("aria-label", "Foto en grande");
+  visor.innerHTML = `
+    <div class="visor-fotos"></div>
+    <button class="visor-cerrar" aria-label="Cerrar"><svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
+    <button class="visor-flecha izq" aria-label="Foto anterior"><svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    <button class="visor-flecha der" aria-label="Foto siguiente"><svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    <span class="visor-contador"></span>`;
+  document.body.appendChild(visor);
+  const vFotos = visor.querySelector(".visor-fotos");
+  const vCont = visor.querySelector(".visor-contador");
+  let vOrigen = null;
+
+  function vIndice() { return Math.round(vFotos.scrollLeft / (vFotos.clientWidth || 1)); }
+  function vActualizar() {
+    const n = vFotos.children.length, i = vIndice();
+    vCont.textContent = n > 1 ? `${i + 1}/${n}` : "";
+    visor.querySelector(".izq").hidden = n < 2 || i === 0;
+    visor.querySelector(".der").hidden = n < 2 || i === n - 1;
+  }
+  function vIr(paso) {
+    vFotos.scrollBy({ left: paso * vFotos.clientWidth, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+  }
+  function abrirVisor(img) {
+    const imgs = [...img.closest(".fotos").querySelectorAll("img")];
+    vOrigen = img;
+    vFotos.innerHTML = imgs.map((x) => `<div class="visor-item"><img src="${esc(x.getAttribute("src"))}" alt="${esc(x.alt)}" decoding="async"></div>`).join("");
+    visor.hidden = false;
+    document.documentElement.classList.add("visor-abierto");
+    vFotos.scrollLeft = imgs.indexOf(img) * vFotos.clientWidth;
+    vActualizar();
+    history.pushState({ visor: true }, "");
+    visor.querySelector(".visor-cerrar").focus({ preventScroll: true });
+  }
+  function cerrarVisor(desdeHistorial) {
+    if (visor.hidden) return;
+    visor.hidden = true;
+    document.documentElement.classList.remove("visor-abierto");
+    vFotos.innerHTML = "";
+    if (!desdeHistorial && history.state && history.state.visor) history.back();
+    if (vOrigen) vOrigen.closest(".media").querySelector(".flecha, .fotos")?.focus?.({ preventScroll: true });
+  }
+  vFotos.addEventListener("scroll", vActualizar, { passive: true });
+  visor.addEventListener("click", (e) => {
+    if (e.target.closest(".visor-flecha")) return vIr(e.target.closest(".der") ? 1 : -1);
+    if (e.target.closest(".visor-cerrar") || !e.target.closest("img")) cerrarVisor(false);  // tocar afuera de la foto cierra
+  });
+  document.addEventListener("keydown", (e) => {
+    if (visor.hidden) return;
+    if (e.key === "Escape") cerrarVisor(false);
+    else if (e.key === "ArrowRight") vIr(1);
+    else if (e.key === "ArrowLeft") vIr(-1);
+  });
+  window.addEventListener("popstate", () => cerrarVisor(true));  // botón "atrás" del celular cierra el visor
+  window.addEventListener("resize", () => { if (!visor.hidden) vFotos.scrollLeft = vIndice() * vFotos.clientWidth; });
 
   $("#f-marca").addEventListener("change", (e) => { estado.marca = e.target.value; estado.solo = null; render(); });
   $("#f-medida").addEventListener("change", (e) => { estado.medida = e.target.value; estado.solo = null; render(); });

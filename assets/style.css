@@ -357,3 +357,51 @@ a { color: inherit; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition-duration: 1ms !important; animation-duration: 1ms !important; }
 }
+
+/* ---------- visor de fotos en grande ---------- */
+.fotos img { cursor: zoom-in; }
+.visor-abierto, .visor-abierto body { overflow: hidden; }
+.visor {
+  position: fixed; inset: 0; z-index: 20;
+  background: rgba(10,10,10,.94);
+  animation: visor-in 200ms var(--ease);
+}
+.visor[hidden] { display: none; }
+@keyframes visor-in { from { opacity: 0; } }
+.visor-fotos {
+  display: flex; height: 100%;
+  overflow-x: auto; scroll-snap-type: x mandatory;
+  scrollbar-width: none; overscroll-behavior: contain;
+}
+.visor-fotos::-webkit-scrollbar { display: none; }
+.visor-item {
+  flex: none; width: 100%; height: 100%;
+  scroll-snap-align: start;
+  display: grid; place-items: center;
+  padding: 56px 12px;
+}
+.visor-item img {
+  max-width: 100%; max-height: 100%;
+  object-fit: contain; border-radius: 6px;
+}
+.visor-cerrar, .visor-flecha {
+  position: absolute; border: 0; cursor: pointer;
+  width: 48px; height: 48px; border-radius: 50%;
+  display: grid; place-items: center;
+  background: rgba(255,255,255,.14); color: #fff;
+  transition: background-color var(--t) var(--ease), transform var(--t) var(--ease);
+}
+.visor-cerrar { top: 10px; right: 10px; }
+.visor-flecha { top: 50%; transform: translateY(-50%); }
+.visor-flecha.izq { left: 12px; } .visor-flecha.der { right: 12px; }
+.visor-flecha[hidden] { display: none; }
+.visor-cerrar:active { transform: scale(.92); }
+.visor-flecha:active { transform: translateY(-50%) scale(.92); }
+@media (hover: hover) { .visor-cerrar:hover, .visor-flecha:hover { background: rgba(255,255,255,.26); } }
+.visor-contador {
+  position: absolute; left: 50%; bottom: 16px; transform: translateX(-50%);
+  color: #fff; font-size: 15px; font-weight: 600;
+  background: rgba(255,255,255,.14); padding: 4px 12px; border-radius: 999px;
+}
+.visor-contador:empty { display: none; }
+@media (max-width: 719px) { .visor-flecha { display: none; } }
