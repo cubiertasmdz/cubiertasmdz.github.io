@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19 15:31",
+ "actualizado": "2026-10-19 15:51",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -8202,6 +8202,178 @@
    "url": "https://cubiertasmdz.github.io/p/L216/",
    "marcas_llanta": [
     "Alternativa"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L217",
+   "tipo": "llanta",
+   "titulo": "Llanta Toyota R15",
+   "subtitulo": "5x114.3 · R15",
+   "rodado": 15,
+   "cantidad": 7,
+   "cantidad_txt": "7 unidades",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Aleación"
+   ],
+   "sirve": "Toyota Corolla, RAV4",
+   "detalle": "Llantas originales Toyota de aleación rodado 15 de 5 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l217-1.jpg",
+    "fotos/l217-2.jpg",
+    "fotos/l217-3.jpg"
+   ],
+   "claves": [
+    "15",
+    "5114.3",
+    "155114.3"
+   ],
+   "nums": [
+    "1143",
+    "15",
+    "5"
+   ],
+   "texto": "llanta toyota r15 5x114.3 · r15 toyota corolla, rav4 original aleación",
+   "wa": "Hola, quería consultar por las 7 llantas Toyota R15 5x114.3 que vi en el catálogo (cód. L217).\nhttps://cubiertasmdz.github.io/p/L217/",
+   "url": "https://cubiertasmdz.github.io/p/L217/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L218",
+   "tipo": "llanta",
+   "titulo": "Llanta Honda R16",
+   "subtitulo": "5x114.3 · R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Aleación"
+   ],
+   "sirve": "Honda Civic, CR-V, HR-V",
+   "detalle": "Llantas originales Honda de aleación rodado 16 de 5 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l218-1.jpg",
+    "fotos/l218-2.jpg",
+    "fotos/l218-3.jpg"
+   ],
+   "claves": [
+    "16",
+    "5114.3",
+    "165114.3"
+   ],
+   "nums": [
+    "1143",
+    "16",
+    "5"
+   ],
+   "texto": "llanta honda r16 5x114.3 · r16 honda civic, cr-v, hr-v original aleación",
+   "wa": "Hola, quería consultar por las 4 llantas Honda R16 5x114.3 que vi en el catálogo (cód. L218).\nhttps://cubiertasmdz.github.io/p/L218/",
+   "url": "https://cubiertasmdz.github.io/p/L218/",
+   "marcas_llanta": [
+    "Honda"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L219",
+   "tipo": "llanta",
+   "titulo": "Llanta Peugeot R16",
+   "subtitulo": "4x108 · R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Aleación"
+   ],
+   "sirve": "Peugeot 206, 207, 208, 2008, 307, 308, 408",
+   "detalle": "Llantas originales Peugeot de aleación rodado 16 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l219-1.jpg",
+    "fotos/l219-2.jpg",
+    "fotos/l219-3.jpg"
+   ],
+   "claves": [
+    "16",
+    "4108",
+    "164108"
+   ],
+   "nums": [
+    "108",
+    "16",
+    "4"
+   ],
+   "texto": "llanta peugeot r16 4x108 · r16 peugeot 206, 207, 208, 2008, 307, 308, 408 original aleación",
+   "wa": "Hola, quería consultar por las 4 llantas Peugeot R16 4x108 que vi en el catálogo (cód. L219).\nhttps://cubiertasmdz.github.io/p/L219/",
+   "url": "https://cubiertasmdz.github.io/p/L219/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null
+  },
+  {
+   "id": "L220",
+   "tipo": "llanta",
+   "titulo": "Llanta Peugeot R17",
+   "subtitulo": "4x108 · R17",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Aleación"
+   ],
+   "sirve": "Peugeot 206, 207, 208, 2008, 307, 308, 408",
+   "detalle": "Llantas originales Peugeot de aleación rodado 17 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l220-1.jpg",
+    "fotos/l220-2.jpg",
+    "fotos/l220-3.jpg"
+   ],
+   "claves": [
+    "17",
+    "4108",
+    "174108"
+   ],
+   "nums": [
+    "108",
+    "17",
+    "4"
+   ],
+   "texto": "llanta peugeot r17 4x108 · r17 peugeot 206, 207, 208, 2008, 307, 308, 408 original aleación",
+   "wa": "Hola, quería consultar por las 4 llantas Peugeot R17 4x108 que vi en el catálogo (cód. L220).\nhttps://cubiertasmdz.github.io/p/L220/",
+   "url": "https://cubiertasmdz.github.io/p/L220/",
+   "marcas_llanta": [
+    "Peugeot"
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null
