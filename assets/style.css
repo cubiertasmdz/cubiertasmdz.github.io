@@ -381,7 +381,11 @@ a { color: inherit; }
   padding: 56px 12px;
 }
 .visor-item img {
-  max-width: 100%; max-height: 100%;
+  /* tope por alto de pantalla: con % la foto vertical se pasaba del alto y quedaba cortada */
+  max-width: 100%;
+  max-height: calc(100vh - 112px);
+  max-height: calc(100dvh - 112px);
+  width: auto; height: auto;
   object-fit: contain; border-radius: 6px;
 }
 .visor-cerrar, .visor-flecha {
