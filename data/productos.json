@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19 15:27",
+ "actualizado": "2026-10-19 15:31",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -3673,10 +3673,11 @@
    "segmentos": null,
    "etiquetas": [
     "Original",
-    "Aleación"
+    "Aleación",
+    "Se venden sin cubierta"
    ],
    "sirve": "Fiat Palio, Siena, Punto, Uno, Argo, Cronos, Mobi",
-   "detalle": "Llantas originales Fiat de aleación rodado 14 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
+   "detalle": "Llantas originales Fiat Adventure de aleación rodado 14 de 4 agujeros. Se venden las 4 llantas solas: las cubiertas que se ven en algunas fotos no se incluyen. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -3695,7 +3696,7 @@
     "4",
     "98"
    ],
-   "texto": "llanta fiat r14 4x98 · r14 fiat palio, siena, punto, uno, argo, cronos, mobi original aleación",
+   "texto": "llanta fiat r14 4x98 · r14 fiat palio, siena, punto, uno, argo, cronos, mobi original aleación se venden sin cubierta",
    "wa": "Hola, quería consultar por las 4 llantas Fiat R14 4x98 que vi en el catálogo (cód. L106).\nhttps://cubiertasmdz.github.io/p/L106/",
    "url": "https://cubiertasmdz.github.io/p/L106/",
    "marcas_llanta": [
