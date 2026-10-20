@@ -148,7 +148,7 @@ def segmentos(p):
 
 
 def medida(p):
-    if p["tipo"] in ("cubierta", "rueda"):
+    if p["tipo"] in ("cubierta", "rueda", "auto"):
         return f'{p["ancho"]}/{p["perfil"]} R{p["rodado"]}'
     if p["tipo"] == "llanta":
         return f'R{p["rodado"]}'
@@ -158,7 +158,9 @@ def medida(p):
 def nombre_interno(p):
     if p["tipo"] == "cubierta":
         return f'{p.get("marca", "")} {p.get("modelo", "")} {medida(p)}'.replace("  ", " ").strip()
-    if p["tipo"] == "rueda":
+    if p["tipo"] == "auto":
+        return f'{p.get("cantidad", "")} ruedas en {nombre_auto(p, anio=True)} {medida(p)}'.replace("  ", " ").strip()
+    if p["tipo"] in ("rueda", "auto"):
         return (f'Rueda {p.get("marca", "")} {medida(p)} + llanta {p.get("llanta_marca", "")} '
                 f'{p.get("agujeros", "")}x{p.get("distancia", "")}').replace("  ", " ").strip()
     if p["tipo"] == "llanta":
@@ -172,7 +174,7 @@ def nombre_planilla(p, n):
         return p["nombre"]
     cat = categoria(p["tipo"])
     cosa = cat["singular"] if n == 1 else cat["plural"]
-    if p["tipo"] == "rueda":
+    if p["tipo"] in ("rueda", "auto"):
         partes = [p.get("marca"), p.get("llanta_marca"), medida(p)]
     elif p["tipo"] == "cubierta":
         partes = [p.get("marca"), medida(p)]
@@ -223,14 +225,24 @@ def numeros(p, claves):
     """Cada número suelto del producto (ancho, perfil, rodado, agujeros, distancia...) para que el
     buscador encuentre "195" o "R15" sin escribir la medida completa."""
     campos = ["ancho", "perfil", "rodado", "agujeros", "distancia", "offset"]
-    if p["tipo"] not in ("cubierta", "rueda", "llanta"):
+    if p["tipo"] not in ("cubierta", "rueda", "auto", "llanta"):
         return sorted(set(claves))
     nums = set()
     for c in campos:
         v = p.get(c)
         if v not in (None, ""):
             nums.add(re.sub(r"\D", "", str(v).replace(".0", "")))
+    if p["tipo"] == "auto":  # "208", "2015": el modelo y el año del auto también se buscan
+        nums.update(re.findall(r"\d+", f'{p.get("auto_modelo", "")} {p.get("auto_anio", "")}'))
     return sorted(n for n in nums if n)
+
+
+def nombre_auto(p, anio=False):
+    """"Peugeot 208" (con anio=True: "Peugeot 208 2015")."""
+    partes = [p.get("auto_marca", ""), p.get("auto_modelo", "")]
+    if anio and p.get("auto_anio"):
+        partes.append(str(p["auto_anio"]))
+    return " ".join(str(x) for x in partes if x).strip() or "Auto"
 
 def publico(p):
     cat = categoria(p["tipo"])
@@ -239,7 +251,7 @@ def publico(p):
     detalle = p.get("observaciones") or ""
     sirve = ""
 
-    if p["tipo"] in ("cubierta", "rueda"):
+    if p["tipo"] in ("cubierta", "rueda", "auto"):
         titulo = f'{p.get("marca", "")} {p.get("modelo", "")}'.strip() or cat["singular"].capitalize()
         sub = medida(p)
         ic = f'{p.get("indice_carga") or ""}{p.get("indice_velocidad") or ""}'
@@ -259,7 +271,7 @@ def publico(p):
             etiquetas.append(f'{p["parches"]} parche{"s" if p["parches"] > 1 else ""}')
         claves = [f'{p["ancho"]}{p["perfil"]}{p["rodado"]}']
         mensaje_prod = f'{p.get("marca", "")} {medida(p)}'.replace("  ", " ").strip()
-        if p["tipo"] == "rueda":  # cubierta montada en llanta: se suman los datos de la llanta
+        if p["tipo"] in ("rueda", "auto"):  # cubierta montada en llanta: se suman los datos de la llanta
             mat = (p.get("llanta_material") or "").lower()
             llanta = "Llanta" + (f' {p["llanta_marca"]}' if p.get("llanta_marca") else "") + (f" de {mat}" if mat else "")
             etiquetas.insert(0, llanta)
@@ -274,6 +286,12 @@ def publico(p):
             sirve = ", ".join(p.get("vehiculos", []))
             if p.get("llanta_marca"):
                 mensaje_prod += f' con llanta {p["llanta_marca"]}'
+        if p["tipo"] == "auto":  # ruedas puestas en un auto sin desarmar: el título es el auto
+            cub = f'{p.get("marca", "")} {p.get("modelo", "")}'.strip()
+            if cub:
+                etiquetas.insert(0, f"Cubiertas {cub}")
+            titulo = nombre_auto(p, anio=True)
+            mensaje_prod = f"del {titulo} ({medida(p)})"
     elif p["tipo"] == "llanta":
         mat = (p.get("material") or "").lower()
         if p.get("marca"):
@@ -345,8 +363,9 @@ def publico(p):
         "url": url,
         "marcas_llanta": marcas_de(p.get("llanta_marca") or (p.get("marca") if p["tipo"] == "llanta" else None))
         or (["Alternativa"] if p.get("llanta_original", p.get("original")) is False else []),
-        "marcas_cubierta": marcas_de(p.get("marca") if p["tipo"] in ("cubierta", "rueda") else None),
-        "medida_cubierta": medida(p) if p["tipo"] in ("cubierta", "rueda") else None,
+        "marcas_cubierta": marcas_de(p.get("marca") if p["tipo"] in ("cubierta", "rueda", "auto") else None),
+        "medida_cubierta": medida(p) if p["tipo"] in ("cubierta", "rueda", "auto") else None,
+        "auto": nombre_auto(p) if p["tipo"] == "auto" else None,
         "alta": p.get("fecha_ingreso"),
     }
 
@@ -412,7 +431,7 @@ def build(silencioso=False):
     salida = {
         "actualizado": ahora(),
         "sitio": {k: CONFIG[k] for k in ["titulo", "bajada", "whatsapp", "whatsapp_visible", "ubicacion", "envios", "sitio_url"]},
-        "categorias": [{k: c[k] for k in ["id", "nombre", "singular", "plural", "filtro_rodado", "filtro_medida"]} for c in CONFIG["categorias"]],
+        "categorias": [{k: c.get(k, False) for k in ["id", "nombre", "singular", "plural", "filtro_rodado", "filtro_medida", "filtro_auto"]} for c in CONFIG["categorias"]],
         "productos": productos,
     }
     texto = json.dumps(salida, ensure_ascii=False, indent=1)
@@ -636,7 +655,7 @@ def cmd_resumen(mes):
           f"{pesos(sum(h['monto'] or 0 for h in ventas))}")
     for h in ventas:
         print(f'   {h["fecha"][:10]}  {h["id"]} {h["producto"]} — {h["cantidad"]} u. {pesos(h["monto"])}')
-    viejas = [(p, antiguedad(p.get("dot"))) for p in vis if p["tipo"] in ("cubierta", "rueda")]
+    viejas = [(p, antiguedad(p.get("dot"))) for p in vis if p["tipo"] in ("cubierta", "rueda", "auto")]
     viejas = [(p, a) for p, a in viejas if a and a > CONFIG["anios_alerta"]]
     print(f'\nCUBIERTAS CON MÁS DE {CONFIG["anios_alerta"]} AÑOS: {len(viejas)}')
     for p, a in viejas:
@@ -749,7 +768,7 @@ def planilla(destino=None):
     reales = [p for p in stock["productos"] if visible(p) and not p.get("prueba")]
     mes = hoy().strftime("%Y-%m")
     ventas_mes = [m for m in hist if m["tipo"] == "venta" and m["fecha"].startswith(mes) and not m.get("prueba")]
-    viejas = [p for p in reales if p["tipo"] in ("cubierta", "rueda") and (antiguedad(p.get("dot")) or 0) > CONFIG["anios_alerta"]]
+    viejas = [p for p in reales if p["tipo"] in ("cubierta", "rueda", "auto") and (antiguedad(p.get("dot")) or 0) > CONFIG["anios_alerta"]]
     filas = [
         ["Actualizado", ahora()],
         ["Productos publicados", len(reales)],

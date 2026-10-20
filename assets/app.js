@@ -2,7 +2,7 @@
   "use strict";
 
   const $ = (s) => document.querySelector(s);
-  const estado = { datos: null, tab: null, rodado: "todos", marca: "", medida: "", q: "", solo: null };
+  const estado = { datos: null, tab: null, rodado: "todos", marca: "", medida: "", auto: "", q: "", solo: null };
   const RODADOS = [
     { id: "todos", txt: "Todos" },
     { id: "13", txt: "R13" },
@@ -54,7 +54,8 @@
   function pasaMedida(p) {
     return !estado.medida || p.medida_cubierta === estado.medida;
   }
-  const pasaFiltros = (p) => pasaRodado(p) && pasaMarca(p) && pasaMedida(p);
+  const pasaAuto = (p) => !estado.auto || p.auto === estado.auto;
+  const pasaFiltros = (p) => pasaRodado(p) && pasaMarca(p) && pasaMedida(p) && pasaAuto(p);
   const unicos = (arr) => [...new Set(arr)].sort((a, b) => a.localeCompare(b, "es", { numeric: true }));
 
   function renderFiltros(base, cat) {
@@ -69,8 +70,16 @@
       .concat(medidas.map((m) => `<option value="${esc(m)}"${m === estado.medida ? " selected" : ""}>${esc(m)}</option>`)).join("");
     const conMedida = !!(cat && cat.filtro_medida && medidas.length);
     $("#filtro-medida").style.display = conMedida ? "" : "none";
-    $("#filtros").classList.toggle("uno", !conMedida);
-    $("#filtros").style.display = ml.length || mc.length || conMedida ? "" : "none";
+    // pestaña "En autos": filtro por auto (marca + modelo del auto donde están puestas las ruedas)
+    const autos = unicos(base.map((p) => p.auto).filter(Boolean));
+    const conAuto = !!(cat && cat.filtro_auto && autos.length);
+    $("#filtro-auto").style.display = conAuto ? "" : "none";
+    $("#f-auto").innerHTML = [`<option value="">Todos</option>`]
+      .concat(autos.map((a) => `<option value="${esc(a)}"${a === estado.auto ? " selected" : ""}>${esc(a)}</option>`)).join("");
+    $("#f-auto").classList.toggle("activo", !!estado.auto);
+    $("#filtros").classList.toggle("uno", !conMedida && !conAuto);
+    $("#filtros").classList.toggle("con-auto", conAuto);
+    $("#filtros").style.display = ml.length || mc.length || conMedida || conAuto ? "" : "none";
     $("#f-marca").classList.toggle("activo", !!estado.marca);
     $("#f-medida").classList.toggle("activo", !!estado.medida);
   }
@@ -82,7 +91,8 @@
 
   // ---------- render ----------
   function renderTabs() {
-    const cats = estado.datos.categorias;
+    // una pestaña sin nada cargado (ej. "En autos" al principio) no se muestra
+    const cats = estado.datos.categorias.filter((c) => c.id === estado.tab || estado.datos.productos.some((p) => p.tipo === c.id));
     $("#tabs").innerHTML = cats.map((c) => `
       <button class="tab" role="tab" data-tab="${c.id}" aria-selected="${c.id === estado.tab}">
         ${esc(c.nombre)} <span class="n">(${visibles(c.id).length})</span>
@@ -173,7 +183,7 @@
 
   document.addEventListener("click", async (e) => {
     const tab = e.target.closest("[data-tab]");
-    if (tab) { estado.tab = tab.dataset.tab; estado.rodado = "todos"; estado.marca = ""; estado.medida = ""; estado.solo = null; return render(); }
+    if (tab) { estado.tab = tab.dataset.tab; estado.rodado = "todos"; estado.marca = ""; estado.medida = ""; estado.auto = ""; estado.solo = null; return render(); }
     const chip = e.target.closest("[data-rodado]");
     if (chip) { estado.rodado = chip.dataset.rodado; return render(); }
     if (e.target.closest("[data-ver-todo]")) {
@@ -271,6 +281,7 @@
 
   $("#f-marca").addEventListener("change", (e) => { estado.marca = e.target.value; estado.solo = null; render(); });
   $("#f-medida").addEventListener("change", (e) => { estado.medida = e.target.value; estado.solo = null; render(); });
+  $("#f-auto").addEventListener("change", (e) => { estado.auto = e.target.value; estado.solo = null; render(); });
 
   let espera;
   $("#q").addEventListener("input", (e) => {
@@ -288,7 +299,7 @@
   function autoTab() {
     if (visibles(estado.tab).length) return;
     const otra = estado.datos.categorias.find((c) => visibles(c.id).length);
-    if (otra) { estado.tab = otra.id; estado.rodado = "todos"; estado.marca = ""; estado.medida = ""; }
+    if (otra) { estado.tab = otra.id; estado.rodado = "todos"; estado.marca = ""; estado.medida = ""; estado.auto = ""; }
   }
 
   // ---------- inicio ----------

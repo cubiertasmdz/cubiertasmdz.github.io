@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19 16:01",
+ "actualizado": "2026-10-20 13:26",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -16,7 +16,8 @@
    "singular": "cubierta",
    "plural": "cubiertas",
    "filtro_rodado": false,
-   "filtro_medida": true
+   "filtro_medida": true,
+   "filtro_auto": false
   },
   {
    "id": "llanta",
@@ -24,7 +25,8 @@
    "singular": "llanta",
    "plural": "llantas",
    "filtro_rodado": true,
-   "filtro_medida": false
+   "filtro_medida": false,
+   "filtro_auto": false
   },
   {
    "id": "rueda",
@@ -32,7 +34,17 @@
    "singular": "rueda completa",
    "plural": "ruedas completas",
    "filtro_rodado": true,
-   "filtro_medida": true
+   "filtro_medida": true,
+   "filtro_auto": false
+  },
+  {
+   "id": "auto",
+   "nombre": "En autos",
+   "singular": "rueda",
+   "plural": "ruedas",
+   "filtro_rodado": false,
+   "filtro_medida": true,
+   "filtro_auto": true
   }
  ],
  "productos": [
@@ -76,7 +88,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L020",
@@ -118,7 +131,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L021",
@@ -160,7 +174,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L022",
@@ -203,7 +218,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L023",
@@ -245,7 +261,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L024",
@@ -287,7 +304,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L025",
@@ -329,7 +347,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L026",
@@ -372,7 +391,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L027",
@@ -414,7 +434,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L028",
@@ -457,7 +478,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L029",
@@ -499,7 +521,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L030",
@@ -541,7 +564,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L031",
@@ -583,7 +607,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L032",
@@ -625,7 +650,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L033",
@@ -668,7 +694,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L034",
@@ -711,7 +738,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L035",
@@ -753,7 +781,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L036",
@@ -794,7 +823,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L037",
@@ -836,7 +866,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L038",
@@ -879,7 +910,8 @@
     "Nissan"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L039",
@@ -921,7 +953,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L040",
@@ -964,7 +997,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L041",
@@ -1007,7 +1041,8 @@
     "Nissan"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L042",
@@ -1049,7 +1084,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L043",
@@ -1092,7 +1128,8 @@
     "Nissan"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L044",
@@ -1134,7 +1171,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L045",
@@ -1176,7 +1214,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L046",
@@ -1219,7 +1258,8 @@
     "Nissan"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L047",
@@ -1261,7 +1301,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L048",
@@ -1303,7 +1344,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L049",
@@ -1345,7 +1387,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L050",
@@ -1384,7 +1427,8 @@
     "Nissan"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L051",
@@ -1426,7 +1470,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L052",
@@ -1466,7 +1511,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L053",
@@ -1507,7 +1553,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L054",
@@ -1544,7 +1591,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L055",
@@ -1586,7 +1634,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L056",
@@ -1628,7 +1677,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L057",
@@ -1671,7 +1721,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L058",
@@ -1713,7 +1764,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L059",
@@ -1753,7 +1805,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L060",
@@ -1793,7 +1846,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L061",
@@ -1836,7 +1890,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L062",
@@ -1876,7 +1931,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L063",
@@ -1915,7 +1971,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L064",
@@ -1958,7 +2015,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L065",
@@ -2000,7 +2058,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L066",
@@ -2041,7 +2100,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L067",
@@ -2084,7 +2144,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L068",
@@ -2126,7 +2187,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L069",
@@ -2166,7 +2228,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L070",
@@ -2208,7 +2271,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L071",
@@ -2247,7 +2311,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L072",
@@ -2286,7 +2351,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L073",
@@ -2329,7 +2395,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L074",
@@ -2370,7 +2437,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L075",
@@ -2409,7 +2477,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L076",
@@ -2451,7 +2520,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L077",
@@ -2493,7 +2563,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L078",
@@ -2531,7 +2602,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L079",
@@ -2574,7 +2646,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L080",
@@ -2613,7 +2686,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L081",
@@ -2656,7 +2730,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L082",
@@ -2695,7 +2770,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L083",
@@ -2734,7 +2810,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L084",
@@ -2777,7 +2854,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L085",
@@ -2820,7 +2898,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L086",
@@ -2863,7 +2942,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L087",
@@ -2902,7 +2982,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L088",
@@ -2943,7 +3024,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L089",
@@ -2986,7 +3068,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L090",
@@ -3028,7 +3111,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L091",
@@ -3069,7 +3153,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L092",
@@ -3111,7 +3196,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L093",
@@ -3153,7 +3239,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L094",
@@ -3194,7 +3281,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L095",
@@ -3237,7 +3325,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L096",
@@ -3280,7 +3369,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L097",
@@ -3324,7 +3414,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L098",
@@ -3366,7 +3457,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L099",
@@ -3409,7 +3501,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L100",
@@ -3450,7 +3543,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L101",
@@ -3493,7 +3587,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L102",
@@ -3530,7 +3625,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L103",
@@ -3573,7 +3669,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L104",
@@ -3615,7 +3712,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L105",
@@ -3658,7 +3756,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L106",
@@ -3703,7 +3802,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L107",
@@ -3746,7 +3846,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L108",
@@ -3789,7 +3890,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L109",
@@ -3832,7 +3934,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L110",
@@ -3875,7 +3978,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L111",
@@ -3917,7 +4021,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L112",
@@ -3958,7 +4063,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L113",
@@ -4001,7 +4107,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L114",
@@ -4042,7 +4149,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L115",
@@ -4085,7 +4193,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L116",
@@ -4128,7 +4237,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L117",
@@ -4170,7 +4280,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L118",
@@ -4211,7 +4322,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L119",
@@ -4254,7 +4366,8 @@
     "Chery"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L120",
@@ -4298,7 +4411,8 @@
     "Chery"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L121",
@@ -4341,7 +4455,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L122",
@@ -4384,7 +4499,8 @@
     "Chery"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L123",
@@ -4427,7 +4543,8 @@
     "Chery"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L124",
@@ -4470,7 +4587,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L125",
@@ -4512,7 +4630,8 @@
     "Kia"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L126",
@@ -4555,7 +4674,8 @@
     "Kia"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L127",
@@ -4598,7 +4718,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L128",
@@ -4639,7 +4760,8 @@
     "Kia"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L129",
@@ -4682,7 +4804,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L130",
@@ -4725,7 +4848,8 @@
     "Kia"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L131",
@@ -4766,7 +4890,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L132",
@@ -4808,7 +4933,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L133",
@@ -4850,7 +4976,8 @@
     "Kia"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L134",
@@ -4891,7 +5018,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L135",
@@ -4932,7 +5060,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L136",
@@ -4969,7 +5098,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L137",
@@ -5007,7 +5137,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L138",
@@ -5049,7 +5180,8 @@
     "Kia"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L139",
@@ -5091,7 +5223,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L140",
@@ -5135,7 +5268,8 @@
     "Subaru"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L141",
@@ -5177,7 +5311,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L142",
@@ -5219,7 +5354,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L143",
@@ -5262,7 +5398,8 @@
     "Subaru"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L144",
@@ -5302,7 +5439,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L145",
@@ -5344,7 +5482,8 @@
     "Hyundai"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L146",
@@ -5387,7 +5526,8 @@
     "Hyundai"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L147",
@@ -5430,7 +5570,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L148",
@@ -5472,7 +5613,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L149",
@@ -5512,7 +5654,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L150",
@@ -5551,7 +5694,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L151",
@@ -5589,7 +5733,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L152",
@@ -5631,7 +5776,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L153",
@@ -5673,7 +5819,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L154",
@@ -5714,7 +5861,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L155",
@@ -5752,7 +5900,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L156",
@@ -5790,7 +5939,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L157",
@@ -5833,7 +5983,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L158",
@@ -5874,7 +6025,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L159",
@@ -5916,7 +6068,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L160",
@@ -5957,7 +6110,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L161",
@@ -5998,7 +6152,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L162",
@@ -6040,7 +6195,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L163",
@@ -6081,7 +6237,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L164",
@@ -6119,7 +6276,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L165",
@@ -6160,7 +6318,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L166",
@@ -6201,7 +6360,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L167",
@@ -6242,7 +6402,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L168",
@@ -6280,7 +6441,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L169",
@@ -6322,7 +6484,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L170",
@@ -6364,7 +6527,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L171",
@@ -6407,7 +6571,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L172",
@@ -6448,7 +6613,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L173",
@@ -6485,7 +6651,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L174",
@@ -6522,7 +6689,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L175",
@@ -6562,7 +6730,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L176",
@@ -6599,7 +6768,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L177",
@@ -6641,7 +6811,8 @@
     "Chery"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L178",
@@ -6682,7 +6853,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L179",
@@ -6723,7 +6895,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L180",
@@ -6765,7 +6938,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L181",
@@ -6806,7 +6980,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L182",
@@ -6847,7 +7022,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L183",
@@ -6890,7 +7066,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L184",
@@ -6931,7 +7108,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L185",
@@ -6972,7 +7150,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L186",
@@ -7013,7 +7192,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L187",
@@ -7055,7 +7235,8 @@
     "Chery"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L188",
@@ -7098,7 +7279,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L189",
@@ -7139,7 +7321,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L190",
@@ -7182,7 +7365,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L191",
@@ -7223,7 +7407,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L192",
@@ -7260,7 +7445,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L193",
@@ -7298,7 +7484,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L194",
@@ -7339,7 +7526,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L195",
@@ -7381,7 +7569,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L196",
@@ -7418,7 +7607,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L197",
@@ -7455,7 +7645,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L198",
@@ -7498,7 +7689,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L199",
@@ -7539,7 +7731,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L200",
@@ -7581,7 +7774,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L201",
@@ -7622,7 +7816,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L202",
@@ -7664,7 +7859,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L203",
@@ -7706,7 +7902,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L204",
@@ -7749,7 +7946,8 @@
     "Chevrolet"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L205",
@@ -7791,7 +7989,8 @@
     "Jeep"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L206",
@@ -7834,7 +8033,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L207",
@@ -7871,7 +8071,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L208",
@@ -7907,7 +8108,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L209",
@@ -7944,7 +8146,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L210",
@@ -7980,7 +8183,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L211",
@@ -8019,7 +8223,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L212",
@@ -8056,7 +8261,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L213",
@@ -8093,7 +8299,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L214",
@@ -8130,7 +8337,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L215",
@@ -8166,7 +8374,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L216",
@@ -8204,7 +8413,8 @@
     "Alternativa"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L217",
@@ -8247,7 +8457,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L218",
@@ -8290,7 +8501,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L219",
@@ -8333,7 +8545,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L220",
@@ -8376,7 +8589,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R058",
@@ -8427,7 +8641,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "265/65 R17"
+   "medida_cubierta": "265/65 R17",
+   "auto": null
   },
   {
    "id": "L007",
@@ -8470,7 +8685,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R059",
@@ -8521,7 +8737,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R060",
@@ -8575,7 +8792,8 @@
     "Dunlop",
     "Fate"
    ],
-   "medida_cubierta": "235/65 R17"
+   "medida_cubierta": "235/65 R17",
+   "auto": null
   },
   {
    "id": "R061",
@@ -8624,7 +8842,8 @@
    "marcas_cubierta": [
     "Tango"
    ],
-   "medida_cubierta": "195/65 R15"
+   "medida_cubierta": "195/65 R15",
+   "auto": null
   },
   {
    "id": "R062",
@@ -8675,7 +8894,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/60 R16"
+   "medida_cubierta": "205/60 R16",
+   "auto": null
   },
   {
    "id": "R063",
@@ -8727,7 +8947,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "225/45 R17"
+   "medida_cubierta": "225/45 R17",
+   "auto": null
   },
   {
    "id": "R064",
@@ -8781,7 +9002,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R065",
@@ -8833,7 +9055,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R066",
@@ -8881,7 +9104,8 @@
    "marcas_cubierta": [
     "Pace"
    ],
-   "medida_cubierta": "195/65 R15"
+   "medida_cubierta": "195/65 R15",
+   "auto": null
   },
   {
    "id": "R067",
@@ -8933,7 +9157,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "205/60 R16"
+   "medida_cubierta": "205/60 R16",
+   "auto": null
   },
   {
    "id": "R068",
@@ -8983,7 +9208,8 @@
    "marcas_cubierta": [
     "Firemax"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "R069",
@@ -9034,7 +9260,8 @@
    "marcas_cubierta": [
     "Pace"
    ],
-   "medida_cubierta": "205/65 R15"
+   "medida_cubierta": "205/65 R15",
+   "auto": null
   },
   {
    "id": "R070",
@@ -9085,7 +9312,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "215/50 R17"
+   "medida_cubierta": "215/50 R17",
+   "auto": null
   },
   {
    "id": "R071",
@@ -9134,7 +9362,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "R072",
@@ -9188,7 +9417,8 @@
     "Pirelli",
     "Kumho"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "R073",
@@ -9240,7 +9470,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "205/70 R16"
+   "medida_cubierta": "205/70 R16",
+   "auto": null
   },
   {
    "id": "L008",
@@ -9287,7 +9518,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R074",
@@ -9339,7 +9571,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/60 R16"
+   "medida_cubierta": "205/60 R16",
+   "auto": null
   },
   {
    "id": "L009",
@@ -9381,7 +9614,8 @@
     "BSA"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R075",
@@ -9428,7 +9662,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "R076",
@@ -9478,7 +9713,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "R077",
@@ -9527,7 +9763,8 @@
    "marcas_cubierta": [
     "Firestone"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R078",
@@ -9575,7 +9812,8 @@
    "marcas_cubierta": [
     "Firestone"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R079",
@@ -9625,7 +9863,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "R080",
@@ -9674,7 +9913,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "255/70 R15"
+   "medida_cubierta": "255/70 R15",
+   "auto": null
   },
   {
    "id": "R081",
@@ -9725,7 +9965,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "215/65 R16"
+   "medida_cubierta": "215/65 R16",
+   "auto": null
   },
   {
    "id": "R082",
@@ -9771,7 +10012,8 @@
    "marcas_cubierta": [
     "GT Radial"
    ],
-   "medida_cubierta": "31/10.5 R15"
+   "medida_cubierta": "31/10.5 R15",
+   "auto": null
   },
   {
    "id": "R083",
@@ -9820,7 +10062,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R084",
@@ -9869,7 +10112,8 @@
    "marcas_cubierta": [
     "Wanli"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R085",
@@ -9918,7 +10162,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "C041",
@@ -9956,7 +10201,8 @@
    "marcas_cubierta": [
     "Giti"
    ],
-   "medida_cubierta": "215/50 R17"
+   "medida_cubierta": "215/50 R17",
+   "auto": null
   },
   {
    "id": "C042",
@@ -9996,7 +10242,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "185/55 R16"
+   "medida_cubierta": "185/55 R16",
+   "auto": null
   },
   {
    "id": "C043",
@@ -10034,7 +10281,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "195/50 R16"
+   "medida_cubierta": "195/50 R16",
+   "auto": null
   },
   {
    "id": "C044",
@@ -10071,7 +10319,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "C045",
@@ -10111,7 +10360,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "C046",
@@ -10149,7 +10399,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "C047",
@@ -10186,7 +10437,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "C048",
@@ -10223,7 +10475,8 @@
    "marcas_cubierta": [
     "Kumho"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "C049",
@@ -10261,7 +10514,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "C050",
@@ -10298,7 +10552,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "C051",
@@ -10336,7 +10591,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "C052",
@@ -10374,7 +10630,8 @@
    "marcas_cubierta": [
     "Kumho"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "C053",
@@ -10412,7 +10669,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "C054",
@@ -10450,7 +10708,8 @@
    "marcas_cubierta": [
     "Kelly"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "C055",
@@ -10487,7 +10746,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "C056",
@@ -10524,7 +10784,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "195/55 R16"
+   "medida_cubierta": "195/55 R16",
+   "auto": null
   },
   {
    "id": "C057",
@@ -10562,7 +10823,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "C058",
@@ -10600,7 +10862,8 @@
    "marcas_cubierta": [
     "Sunfull"
    ],
-   "medida_cubierta": "175/70 R14"
+   "medida_cubierta": "175/70 R14",
+   "auto": null
   },
   {
    "id": "C059",
@@ -10641,7 +10904,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "185/70 R14"
+   "medida_cubierta": "185/70 R14",
+   "auto": null
   },
   {
    "id": "C060",
@@ -10678,7 +10942,8 @@
    "marcas_cubierta": [
     "Tango"
    ],
-   "medida_cubierta": "185/60 R14"
+   "medida_cubierta": "185/60 R14",
+   "auto": null
   },
   {
    "id": "C061",
@@ -10715,7 +10980,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "165/70 R14"
+   "medida_cubierta": "165/70 R14",
+   "auto": null
   },
   {
    "id": "C062",
@@ -10752,7 +11018,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "175/70 R13"
+   "medida_cubierta": "175/70 R13",
+   "auto": null
   },
   {
    "id": "R086",
@@ -10803,7 +11070,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "255/70 R15"
+   "medida_cubierta": "255/70 R15",
+   "auto": null
   },
   {
    "id": "R088",
@@ -10851,7 +11119,8 @@
    "marcas_cubierta": [
     "Firestone"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R089",
@@ -10899,7 +11168,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R090",
@@ -10948,7 +11218,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R091",
@@ -10997,7 +11268,8 @@
    "marcas_cubierta": [
     "Firestone"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R092",
@@ -11044,7 +11316,8 @@
    "marcas_cubierta": [
     "Firemax"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "R093",
@@ -11092,7 +11365,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "R094",
@@ -11141,7 +11415,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R095",
@@ -11189,7 +11464,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "185/60 R14"
+   "medida_cubierta": "185/60 R14",
+   "auto": null
   },
   {
    "id": "R096",
@@ -11238,7 +11514,8 @@
    "marcas_cubierta": [
     "Pace"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R099",
@@ -11287,7 +11564,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "R100",
@@ -11335,7 +11613,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "R101",
@@ -11385,7 +11664,8 @@
    "marcas_cubierta": [
     "Linglong"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R102",
@@ -11434,7 +11714,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "195/70 R14"
+   "medida_cubierta": "195/70 R14",
+   "auto": null
   },
   {
    "id": "R103",
@@ -11483,7 +11764,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "175/65 R15"
+   "medida_cubierta": "175/65 R15",
+   "auto": null
   },
   {
    "id": "R104",
@@ -11532,7 +11814,8 @@
    "marcas_cubierta": [
     "Yokohama"
    ],
-   "medida_cubierta": "175/65 R15"
+   "medida_cubierta": "175/65 R15",
+   "auto": null
   },
   {
    "id": "R105",
@@ -11581,7 +11864,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "R106",
@@ -11630,7 +11914,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "195/65 R15"
+   "medida_cubierta": "195/65 R15",
+   "auto": null
   },
   {
    "id": "R107",
@@ -11679,7 +11964,8 @@
    "marcas_cubierta": [
     "Autodrive"
    ],
-   "medida_cubierta": "195/55 R15"
+   "medida_cubierta": "195/55 R15",
+   "auto": null
   },
   {
    "id": "R108",
@@ -11729,7 +12015,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "R109",
@@ -11778,7 +12065,8 @@
    "marcas_cubierta": [
     "Firemax"
    ],
-   "medida_cubierta": "195/55 R15"
+   "medida_cubierta": "195/55 R15",
+   "auto": null
   },
   {
    "id": "R110",
@@ -11827,7 +12115,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "195/55 R16"
+   "medida_cubierta": "195/55 R16",
+   "auto": null
   },
   {
    "id": "R111",
@@ -11876,7 +12165,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "R112",
@@ -11925,7 +12215,8 @@
    "marcas_cubierta": [
     "Firestone"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "R113",
@@ -11974,7 +12265,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R114",
@@ -12019,7 +12311,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "205/60 R16"
+   "medida_cubierta": "205/60 R16",
+   "auto": null
   },
   {
    "id": "R115",
@@ -12068,7 +12361,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "195/65 R15"
+   "medida_cubierta": "195/65 R15",
+   "auto": null
   },
   {
    "id": "R116",
@@ -12117,7 +12411,8 @@
    "marcas_cubierta": [
     "Firestone"
    ],
-   "medida_cubierta": "205/60 R15"
+   "medida_cubierta": "205/60 R15",
+   "auto": null
   },
   {
    "id": "R117",
@@ -12166,7 +12461,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "R118",
@@ -12216,7 +12512,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "215/65 R16"
+   "medida_cubierta": "215/65 R16",
+   "auto": null
   },
   {
    "id": "R119",
@@ -12267,7 +12564,8 @@
    "marcas_cubierta": [
     "Kumho"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R120",
@@ -12318,7 +12616,8 @@
     "Continental",
     "Fate"
    ],
-   "medida_cubierta": "195/65 R15"
+   "medida_cubierta": "195/65 R15",
+   "auto": null
   },
   {
    "id": "R121",
@@ -12369,7 +12668,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "205/55 R17"
+   "medida_cubierta": "205/55 R17",
+   "auto": null
   },
   {
    "id": "R122",
@@ -12424,7 +12724,8 @@
     "Continental",
     "otras"
    ],
-   "medida_cubierta": "215/60 R17"
+   "medida_cubierta": "215/60 R17",
+   "auto": null
   },
   {
    "id": "R123",
@@ -12474,7 +12775,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "R124",
@@ -12525,7 +12827,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R125",
@@ -12575,7 +12878,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "R126",
@@ -12626,7 +12930,8 @@
    "marcas_cubierta": [
     "Varias marcas"
    ],
-   "medida_cubierta": "195/50 R16"
+   "medida_cubierta": "195/50 R16",
+   "auto": null
   },
   {
    "id": "R127",
@@ -12676,7 +12981,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "195/55 R15"
+   "medida_cubierta": "195/55 R15",
+   "auto": null
   },
   {
    "id": "R128",
@@ -12727,7 +13033,8 @@
     "Dunlop",
     "otras"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R129",
@@ -12778,7 +13085,8 @@
    "marcas_cubierta": [
     "Varias marcas"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R130",
@@ -12828,7 +13136,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R131",
@@ -12880,7 +13189,8 @@
     "Fate",
     "otras"
    ],
-   "medida_cubierta": "195/65 R15"
+   "medida_cubierta": "195/65 R15",
+   "auto": null
   },
   {
    "id": "R132",
@@ -12932,7 +13242,8 @@
     "Pirelli",
     "otras"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "R133",
@@ -12985,7 +13296,8 @@
     "Pirelli",
     "otras"
    ],
-   "medida_cubierta": "195/55 R16"
+   "medida_cubierta": "195/55 R16",
+   "auto": null
   },
   {
    "id": "R134",
@@ -13035,7 +13347,8 @@
    "marcas_cubierta": [
     "Varias marcas"
    ],
-   "medida_cubierta": "245/45 R17"
+   "medida_cubierta": "245/45 R17",
+   "auto": null
   },
   {
    "id": "R135",
@@ -13086,7 +13399,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "195/55 R16"
+   "medida_cubierta": "195/55 R16",
+   "auto": null
   },
   {
    "id": "R136",
@@ -13136,7 +13450,8 @@
    "marcas_cubierta": [
     "Firestone"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R137",
@@ -13186,7 +13501,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R138",
@@ -13230,7 +13546,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/65 R16"
+   "medida_cubierta": "205/65 R16",
+   "auto": null
   },
   {
    "id": "R139",
@@ -13273,7 +13590,8 @@
    "marcas_cubierta": [
     "Firemax"
    ],
-   "medida_cubierta": "205/65 R15"
+   "medida_cubierta": "205/65 R15",
+   "auto": null
   },
   {
    "id": "L010",
@@ -13317,7 +13635,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L011",
@@ -13360,7 +13679,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L012",
@@ -13403,7 +13723,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L013",
@@ -13448,7 +13769,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L014",
@@ -13492,7 +13814,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L015",
@@ -13537,7 +13860,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L016",
@@ -13581,7 +13905,8 @@
     "Peugeot"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L017",
@@ -13625,7 +13950,8 @@
     "Volkswagen"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "L018",
@@ -13668,7 +13994,8 @@
     "Citroën"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R140",
@@ -13717,7 +14044,8 @@
    "marcas_cubierta": [
     "Varias marcas"
    ],
-   "medida_cubierta": "185/60 R16"
+   "medida_cubierta": "185/60 R16",
+   "auto": null
   },
   {
    "id": "R141",
@@ -13767,7 +14095,8 @@
    "marcas_cubierta": [
     "Varias marcas"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "C003",
@@ -13807,7 +14136,8 @@
    "marcas_cubierta": [
     "Firemax"
    ],
-   "medida_cubierta": "205/60 R16"
+   "medida_cubierta": "205/60 R16",
+   "auto": null
   },
   {
    "id": "C004",
@@ -13847,7 +14177,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/60 R16"
+   "medida_cubierta": "205/60 R16",
+   "auto": null
   },
   {
    "id": "C005",
@@ -13885,7 +14216,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/55 R17"
+   "medida_cubierta": "205/55 R17",
+   "auto": null
   },
   {
    "id": "C006",
@@ -13923,7 +14255,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "205/55 R17"
+   "medida_cubierta": "205/55 R17",
+   "auto": null
   },
   {
    "id": "C007",
@@ -13963,7 +14296,8 @@
    "marcas_cubierta": [
     "Yokohama"
    ],
-   "medida_cubierta": "205/55 R17"
+   "medida_cubierta": "205/55 R17",
+   "auto": null
   },
   {
    "id": "C008",
@@ -14001,7 +14335,8 @@
    "marcas_cubierta": [
     "Toyo"
    ],
-   "medida_cubierta": "215/60 R17"
+   "medida_cubierta": "215/60 R17",
+   "auto": null
   },
   {
    "id": "C009",
@@ -14041,7 +14376,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "225/40 R18"
+   "medida_cubierta": "225/40 R18",
+   "auto": null
   },
   {
    "id": "C010",
@@ -14078,7 +14414,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "225/40 R18"
+   "medida_cubierta": "225/40 R18",
+   "auto": null
   },
   {
    "id": "C011",
@@ -14119,7 +14456,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "245/40 R18"
+   "medida_cubierta": "245/40 R18",
+   "auto": null
   },
   {
    "id": "C012",
@@ -14159,7 +14497,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "205/75 R16"
+   "medida_cubierta": "205/75 R16",
+   "auto": null
   },
   {
    "id": "C013",
@@ -14197,7 +14536,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/60 R16"
+   "medida_cubierta": "205/60 R16",
+   "auto": null
   },
   {
    "id": "C014",
@@ -14235,7 +14575,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "205/60 R16"
+   "medida_cubierta": "205/60 R16",
+   "auto": null
   },
   {
    "id": "C015",
@@ -14275,7 +14616,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "235/60 R16"
+   "medida_cubierta": "235/60 R16",
+   "auto": null
   },
   {
    "id": "C016",
@@ -14314,7 +14656,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "235/60 R16"
+   "medida_cubierta": "235/60 R16",
+   "auto": null
   },
   {
    "id": "C017",
@@ -14352,7 +14695,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "225/45 R17"
+   "medida_cubierta": "225/45 R17",
+   "auto": null
   },
   {
    "id": "C018",
@@ -14390,7 +14734,8 @@
    "marcas_cubierta": [
     "Westlake"
    ],
-   "medida_cubierta": "225/45 R17"
+   "medida_cubierta": "225/45 R17",
+   "auto": null
   },
   {
    "id": "C019",
@@ -14431,7 +14776,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "185/55 R16"
+   "medida_cubierta": "185/55 R16",
+   "auto": null
   },
   {
    "id": "C020",
@@ -14469,7 +14815,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "225/45 R17"
+   "medida_cubierta": "225/45 R17",
+   "auto": null
   },
   {
    "id": "C021",
@@ -14507,7 +14854,8 @@
    "marcas_cubierta": [
     "Yokohama"
    ],
-   "medida_cubierta": "195/50 R16"
+   "medida_cubierta": "195/50 R16",
+   "auto": null
   },
   {
    "id": "C022",
@@ -14545,7 +14893,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "215/50 R17"
+   "medida_cubierta": "215/50 R17",
+   "auto": null
   },
   {
    "id": "C023",
@@ -14582,7 +14931,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "C024",
@@ -14622,7 +14972,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "215/55 R17"
+   "medida_cubierta": "215/55 R17",
+   "auto": null
   },
   {
    "id": "C025",
@@ -14670,7 +15021,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "165/70 R14"
+   "medida_cubierta": "165/70 R14",
+   "auto": null
   },
   {
    "id": "C026",
@@ -14708,7 +15060,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "195/60 R16"
+   "medida_cubierta": "195/60 R16",
+   "auto": null
   },
   {
    "id": "C027",
@@ -14750,7 +15103,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "265/65 R17"
+   "medida_cubierta": "265/65 R17",
+   "auto": null
   },
   {
    "id": "C028",
@@ -14791,7 +15145,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "265/60 R18"
+   "medida_cubierta": "265/60 R18",
+   "auto": null
   },
   {
    "id": "C029",
@@ -14829,7 +15184,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "195/60 R16"
+   "medida_cubierta": "195/60 R16",
+   "auto": null
   },
   {
    "id": "C030",
@@ -14869,7 +15225,8 @@
    "marcas_cubierta": [
     "Triangle"
    ],
-   "medida_cubierta": "235/60 R18"
+   "medida_cubierta": "235/60 R18",
+   "auto": null
   },
   {
    "id": "C031",
@@ -14909,7 +15266,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "245/70 R16"
+   "medida_cubierta": "245/70 R16",
+   "auto": null
   },
   {
    "id": "C032",
@@ -14952,7 +15310,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "225/55 R18"
+   "medida_cubierta": "225/55 R18",
+   "auto": null
   },
   {
    "id": "C033",
@@ -14994,7 +15353,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "245/70 R16"
+   "medida_cubierta": "245/70 R16",
+   "auto": null
   },
   {
    "id": "C034",
@@ -15037,7 +15397,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "225/65 R17"
+   "medida_cubierta": "225/65 R17",
+   "auto": null
   },
   {
    "id": "C035",
@@ -15078,7 +15439,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "245/70 R16"
+   "medida_cubierta": "245/70 R16",
+   "auto": null
   },
   {
    "id": "C036",
@@ -15120,7 +15482,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "245/70 R16"
+   "medida_cubierta": "245/70 R16",
+   "auto": null
   },
   {
    "id": "C037",
@@ -15160,7 +15523,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "245/70 R16"
+   "medida_cubierta": "245/70 R16",
+   "auto": null
   },
   {
    "id": "C038",
@@ -15201,7 +15565,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "265/65 R17"
+   "medida_cubierta": "265/65 R17",
+   "auto": null
   },
   {
    "id": "C039",
@@ -15243,7 +15608,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "245/65 R17"
+   "medida_cubierta": "245/65 R17",
+   "auto": null
   },
   {
    "id": "C040",
@@ -15283,7 +15649,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "265/65 R17"
+   "medida_cubierta": "265/65 R17",
+   "auto": null
   },
   {
    "id": "R019",
@@ -15335,7 +15702,8 @@
    "marcas_cubierta": [
     "Kumho"
    ],
-   "medida_cubierta": "215/65 R16"
+   "medida_cubierta": "215/65 R16",
+   "auto": null
   },
   {
    "id": "R020",
@@ -15386,7 +15754,8 @@
    "marcas_cubierta": [
     "Hankook"
    ],
-   "medida_cubierta": "195/55 R15"
+   "medida_cubierta": "195/55 R15",
+   "auto": null
   },
   {
    "id": "R021",
@@ -15435,7 +15804,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "195/65 R15"
+   "medida_cubierta": "195/65 R15",
+   "auto": null
   },
   {
    "id": "L005",
@@ -15479,7 +15849,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R022",
@@ -15529,7 +15900,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "R023",
@@ -15581,7 +15953,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "195/55 R15"
+   "medida_cubierta": "195/55 R15",
+   "auto": null
   },
   {
    "id": "R024",
@@ -15629,7 +16002,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "R025",
@@ -15676,7 +16050,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "195/55 R16"
+   "medida_cubierta": "195/55 R16",
+   "auto": null
   },
   {
    "id": "R026",
@@ -15728,7 +16103,8 @@
     "Pirelli",
     "Goodyear"
    ],
-   "medida_cubierta": "175/65 R15"
+   "medida_cubierta": "175/65 R15",
+   "auto": null
   },
   {
    "id": "R027",
@@ -15777,7 +16153,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "R028",
@@ -15829,7 +16206,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "215/45 R16"
+   "medida_cubierta": "215/45 R16",
+   "auto": null
   },
   {
    "id": "R029",
@@ -15880,7 +16258,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "235/60 R18"
+   "medida_cubierta": "235/60 R18",
+   "auto": null
   },
   {
    "id": "R030",
@@ -15929,7 +16308,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "225/45 R18"
+   "medida_cubierta": "225/45 R18",
+   "auto": null
   },
   {
    "id": "R031",
@@ -15983,7 +16363,8 @@
     "Bridgestone",
     "Michelin"
    ],
-   "medida_cubierta": "225/50 R17"
+   "medida_cubierta": "225/50 R17",
+   "auto": null
   },
   {
    "id": "R032",
@@ -16035,7 +16416,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R033",
@@ -16085,7 +16467,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R034",
@@ -16136,7 +16519,8 @@
    "marcas_cubierta": [
     "Triangle"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R035",
@@ -16187,7 +16571,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R036",
@@ -16235,7 +16620,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "R037",
@@ -16280,7 +16666,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "R039",
@@ -16326,7 +16713,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "175/70 R13"
+   "medida_cubierta": "175/70 R13",
+   "auto": null
   },
   {
    "id": "R040",
@@ -16376,7 +16764,8 @@
    "marcas_cubierta": [
     "Yokohama"
    ],
-   "medida_cubierta": "225/65 R17"
+   "medida_cubierta": "225/65 R17",
+   "auto": null
   },
   {
    "id": "R041",
@@ -16429,7 +16818,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "215/50 R17"
+   "medida_cubierta": "215/50 R17",
+   "auto": null
   },
   {
    "id": "R042",
@@ -16478,7 +16868,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R043",
@@ -16530,7 +16921,8 @@
     "Kumho",
     "Bridgestone"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R044",
@@ -16579,7 +16971,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R045",
@@ -16626,7 +17019,8 @@
    "marcas_cubierta": [
     "Firestone"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R046",
@@ -16682,7 +17076,8 @@
     "Pirelli",
     "Harmonic Plus"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R047",
@@ -16731,7 +17126,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "215/65 R16"
+   "medida_cubierta": "215/65 R16",
+   "auto": null
   },
   {
    "id": "R048",
@@ -16780,7 +17176,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "185/65 R14"
+   "medida_cubierta": "185/65 R14",
+   "auto": null
   },
   {
    "id": "L006",
@@ -16825,7 +17222,8 @@
     "Renault"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R049",
@@ -16876,7 +17274,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R050",
@@ -16927,7 +17326,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R051",
@@ -16975,7 +17375,8 @@
    "marcas_cubierta": [
     "Goodyear"
    ],
-   "medida_cubierta": "215/65 R16"
+   "medida_cubierta": "215/65 R16",
+   "auto": null
   },
   {
    "id": "R052",
@@ -17024,7 +17425,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "195/60 R15"
+   "medida_cubierta": "195/60 R15",
+   "auto": null
   },
   {
    "id": "R053",
@@ -17075,7 +17477,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/60 R16"
+   "medida_cubierta": "205/60 R16",
+   "auto": null
   },
   {
    "id": "R054",
@@ -17127,7 +17530,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "255/70 R15"
+   "medida_cubierta": "255/70 R15",
+   "auto": null
   },
   {
    "id": "R055",
@@ -17182,7 +17586,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "225/50 R18"
+   "medida_cubierta": "225/50 R18",
+   "auto": null
   },
   {
    "id": "R056",
@@ -17233,7 +17638,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "265/70 R16"
+   "medida_cubierta": "265/70 R16",
+   "auto": null
   },
   {
    "id": "R057",
@@ -17283,7 +17689,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "195/65 R15"
+   "medida_cubierta": "195/65 R15",
+   "auto": null
   },
   {
    "id": "R001",
@@ -17338,7 +17745,8 @@
    "marcas_cubierta": [
     "Triangle"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   },
   {
    "id": "L002",
@@ -17383,7 +17791,8 @@
     "Fiat"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R002",
@@ -17429,7 +17838,8 @@
    "marcas_cubierta": [
     "Yokohama"
    ],
-   "medida_cubierta": "195/55 R15"
+   "medida_cubierta": "195/55 R15",
+   "auto": null
   },
   {
    "id": "R003",
@@ -17479,7 +17889,8 @@
     "Ohtsu",
     "Torque"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R004",
@@ -17530,7 +17941,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R005",
@@ -17581,7 +17993,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R006",
@@ -17629,7 +18042,8 @@
     "Honda"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R007",
@@ -17680,7 +18094,8 @@
    "marcas_cubierta": [
     "Dunlop"
    ],
-   "medida_cubierta": "235/55 R17"
+   "medida_cubierta": "235/55 R17",
+   "auto": null
   },
   {
    "id": "L003",
@@ -17725,7 +18140,8 @@
     "Toyota"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R008",
@@ -17781,7 +18197,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "185/60 R15"
+   "medida_cubierta": "185/60 R15",
+   "auto": null
   },
   {
    "id": "R009",
@@ -17833,7 +18250,8 @@
    "marcas_cubierta": [
     "Continental"
    ],
-   "medida_cubierta": "215/65 R17"
+   "medida_cubierta": "215/65 R17",
+   "auto": null
   },
   {
    "id": "R010",
@@ -17885,7 +18303,8 @@
    "marcas_cubierta": [
     "Bridgestone"
    ],
-   "medida_cubierta": "225/55 R18"
+   "medida_cubierta": "225/55 R18",
+   "auto": null
   },
   {
    "id": "R011",
@@ -17940,7 +18359,8 @@
    "marcas_cubierta": [
     "Tomket"
    ],
-   "medida_cubierta": "215/55 R17"
+   "medida_cubierta": "215/55 R17",
+   "auto": null
   },
   {
    "id": "R012",
@@ -17995,7 +18415,8 @@
     "Bridgestone",
     "Nexen"
    ],
-   "medida_cubierta": "225/65 R17"
+   "medida_cubierta": "225/65 R17",
+   "auto": null
   },
   {
    "id": "R013",
@@ -18049,7 +18470,8 @@
    "marcas_cubierta": [
     "Michelin"
    ],
-   "medida_cubierta": "205/45 R17"
+   "medida_cubierta": "205/45 R17",
+   "auto": null
   },
   {
    "id": "R014",
@@ -18104,7 +18526,8 @@
     "Pirelli",
     "Michelin"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R015",
@@ -18156,7 +18579,8 @@
    "marcas_cubierta": [
     "Pirelli"
    ],
-   "medida_cubierta": "205/55 R16"
+   "medida_cubierta": "205/55 R16",
+   "auto": null
   },
   {
    "id": "R016",
@@ -18209,7 +18633,8 @@
     "Bridgestone",
     "Pirelli"
    ],
-   "medida_cubierta": "175/65 R14"
+   "medida_cubierta": "175/65 R14",
+   "auto": null
   },
   {
    "id": "R017",
@@ -18261,7 +18686,8 @@
    "marcas_cubierta": [
     "Fate"
    ],
-   "medida_cubierta": "165/70 R14"
+   "medida_cubierta": "165/70 R14",
+   "auto": null
   },
   {
    "id": "L004",
@@ -18305,7 +18731,8 @@
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null
+   "medida_cubierta": null,
+   "auto": null
   },
   {
    "id": "R018",
@@ -18360,7 +18787,8 @@
     "Hankook",
     "Maxisport"
    ],
-   "medida_cubierta": "185/65 R15"
+   "medida_cubierta": "185/65 R15",
+   "auto": null
   }
  ]
 }

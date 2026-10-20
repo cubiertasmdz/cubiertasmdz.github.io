@@ -409,3 +409,10 @@ a { color: inherit; }
 }
 .visor-contador:empty { display: none; }
 @media (max-width: 719px) { .visor-flecha { display: none; } }
+
+/* ---------- pestaña "En autos": filtro por auto ---------- */
+.filtros.con-auto #filtro-auto { grid-column: 1 / -1; }
+@media (min-width: 720px) {
+  .filtros.con-auto { grid-template-columns: 260px 260px 260px; }
+  .filtros.con-auto #filtro-auto { grid-column: auto; }
+}

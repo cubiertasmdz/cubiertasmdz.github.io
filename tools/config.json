@@ -34,6 +34,16 @@
       "plural": "ruedas completas",
       "filtro_rodado": true,
       "filtro_medida": true
+    },
+    {
+      "id": "auto",
+      "prefijo": "A",
+      "nombre": "En autos",
+      "singular": "rueda",
+      "plural": "ruedas",
+      "filtro_rodado": false,
+      "filtro_medida": true,
+      "filtro_auto": true
     }
   ]
 }
