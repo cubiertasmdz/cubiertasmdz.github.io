@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20 19:07",
+ "actualizado": "2026-10-20 19:53",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -54,6 +54,401 @@
   }
  ],
  "productos": [
+  {
+   "id": "A001",
+   "tipo": "auto",
+   "titulo": "Citroën Picasso",
+   "subtitulo": "195/60 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Citroën de aleación",
+    "4x108",
+    "Llanta original"
+   ],
+   "sirve": "Citroën Picasso, C4, Peugeot 308, 408",
+   "detalle": "Juego completo de 4 ruedas (llanta con cubierta) puestas en el Citroën Picasso. Sin detalles. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a001-1.jpg",
+    "fotos/a001-2.jpg",
+    "fotos/a001-3.jpg",
+    "fotos/a001-4.jpg"
+   ],
+   "claves": [
+    "1956016",
+    "4108",
+    "164108"
+   ],
+   "nums": [
+    "108",
+    "16",
+    "195",
+    "4",
+    "60"
+   ],
+   "texto": "citroën picasso 195/60 r16 citroën picasso, c4, peugeot 308, 408 llanta citroën de aleación 4x108 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Citroën Picasso (195/60 R16) que vi en el catálogo (cód. A001).\nhttps://cubiertasmdz.github.io/p/A001/",
+   "url": "https://cubiertasmdz.github.io/p/A001/",
+   "marcas_llanta": [
+    "Citroën"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": "195/60 R16",
+   "auto": "Citroën Picasso"
+  },
+  {
+   "id": "A002",
+   "tipo": "auto",
+   "titulo": "Volkswagen Golf",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Volkswagen de aleación",
+    "Llanta original"
+   ],
+   "sirve": "VW Golf, Vento, Bora",
+   "detalle": "Juego de 4 ruedas (llanta con cubierta) puestas en el Volkswagen Golf. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a002-1.jpg",
+    "fotos/a002-2.jpg",
+    "fotos/a002-3.jpg",
+    "fotos/a002-4.jpg"
+   ],
+   "claves": [
+    "2055516"
+   ],
+   "nums": [
+    "16",
+    "205",
+    "5",
+    "55"
+   ],
+   "texto": "volkswagen golf 205/55 r16 vw golf, vento, bora llanta volkswagen de aleación llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Volkswagen Golf (205/55 R16) que vi en el catálogo (cód. A002).\nhttps://cubiertasmdz.github.io/p/A002/",
+   "url": "https://cubiertasmdz.github.io/p/A002/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": "205/55 R16",
+   "auto": "Volkswagen Golf"
+  },
+  {
+   "id": "A003",
+   "tipo": "auto",
+   "titulo": "Ford Focus",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Ford de aleación",
+    "5x108",
+    "Llanta original"
+   ],
+   "sirve": "Ford Focus, Kuga",
+   "detalle": "Juego de 4 ruedas (llanta con cubierta) puestas en el Ford Focus. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a003-1.jpg",
+    "fotos/a003-2.jpg",
+    "fotos/a003-3.jpg",
+    "fotos/a003-4.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "5108",
+    "165108"
+   ],
+   "nums": [
+    "108",
+    "16",
+    "205",
+    "5",
+    "55"
+   ],
+   "texto": "ford focus 205/55 r16 ford focus, kuga llanta ford de aleación 5x108 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Ford Focus (205/55 R16) que vi en el catálogo (cód. A003).\nhttps://cubiertasmdz.github.io/p/A003/",
+   "url": "https://cubiertasmdz.github.io/p/A003/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": "205/55 R16",
+   "auto": "Ford Focus"
+  },
+  {
+   "id": "A004",
+   "tipo": "auto",
+   "titulo": "Peugeot 208",
+   "subtitulo": "195/60 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Cubiertas Pirelli",
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original"
+   ],
+   "sirve": "Peugeot 208, 207, 2008",
+   "detalle": "Juego completo de 4 ruedas (llanta con cubierta Pirelli) puestas en el Peugeot 208. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a004-1.jpg",
+    "fotos/a004-2.jpg",
+    "fotos/a004-3.jpg",
+    "fotos/a004-4.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "4108",
+    "154108"
+   ],
+   "nums": [
+    "108",
+    "15",
+    "195",
+    "208",
+    "4",
+    "60"
+   ],
+   "texto": "peugeot 208 195/60 r15 peugeot 208, 207, 2008 cubiertas pirelli llanta peugeot de aleación 4x108 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Peugeot 208 (195/60 R15) que vi en el catálogo (cód. A004).\nhttps://cubiertasmdz.github.io/p/A004/",
+   "url": "https://cubiertasmdz.github.io/p/A004/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "195/60 R15",
+   "auto": "Peugeot 208"
+  },
+  {
+   "id": "A005",
+   "tipo": "auto",
+   "titulo": "Peugeot 2008",
+   "subtitulo": "205/60 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Cubiertas Goodyear EfficientGrip",
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original"
+   ],
+   "sirve": "Peugeot 2008, 208, 308",
+   "detalle": "Juego de 4 ruedas (llanta con cubierta Goodyear) puestas en el Peugeot 2008. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a005-1.jpg",
+    "fotos/a005-2.jpg",
+    "fotos/a005-3.jpg",
+    "fotos/a005-4.jpg"
+   ],
+   "claves": [
+    "2056016",
+    "4108",
+    "164108"
+   ],
+   "nums": [
+    "108",
+    "16",
+    "2008",
+    "205",
+    "4",
+    "60"
+   ],
+   "texto": "peugeot 2008 205/60 r16 peugeot 2008, 208, 308 cubiertas goodyear efficientgrip llanta peugeot de aleación 4x108 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Peugeot 2008 (205/60 R16) que vi en el catálogo (cód. A005).\nhttps://cubiertasmdz.github.io/p/A005/",
+   "url": "https://cubiertasmdz.github.io/p/A005/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "205/60 R16",
+   "auto": "Peugeot 2008"
+  },
+  {
+   "id": "A006",
+   "tipo": "auto",
+   "titulo": "Honda Civic",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Honda de aleación",
+    "5x114.3",
+    "Llanta original"
+   ],
+   "sirve": "Honda Civic, CR-V, HR-V",
+   "detalle": "Juego de 4 ruedas (llanta con cubierta) puestas en el Honda Civic. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a006-1.jpg",
+    "fotos/a006-2.jpg",
+    "fotos/a006-3.jpg",
+    "fotos/a006-4.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "5114.3",
+    "165114.3"
+   ],
+   "nums": [
+    "1143",
+    "16",
+    "205",
+    "5",
+    "55"
+   ],
+   "texto": "honda civic 205/55 r16 honda civic, cr-v, hr-v llanta honda de aleación 5x114.3 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Honda Civic (205/55 R16) que vi en el catálogo (cód. A006).\nhttps://cubiertasmdz.github.io/p/A006/",
+   "url": "https://cubiertasmdz.github.io/p/A006/",
+   "marcas_llanta": [
+    "Honda"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": "205/55 R16",
+   "auto": "Honda Civic"
+  },
+  {
+   "id": "A007",
+   "tipo": "auto",
+   "titulo": "Peugeot 208",
+   "subtitulo": "195/60 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Cubiertas Bridgestone",
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original"
+   ],
+   "sirve": "Peugeot 208, 207, 2008",
+   "detalle": "Juego completo de 4 ruedas (llanta con cubierta Bridgestone) puestas en el Peugeot 208. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a007-1.jpg",
+    "fotos/a007-2.jpg",
+    "fotos/a007-3.jpg",
+    "fotos/a007-4.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "4108",
+    "154108"
+   ],
+   "nums": [
+    "108",
+    "15",
+    "195",
+    "208",
+    "4",
+    "60"
+   ],
+   "texto": "peugeot 208 195/60 r15 peugeot 208, 207, 2008 cubiertas bridgestone llanta peugeot de aleación 4x108 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Peugeot 208 (195/60 R15) que vi en el catálogo (cód. A007).\nhttps://cubiertasmdz.github.io/p/A007/",
+   "url": "https://cubiertasmdz.github.io/p/A007/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "195/60 R15",
+   "auto": "Peugeot 208"
+  },
+  {
+   "id": "A008",
+   "tipo": "auto",
+   "titulo": "Ford Ranger Limited 2007",
+   "subtitulo": "265/70 R16",
+   "rodado": 16,
+   "cantidad": 3,
+   "cantidad_txt": "3 llantas + 2 cubiertas",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Cubiertas Bridgestone Dueler A/T",
+    "Llanta Ford de aleación",
+    "6x139.7",
+    "Llanta original"
+   ],
+   "sirve": "Ford Ranger (hasta 2011)",
+   "detalle": "3 llantas Ford de la Ford Ranger Limited 2007: 2 con cubierta Bridgestone Dueler A/T 265/70 R16 y 1 sin cubierta. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a008-1.jpg",
+    "fotos/a008-2.jpg",
+    "fotos/a008-3.jpg"
+   ],
+   "claves": [
+    "2657016",
+    "6139.7",
+    "166139.7"
+   ],
+   "nums": [
+    "1397",
+    "16",
+    "2007",
+    "265",
+    "6",
+    "70"
+   ],
+   "texto": "ford ranger limited 2007 265/70 r16 ford ranger (hasta 2011) cubiertas bridgestone dueler a/t llanta ford de aleación 6x139.7 llanta original",
+   "wa": "Hola, quería consultar por las 3 llantas (2 con cubierta) de la Ford Ranger Limited 2007 (265/70 R16) que vi en el catálogo (cód. A008).\nhttps://cubiertasmdz.github.io/p/A008/",
+   "url": "https://cubiertasmdz.github.io/p/A008/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "265/70 R16",
+   "auto": "Ford Ranger Limited"
+  },
   {
    "id": "L019",
    "tipo": "llanta",
