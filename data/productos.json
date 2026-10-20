@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20 19:53",
+ "actualizado": "2026-10-20 19:57",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -448,6 +448,106 @@
    ],
    "medida_cubierta": "265/70 R16",
    "auto": "Ford Ranger Limited"
+  },
+  {
+   "id": "R142",
+   "tipo": "rueda",
+   "titulo": "Par de ruedas Peugeot R15 con Pirelli",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original"
+   ],
+   "sirve": "Peugeot 206, 207, 307, Citroën C3",
+   "detalle": "2 ruedas completas: llanta original Peugeot de aleación rodado 15 con cubierta Pirelli Cinturato P1 185/65 R15. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r142-1.jpg",
+    "fotos/r142-2.jpg",
+    "fotos/r142-3.jpg",
+    "fotos/r142-4.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "4108",
+    "154108"
+   ],
+   "nums": [
+    "108",
+    "15",
+    "185",
+    "4",
+    "65"
+   ],
+   "texto": "par de ruedas peugeot r15 con pirelli 185/65 r15 peugeot 206, 207, 307, citroën c3 llanta peugeot de aleación 4x108 llanta original",
+   "wa": "Hola, quería consultar por las 2 ruedas completas Pirelli 185/65 R15 con llanta Peugeot que vi en el catálogo (cód. R142).\nhttps://cubiertasmdz.github.io/p/R142/",
+   "url": "https://cubiertasmdz.github.io/p/R142/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "185/65 R15",
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 185/65 R15"
+  },
+  {
+   "id": "A009",
+   "tipo": "auto",
+   "titulo": "Renault Fluence GT",
+   "subtitulo": "205/55 R17",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 1 cubierta",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Renault de aleación",
+    "5x114.3",
+    "Llanta original"
+   ],
+   "sirve": "Renault Fluence, Megane III",
+   "detalle": "4 llantas Renault de aleación rodado 17 del Renault Fluence GT: 3 se venden sin cubierta y 1 con cubierta 205/55 R17. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a009-1.jpg",
+    "fotos/a009-2.jpg",
+    "fotos/a009-3.jpg",
+    "fotos/a009-4.jpg"
+   ],
+   "claves": [
+    "2055517",
+    "5114.3",
+    "175114.3"
+   ],
+   "nums": [
+    "1143",
+    "17",
+    "205",
+    "5",
+    "55"
+   ],
+   "texto": "renault fluence gt 205/55 r17 renault fluence, megane iii llanta renault de aleación 5x114.3 llanta original",
+   "wa": "Hola, quería consultar por las 4 llantas (1 con cubierta) del Renault Fluence GT (205/55 R17) que vi en el catálogo (cód. A009).\nhttps://cubiertasmdz.github.io/p/A009/",
+   "url": "https://cubiertasmdz.github.io/p/A009/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": "205/55 R17",
+   "auto": "Renault Fluence GT"
   },
   {
    "id": "L019",
