@@ -26,7 +26,8 @@
       "filtro_rodado": true,
       "filtro_medida": false,
       "incluye": [
-        "rueda"
+        "rueda",
+        "auto"
       ]
     },
     {

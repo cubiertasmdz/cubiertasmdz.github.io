@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20 19:57",
+ "actualizado": "2026-10-20 20:03",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -29,7 +29,8 @@
    "filtro_medida": false,
    "filtro_auto": false,
    "incluye": [
-    "rueda"
+    "rueda",
+    "auto"
    ]
   },
   {
@@ -100,7 +101,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "195/60 R16",
-   "auto": "Citroën Picasso"
+   "auto": "Citroën Picasso",
+   "titulo_llanta": "Llanta Citroën R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta 195/60 R16 · del Citroën Picasso"
   },
   {
    "id": "A002",
@@ -144,7 +147,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "205/55 R16",
-   "auto": "Volkswagen Golf"
+   "auto": "Volkswagen Golf",
+   "titulo_llanta": "Llanta Volkswagen R16",
+   "subtitulo_llanta": "R16 · con cubierta 205/55 R16 · del Volkswagen Golf"
   },
   {
    "id": "A003",
@@ -192,7 +197,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "205/55 R16",
-   "auto": "Ford Focus"
+   "auto": "Ford Focus",
+   "titulo_llanta": "Llanta Ford R16",
+   "subtitulo_llanta": "5x108 · R16 · con cubierta 205/55 R16 · del Ford Focus"
   },
   {
    "id": "A004",
@@ -244,7 +251,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": "Peugeot 208"
+   "auto": "Peugeot 208",
+   "titulo_llanta": "Llanta Peugeot R15",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 195/60 R15 · del Peugeot 208"
   },
   {
    "id": "A005",
@@ -296,7 +305,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "205/60 R16",
-   "auto": "Peugeot 2008"
+   "auto": "Peugeot 2008",
+   "titulo_llanta": "Llanta Peugeot R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Goodyear 205/60 R16 · del Peugeot 2008"
   },
   {
    "id": "A006",
@@ -344,7 +355,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "205/55 R16",
-   "auto": "Honda Civic"
+   "auto": "Honda Civic",
+   "titulo_llanta": "Llanta Honda R16",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta 205/55 R16 · del Honda Civic"
   },
   {
    "id": "A007",
@@ -396,7 +409,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": "Peugeot 208"
+   "auto": "Peugeot 208",
+   "titulo_llanta": "Llanta Peugeot R15",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Bridgestone 195/60 R15 · del Peugeot 208"
   },
   {
    "id": "A008",
@@ -447,7 +462,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "265/70 R16",
-   "auto": "Ford Ranger Limited"
+   "auto": "Ford Ranger Limited",
+   "titulo_llanta": "Llanta Ford R16",
+   "subtitulo_llanta": "6x139.7 · R16 · con cubierta Bridgestone 265/70 R16 · del Ford Ranger Limited 2007"
   },
   {
    "id": "R142",
@@ -547,7 +564,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "205/55 R17",
-   "auto": "Renault Fluence GT"
+   "auto": "Renault Fluence GT",
+   "titulo_llanta": "Llanta Renault R17",
+   "subtitulo_llanta": "5x114.3 · R17 · con cubierta 205/55 R17 · del Renault Fluence GT"
   },
   {
    "id": "L019",

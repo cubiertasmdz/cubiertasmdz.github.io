@@ -249,6 +249,8 @@ def como_llanta(p, titulo):
     partes.append(f'R{p["rodado"]}')
     cub = f'{p.get("marca", "")} {medida(p)}'.replace("  ", " ").strip()
     partes.append(f"con cubierta {cub}")
+    if p["tipo"] == "auto":  # ruedas todavía puestas en el auto
+        partes.append(f"del {nombre_auto(p, anio=True)}")
     return {"titulo_llanta": t, "subtitulo_llanta": " · ".join(partes)}
 
 
@@ -382,7 +384,7 @@ def publico(p):
         "medida_cubierta": medida(p) if p["tipo"] in ("cubierta", "rueda", "auto") else None,
         "auto": nombre_auto(p) if p["tipo"] == "auto" else None,
         # en la pestaña Llantas las ruedas completas se muestran como llanta (marca + rodado) "con cubierta"
-        **(como_llanta(p, titulo) if p["tipo"] == "rueda" else {}),
+        **(como_llanta(p, titulo) if p["tipo"] in ("rueda", "auto") else {}),
         "alta": p.get("fecha_ingreso"),
     }
 

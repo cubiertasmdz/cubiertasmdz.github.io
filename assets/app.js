@@ -114,7 +114,7 @@
   }
 
   function tarjeta(p) {
-    const comoLlanta = estado.tab === "llanta" && p.tipo === "rueda" && p.titulo_llanta;  // rueda completa vista en Llantas
+    const comoLlanta = estado.tab === "llanta" && (p.tipo === "rueda" || p.tipo === "auto") && p.titulo_llanta;  // rueda completa vista en Llantas
     const fotos = p.fotos.length
       ? `<div class="fotos">${p.fotos.map((f, i) => `<img src="${esc(f)}" alt="${esc(p.titulo + " " + p.subtitulo)} — foto ${i + 1}" loading="lazy" decoding="async" onload="this.classList.add('cargada')">`).join("")}</div>
          ${p.fotos.length > 1 ? `<span class="contador">1/${p.fotos.length}</span>
