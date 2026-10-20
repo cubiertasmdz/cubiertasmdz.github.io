@@ -60,7 +60,7 @@
 
   function renderFiltros(base, cat) {
     const ml = unicos(base.flatMap((p) => p.marcas_llanta));
-    const mc = unicos(base.flatMap((p) => p.marcas_cubierta));
+    const mc = cat && cat.id === "llanta" ? [] : unicos(base.flatMap((p) => p.marcas_cubierta));  // en Llantas solo marca de llanta
     const opt = (v, t) => `<option value="${esc(v)}"${v === estado.marca ? " selected" : ""}>${esc(t)}</option>`;
     $("#f-marca").innerHTML = opt("", "Todas") +
       (ml.length ? `<optgroup label="Marca de llanta">${ml.map((m) => opt("l:" + m, m)).join("")}</optgroup>` : "") +
@@ -84,9 +84,15 @@
     $("#f-medida").classList.toggle("activo", !!estado.medida);
   }
 
+  // la pestaña Llantas también muestra las ruedas completas (config "incluye")
+  function enPestana(p, tab) {
+    if (p.tipo === tab) return true;
+    const cat = estado.datos.categorias.find((c) => c.id === tab);
+    return !!(cat && cat.incluye && cat.incluye.includes(p.tipo));
+  }
   function visibles(tab) {
     const q = analizar(estado.q);
-    return estado.datos.productos.filter((p) => p.tipo === tab && coincide(p, q));
+    return estado.datos.productos.filter((p) => enPestana(p, tab) && coincide(p, q));
   }
 
   // ---------- render ----------
@@ -108,6 +114,7 @@
   }
 
   function tarjeta(p) {
+    const comoLlanta = estado.tab === "llanta" && p.tipo === "rueda" && p.titulo_llanta;  // rueda completa vista en Llantas
     const fotos = p.fotos.length
       ? `<div class="fotos">${p.fotos.map((f, i) => `<img src="${esc(f)}" alt="${esc(p.titulo + " " + p.subtitulo)} — foto ${i + 1}" loading="lazy" decoding="async" onload="this.classList.add('cargada')">`).join("")}</div>
          ${p.fotos.length > 1 ? `<span class="contador">1/${p.fotos.length}</span>
@@ -133,8 +140,8 @@
         <span class="badge">${esc(p.cantidad_txt)}</span>
       </div>
       <div class="cuerpo">
-        <h2>${esc(p.titulo)}</h2>
-        <p class="medida">${esc(p.subtitulo)}</p>
+        <h2>${esc(comoLlanta ? p.titulo_llanta : p.titulo)}</h2>
+        <p class="medida">${esc(comoLlanta ? p.subtitulo_llanta : p.subtitulo)}</p>
         ${estadoHtml}
         ${p.etiquetas.length ? `<ul class="tags">${p.etiquetas.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}
         ${p.sirve ? `<p class="sirve"><b>Sirve para:</b> ${esc(p.sirve)}</p>` : ""}
@@ -311,7 +318,7 @@
       estado.solo = params.get("p");
       const p = d.productos.find((x) => x.id === estado.solo);
       // abre en la pestaña con más productos
-      const cuantos = (c) => d.productos.filter((x) => x.tipo === c.id).length;
+      const cuantos = (c) => d.productos.filter((x) => x.tipo === c.id).length;  // sin contar las ruedas que también salen en Llantas
       estado.tab = p ? p.tipo : d.categorias.reduce((a, c) => (cuantos(c) > cuantos(a) ? c : a)).id;
       $("#wa-pie").href = wa("Hola, estoy buscando una medida que no vi en el catálogo: ");
       render();

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20 13:26",
+ "actualizado": "2026-10-20 19:07",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -17,7 +17,8 @@
    "plural": "cubiertas",
    "filtro_rodado": false,
    "filtro_medida": true,
-   "filtro_auto": false
+   "filtro_auto": false,
+   "incluye": false
   },
   {
    "id": "llanta",
@@ -26,7 +27,10 @@
    "plural": "llantas",
    "filtro_rodado": true,
    "filtro_medida": false,
-   "filtro_auto": false
+   "filtro_auto": false,
+   "incluye": [
+    "rueda"
+   ]
   },
   {
    "id": "rueda",
@@ -35,7 +39,8 @@
    "plural": "ruedas completas",
    "filtro_rodado": true,
    "filtro_medida": true,
-   "filtro_auto": false
+   "filtro_auto": false,
+   "incluye": false
   },
   {
    "id": "auto",
@@ -44,7 +49,8 @@
    "plural": "ruedas",
    "filtro_rodado": false,
    "filtro_medida": true,
-   "filtro_auto": true
+   "filtro_auto": true,
+   "incluye": false
   }
  ],
  "productos": [
@@ -8642,7 +8648,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "265/65 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Toyota R17",
+   "subtitulo_llanta": "6x139.7 · R17 · con cubierta Bridgestone 265/65 R17"
   },
   {
    "id": "L007",
@@ -8738,7 +8746,9 @@
     "Fate"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R14",
+   "subtitulo_llanta": "4x98 · R14 · con cubierta Fate 175/65 R14"
   },
   {
    "id": "R060",
@@ -8793,7 +8803,9 @@
     "Fate"
    ],
    "medida_cubierta": "235/65 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Honda R17",
+   "subtitulo_llanta": "5x114.3 · R17 · con cubierta Dunlop / Fate 235/65 R17"
   },
   {
    "id": "R061",
@@ -8843,7 +8855,9 @@
     "Tango"
    ],
    "medida_cubierta": "195/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta alternativa R15",
+   "subtitulo_llanta": "R15 · con cubierta Tango 195/65 R15"
   },
   {
    "id": "R062",
@@ -8895,7 +8909,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Nissan R16",
+   "subtitulo_llanta": "4x100 · R16 · con cubierta Pirelli 205/60 R16"
   },
   {
    "id": "R063",
@@ -8948,7 +8964,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "225/45 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Alfa Romeo R17",
+   "subtitulo_llanta": "4x98 · R17 · con cubierta Dunlop 225/45 R17"
   },
   {
    "id": "R064",
@@ -9003,7 +9021,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Renault R16",
+   "subtitulo_llanta": "4x100 · R16 · con cubierta Bridgestone 205/55 R16"
   },
   {
    "id": "R065",
@@ -9056,7 +9076,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Citroën R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/55 R16"
   },
   {
    "id": "R066",
@@ -9105,7 +9127,9 @@
     "Pace"
    ],
    "medida_cubierta": "195/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta TVW R15",
+   "subtitulo_llanta": "R15 · con cubierta Pace 195/65 R15"
   },
   {
    "id": "R067",
@@ -9158,7 +9182,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "205/60 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Nissan R16",
+   "subtitulo_llanta": "4x100 · R16 · con cubierta Goodyear 205/60 R16"
   },
   {
    "id": "R068",
@@ -9209,7 +9235,9 @@
     "Firemax"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14 de chapa",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Firemax 185/65 R14"
   },
   {
    "id": "R069",
@@ -9261,7 +9289,9 @@
     "Pace"
    ],
    "medida_cubierta": "205/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R15",
+   "subtitulo_llanta": "4x98 · R15 · con cubierta Pace 205/65 R15"
   },
   {
    "id": "R070",
@@ -9313,7 +9343,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "215/50 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Chevrolet R17",
+   "subtitulo_llanta": "5x105 · R17 · con cubierta Pirelli 215/50 R17"
   },
   {
    "id": "R071",
@@ -9363,7 +9395,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "185/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Goodyear 185/65 R15"
   },
   {
    "id": "R072",
@@ -9418,7 +9452,9 @@
     "Kumho"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Pirelli / Kumho 185/65 R14"
   },
   {
    "id": "R073",
@@ -9471,7 +9507,9 @@
     "Continental"
    ],
    "medida_cubierta": "205/70 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas Chevrolet Tracker R16 + 2 cubiertas",
+   "subtitulo_llanta": "5x105 · R16 · con cubierta Continental 205/70 R16"
   },
   {
    "id": "L008",
@@ -9572,7 +9610,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Citroën R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/60 R16"
   },
   {
    "id": "L009",
@@ -9663,7 +9703,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta alternativa R14",
+   "subtitulo_llanta": "R14 · con cubierta Pirelli 185/65 R14"
   },
   {
    "id": "R076",
@@ -9714,7 +9756,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14 de chapa",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Fate 185/65 R14"
   },
   {
    "id": "R077",
@@ -9764,7 +9808,9 @@
     "Firestone"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R14",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Firestone 175/65 R14"
   },
   {
    "id": "R078",
@@ -9813,7 +9859,9 @@
     "Firestone"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Chery R15",
+   "subtitulo_llanta": "R15 · con cubierta Firestone 185/60 R15"
   },
   {
    "id": "R079",
@@ -9864,7 +9912,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14 de chapa",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Fate 185/65 R14"
   },
   {
    "id": "R080",
@@ -9914,7 +9964,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "255/70 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Toyota R15",
+   "subtitulo_llanta": "6x139.7 · R15 · con cubierta Bridgestone 255/70 R15"
   },
   {
    "id": "R081",
@@ -9966,7 +10018,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "215/65 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Nissan R16",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Bridgestone 215/65 R16"
   },
   {
    "id": "R082",
@@ -10013,7 +10067,9 @@
     "GT Radial"
    ],
    "medida_cubierta": "31/10.5 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta alternativa R15",
+   "subtitulo_llanta": "R15 · con cubierta GT Radial 31/10.5 R15"
   },
   {
    "id": "R083",
@@ -10063,7 +10119,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14 de chapa",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Pirelli 175/65 R14"
   },
   {
    "id": "R084",
@@ -10113,7 +10171,9 @@
     "Wanli"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R15",
+   "subtitulo_llanta": "4x98 · R15 · con cubierta Wanli 185/60 R15"
   },
   {
    "id": "R085",
@@ -10163,7 +10223,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Dunlop 185/60 R15"
   },
   {
    "id": "C041",
@@ -11071,7 +11133,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "255/70 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Toyota R15",
+   "subtitulo_llanta": "6x139.7 · R15 · con cubierta Goodyear 255/70 R15"
   },
   {
    "id": "R088",
@@ -11120,7 +11184,9 @@
     "Firestone"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14 de chapa",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Firestone 175/65 R14"
   },
   {
    "id": "R089",
@@ -11169,7 +11235,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Citroën R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Goodyear 185/60 R15"
   },
   {
    "id": "R090",
@@ -11219,7 +11287,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14 de chapa",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Goodyear 175/65 R14"
   },
   {
    "id": "R091",
@@ -11269,7 +11339,9 @@
     "Firestone"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R14 de chapa",
+   "subtitulo_llanta": "4x100 · R14 · con cubierta Firestone 175/65 R14"
   },
   {
    "id": "R092",
@@ -11317,7 +11389,9 @@
     "Firemax"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta alternativa R14 de chapa",
+   "subtitulo_llanta": "R14 · con cubierta Firemax 185/65 R14"
   },
   {
    "id": "R093",
@@ -11366,7 +11440,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Chevrolet R15 de chapa",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Fate 185/65 R15"
   },
   {
    "id": "R094",
@@ -11416,7 +11492,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Honda R16 de chapa",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Bridgestone 205/55 R16"
   },
   {
    "id": "R095",
@@ -11465,7 +11543,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/60 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14 de chapa",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Bridgestone 185/60 R14"
   },
   {
    "id": "R096",
@@ -11515,7 +11595,9 @@
     "Pace"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R14 de chapa",
+   "subtitulo_llanta": "4x100 · R14 · con cubierta Pace 175/65 R14"
   },
   {
    "id": "R099",
@@ -11565,7 +11647,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "185/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Goodyear 185/65 R15"
   },
   {
    "id": "R100",
@@ -11614,7 +11698,9 @@
     "Continental"
    ],
    "medida_cubierta": "185/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Renault R15 de chapa",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Continental 185/65 R15"
   },
   {
    "id": "R101",
@@ -11665,7 +11751,9 @@
     "Linglong"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Linglong 185/60 R15"
   },
   {
    "id": "R102",
@@ -11715,7 +11803,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "195/70 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Renault R14 de chapa",
+   "subtitulo_llanta": "4x100 · R14 · con cubierta Goodyear 195/70 R14"
   },
   {
    "id": "R103",
@@ -11765,7 +11855,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Toyota R15 de chapa",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Pirelli 175/65 R15"
   },
   {
    "id": "R104",
@@ -11815,7 +11907,9 @@
     "Yokohama"
    ],
    "medida_cubierta": "175/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15 de chapa",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Yokohama 175/65 R15"
   },
   {
    "id": "R105",
@@ -11865,7 +11959,9 @@
     "Michelin"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Citroën R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Michelin 195/60 R15"
   },
   {
    "id": "R106",
@@ -11915,7 +12011,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "195/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15 de chapa",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Dunlop 195/65 R15"
   },
   {
    "id": "R107",
@@ -11965,7 +12063,9 @@
     "Autodrive"
    ],
    "medida_cubierta": "195/55 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15 de chapa",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Autodrive 195/55 R15"
   },
   {
    "id": "R108",
@@ -12016,7 +12116,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15 de chapa",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Fate 185/65 R15"
   },
   {
    "id": "R109",
@@ -12066,7 +12168,9 @@
     "Firemax"
    ],
    "medida_cubierta": "195/55 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15 de chapa",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Firemax 195/55 R15"
   },
   {
    "id": "R110",
@@ -12116,7 +12220,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R16 de chapa",
+   "subtitulo_llanta": "4x100 · R16 · con cubierta Bridgestone 195/55 R16"
   },
   {
    "id": "R111",
@@ -12166,7 +12272,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Chevrolet R14 de chapa",
+   "subtitulo_llanta": "4x100 · R14 · con cubierta Fate 185/65 R14"
   },
   {
    "id": "R112",
@@ -12216,7 +12324,9 @@
     "Firestone"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Firestone 195/60 R15"
   },
   {
    "id": "R113",
@@ -12266,7 +12376,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 185/60 R15"
   },
   {
    "id": "R114",
@@ -12312,7 +12424,9 @@
     "Continental"
    ],
    "medida_cubierta": "205/60 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta alternativa R16 de chapa",
+   "subtitulo_llanta": "R16 · con cubierta Continental 205/60 R16"
   },
   {
    "id": "R115",
@@ -12362,7 +12476,9 @@
     "Fate"
    ],
    "medida_cubierta": "195/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15 de chapa",
+   "subtitulo_llanta": "5x100 · R15 · con cubierta Fate 195/65 R15"
   },
   {
    "id": "R116",
@@ -12412,7 +12528,9 @@
     "Firestone"
    ],
    "medida_cubierta": "205/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Firestone 205/60 R15"
   },
   {
    "id": "R117",
@@ -12462,7 +12580,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 195/60 R15"
   },
   {
    "id": "R118",
@@ -12513,7 +12633,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "215/65 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Renault R16 de chapa",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Pirelli 215/65 R16"
   },
   {
    "id": "R119",
@@ -12565,7 +12687,9 @@
     "Kumho"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Nissan R16",
+   "subtitulo_llanta": "4x100 · R16 · con cubierta Kumho 205/55 R16"
   },
   {
    "id": "R120",
@@ -12617,7 +12741,9 @@
     "Fate"
    ],
    "medida_cubierta": "195/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Nissan R15",
+   "subtitulo_llanta": "4x114.3 · R15 · con cubierta Continental / Fate 195/65 R15"
   },
   {
    "id": "R121",
@@ -12669,7 +12795,9 @@
     "Continental"
    ],
    "medida_cubierta": "205/55 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Nissan R17",
+   "subtitulo_llanta": "5x114.3 · R17 · con cubierta Continental 205/55 R17"
   },
   {
    "id": "R122",
@@ -12725,7 +12853,9 @@
     "otras"
    ],
    "medida_cubierta": "215/60 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Renault R17",
+   "subtitulo_llanta": "5x114.3 · R17 · con cubierta Continental / otras 215/60 R17"
   },
   {
    "id": "R123",
@@ -12776,7 +12906,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Renault R15",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Pirelli 195/60 R15"
   },
   {
    "id": "R124",
@@ -12828,7 +12960,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Renault R14",
+   "subtitulo_llanta": "4x100 · R14 · con cubierta Bridgestone 175/65 R14"
   },
   {
    "id": "R125",
@@ -12879,7 +13013,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "185/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R15",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Goodyear 185/65 R15"
   },
   {
    "id": "R126",
@@ -12931,7 +13067,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "195/50 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Varias marcas 195/50 R16"
   },
   {
    "id": "R127",
@@ -12982,7 +13120,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/55 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "2 llantas Ford Fiesta R15 + 1 cubierta",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 195/55 R15"
   },
   {
    "id": "R128",
@@ -13034,7 +13174,9 @@
     "otras"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R14",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Dunlop / otras 175/65 R14"
   },
   {
    "id": "R129",
@@ -13086,7 +13228,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas Peugeot R16 + 3 cubiertas",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Varias marcas 205/55 R16"
   },
   {
    "id": "R130",
@@ -13137,7 +13281,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Bridgestone 205/55 R16"
   },
   {
    "id": "R131",
@@ -13190,7 +13336,9 @@
     "otras"
    ],
    "medida_cubierta": "195/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Fate / otras 195/65 R15"
   },
   {
    "id": "R132",
@@ -13243,7 +13391,9 @@
     "otras"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Pirelli / otras 185/65 R14"
   },
   {
    "id": "R133",
@@ -13297,7 +13447,9 @@
     "otras"
    ],
    "medida_cubierta": "195/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli / otras 195/55 R16"
   },
   {
    "id": "R134",
@@ -13348,7 +13500,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "245/45 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Mercedes-Benz R17",
+   "subtitulo_llanta": "5x112 · R17 · con cubierta Varias marcas 245/45 R17"
   },
   {
    "id": "R135",
@@ -13400,7 +13554,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 195/55 R16"
   },
   {
    "id": "R136",
@@ -13451,7 +13607,9 @@
     "Firestone"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Firestone 185/60 R15"
   },
   {
    "id": "R137",
@@ -13502,7 +13660,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Michelin 205/55 R16"
   },
   {
    "id": "R138",
@@ -13547,7 +13707,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/65 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R16",
+   "subtitulo_llanta": "R16 · con cubierta Pirelli 205/65 R16"
   },
   {
    "id": "R139",
@@ -13591,7 +13753,9 @@
     "Firemax"
    ],
    "medida_cubierta": "205/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R15",
+   "subtitulo_llanta": "R15 · con cubierta Firemax 205/65 R15"
   },
   {
    "id": "L010",
@@ -14045,7 +14209,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "185/60 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Varias marcas 185/60 R16"
   },
   {
    "id": "R141",
@@ -14096,7 +14262,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "185/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Renault R15",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Varias marcas 185/65 R15"
   },
   {
    "id": "C003",
@@ -15703,7 +15871,9 @@
     "Kumho"
    ],
    "medida_cubierta": "215/65 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Jeep R16",
+   "subtitulo_llanta": "5x110 · R16 · con cubierta Kumho 215/65 R16"
   },
   {
    "id": "R020",
@@ -15755,7 +15925,9 @@
     "Hankook"
    ],
    "medida_cubierta": "195/55 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas VW R15 + 2 Hankook",
+   "subtitulo_llanta": "5x100 · R15 · con cubierta Hankook 195/55 R15"
   },
   {
    "id": "R021",
@@ -15805,7 +15977,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "195/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Goodyear 195/65 R15"
   },
   {
    "id": "L005",
@@ -15901,7 +16075,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas Citroën R15 + 1 Pirelli",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 195/60 R15"
   },
   {
    "id": "R023",
@@ -15954,7 +16130,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/55 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15",
+   "subtitulo_llanta": "5x100 · R15 · con cubierta Pirelli 195/55 R15"
   },
   {
    "id": "R024",
@@ -16003,7 +16181,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R14",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Pirelli 185/65 R14"
   },
   {
    "id": "R025",
@@ -16051,7 +16231,9 @@
     "Continental"
    ],
    "medida_cubierta": "195/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas Nissan R16 + 2 cubiertas",
+   "subtitulo_llanta": "4x100 · R16 · con cubierta Continental 195/55 R16"
   },
   {
    "id": "R026",
@@ -16104,7 +16286,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "175/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Mini R15",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Pirelli / Goodyear 175/65 R15"
   },
   {
    "id": "R027",
@@ -16154,7 +16338,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas Citroën R15 + 2 cubiertas",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Dunlop 195/60 R15"
   },
   {
    "id": "R028",
@@ -16207,7 +16393,9 @@
     "Continental"
    ],
    "medida_cubierta": "215/45 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Audi R16",
+   "subtitulo_llanta": "5x112 · R16 · con cubierta Continental 215/45 R16"
   },
   {
    "id": "R029",
@@ -16259,7 +16447,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "235/60 R18",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Audi R18",
+   "subtitulo_llanta": "5x112 · R18 · con cubierta Goodyear 235/60 R18"
   },
   {
    "id": "R030",
@@ -16309,7 +16499,9 @@
     "Continental"
    ],
    "medida_cubierta": "225/45 R18",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas BMW R18 + 2 Continental",
+   "subtitulo_llanta": "5x120 · R18 · con cubierta Continental 225/45 R18"
   },
   {
    "id": "R031",
@@ -16364,7 +16556,9 @@
     "Michelin"
    ],
    "medida_cubierta": "225/50 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Audi R17",
+   "subtitulo_llanta": "5x112 · R17 · con cubierta Bridgestone / Michelin 225/50 R17"
   },
   {
    "id": "R032",
@@ -16417,7 +16611,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Audi R16",
+   "subtitulo_llanta": "5x112 · R16 · con cubierta Pirelli 205/55 R16"
   },
   {
    "id": "R033",
@@ -16468,7 +16664,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Citroën R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/55 R16"
   },
   {
    "id": "R034",
@@ -16520,7 +16718,9 @@
     "Triangle"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Triangle 205/55 R16"
   },
   {
    "id": "R035",
@@ -16572,7 +16772,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/55 R16"
   },
   {
    "id": "R036",
@@ -16621,7 +16823,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15",
+   "subtitulo_llanta": "5x100 · R15 · con cubierta Bridgestone 195/60 R15"
   },
   {
    "id": "R037",
@@ -16667,7 +16871,9 @@
     "Michelin"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R15",
+   "subtitulo_llanta": "R15 · con cubierta Michelin 195/60 R15"
   },
   {
    "id": "R039",
@@ -16714,7 +16920,9 @@
     "Fate"
    ],
    "medida_cubierta": "175/70 R13",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta alternativa R13",
+   "subtitulo_llanta": "R13 · con cubierta Fate 175/70 R13"
   },
   {
    "id": "R040",
@@ -16765,7 +16973,9 @@
     "Yokohama"
    ],
    "medida_cubierta": "225/65 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Honda R17",
+   "subtitulo_llanta": "5x114.3 · R17 · con cubierta Yokohama 225/65 R17"
   },
   {
    "id": "R041",
@@ -16819,7 +17029,9 @@
     "Michelin"
    ],
    "medida_cubierta": "215/50 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Nissan R17",
+   "subtitulo_llanta": "5x114.3 · R17 · con cubierta Michelin 215/50 R17"
   },
   {
    "id": "R042",
@@ -16869,7 +17081,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R14",
+   "subtitulo_llanta": "4x98 · R14 · con cubierta Pirelli 175/65 R14"
   },
   {
    "id": "R043",
@@ -16922,7 +17136,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Nissan R16",
+   "subtitulo_llanta": "4x100 · R16 · con cubierta Kumho / Bridgestone 205/55 R16"
   },
   {
    "id": "R044",
@@ -16972,7 +17188,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Honda R16",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Bridgestone 205/55 R16"
   },
   {
    "id": "R045",
@@ -17020,7 +17238,9 @@
     "Firestone"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Chery R15",
+   "subtitulo_llanta": "R15 · con cubierta Firestone 185/60 R15"
   },
   {
    "id": "R046",
@@ -17077,7 +17297,9 @@
     "Harmonic Plus"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "3 llantas Fiat Cronos R15 + 2 cubiertas",
+   "subtitulo_llanta": "4x98 · R15 · con cubierta Pirelli / Harmonic Plus 185/60 R15"
   },
   {
    "id": "R047",
@@ -17127,7 +17349,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "215/65 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Renault R16",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Bridgestone 215/65 R16"
   },
   {
    "id": "R048",
@@ -17177,7 +17401,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "185/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R14 de chapa",
+   "subtitulo_llanta": "4x98 · R14 · con cubierta Dunlop 185/65 R14"
   },
   {
    "id": "L006",
@@ -17275,7 +17501,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas Chevrolet R15 de chapa + 3 cubiertas",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Dunlop 185/60 R15"
   },
   {
    "id": "R050",
@@ -17327,7 +17555,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Toyota R16",
+   "subtitulo_llanta": "5x100 · R16 · con cubierta Pirelli 205/55 R16"
   },
   {
    "id": "R051",
@@ -17376,7 +17606,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "215/65 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Hyundai R16",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Goodyear 215/65 R16"
   },
   {
    "id": "R052",
@@ -17426,7 +17658,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R15 de chapa",
+   "subtitulo_llanta": "4x98 · R15 · con cubierta Pirelli 195/60 R15"
   },
   {
    "id": "R053",
@@ -17478,7 +17712,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Citroën R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/60 R16"
   },
   {
    "id": "R054",
@@ -17531,7 +17767,9 @@
     "Fate"
    ],
    "medida_cubierta": "255/70 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Toyota R15",
+   "subtitulo_llanta": "6x139.7 · R15 · con cubierta Fate 255/70 R15"
   },
   {
    "id": "R055",
@@ -17587,7 +17825,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/50 R18",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Toyota R18",
+   "subtitulo_llanta": "5x114.3 · R18 · con cubierta Bridgestone 225/50 R18"
   },
   {
    "id": "R056",
@@ -17639,7 +17879,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "265/70 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Toyota R16",
+   "subtitulo_llanta": "6x139.7 · R16 · con cubierta Bridgestone 265/70 R16"
   },
   {
    "id": "R057",
@@ -17690,7 +17932,9 @@
     "Michelin"
    ],
    "medida_cubierta": "195/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R15",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Michelin 195/65 R15"
   },
   {
    "id": "R001",
@@ -17746,7 +17990,9 @@
     "Triangle"
    ],
    "medida_cubierta": "185/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R15",
+   "subtitulo_llanta": "4x98 · R15 · con cubierta Triangle 185/65 R15"
   },
   {
    "id": "L002",
@@ -17839,7 +18085,9 @@
     "Yokohama"
    ],
    "medida_cubierta": "195/55 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "3 llantas ADVAN Racing R15 + 2 Yokohama",
+   "subtitulo_llanta": "R15 · con cubierta Yokohama 195/55 R15"
   },
   {
    "id": "R003",
@@ -17890,7 +18138,9 @@
     "Torque"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "2 llantas Toyota R16 con cubiertas",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Ohtsu / Torque 205/55 R16"
   },
   {
    "id": "R004",
@@ -17942,7 +18192,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "2 llantas Fiat R14 + 1 Pirelli",
+   "subtitulo_llanta": "4x98 · R14 · con cubierta Pirelli 175/65 R14"
   },
   {
    "id": "R005",
@@ -17994,7 +18246,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "3 llantas Chrysler PT Cruiser R16 + 1 Michelin",
+   "subtitulo_llanta": "5x100 · R16 · con cubierta Michelin 205/55 R16"
   },
   {
    "id": "R006",
@@ -18095,7 +18349,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "235/55 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Chevrolet R17",
+   "subtitulo_llanta": "R17 · con cubierta Dunlop 235/55 R17"
   },
   {
    "id": "L003",
@@ -18198,7 +18454,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/60 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas Toyota Yaris R15 + 2 Bridgestone",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Bridgestone 185/60 R15"
   },
   {
    "id": "R009",
@@ -18251,7 +18509,9 @@
     "Continental"
    ],
    "medida_cubierta": "215/65 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R17",
+   "subtitulo_llanta": "5x112 · R17 · con cubierta Continental 215/65 R17"
   },
   {
    "id": "R010",
@@ -18304,7 +18564,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/55 R18",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Subaru R18",
+   "subtitulo_llanta": "5x114.3 · R18 · con cubierta Bridgestone 225/55 R18"
   },
   {
    "id": "R011",
@@ -18360,7 +18622,9 @@
     "Tomket"
    ],
    "medida_cubierta": "215/55 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Honda R17",
+   "subtitulo_llanta": "5x114.3 · R17 · con cubierta Tomket 215/55 R17"
   },
   {
    "id": "R012",
@@ -18416,7 +18680,9 @@
     "Nexen"
    ],
    "medida_cubierta": "225/65 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Suzuki R17",
+   "subtitulo_llanta": "5x114.3 · R17 · con cubierta Bridgestone / Nexen 225/65 R17"
   },
   {
    "id": "R013",
@@ -18471,7 +18737,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/45 R17",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas Citroën R17 + 1 Michelin",
+   "subtitulo_llanta": "4x108 · R17 · con cubierta Michelin 205/45 R17"
   },
   {
    "id": "R014",
@@ -18527,7 +18795,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R16",
+   "subtitulo_llanta": "4x98 · R16 · con cubierta Kumho / Pirelli / Michelin 205/55 R16"
   },
   {
    "id": "R015",
@@ -18580,7 +18850,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R16",
+   "subtitulo_llanta": "5x112 · R16 · con cubierta Pirelli 205/55 R16"
   },
   {
    "id": "R016",
@@ -18634,7 +18906,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R14",
+   "subtitulo_llanta": "4x98 · R14 · con cubierta Bridgestone / Pirelli 175/65 R14"
   },
   {
    "id": "R017",
@@ -18687,7 +18961,9 @@
     "Fate"
    ],
    "medida_cubierta": "165/70 R14",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "2 llantas Citroën R14 + 1 Fate",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Fate 165/70 R14"
   },
   {
    "id": "L004",
@@ -18788,7 +19064,9 @@
     "Maxisport"
    ],
    "medida_cubierta": "185/65 R15",
-   "auto": null
+   "auto": null,
+   "titulo_llanta": "4 llantas alternativas R15 + cubiertas de auxilio",
+   "subtitulo_llanta": "R15 · con cubierta Bridgestone / Fate / Hankook / Maxisport 185/65 R15"
   }
  ]
 }

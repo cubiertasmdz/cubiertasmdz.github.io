@@ -24,7 +24,10 @@
       "singular": "llanta",
       "plural": "llantas",
       "filtro_rodado": true,
-      "filtro_medida": false
+      "filtro_medida": false,
+      "incluye": [
+        "rueda"
+      ]
     },
     {
       "id": "rueda",

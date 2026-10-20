@@ -237,6 +237,21 @@ def numeros(p, claves):
     return sorted(n for n in nums if n)
 
 
+def como_llanta(p, titulo):
+    mat = (p.get("llanta_material") or "").lower()
+    if "llanta" in (p.get("titulo_web") or "").lower():  # lotes armados ("3 llantas + 2 cubiertas"): ya habla de las llantas
+        t = titulo
+    else:
+        t = f'Llanta {p.get("llanta_marca") or "alternativa"} R{p["rodado"]}' + (" de chapa" if mat == "chapa" else "")
+    partes = []
+    if p.get("agujeros") and p.get("distancia"):
+        partes.append(f'{p["agujeros"]}x{p["distancia"]}')
+    partes.append(f'R{p["rodado"]}')
+    cub = f'{p.get("marca", "")} {medida(p)}'.replace("  ", " ").strip()
+    partes.append(f"con cubierta {cub}")
+    return {"titulo_llanta": t, "subtitulo_llanta": " · ".join(partes)}
+
+
 def nombre_auto(p, anio=False):
     """"Peugeot 208" (con anio=True: "Peugeot 208 2015")."""
     partes = [p.get("auto_marca", ""), p.get("auto_modelo", "")]
@@ -366,6 +381,8 @@ def publico(p):
         "marcas_cubierta": marcas_de(p.get("marca") if p["tipo"] in ("cubierta", "rueda", "auto") else None),
         "medida_cubierta": medida(p) if p["tipo"] in ("cubierta", "rueda", "auto") else None,
         "auto": nombre_auto(p) if p["tipo"] == "auto" else None,
+        # en la pestaña Llantas las ruedas completas se muestran como llanta (marca + rodado) "con cubierta"
+        **(como_llanta(p, titulo) if p["tipo"] == "rueda" else {}),
         "alta": p.get("fecha_ingreso"),
     }
 
@@ -431,7 +448,7 @@ def build(silencioso=False):
     salida = {
         "actualizado": ahora(),
         "sitio": {k: CONFIG[k] for k in ["titulo", "bajada", "whatsapp", "whatsapp_visible", "ubicacion", "envios", "sitio_url"]},
-        "categorias": [{k: c.get(k, False) for k in ["id", "nombre", "singular", "plural", "filtro_rodado", "filtro_medida", "filtro_auto"]} for c in CONFIG["categorias"]],
+        "categorias": [{k: c.get(k, False) for k in ["id", "nombre", "singular", "plural", "filtro_rodado", "filtro_medida", "filtro_auto", "incluye"]} for c in CONFIG["categorias"]],
         "productos": productos,
     }
     texto = json.dumps(salida, ensure_ascii=False, indent=1)
