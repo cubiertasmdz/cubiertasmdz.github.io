@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21 17:19",
+ "actualizado": "2026-10-21 17:24",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -155,6 +155,52 @@
    "marcas_llanta": [
     "Chery"
    ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "auto": null
+  },
+  {
+   "id": "L223",
+   "tipo": "llanta",
+   "titulo": "Llantas R14 de Corsa Estrella",
+   "subtitulo": "4x100 · R14",
+   "rodado": 14,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Se venden sin cubierta"
+   ],
+   "sirve": "Chevrolet Corsa, Classic, Celta, Agile",
+   "detalle": "Juego de 4 llantas de aleación rodado 14 de 4 agujeros, de un Chevrolet Corsa Estrella. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l223-1.jpg",
+    "fotos/l223-2.jpg",
+    "fotos/l223-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l223-1.jpg",
+    "fotos/m/l223-2.jpg",
+    "fotos/m/l223-3.jpg"
+   ],
+   "claves": [
+    "14",
+    "4100",
+    "144100"
+   ],
+   "nums": [
+    "100",
+    "14",
+    "4"
+   ],
+   "texto": "llantas r14 de corsa estrella 4x100 · r14 chevrolet corsa, classic, celta, agile se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 4 llantas de aleación R14 4x100 que vi en el catálogo (cód. L223).\nhttps://cubiertasmdz.github.io/p/L223/",
+   "url": "https://cubiertasmdz.github.io/p/L223/",
+   "marcas_llanta": [],
    "marcas_cubierta": [],
    "medida_cubierta": null,
    "auto": null
@@ -3891,12 +3937,7 @@
    "sirve": "Ford Fiesta, Ka, EcoSport, Focus (1ª gen)",
    "detalle": "Llantas originales Ford de aleación rodado 16 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [
-    {
-     "txt": "el juego de 4",
-     "monto": 450000.0
-    }
-   ],
+   "precios_extra": [],
    "fotos": [
     "fotos/l086-1.jpg",
     "fotos/l086-2.jpg",
@@ -4791,12 +4832,7 @@
    "sirve": "Ford Fiesta, Ka, EcoSport, Focus (1ª gen)",
    "detalle": "Llantas originales Ford de aleación rodado 15 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [
-    {
-     "txt": "el juego de 4",
-     "monto": 400000.0
-    }
-   ],
+   "precios_extra": [],
    "fotos": [
     "fotos/l105-1.jpg",
     "fotos/l105-2.jpg",
@@ -5185,12 +5221,7 @@
    "sirve": "Fiat Palio, Siena, Punto, Uno, Argo, Cronos, Mobi",
    "detalle": "Llantas originales Fiat de aleación rodado 15 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [
-    {
-     "txt": "el juego de 4",
-     "monto": 600000.0
-    }
-   ],
+   "precios_extra": [],
    "fotos": [
     "fotos/l113-1.jpg",
     "fotos/l113-2.jpg",
@@ -7842,12 +7873,7 @@
    "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro, up!",
    "detalle": "Llantas originales Volkswagen de aleación rodado 15 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [
-    {
-     "txt": "el juego de 4",
-     "monto": 550000.0
-    }
-   ],
+   "precios_extra": [],
    "fotos": [
     "fotos/l171-1.jpg",
     "fotos/l171-2.jpg",
@@ -10003,12 +10029,7 @@
    "sirve": "Peugeot 206, 207, 208, 2008, 307, 308, 408",
    "detalle": "Llantas originales Peugeot de aleación rodado 17 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [
-    {
-     "txt": "el juego de 4",
-     "monto": 850000.0
-    }
-   ],
+   "precios_extra": [],
    "fotos": [
     "fotos/l220-1.jpg",
     "fotos/l220-2.jpg",
