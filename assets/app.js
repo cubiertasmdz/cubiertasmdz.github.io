@@ -131,9 +131,12 @@
         ${p.segmentos != null ? `<div class="segs ${clase}" role="img" aria-label="${p.segmentos} de 5">${[1, 2, 3, 4, 5].map((i) => `<i class="${i <= p.segmentos ? "on" : ""}"></i>`).join("")}</div>` : ""}
       </div>` : "";
 
-    const precio = p.precio_unidad
-      ? `<div class="precio-linea"><span class="monto">${pesos(p.precio_unidad)}</span><span class="por">por unidad</span></div>
-         ${p.precios_extra.map((x) => `<p class="juego">Precio por ${esc(x.txt)}: <b>${pesos(x.monto)}</b></p>`).join("")}`
+    // sin precio por unidad pero con precio por par/juego: ese pasa a ser el precio principal
+    const principal = p.precio_unidad ? { monto: p.precio_unidad, por: "por unidad" } : p.precios_extra[0] ? { monto: p.precios_extra[0].monto, por: p.precios_extra[0].txt } : null;
+    const extras = p.precio_unidad ? p.precios_extra : p.precios_extra.slice(1);
+    const precio = principal
+      ? `<div class="precio-linea"><span class="monto">${pesos(principal.monto)}</span><span class="por">${esc(principal.por)}</span></div>
+         ${extras.map((x) => `<p class="juego">Precio por ${esc(x.txt)}: <b>${pesos(x.monto)}</b></p>`).join("")}`
       : `<div class="precio-linea"><span class="consultar-precio">Consultar precio</span></div>`;
 
     return `

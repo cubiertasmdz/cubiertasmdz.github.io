@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21 17:06",
+ "actualizado": "2026-10-21 17:19",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -55,6 +55,110 @@
   }
  ],
  "productos": [
+  {
+   "id": "L221",
+   "tipo": "llanta",
+   "titulo": "Llanta Volkswagen R17",
+   "subtitulo": "5x120 · R17",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Se venden sin cubierta"
+   ],
+   "sirve": "VW Amarok",
+   "detalle": "Juego de 4 llantas originales Volkswagen de aleación rodado 17 de 5 agujeros, de una Amarok. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l221-1.jpg",
+    "fotos/l221-2.jpg",
+    "fotos/l221-3.jpg",
+    "fotos/l221-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l221-1.jpg",
+    "fotos/m/l221-2.jpg",
+    "fotos/m/l221-3.jpg",
+    "fotos/m/l221-4.jpg"
+   ],
+   "claves": [
+    "17",
+    "5120",
+    "175120"
+   ],
+   "nums": [
+    "120",
+    "17",
+    "5"
+   ],
+   "texto": "llanta volkswagen r17 5x120 · r17 vw amarok original aleación se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 4 llantas Volkswagen R17 5x120 que vi en el catálogo (cód. L221).\nhttps://cubiertasmdz.github.io/p/L221/",
+   "url": "https://cubiertasmdz.github.io/p/L221/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "auto": null
+  },
+  {
+   "id": "L222",
+   "tipo": "llanta",
+   "titulo": "Llanta Chery R16",
+   "subtitulo": "5x114.3 · R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Se venden sin cubierta"
+   ],
+   "sirve": "Chery Tiggo",
+   "detalle": "Juego de 4 llantas originales Chery de aleación rodado 16 de 5 agujeros, de un Chery Tiggo. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l222-1.jpg",
+    "fotos/l222-2.jpg",
+    "fotos/l222-3.jpg",
+    "fotos/l222-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l222-1.jpg",
+    "fotos/m/l222-2.jpg",
+    "fotos/m/l222-3.jpg",
+    "fotos/m/l222-4.jpg"
+   ],
+   "claves": [
+    "16",
+    "5114.3",
+    "165114.3"
+   ],
+   "nums": [
+    "1143",
+    "16",
+    "5"
+   ],
+   "texto": "llanta chery r16 5x114.3 · r16 chery tiggo original aleación se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 4 llantas Chery R16 5x114.3 que vi en el catálogo (cód. L222).\nhttps://cubiertasmdz.github.io/p/L222/",
+   "url": "https://cubiertasmdz.github.io/p/L222/",
+   "marcas_llanta": [
+    "Chery"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "auto": null
+  },
   {
    "id": "A001",
    "tipo": "auto",
@@ -3787,7 +3891,12 @@
    "sirve": "Ford Fiesta, Ka, EcoSport, Focus (1ª gen)",
    "detalle": "Llantas originales Ford de aleación rodado 16 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [],
+   "precios_extra": [
+    {
+     "txt": "el juego de 4",
+     "monto": 450000.0
+    }
+   ],
    "fotos": [
     "fotos/l086-1.jpg",
     "fotos/l086-2.jpg",
@@ -4682,7 +4791,12 @@
    "sirve": "Ford Fiesta, Ka, EcoSport, Focus (1ª gen)",
    "detalle": "Llantas originales Ford de aleación rodado 15 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [],
+   "precios_extra": [
+    {
+     "txt": "el juego de 4",
+     "monto": 400000.0
+    }
+   ],
    "fotos": [
     "fotos/l105-1.jpg",
     "fotos/l105-2.jpg",
@@ -5071,7 +5185,12 @@
    "sirve": "Fiat Palio, Siena, Punto, Uno, Argo, Cronos, Mobi",
    "detalle": "Llantas originales Fiat de aleación rodado 15 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [],
+   "precios_extra": [
+    {
+     "txt": "el juego de 4",
+     "monto": 600000.0
+    }
+   ],
    "fotos": [
     "fotos/l113-1.jpg",
     "fotos/l113-2.jpg",
@@ -6522,52 +6641,6 @@
    "auto": null
   },
   {
-   "id": "L144",
-   "tipo": "llanta",
-   "titulo": "Llanta Chevrolet R17",
-   "subtitulo": "R17",
-   "rodado": 17,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
-   "estado": null,
-   "vida": null,
-   "segmentos": null,
-   "etiquetas": [
-    "Original",
-    "Aleación"
-   ],
-   "sirve": "Chevrolet Cruze, Tracker, Vectra",
-   "detalle": "Llantas originales Chevrolet de aleación rodado 17 de 5 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/l144-1.jpg",
-    "fotos/l144-2.jpg",
-    "fotos/l144-3.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/l144-1.jpg",
-    "fotos/m/l144-2.jpg",
-    "fotos/m/l144-3.jpg"
-   ],
-   "claves": [
-    "17"
-   ],
-   "nums": [
-    "17",
-    "5"
-   ],
-   "texto": "llanta chevrolet r17 r17 chevrolet cruze, tracker, vectra original aleación",
-   "wa": "Hola, quería consultar por las 4 llantas Chevrolet R17 que vi en el catálogo (cód. L144).\nhttps://cubiertasmdz.github.io/p/L144/",
-   "url": "https://cubiertasmdz.github.io/p/L144/",
-   "marcas_llanta": [
-    "Chevrolet"
-   ],
-   "marcas_cubierta": [],
-   "medida_cubierta": null,
-   "auto": null
-  },
-  {
    "id": "L145",
    "tipo": "llanta",
    "titulo": "Llanta Hyundai R17",
@@ -7769,7 +7842,12 @@
    "sirve": "VW Gol, Voyage, Fox, Suran, Saveiro, up!",
    "detalle": "Llantas originales Volkswagen de aleación rodado 15 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [],
+   "precios_extra": [
+    {
+     "txt": "el juego de 4",
+     "monto": 550000.0
+    }
+   ],
    "fotos": [
     "fotos/l171-1.jpg",
     "fotos/l171-2.jpg",
@@ -8422,51 +8500,6 @@
    "texto": "llanta peugeot r17 4x108 · r17 peugeot 206, 207, 208, 2008, 307, 308, 408 original aleación",
    "wa": "Hola, quería consultar por la llanta Peugeot R17 4x108 que vi en el catálogo (cód. L185).\nhttps://cubiertasmdz.github.io/p/L185/",
    "url": "https://cubiertasmdz.github.io/p/L185/",
-   "marcas_llanta": [
-    "Peugeot"
-   ],
-   "marcas_cubierta": [],
-   "medida_cubierta": null,
-   "auto": null
-  },
-  {
-   "id": "L186",
-   "tipo": "llanta",
-   "titulo": "Llanta Peugeot R17",
-   "subtitulo": "4x108 · R17",
-   "rodado": 17,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
-   "estado": null,
-   "vida": null,
-   "segmentos": null,
-   "etiquetas": [
-    "Original",
-    "Aleación"
-   ],
-   "sirve": "Peugeot 206, 207, 208, 2008, 307, 308, 408",
-   "detalle": "Llanta original Peugeot de aleación rodado 17 de 4 agujeros. Se vende sin cubierta. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/l186-1.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/l186-1.jpg"
-   ],
-   "claves": [
-    "17",
-    "4108",
-    "174108"
-   ],
-   "nums": [
-    "108",
-    "17",
-    "4"
-   ],
-   "texto": "llanta peugeot r17 4x108 · r17 peugeot 206, 207, 208, 2008, 307, 308, 408 original aleación",
-   "wa": "Hola, quería consultar por la llanta Peugeot R17 4x108 que vi en el catálogo (cód. L186).\nhttps://cubiertasmdz.github.io/p/L186/",
-   "url": "https://cubiertasmdz.github.io/p/L186/",
    "marcas_llanta": [
     "Peugeot"
    ],
@@ -9970,7 +10003,12 @@
    "sirve": "Peugeot 206, 207, 208, 2008, 307, 308, 408",
    "detalle": "Llantas originales Peugeot de aleación rodado 17 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
-   "precios_extra": [],
+   "precios_extra": [
+    {
+     "txt": "el juego de 4",
+     "monto": 850000.0
+    }
+   ],
    "fotos": [
     "fotos/l220-1.jpg",
     "fotos/l220-2.jpg",

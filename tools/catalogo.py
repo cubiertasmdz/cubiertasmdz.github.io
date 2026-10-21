@@ -8,7 +8,7 @@ Comandos:
   nuevo <archivo.json>             Carga un producto nuevo (ingreso). Imprime el código asignado.
   sumar <id> <n> [--costo X]       Suma unidades a un lote existente (ingreso).
   fotos <id> <img...> [--reemplazar]  Comprime y agrega fotos al producto.
-  venta <id> <n> [--monto X] [--nota "..."]
+  venta <id> <n> [--monto X] [--cliente "..."] [--fecha AAAA-MM-DD] [--nota "..."]
   precio <id> [--unidad X] [--par X|no] [--juego X|no]   (juego = las 4)
   baja <id> [--nota "..."]         Oculta el producto del catálogo.
   alta <id>                        Vuelve a mostrar un producto oculto.
@@ -17,6 +17,7 @@ Comandos:
   resumen [--mes AAAA-MM]
   planilla                         Regenera PLANILLA STOCK.xlsx (se hace sola en cada movimiento).
   excel                            Copia fechada de la planilla en exportes/.
+  ventas-mes [AAAA-MM]             Excel de ventas del mes (por defecto el mes anterior) en exportes/.
   publicar "mensaje"               build + commit + push.
   limpiar-pruebas                  Borra los productos marcados como prueba.
 """
@@ -66,9 +67,9 @@ def historial():
     return json.loads(HIST.read_text()) if HIST.exists() else []
 
 
-def registrar(tipo, prod, cantidad=None, monto=None, detalle=""):
+def registrar(tipo, prod, cantidad=None, monto=None, detalle="", **extra):
     h = historial()
-    h.append({
+    h.append({**extra,
         "fecha": ahora(), "tipo": tipo, "id": prod["id"], "producto": nombre_interno(prod),
         "cantidad": cantidad, "monto": monto, "detalle": detalle,
         "costo_unit": prod.get("costo"), "precio_unit": prod.get("precio_unidad"),
@@ -597,7 +598,10 @@ def cmd_venta(pid, n, op):
         monto = n * (p.get("precio_unidad") or 0)
     p["cantidad"] = int(p["cantidad"]) - n
     guardar(stock)
-    registrar("venta", p, n, monto, op.get("nota", "") + (" — queda en 0, se oculta" if p["cantidad"] == 0 else ""))
+    extra = {k: op[k] for k in ("cliente",) if op.get(k)}
+    if op.get("fecha"):  # venta de otro día (ej. cargada al día siguiente)
+        extra["fecha_venta"] = op["fecha"]
+    registrar("venta", p, n, monto, op.get("nota", "") + (" — queda en 0, se oculta" if p["cantidad"] == 0 else ""), **extra)
     print(f'{p["id"]}: vendidas {n} por {pesos(monto)}. Quedan {p["cantidad"]}.')
 
 
@@ -845,6 +849,82 @@ def cmd_excel():
     print(ruta)
 
 
+def cmd_ventas_mes(mes=None):
+    """Excel con todas las ventas de un mes (por defecto, el mes anterior): se manda los días 5."""
+    from openpyxl import Workbook
+    from openpyxl.styles import Font, PatternFill, Alignment
+    if not mes:
+        primero = hoy().replace(day=1)
+        mes = (primero - dt.timedelta(days=1)).strftime("%Y-%m")
+    stock = {p["id"]: p for p in cargar()["productos"]}
+    ventas = [m for m in historial() if m["tipo"] == "venta" and not m.get("prueba")
+              and (m.get("fecha_venta") or m["fecha"]).startswith(mes)]
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Ventas"
+    cols = ["Fecha", "Código", "Producto", "Tipo", "Marca", "Rodado / medida", "Cantidad", "Total cobrado", "Precio c/u",
+            "Costo c/u", "Costo total", "Ganancia", "Cliente", "Nota"]
+    ws.append(cols)
+    tot = {"u": 0, "m": 0, "c": 0, "g": 0, "sin_costo": 0}
+    por_tipo = {}
+    for m in sorted(ventas, key=lambda x: x.get("fecha_venta") or x["fecha"]):
+        p = stock.get(m["id"], {})
+        cant = m.get("cantidad") or 0
+        monto = m.get("monto")
+        costo = m.get("costo_unit") or p.get("costo")
+        costo_total = cant * costo if costo else None
+        ganancia = monto - costo_total if (monto is not None and costo_total is not None) else None
+        tipo = categoria(p["tipo"])["singular"].capitalize() if p else ""
+        marca = p.get("llanta_marca") or p.get("marca") if p else None
+        ws.append([(m.get("fecha_venta") or m["fecha"])[:10], m["id"], m.get("producto"), tipo, marca,
+                   medida(p) if p else None, cant, monto, (monto / cant) if monto and cant else None,
+                   costo, costo_total, ganancia, m.get("cliente"), m.get("detalle")])
+        tot["u"] += cant; tot["m"] += monto or 0
+        if costo_total is not None:
+            tot["c"] += costo_total; tot["g"] += ganancia or 0
+        else:
+            tot["sin_costo"] += 1
+        t = por_tipo.setdefault(tipo or "Otro", [0, 0])
+        t[0] += cant; t[1] += monto or 0
+    ws.append([])
+    ws.append(["TOTAL", "", "", "", "", "", tot["u"], tot["m"], "", "", tot["c"] or None, tot["g"] or None])
+    negrita = Font(bold=True)
+    for c in ws[1]:
+        c.font = Font(bold=True, color="FFFFFF"); c.fill = PatternFill("solid", fgColor="111111")
+        c.alignment = Alignment(wrap_text=True, vertical="center")
+    for c in ws[ws.max_row]:
+        c.font = negrita
+    for col in ("H", "I", "J", "K", "L"):
+        for c in ws[col][1:]:
+            c.number_format = '"$"#,##0'
+    for col, ancho in zip("ABCDEFGHIJKLMN", (12, 9, 44, 16, 14, 16, 10, 15, 14, 13, 14, 14, 22, 30)):
+        ws.column_dimensions[col].width = ancho
+    ws.freeze_panes = "A2"
+    r = wb.create_sheet("Resumen", 0)
+    filas = [["Mes", mes], ["Operaciones de venta", len(ventas)], ["Unidades vendidas", tot["u"]],
+             ["Total cobrado", tot["m"]], ["Costo de lo vendido", tot["c"] or None], ["Ganancia", tot["g"] or None]]
+    if tot["sin_costo"]:
+        filas.append(["Ventas sin precio de ingreso cargado", f'{tot["sin_costo"]} (la ganancia no las incluye)'])
+    filas.append([])
+    filas.append(["Por tipo", "Unidades / Total cobrado"])
+    for t, (u, mo) in sorted(por_tipo.items()):
+        filas.append([t, f"{u} u. / {pesos(mo)}"])
+    for f in filas:
+        r.append(f)
+    r.column_dimensions["A"].width = 38
+    r.column_dimensions["B"].width = 30
+    for fila in r.iter_rows():
+        if fila[0].value in ("Total cobrado", "Costo de lo vendido", "Ganancia"):
+            fila[1].number_format = '"$"#,##0'
+        if fila[0].value in ("Mes", "Por tipo"):
+            fila[0].font = negrita; fila[1].font = negrita
+    (ROOT / "exportes").mkdir(exist_ok=True)
+    ruta = ROOT / "exportes" / f"VENTAS {mes}.xlsx"
+    wb.save(ruta)
+    print(f"{ruta}\n{len(ventas)} ventas, {tot['u']} unidades, {pesos(tot['m'])}"
+          + (f", {tot['sin_costo']} sin precio de ingreso" if tot["sin_costo"] else ""))
+
+
 def cmd_publicar(mensaje):
     build()
     def git(*a, check=True):
@@ -908,6 +988,8 @@ def main():
         print(planilla())
     elif cmd == "excel":
         cmd_excel()
+    elif cmd == "ventas-mes":
+        cmd_ventas_mes(pos[0] if pos else None)
     elif cmd == "publicar":
         cmd_publicar(pos[0] if pos else "Actualización del catálogo")
     elif cmd == "limpiar-pruebas":
