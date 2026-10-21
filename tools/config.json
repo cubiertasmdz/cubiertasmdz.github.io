@@ -49,5 +49,6 @@
       "filtro_medida": true,
       "filtro_auto": true
     }
-  ]
+  ],
+  "comision": 0.1
 }

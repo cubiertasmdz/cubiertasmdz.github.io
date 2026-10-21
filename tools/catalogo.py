@@ -384,7 +384,10 @@ def publico(p):
         or (["Alternativa"] if p.get("llanta_original", p.get("original")) is False else []),
         "marcas_cubierta": marcas_de(p.get("marca") if p["tipo"] in ("cubierta", "rueda", "auto") else None),
         "medida_cubierta": medida(p) if p["tipo"] in ("cubierta", "rueda", "auto") else None,
-        "auto": nombre_auto(p) if p["tipo"] == "auto" else None,
+        "auto": nombre_auto(p) if p["tipo"] == "auto" or p.get("auto_modelo") else None,
+        # llantas solas que siguen puestas en un auto: también salen en "En autos", con el auto como título
+        **({"titulo_auto": nombre_auto(p, anio=True), "subtitulo_auto": f"Solo llantas · {sub}"}
+           if p["tipo"] == "llanta" and p.get("auto_modelo") else {}),
         # en la pestaña Llantas las ruedas completas se muestran como llanta (marca + rodado) "con cubierta"
         **(como_llanta(p, titulo) if p["tipo"] in ("rueda", "auto") else {}),
         "alta": p.get("fecha_ingreso"),
@@ -792,8 +795,8 @@ def planilla(destino=None):
         if m.get("monto") is not None and cant:
             unit = m["monto"] / cant
         ganancia = None
-        if m["tipo"] == "venta" and m.get("monto") is not None and m.get("costo_unit"):
-            ganancia = m["monto"] - cant * m["costo_unit"]
+        if m["tipo"] == "venta" and m.get("monto") is not None:  # comisión sobre lo cobrado (no hay costo de compra)
+            ganancia = round(m["monto"] * CONFIG.get("comision", 0.10))
         filas.append([
             m["fecha"], {"ingreso": "INGRESO", "venta": "SALIDA (venta)", "baja": "BAJA", "alta": "ALTA",
                          "precio": "Cambio de precio", "edicion": "Corrección"}.get(m["tipo"], m["tipo"]),
@@ -818,8 +821,8 @@ def planilla(destino=None):
         ["Valor del stock (precio de ingreso)", sum(int(p["cantidad"]) * (p.get("costo") or 0) for p in reales)],
         [f"Ventas de {mes} (unidades)", sum(m["cantidad"] or 0 for m in ventas_mes)],
         [f"Ventas de {mes} (monto)", sum(m["monto"] or 0 for m in ventas_mes)],
-        [f"Ganancia de {mes}", sum((m["monto"] or 0) - (m["cantidad"] or 0) * (m.get("costo_unit") or 0)
-                                    for m in ventas_mes if m.get("costo_unit"))],
+        [f'Ganancia de {mes} ({round(CONFIG.get("comision", 0.10) * 100)}% de lo cobrado)',
+         round(sum(m["monto"] or 0 for m in ventas_mes) * CONFIG.get("comision", 0.10))],
         [f'Cubiertas con más de {CONFIG["anios_alerta"]} años', ", ".join(p["id"] for p in viejas) or "Ninguna"],
         ["Nota", "Los totales no incluyen productos de prueba."],
     ]
@@ -850,9 +853,12 @@ def cmd_excel():
 
 
 def cmd_ventas_mes(mes=None):
-    """Excel con todas las ventas de un mes (por defecto, el mes anterior): se manda los días 5."""
+    """Excel con todas las ventas de un mes (por defecto, el mes anterior): se manda los días 5.
+    No hay costo de compra: se vende en consignación y la ganancia es la comisión (config "comision", 10%)."""
     from openpyxl import Workbook
     from openpyxl.styles import Font, PatternFill, Alignment
+    com = CONFIG.get("comision", 0.10)
+    pct = f"{round(com * 100)}%"
     if not mes:
         primero = hoy().replace(day=1)
         mes = (primero - dt.timedelta(days=1)).strftime("%Y-%m")
@@ -863,50 +869,40 @@ def cmd_ventas_mes(mes=None):
     ws = wb.active
     ws.title = "Ventas"
     cols = ["Fecha", "Código", "Producto", "Tipo", "Marca", "Rodado / medida", "Cantidad", "Total cobrado", "Precio c/u",
-            "Costo c/u", "Costo total", "Ganancia", "Cliente", "Nota"]
+            f"Ganancia ({pct})", f"Para el dueño ({100 - round(com * 100)}%)", "Cliente", "Nota"]
     ws.append(cols)
-    tot = {"u": 0, "m": 0, "c": 0, "g": 0, "sin_costo": 0}
+    tot_u = tot_m = 0
     por_tipo = {}
     for m in sorted(ventas, key=lambda x: x.get("fecha_venta") or x["fecha"]):
         p = stock.get(m["id"], {})
         cant = m.get("cantidad") or 0
-        monto = m.get("monto")
-        costo = m.get("costo_unit") or p.get("costo")
-        costo_total = cant * costo if costo else None
-        ganancia = monto - costo_total if (monto is not None and costo_total is not None) else None
+        monto = m.get("monto") or 0
         tipo = categoria(p["tipo"])["singular"].capitalize() if p else ""
-        marca = p.get("llanta_marca") or p.get("marca") if p else None
+        marca = (p.get("llanta_marca") or p.get("marca")) if p else None
         ws.append([(m.get("fecha_venta") or m["fecha"])[:10], m["id"], m.get("producto"), tipo, marca,
                    medida(p) if p else None, cant, monto, (monto / cant) if monto and cant else None,
-                   costo, costo_total, ganancia, m.get("cliente"), m.get("detalle")])
-        tot["u"] += cant; tot["m"] += monto or 0
-        if costo_total is not None:
-            tot["c"] += costo_total; tot["g"] += ganancia or 0
-        else:
-            tot["sin_costo"] += 1
+                   round(monto * com), round(monto * (1 - com)), m.get("cliente"), m.get("detalle")])
+        tot_u += cant; tot_m += monto
         t = por_tipo.setdefault(tipo or "Otro", [0, 0])
-        t[0] += cant; t[1] += monto or 0
+        t[0] += cant; t[1] += monto
     ws.append([])
-    ws.append(["TOTAL", "", "", "", "", "", tot["u"], tot["m"], "", "", tot["c"] or None, tot["g"] or None])
-    negrita = Font(bold=True)
+    ws.append(["TOTAL", "", "", "", "", "", tot_u, tot_m, "", round(tot_m * com), round(tot_m * (1 - com))])
     for c in ws[1]:
         c.font = Font(bold=True, color="FFFFFF"); c.fill = PatternFill("solid", fgColor="111111")
         c.alignment = Alignment(wrap_text=True, vertical="center")
     for c in ws[ws.max_row]:
-        c.font = negrita
-    for col in ("H", "I", "J", "K", "L"):
+        c.font = Font(bold=True)
+    for col in ("H", "I", "J", "K"):
         for c in ws[col][1:]:
             c.number_format = '"$"#,##0'
-    for col, ancho in zip("ABCDEFGHIJKLMN", (12, 9, 44, 16, 14, 16, 10, 15, 14, 13, 14, 14, 22, 30)):
+    for col, ancho in zip("ABCDEFGHIJKLM", (12, 9, 44, 16, 14, 16, 10, 15, 14, 15, 16, 22, 30)):
         ws.column_dimensions[col].width = ancho
     ws.freeze_panes = "A2"
     r = wb.create_sheet("Resumen", 0)
-    filas = [["Mes", mes], ["Operaciones de venta", len(ventas)], ["Unidades vendidas", tot["u"]],
-             ["Total cobrado", tot["m"]], ["Costo de lo vendido", tot["c"] or None], ["Ganancia", tot["g"] or None]]
-    if tot["sin_costo"]:
-        filas.append(["Ventas sin precio de ingreso cargado", f'{tot["sin_costo"]} (la ganancia no las incluye)'])
-    filas.append([])
-    filas.append(["Por tipo", "Unidades / Total cobrado"])
+    filas = [["Mes", mes], ["Operaciones de venta", len(ventas)], ["Unidades vendidas", tot_u],
+             ["Total cobrado", tot_m], [f"Ganancia ({pct} de lo cobrado)", round(tot_m * com)],
+             [f"Para los dueños ({100 - round(com * 100)}%)", round(tot_m * (1 - com))], [],
+             ["Por tipo", "Unidades / Total cobrado"]]
     for t, (u, mo) in sorted(por_tipo.items()):
         filas.append([t, f"{u} u. / {pesos(mo)}"])
     for f in filas:
@@ -914,15 +910,14 @@ def cmd_ventas_mes(mes=None):
     r.column_dimensions["A"].width = 38
     r.column_dimensions["B"].width = 30
     for fila in r.iter_rows():
-        if fila[0].value in ("Total cobrado", "Costo de lo vendido", "Ganancia"):
+        if fila[0].value and (fila[0].value.startswith(("Total cobrado", "Ganancia", "Para los dueños"))):
             fila[1].number_format = '"$"#,##0'
         if fila[0].value in ("Mes", "Por tipo"):
-            fila[0].font = negrita; fila[1].font = negrita
+            fila[0].font = Font(bold=True); fila[1].font = Font(bold=True)
     (ROOT / "exportes").mkdir(exist_ok=True)
     ruta = ROOT / "exportes" / f"VENTAS {mes}.xlsx"
     wb.save(ruta)
-    print(f"{ruta}\n{len(ventas)} ventas, {tot['u']} unidades, {pesos(tot['m'])}"
-          + (f", {tot['sin_costo']} sin precio de ingreso" if tot["sin_costo"] else ""))
+    print(f"{ruta}\n{len(ventas)} ventas, {tot_u} unidades, cobrado {pesos(tot_m)}, ganancia ({pct}) {pesos(round(tot_m * com))}")
 
 
 def cmd_publicar(mensaje):

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21 17:24",
+ "actualizado": "2026-10-21 17:30",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -105,7 +105,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
-   "auto": null
+   "auto": "Volkswagen Amarok",
+   "titulo_auto": "Volkswagen Amarok",
+   "subtitulo_auto": "Solo llantas · 5x120 · R17"
   },
   {
    "id": "L222",
@@ -157,7 +159,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
-   "auto": null
+   "auto": "Chery Tiggo",
+   "titulo_auto": "Chery Tiggo",
+   "subtitulo_auto": "Solo llantas · 5x114.3 · R16"
   },
   {
    "id": "L223",
@@ -203,7 +207,9 @@
    "marcas_llanta": [],
    "marcas_cubierta": [],
    "medida_cubierta": null,
-   "auto": null
+   "auto": "Chevrolet Corsa Estrella",
+   "titulo_auto": "Chevrolet Corsa Estrella",
+   "subtitulo_auto": "Solo llantas · 4x100 · R14"
   },
   {
    "id": "A001",

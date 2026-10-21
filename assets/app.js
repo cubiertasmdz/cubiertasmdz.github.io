@@ -87,6 +87,7 @@
   // la pestaña Llantas también muestra las ruedas completas (config "incluye")
   function enPestana(p, tab) {
     if (p.tipo === tab) return true;
+    if (tab === "auto" && p.titulo_auto) return true;  // llantas solas puestas en un auto
     const cat = estado.datos.categorias.find((c) => c.id === tab);
     return !!(cat && cat.incluye && cat.incluye.includes(p.tipo));
   }
@@ -115,6 +116,7 @@
 
   function tarjeta(p) {
     const comoLlanta = estado.tab === "llanta" && (p.tipo === "rueda" || p.tipo === "auto") && p.titulo_llanta;  // rueda completa vista en Llantas
+    const comoAuto = estado.tab === "auto" && p.tipo === "llanta" && p.titulo_auto;  // llanta sola vista en En autos
     const fotos = p.fotos.length
       ? `<div class="fotos">${p.fotos.map((f, i) => {
           const mini = (p.miniaturas && p.miniaturas[i]) || f;
@@ -146,8 +148,8 @@
         <span class="badge">${esc(p.cantidad_txt)}</span>
       </div>
       <div class="cuerpo">
-        <h2>${esc(comoLlanta ? p.titulo_llanta : p.titulo)}</h2>
-        <p class="medida">${esc(comoLlanta ? p.subtitulo_llanta : p.subtitulo)}</p>
+        <h2>${esc(comoLlanta ? p.titulo_llanta : comoAuto ? p.titulo_auto : p.titulo)}</h2>
+        <p class="medida">${esc(comoLlanta ? p.subtitulo_llanta : comoAuto ? p.subtitulo_auto : p.subtitulo)}</p>
         ${estadoHtml}
         ${p.etiquetas.length ? `<ul class="tags">${p.etiquetas.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}
         ${p.sirve ? `<p class="sirve"><b>Sirve para:</b> ${esc(p.sirve)}</p>` : ""}
