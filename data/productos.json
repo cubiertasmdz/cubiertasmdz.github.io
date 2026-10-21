@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20 20:03",
+ "actualizado": "2026-10-21 17:06",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -81,6 +81,12 @@
     "fotos/a001-3.jpg",
     "fotos/a001-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/a001-1.jpg",
+    "fotos/m/a001-2.jpg",
+    "fotos/m/a001-3.jpg",
+    "fotos/m/a001-4.jpg"
+   ],
    "claves": [
     "1956016",
     "4108",
@@ -130,6 +136,12 @@
     "fotos/a002-3.jpg",
     "fotos/a002-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/a002-1.jpg",
+    "fotos/m/a002-2.jpg",
+    "fotos/m/a002-3.jpg",
+    "fotos/m/a002-4.jpg"
+   ],
    "claves": [
     "2055516"
    ],
@@ -176,6 +188,12 @@
     "fotos/a003-2.jpg",
     "fotos/a003-3.jpg",
     "fotos/a003-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a003-1.jpg",
+    "fotos/m/a003-2.jpg",
+    "fotos/m/a003-3.jpg",
+    "fotos/m/a003-4.jpg"
    ],
    "claves": [
     "2055516",
@@ -227,6 +245,12 @@
     "fotos/a004-2.jpg",
     "fotos/a004-3.jpg",
     "fotos/a004-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a004-1.jpg",
+    "fotos/m/a004-2.jpg",
+    "fotos/m/a004-3.jpg",
+    "fotos/m/a004-4.jpg"
    ],
    "claves": [
     "1956015",
@@ -282,6 +306,12 @@
     "fotos/a005-3.jpg",
     "fotos/a005-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/a005-1.jpg",
+    "fotos/m/a005-2.jpg",
+    "fotos/m/a005-3.jpg",
+    "fotos/m/a005-4.jpg"
+   ],
    "claves": [
     "2056016",
     "4108",
@@ -335,6 +365,12 @@
     "fotos/a006-3.jpg",
     "fotos/a006-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/a006-1.jpg",
+    "fotos/m/a006-2.jpg",
+    "fotos/m/a006-3.jpg",
+    "fotos/m/a006-4.jpg"
+   ],
    "claves": [
     "2055516",
     "5114.3",
@@ -385,6 +421,12 @@
     "fotos/a007-2.jpg",
     "fotos/a007-3.jpg",
     "fotos/a007-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a007-1.jpg",
+    "fotos/m/a007-2.jpg",
+    "fotos/m/a007-3.jpg",
+    "fotos/m/a007-4.jpg"
    ],
    "claves": [
     "1956015",
@@ -439,6 +481,11 @@
     "fotos/a008-2.jpg",
     "fotos/a008-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/a008-1.jpg",
+    "fotos/m/a008-2.jpg",
+    "fotos/m/a008-3.jpg"
+   ],
    "claves": [
     "2657016",
     "6139.7",
@@ -492,6 +539,12 @@
     "fotos/r142-3.jpg",
     "fotos/r142-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r142-1.jpg",
+    "fotos/m/r142-2.jpg",
+    "fotos/m/r142-3.jpg",
+    "fotos/m/r142-4.jpg"
+   ],
    "claves": [
     "1856515",
     "4108",
@@ -544,6 +597,12 @@
     "fotos/a009-3.jpg",
     "fotos/a009-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/a009-1.jpg",
+    "fotos/m/a009-2.jpg",
+    "fotos/m/a009-3.jpg",
+    "fotos/m/a009-4.jpg"
+   ],
    "claves": [
     "2055517",
     "5114.3",
@@ -591,6 +650,10 @@
     "fotos/l019-1.jpg",
     "fotos/l019-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l019-1.jpg",
+    "fotos/m/l019-2.jpg"
+   ],
    "claves": [
     "16",
     "5114.3",
@@ -634,6 +697,10 @@
     "fotos/l020-1.jpg",
     "fotos/l020-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l020-1.jpg",
+    "fotos/m/l020-2.jpg"
+   ],
    "claves": [
     "17",
     "5114.3",
@@ -676,6 +743,10 @@
    "fotos": [
     "fotos/l021-1.jpg",
     "fotos/l021-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l021-1.jpg",
+    "fotos/m/l021-2.jpg"
    ],
    "claves": [
     "15",
@@ -721,6 +792,11 @@
     "fotos/l022-2.jpg",
     "fotos/l022-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l022-1.jpg",
+    "fotos/m/l022-2.jpg",
+    "fotos/m/l022-3.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -763,6 +839,10 @@
    "fotos": [
     "fotos/l023-1.jpg",
     "fotos/l023-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l023-1.jpg",
+    "fotos/m/l023-2.jpg"
    ],
    "claves": [
     "15",
@@ -807,6 +887,10 @@
     "fotos/l024-1.jpg",
     "fotos/l024-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l024-1.jpg",
+    "fotos/m/l024-2.jpg"
+   ],
    "claves": [
     "16",
     "5114.3",
@@ -849,6 +933,10 @@
    "fotos": [
     "fotos/l025-1.jpg",
     "fotos/l025-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l025-1.jpg",
+    "fotos/m/l025-2.jpg"
    ],
    "claves": [
     "16",
@@ -894,6 +982,11 @@
     "fotos/l026-2.jpg",
     "fotos/l026-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l026-1.jpg",
+    "fotos/m/l026-2.jpg",
+    "fotos/m/l026-3.jpg"
+   ],
    "claves": [
     "16",
     "5114.3",
@@ -936,6 +1029,10 @@
    "fotos": [
     "fotos/l027-1.jpg",
     "fotos/l027-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l027-1.jpg",
+    "fotos/m/l027-2.jpg"
    ],
    "claves": [
     "15",
@@ -981,6 +1078,11 @@
     "fotos/l028-2.jpg",
     "fotos/l028-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l028-1.jpg",
+    "fotos/m/l028-2.jpg",
+    "fotos/m/l028-3.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -1023,6 +1125,10 @@
    "fotos": [
     "fotos/l029-1.jpg",
     "fotos/l029-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l029-1.jpg",
+    "fotos/m/l029-2.jpg"
    ],
    "claves": [
     "15",
@@ -1067,6 +1173,10 @@
     "fotos/l030-1.jpg",
     "fotos/l030-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l030-1.jpg",
+    "fotos/m/l030-2.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -1110,6 +1220,10 @@
     "fotos/l031-1.jpg",
     "fotos/l031-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l031-1.jpg",
+    "fotos/m/l031-2.jpg"
+   ],
    "claves": [
     "17",
     "5114.3",
@@ -1152,6 +1266,10 @@
    "fotos": [
     "fotos/l032-1.jpg",
     "fotos/l032-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l032-1.jpg",
+    "fotos/m/l032-2.jpg"
    ],
    "claves": [
     "17",
@@ -1197,6 +1315,11 @@
     "fotos/l033-2.jpg",
     "fotos/l033-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l033-1.jpg",
+    "fotos/m/l033-2.jpg",
+    "fotos/m/l033-3.jpg"
+   ],
    "claves": [
     "14",
     "4100",
@@ -1241,6 +1364,11 @@
     "fotos/l034-2.jpg",
     "fotos/l034-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l034-1.jpg",
+    "fotos/m/l034-2.jpg",
+    "fotos/m/l034-3.jpg"
+   ],
    "claves": [
     "16",
     "5114.3",
@@ -1284,6 +1412,10 @@
     "fotos/l035-1.jpg",
     "fotos/l035-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l035-1.jpg",
+    "fotos/m/l035-2.jpg"
+   ],
    "claves": [
     "16",
     "5114.3",
@@ -1325,6 +1457,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l036-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l036-1.jpg"
    ],
    "claves": [
     "15",
@@ -1368,6 +1503,10 @@
    "fotos": [
     "fotos/l037-1.jpg",
     "fotos/l037-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l037-1.jpg",
+    "fotos/m/l037-2.jpg"
    ],
    "claves": [
     "17",
@@ -1413,6 +1552,11 @@
     "fotos/l038-2.jpg",
     "fotos/l038-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l038-1.jpg",
+    "fotos/m/l038-2.jpg",
+    "fotos/m/l038-3.jpg"
+   ],
    "claves": [
     "17",
     "5114.3",
@@ -1455,6 +1599,10 @@
    "fotos": [
     "fotos/l039-1.jpg",
     "fotos/l039-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l039-1.jpg",
+    "fotos/m/l039-2.jpg"
    ],
    "claves": [
     "16",
@@ -1500,6 +1648,11 @@
     "fotos/l040-2.jpg",
     "fotos/l040-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l040-1.jpg",
+    "fotos/m/l040-2.jpg",
+    "fotos/m/l040-3.jpg"
+   ],
    "claves": [
     "15",
     "4108",
@@ -1544,6 +1697,11 @@
     "fotos/l041-2.jpg",
     "fotos/l041-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l041-1.jpg",
+    "fotos/m/l041-2.jpg",
+    "fotos/m/l041-3.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -1586,6 +1744,10 @@
    "fotos": [
     "fotos/l042-1.jpg",
     "fotos/l042-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l042-1.jpg",
+    "fotos/m/l042-2.jpg"
    ],
    "claves": [
     "16",
@@ -1631,6 +1793,11 @@
     "fotos/l043-2.jpg",
     "fotos/l043-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l043-1.jpg",
+    "fotos/m/l043-2.jpg",
+    "fotos/m/l043-3.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -1674,6 +1841,10 @@
     "fotos/l044-1.jpg",
     "fotos/l044-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l044-1.jpg",
+    "fotos/m/l044-2.jpg"
+   ],
    "claves": [
     "16",
     "4108",
@@ -1716,6 +1887,10 @@
    "fotos": [
     "fotos/l045-1.jpg",
     "fotos/l045-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l045-1.jpg",
+    "fotos/m/l045-2.jpg"
    ],
    "claves": [
     "16",
@@ -1761,6 +1936,11 @@
     "fotos/l046-2.jpg",
     "fotos/l046-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l046-1.jpg",
+    "fotos/m/l046-2.jpg",
+    "fotos/m/l046-3.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -1803,6 +1983,10 @@
    "fotos": [
     "fotos/l047-1.jpg",
     "fotos/l047-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l047-1.jpg",
+    "fotos/m/l047-2.jpg"
    ],
    "claves": [
     "17",
@@ -1847,6 +2031,10 @@
     "fotos/l048-1.jpg",
     "fotos/l048-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l048-1.jpg",
+    "fotos/m/l048-2.jpg"
+   ],
    "claves": [
     "15",
     "4108",
@@ -1889,6 +2077,10 @@
    "fotos": [
     "fotos/l049-1.jpg",
     "fotos/l049-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l049-1.jpg",
+    "fotos/m/l049-2.jpg"
    ],
    "claves": [
     "16",
@@ -1934,6 +2126,11 @@
     "fotos/l050-2.jpg",
     "fotos/l050-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l050-1.jpg",
+    "fotos/m/l050-2.jpg",
+    "fotos/m/l050-3.jpg"
+   ],
    "claves": [
     "16"
    ],
@@ -1972,6 +2169,10 @@
    "fotos": [
     "fotos/l051-1.jpg",
     "fotos/l051-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l051-1.jpg",
+    "fotos/m/l051-2.jpg"
    ],
    "claves": [
     "15",
@@ -2017,6 +2218,11 @@
     "fotos/l052-2.jpg",
     "fotos/l052-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l052-1.jpg",
+    "fotos/m/l052-2.jpg",
+    "fotos/m/l052-3.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -2055,6 +2261,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l053-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l053-1.jpg"
    ],
    "claves": [
     "16",
@@ -2098,6 +2307,9 @@
    "fotos": [
     "fotos/l054-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l054-1.jpg"
+   ],
    "claves": [
     "17"
    ],
@@ -2136,6 +2348,10 @@
    "fotos": [
     "fotos/l055-1.jpg",
     "fotos/l055-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l055-1.jpg",
+    "fotos/m/l055-2.jpg"
    ],
    "claves": [
     "15",
@@ -2179,6 +2395,10 @@
    "fotos": [
     "fotos/l056-1.jpg",
     "fotos/l056-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l056-1.jpg",
+    "fotos/m/l056-2.jpg"
    ],
    "claves": [
     "17",
@@ -2224,6 +2444,11 @@
     "fotos/l057-2.jpg",
     "fotos/l057-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l057-1.jpg",
+    "fotos/m/l057-2.jpg",
+    "fotos/m/l057-3.jpg"
+   ],
    "claves": [
     "14",
     "4108",
@@ -2266,6 +2491,10 @@
    "fotos": [
     "fotos/l058-1.jpg",
     "fotos/l058-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l058-1.jpg",
+    "fotos/m/l058-2.jpg"
    ],
    "claves": [
     "16",
@@ -2311,6 +2540,11 @@
     "fotos/l059-2.jpg",
     "fotos/l059-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l059-1.jpg",
+    "fotos/m/l059-2.jpg",
+    "fotos/m/l059-3.jpg"
+   ],
    "claves": [
     "16"
    ],
@@ -2352,6 +2586,11 @@
     "fotos/l060-2.jpg",
     "fotos/l060-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l060-1.jpg",
+    "fotos/m/l060-2.jpg",
+    "fotos/m/l060-3.jpg"
+   ],
    "claves": [
     "16"
    ],
@@ -2392,6 +2631,11 @@
     "fotos/l061-1.jpg",
     "fotos/l061-2.jpg",
     "fotos/l061-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l061-1.jpg",
+    "fotos/m/l061-2.jpg",
+    "fotos/m/l061-3.jpg"
    ],
    "claves": [
     "15",
@@ -2437,6 +2681,11 @@
     "fotos/l062-2.jpg",
     "fotos/l062-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l062-1.jpg",
+    "fotos/m/l062-2.jpg",
+    "fotos/m/l062-3.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -2476,6 +2725,10 @@
    "fotos": [
     "fotos/l063-1.jpg",
     "fotos/l063-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l063-1.jpg",
+    "fotos/m/l063-2.jpg"
    ],
    "claves": [
     "15"
@@ -2517,6 +2770,11 @@
     "fotos/l064-1.jpg",
     "fotos/l064-2.jpg",
     "fotos/l064-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l064-1.jpg",
+    "fotos/m/l064-2.jpg",
+    "fotos/m/l064-3.jpg"
    ],
    "claves": [
     "16",
@@ -2561,6 +2819,10 @@
     "fotos/l065-1.jpg",
     "fotos/l065-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l065-1.jpg",
+    "fotos/m/l065-2.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -2602,6 +2864,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l066-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l066-1.jpg"
    ],
    "claves": [
     "16",
@@ -2647,6 +2912,11 @@
     "fotos/l067-2.jpg",
     "fotos/l067-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l067-1.jpg",
+    "fotos/m/l067-2.jpg",
+    "fotos/m/l067-3.jpg"
+   ],
    "claves": [
     "15",
     "4108",
@@ -2689,6 +2959,10 @@
    "fotos": [
     "fotos/l068-1.jpg",
     "fotos/l068-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l068-1.jpg",
+    "fotos/m/l068-2.jpg"
    ],
    "claves": [
     "15",
@@ -2734,6 +3008,11 @@
     "fotos/l069-2.jpg",
     "fotos/l069-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l069-1.jpg",
+    "fotos/m/l069-2.jpg",
+    "fotos/m/l069-3.jpg"
+   ],
    "claves": [
     "19"
    ],
@@ -2773,6 +3052,10 @@
    "fotos": [
     "fotos/l070-1.jpg",
     "fotos/l070-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l070-1.jpg",
+    "fotos/m/l070-2.jpg"
    ],
    "claves": [
     "16",
@@ -2817,6 +3100,10 @@
     "fotos/l071-1.jpg",
     "fotos/l071-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l071-1.jpg",
+    "fotos/m/l071-2.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -2856,6 +3143,10 @@
    "fotos": [
     "fotos/l072-1.jpg",
     "fotos/l072-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l072-1.jpg",
+    "fotos/m/l072-2.jpg"
    ],
    "claves": [
     "16"
@@ -2898,6 +3189,11 @@
     "fotos/l073-2.jpg",
     "fotos/l073-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l073-1.jpg",
+    "fotos/m/l073-2.jpg",
+    "fotos/m/l073-3.jpg"
+   ],
    "claves": [
     "15",
     "4108",
@@ -2939,6 +3235,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l074-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l074-1.jpg"
    ],
    "claves": [
     "15",
@@ -2983,6 +3282,10 @@
     "fotos/l075-1.jpg",
     "fotos/l075-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l075-1.jpg",
+    "fotos/m/l075-2.jpg"
+   ],
    "claves": [
     "16"
    ],
@@ -3022,6 +3325,10 @@
    "fotos": [
     "fotos/l076-1.jpg",
     "fotos/l076-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l076-1.jpg",
+    "fotos/m/l076-2.jpg"
    ],
    "claves": [
     "15",
@@ -3066,6 +3373,10 @@
     "fotos/l077-1.jpg",
     "fotos/l077-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l077-1.jpg",
+    "fotos/m/l077-2.jpg"
+   ],
    "claves": [
     "16",
     "4108",
@@ -3109,6 +3420,10 @@
     "fotos/l078-1.jpg",
     "fotos/l078-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l078-1.jpg",
+    "fotos/m/l078-2.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -3148,6 +3463,11 @@
     "fotos/l079-1.jpg",
     "fotos/l079-2.jpg",
     "fotos/l079-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l079-1.jpg",
+    "fotos/m/l079-2.jpg",
+    "fotos/m/l079-3.jpg"
    ],
    "claves": [
     "16",
@@ -3193,6 +3513,11 @@
     "fotos/l080-2.jpg",
     "fotos/l080-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l080-1.jpg",
+    "fotos/m/l080-2.jpg",
+    "fotos/m/l080-3.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -3232,6 +3557,11 @@
     "fotos/l081-1.jpg",
     "fotos/l081-2.jpg",
     "fotos/l081-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l081-1.jpg",
+    "fotos/m/l081-2.jpg",
+    "fotos/m/l081-3.jpg"
    ],
    "claves": [
     "16",
@@ -3276,6 +3606,10 @@
     "fotos/l082-1.jpg",
     "fotos/l082-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l082-1.jpg",
+    "fotos/m/l082-2.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -3315,6 +3649,10 @@
    "fotos": [
     "fotos/l083-1.jpg",
     "fotos/l083-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l083-1.jpg",
+    "fotos/m/l083-2.jpg"
    ],
    "claves": [
     "16"
@@ -3356,6 +3694,11 @@
     "fotos/l084-1.jpg",
     "fotos/l084-2.jpg",
     "fotos/l084-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l084-1.jpg",
+    "fotos/m/l084-2.jpg",
+    "fotos/m/l084-3.jpg"
    ],
    "claves": [
     "16",
@@ -3401,6 +3744,11 @@
     "fotos/l085-2.jpg",
     "fotos/l085-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l085-1.jpg",
+    "fotos/m/l085-2.jpg",
+    "fotos/m/l085-3.jpg"
+   ],
    "claves": [
     "16",
     "5108",
@@ -3444,6 +3792,11 @@
     "fotos/l086-1.jpg",
     "fotos/l086-2.jpg",
     "fotos/l086-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l086-1.jpg",
+    "fotos/m/l086-2.jpg",
+    "fotos/m/l086-3.jpg"
    ],
    "claves": [
     "16",
@@ -3489,6 +3842,11 @@
     "fotos/l087-2.jpg",
     "fotos/l087-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l087-1.jpg",
+    "fotos/m/l087-2.jpg",
+    "fotos/m/l087-3.jpg"
+   ],
    "claves": [
     "17"
    ],
@@ -3526,6 +3884,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l088-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l088-1.jpg"
    ],
    "claves": [
     "16",
@@ -3571,6 +3932,11 @@
     "fotos/l089-2.jpg",
     "fotos/l089-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l089-1.jpg",
+    "fotos/m/l089-2.jpg",
+    "fotos/m/l089-3.jpg"
+   ],
    "claves": [
     "16",
     "5108",
@@ -3614,6 +3980,10 @@
     "fotos/l090-1.jpg",
     "fotos/l090-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l090-1.jpg",
+    "fotos/m/l090-2.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -3655,6 +4025,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l091-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l091-1.jpg"
    ],
    "claves": [
     "14",
@@ -3699,6 +4072,10 @@
     "fotos/l092-1.jpg",
     "fotos/l092-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l092-1.jpg",
+    "fotos/m/l092-2.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -3742,6 +4119,10 @@
     "fotos/l093-1.jpg",
     "fotos/l093-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l093-1.jpg",
+    "fotos/m/l093-2.jpg"
+   ],
    "claves": [
     "14",
     "4100",
@@ -3783,6 +4164,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l094-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l094-1.jpg"
    ],
    "claves": [
     "16",
@@ -3828,6 +4212,11 @@
     "fotos/l095-2.jpg",
     "fotos/l095-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l095-1.jpg",
+    "fotos/m/l095-2.jpg",
+    "fotos/m/l095-3.jpg"
+   ],
    "claves": [
     "14",
     "4100",
@@ -3871,6 +4260,11 @@
     "fotos/l096-1.jpg",
     "fotos/l096-2.jpg",
     "fotos/l096-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l096-1.jpg",
+    "fotos/m/l096-2.jpg",
+    "fotos/m/l096-3.jpg"
    ],
    "claves": [
     "14",
@@ -3917,6 +4311,12 @@
     "fotos/l097-3.jpg",
     "fotos/l097-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l097-1.jpg",
+    "fotos/m/l097-2.jpg",
+    "fotos/m/l097-3.jpg",
+    "fotos/m/l097-4.jpg"
+   ],
    "claves": [
     "14",
     "4100",
@@ -3959,6 +4359,10 @@
    "fotos": [
     "fotos/l098-1.jpg",
     "fotos/l098-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l098-1.jpg",
+    "fotos/m/l098-2.jpg"
    ],
    "claves": [
     "16",
@@ -4004,6 +4408,11 @@
     "fotos/l099-2.jpg",
     "fotos/l099-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l099-1.jpg",
+    "fotos/m/l099-2.jpg",
+    "fotos/m/l099-3.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -4045,6 +4454,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l100-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l100-1.jpg"
    ],
    "claves": [
     "16",
@@ -4090,6 +4502,11 @@
     "fotos/l101-2.jpg",
     "fotos/l101-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l101-1.jpg",
+    "fotos/m/l101-2.jpg",
+    "fotos/m/l101-3.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -4132,6 +4549,9 @@
    "fotos": [
     "fotos/l102-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l102-1.jpg"
+   ],
    "claves": [
     "17"
    ],
@@ -4171,6 +4591,11 @@
     "fotos/l103-1.jpg",
     "fotos/l103-2.jpg",
     "fotos/l103-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l103-1.jpg",
+    "fotos/m/l103-2.jpg",
+    "fotos/m/l103-3.jpg"
    ],
    "claves": [
     "15",
@@ -4215,6 +4640,10 @@
     "fotos/l104-1.jpg",
     "fotos/l104-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l104-1.jpg",
+    "fotos/m/l104-2.jpg"
+   ],
    "claves": [
     "14",
     "498",
@@ -4258,6 +4687,11 @@
     "fotos/l105-1.jpg",
     "fotos/l105-2.jpg",
     "fotos/l105-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l105-1.jpg",
+    "fotos/m/l105-2.jpg",
+    "fotos/m/l105-3.jpg"
    ],
    "claves": [
     "15",
@@ -4305,6 +4739,12 @@
     "fotos/l106-3.jpg",
     "fotos/l106-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l106-1.jpg",
+    "fotos/m/l106-2.jpg",
+    "fotos/m/l106-3.jpg",
+    "fotos/m/l106-4.jpg"
+   ],
    "claves": [
     "14",
     "498",
@@ -4348,6 +4788,11 @@
     "fotos/l107-1.jpg",
     "fotos/l107-2.jpg",
     "fotos/l107-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l107-1.jpg",
+    "fotos/m/l107-2.jpg",
+    "fotos/m/l107-3.jpg"
    ],
    "claves": [
     "16",
@@ -4393,6 +4838,11 @@
     "fotos/l108-2.jpg",
     "fotos/l108-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l108-1.jpg",
+    "fotos/m/l108-2.jpg",
+    "fotos/m/l108-3.jpg"
+   ],
    "claves": [
     "15",
     "498",
@@ -4436,6 +4886,11 @@
     "fotos/l109-1.jpg",
     "fotos/l109-2.jpg",
     "fotos/l109-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l109-1.jpg",
+    "fotos/m/l109-2.jpg",
+    "fotos/m/l109-3.jpg"
    ],
    "claves": [
     "16",
@@ -4481,6 +4936,11 @@
     "fotos/l110-2.jpg",
     "fotos/l110-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l110-1.jpg",
+    "fotos/m/l110-2.jpg",
+    "fotos/m/l110-3.jpg"
+   ],
    "claves": [
     "14",
     "498",
@@ -4524,6 +4984,10 @@
     "fotos/l111-1.jpg",
     "fotos/l111-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l111-1.jpg",
+    "fotos/m/l111-2.jpg"
+   ],
    "claves": [
     "15",
     "498",
@@ -4565,6 +5029,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l112-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l112-1.jpg"
    ],
    "claves": [
     "13",
@@ -4610,6 +5077,11 @@
     "fotos/l113-2.jpg",
     "fotos/l113-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l113-1.jpg",
+    "fotos/m/l113-2.jpg",
+    "fotos/m/l113-3.jpg"
+   ],
    "claves": [
     "15",
     "498",
@@ -4651,6 +5123,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l114-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l114-1.jpg"
    ],
    "claves": [
     "16",
@@ -4696,6 +5171,11 @@
     "fotos/l115-2.jpg",
     "fotos/l115-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l115-1.jpg",
+    "fotos/m/l115-2.jpg",
+    "fotos/m/l115-3.jpg"
+   ],
    "claves": [
     "14",
     "498",
@@ -4740,6 +5220,11 @@
     "fotos/l116-2.jpg",
     "fotos/l116-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l116-1.jpg",
+    "fotos/m/l116-2.jpg",
+    "fotos/m/l116-3.jpg"
+   ],
    "claves": [
     "14",
     "4108",
@@ -4783,6 +5268,10 @@
     "fotos/l117-1.jpg",
     "fotos/l117-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l117-1.jpg",
+    "fotos/m/l117-2.jpg"
+   ],
    "claves": [
     "16",
     "4108",
@@ -4824,6 +5313,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l118-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l118-1.jpg"
    ],
    "claves": [
     "16",
@@ -4868,6 +5360,11 @@
     "fotos/l119-1.jpg",
     "fotos/l119-2.jpg",
     "fotos/l119-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l119-1.jpg",
+    "fotos/m/l119-2.jpg",
+    "fotos/m/l119-3.jpg"
    ],
    "claves": [
     "17",
@@ -4914,6 +5411,12 @@
     "fotos/l120-3.jpg",
     "fotos/l120-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l120-1.jpg",
+    "fotos/m/l120-2.jpg",
+    "fotos/m/l120-3.jpg",
+    "fotos/m/l120-4.jpg"
+   ],
    "claves": [
     "13",
     "4100",
@@ -4957,6 +5460,11 @@
     "fotos/l121-1.jpg",
     "fotos/l121-2.jpg",
     "fotos/l121-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l121-1.jpg",
+    "fotos/m/l121-2.jpg",
+    "fotos/m/l121-3.jpg"
    ],
    "claves": [
     "17",
@@ -5002,6 +5510,11 @@
     "fotos/l122-2.jpg",
     "fotos/l122-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l122-1.jpg",
+    "fotos/m/l122-2.jpg",
+    "fotos/m/l122-3.jpg"
+   ],
    "claves": [
     "17",
     "5114.3",
@@ -5045,6 +5558,11 @@
     "fotos/l123-1.jpg",
     "fotos/l123-2.jpg",
     "fotos/l123-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l123-1.jpg",
+    "fotos/m/l123-2.jpg",
+    "fotos/m/l123-3.jpg"
    ],
    "claves": [
     "16",
@@ -5090,6 +5608,11 @@
     "fotos/l124-2.jpg",
     "fotos/l124-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l124-1.jpg",
+    "fotos/m/l124-2.jpg",
+    "fotos/m/l124-3.jpg"
+   ],
    "claves": [
     "16",
     "4108",
@@ -5132,6 +5655,10 @@
    "fotos": [
     "fotos/l125-1.jpg",
     "fotos/l125-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l125-1.jpg",
+    "fotos/m/l125-2.jpg"
    ],
    "claves": [
     "16",
@@ -5177,6 +5704,11 @@
     "fotos/l126-2.jpg",
     "fotos/l126-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l126-1.jpg",
+    "fotos/m/l126-2.jpg",
+    "fotos/m/l126-3.jpg"
+   ],
    "claves": [
     "16",
     "5114.3",
@@ -5221,6 +5753,11 @@
     "fotos/l127-2.jpg",
     "fotos/l127-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l127-1.jpg",
+    "fotos/m/l127-2.jpg",
+    "fotos/m/l127-3.jpg"
+   ],
    "claves": [
     "16",
     "4108",
@@ -5262,6 +5799,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l128-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l128-1.jpg"
    ],
    "claves": [
     "16",
@@ -5307,6 +5847,11 @@
     "fotos/l129-2.jpg",
     "fotos/l129-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l129-1.jpg",
+    "fotos/m/l129-2.jpg",
+    "fotos/m/l129-3.jpg"
+   ],
    "claves": [
     "15",
     "4108",
@@ -5351,6 +5896,11 @@
     "fotos/l130-2.jpg",
     "fotos/l130-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l130-1.jpg",
+    "fotos/m/l130-2.jpg",
+    "fotos/m/l130-3.jpg"
+   ],
    "claves": [
     "16",
     "5114.3",
@@ -5392,6 +5942,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l131-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l131-1.jpg"
    ],
    "claves": [
     "14",
@@ -5436,6 +5989,10 @@
     "fotos/l132-1.jpg",
     "fotos/l132-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l132-1.jpg",
+    "fotos/m/l132-2.jpg"
+   ],
    "claves": [
     "16",
     "4108",
@@ -5479,6 +6036,10 @@
     "fotos/l133-1.jpg",
     "fotos/l133-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l133-1.jpg",
+    "fotos/m/l133-2.jpg"
+   ],
    "claves": [
     "15",
     "6139.7",
@@ -5520,6 +6081,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l134-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l134-1.jpg"
    ],
    "claves": [
     "17",
@@ -5563,6 +6127,9 @@
    "fotos": [
     "fotos/l135-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l135-1.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -5605,6 +6172,9 @@
    "fotos": [
     "fotos/l136-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l136-1.jpg"
+   ],
    "claves": [
     "16"
    ],
@@ -5642,6 +6212,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l137-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l137-1.jpg"
    ],
    "claves": [
     "17"
@@ -5682,6 +6255,10 @@
    "fotos": [
     "fotos/l138-1.jpg",
     "fotos/l138-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l138-1.jpg",
+    "fotos/m/l138-2.jpg"
    ],
    "claves": [
     "16",
@@ -5725,6 +6302,10 @@
    "fotos": [
     "fotos/l139-1.jpg",
     "fotos/l139-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l139-1.jpg",
+    "fotos/m/l139-2.jpg"
    ],
    "claves": [
     "14",
@@ -5771,6 +6352,12 @@
     "fotos/l140-3.jpg",
     "fotos/l140-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l140-1.jpg",
+    "fotos/m/l140-2.jpg",
+    "fotos/m/l140-3.jpg",
+    "fotos/m/l140-4.jpg"
+   ],
    "claves": [
     "16",
     "5100",
@@ -5814,6 +6401,10 @@
     "fotos/l141-1.jpg",
     "fotos/l141-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l141-1.jpg",
+    "fotos/m/l141-2.jpg"
+   ],
    "claves": [
     "16",
     "498",
@@ -5856,6 +6447,10 @@
    "fotos": [
     "fotos/l142-1.jpg",
     "fotos/l142-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l142-1.jpg",
+    "fotos/m/l142-2.jpg"
    ],
    "claves": [
     "14",
@@ -5901,6 +6496,11 @@
     "fotos/l143-2.jpg",
     "fotos/l143-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l143-1.jpg",
+    "fotos/m/l143-2.jpg",
+    "fotos/m/l143-3.jpg"
+   ],
    "claves": [
     "18",
     "5100",
@@ -5945,6 +6545,11 @@
     "fotos/l144-2.jpg",
     "fotos/l144-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l144-1.jpg",
+    "fotos/m/l144-2.jpg",
+    "fotos/m/l144-3.jpg"
+   ],
    "claves": [
     "17"
    ],
@@ -5984,6 +6589,10 @@
    "fotos": [
     "fotos/l145-1.jpg",
     "fotos/l145-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l145-1.jpg",
+    "fotos/m/l145-2.jpg"
    ],
    "claves": [
     "17",
@@ -6029,6 +6638,11 @@
     "fotos/l146-2.jpg",
     "fotos/l146-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l146-1.jpg",
+    "fotos/m/l146-2.jpg",
+    "fotos/m/l146-3.jpg"
+   ],
    "claves": [
     "16",
     "5114.3",
@@ -6073,6 +6687,11 @@
     "fotos/l147-2.jpg",
     "fotos/l147-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l147-1.jpg",
+    "fotos/m/l147-2.jpg",
+    "fotos/m/l147-3.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -6115,6 +6734,10 @@
    "fotos": [
     "fotos/l148-1.jpg",
     "fotos/l148-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l148-1.jpg",
+    "fotos/m/l148-2.jpg"
    ],
    "claves": [
     "15",
@@ -6160,6 +6783,11 @@
     "fotos/l149-2.jpg",
     "fotos/l149-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l149-1.jpg",
+    "fotos/m/l149-2.jpg",
+    "fotos/m/l149-3.jpg"
+   ],
    "claves": [
     "17"
    ],
@@ -6200,6 +6828,10 @@
     "fotos/l150-1.jpg",
     "fotos/l150-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l150-1.jpg",
+    "fotos/m/l150-2.jpg"
+   ],
    "claves": [
     "17"
    ],
@@ -6238,6 +6870,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l151-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l151-1.jpg"
    ],
    "claves": [
     "17"
@@ -6278,6 +6913,10 @@
    "fotos": [
     "fotos/l152-1.jpg",
     "fotos/l152-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l152-1.jpg",
+    "fotos/m/l152-2.jpg"
    ],
    "claves": [
     "14",
@@ -6322,6 +6961,10 @@
     "fotos/l153-1.jpg",
     "fotos/l153-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l153-1.jpg",
+    "fotos/m/l153-2.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -6363,6 +7006,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l154-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l154-1.jpg"
    ],
    "claves": [
     "14",
@@ -6406,6 +7052,9 @@
    "fotos": [
     "fotos/l155-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l155-1.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -6444,6 +7093,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l156-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l156-1.jpg"
    ],
    "claves": [
     "15"
@@ -6486,6 +7138,11 @@
     "fotos/l157-2.jpg",
     "fotos/l157-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l157-1.jpg",
+    "fotos/m/l157-2.jpg",
+    "fotos/m/l157-3.jpg"
+   ],
    "claves": [
     "14",
     "4100",
@@ -6527,6 +7184,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l158-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l158-1.jpg"
    ],
    "claves": [
     "16",
@@ -6571,6 +7231,10 @@
     "fotos/l159-1.jpg",
     "fotos/l159-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l159-1.jpg",
+    "fotos/m/l159-2.jpg"
+   ],
    "claves": [
     "13",
     "4100",
@@ -6613,6 +7277,9 @@
    "fotos": [
     "fotos/l160-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l160-1.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -6654,6 +7321,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l161-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l161-1.jpg"
    ],
    "claves": [
     "14",
@@ -6698,6 +7368,10 @@
     "fotos/l162-1.jpg",
     "fotos/l162-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l162-1.jpg",
+    "fotos/m/l162-2.jpg"
+   ],
    "claves": [
     "14",
     "4100",
@@ -6739,6 +7413,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l163-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l163-1.jpg"
    ],
    "claves": [
     "16",
@@ -6782,6 +7459,9 @@
    "fotos": [
     "fotos/l164-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l164-1.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -6820,6 +7500,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l165-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l165-1.jpg"
    ],
    "claves": [
     "15",
@@ -6863,6 +7546,9 @@
    "fotos": [
     "fotos/l166-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l166-1.jpg"
+   ],
    "claves": [
     "15",
     "4108",
@@ -6904,6 +7590,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l167-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l167-1.jpg"
    ],
    "claves": [
     "15",
@@ -6948,6 +7637,10 @@
     "fotos/l168-1.jpg",
     "fotos/l168-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l168-1.jpg",
+    "fotos/m/l168-2.jpg"
+   ],
    "claves": [
     "16"
    ],
@@ -6986,6 +7679,10 @@
    "fotos": [
     "fotos/l169-1.jpg",
     "fotos/l169-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l169-1.jpg",
+    "fotos/m/l169-2.jpg"
    ],
    "claves": [
     "16",
@@ -7029,6 +7726,10 @@
    "fotos": [
     "fotos/l170-1.jpg",
     "fotos/l170-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l170-1.jpg",
+    "fotos/m/l170-2.jpg"
    ],
    "claves": [
     "15",
@@ -7074,6 +7775,11 @@
     "fotos/l171-2.jpg",
     "fotos/l171-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l171-1.jpg",
+    "fotos/m/l171-2.jpg",
+    "fotos/m/l171-3.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -7115,6 +7821,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l172-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l172-1.jpg"
    ],
    "claves": [
     "16",
@@ -7158,6 +7867,9 @@
    "fotos": [
     "fotos/l173-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l173-1.jpg"
+   ],
    "claves": [
     "17"
    ],
@@ -7195,6 +7907,10 @@
    "fotos": [
     "fotos/l174-1.jpg",
     "fotos/l174-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l174-1.jpg",
+    "fotos/m/l174-2.jpg"
    ],
    "claves": [
     "15"
@@ -7236,6 +7952,11 @@
     "fotos/l175-2.jpg",
     "fotos/l175-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l175-1.jpg",
+    "fotos/m/l175-2.jpg",
+    "fotos/m/l175-3.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -7275,6 +7996,10 @@
     "fotos/l176-1.jpg",
     "fotos/l176-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l176-1.jpg",
+    "fotos/m/l176-2.jpg"
+   ],
    "claves": [
     "14"
    ],
@@ -7313,6 +8038,10 @@
    "fotos": [
     "fotos/l177-1.jpg",
     "fotos/l177-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l177-1.jpg",
+    "fotos/m/l177-2.jpg"
    ],
    "claves": [
     "15",
@@ -7356,6 +8085,9 @@
    "fotos": [
     "fotos/l178-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l178-1.jpg"
+   ],
    "claves": [
     "16",
     "4108",
@@ -7397,6 +8129,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l179-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l179-1.jpg"
    ],
    "claves": [
     "14",
@@ -7441,6 +8176,10 @@
     "fotos/l180-1.jpg",
     "fotos/l180-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l180-1.jpg",
+    "fotos/m/l180-2.jpg"
+   ],
    "claves": [
     "15",
     "4108",
@@ -7483,6 +8222,9 @@
    "fotos": [
     "fotos/l181-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l181-1.jpg"
+   ],
    "claves": [
     "15",
     "4108",
@@ -7524,6 +8266,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l182-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l182-1.jpg"
    ],
    "claves": [
     "15",
@@ -7569,6 +8314,11 @@
     "fotos/l183-2.jpg",
     "fotos/l183-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l183-1.jpg",
+    "fotos/m/l183-2.jpg",
+    "fotos/m/l183-3.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -7610,6 +8360,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l184-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l184-1.jpg"
    ],
    "claves": [
     "15",
@@ -7653,6 +8406,9 @@
    "fotos": [
     "fotos/l185-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l185-1.jpg"
+   ],
    "claves": [
     "17",
     "4108",
@@ -7694,6 +8450,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l186-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l186-1.jpg"
    ],
    "claves": [
     "17",
@@ -7737,6 +8496,10 @@
    "fotos": [
     "fotos/l187-1.jpg",
     "fotos/l187-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l187-1.jpg",
+    "fotos/m/l187-2.jpg"
    ],
    "claves": [
     "14",
@@ -7782,6 +8545,11 @@
     "fotos/l188-2.jpg",
     "fotos/l188-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l188-1.jpg",
+    "fotos/m/l188-2.jpg",
+    "fotos/m/l188-3.jpg"
+   ],
    "claves": [
     "14",
     "4100",
@@ -7823,6 +8591,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l189-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l189-1.jpg"
    ],
    "claves": [
     "14",
@@ -7868,6 +8639,11 @@
     "fotos/l190-2.jpg",
     "fotos/l190-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l190-1.jpg",
+    "fotos/m/l190-2.jpg",
+    "fotos/m/l190-3.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -7909,6 +8685,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l191-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l191-1.jpg"
    ],
    "claves": [
     "14",
@@ -7952,6 +8731,9 @@
    "fotos": [
     "fotos/l192-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l192-1.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -7989,6 +8771,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l193-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l193-1.jpg"
    ],
    "claves": [
     "18"
@@ -8028,6 +8813,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l194-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l194-1.jpg"
    ],
    "claves": [
     "14",
@@ -8072,6 +8860,10 @@
     "fotos/l195-1.jpg",
     "fotos/l195-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l195-1.jpg",
+    "fotos/m/l195-2.jpg"
+   ],
    "claves": [
     "14",
     "498",
@@ -8114,6 +8906,9 @@
    "fotos": [
     "fotos/l196-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l196-1.jpg"
+   ],
    "claves": [
     "14"
    ],
@@ -8151,6 +8946,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l197-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l197-1.jpg"
    ],
    "claves": [
     "15"
@@ -8191,6 +8989,11 @@
     "fotos/l198-1.jpg",
     "fotos/l198-2.jpg",
     "fotos/l198-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l198-1.jpg",
+    "fotos/m/l198-2.jpg",
+    "fotos/m/l198-3.jpg"
    ],
    "claves": [
     "14",
@@ -8233,6 +9036,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l199-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l199-1.jpg"
    ],
    "claves": [
     "15",
@@ -8277,6 +9083,10 @@
     "fotos/l200-1.jpg",
     "fotos/l200-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l200-1.jpg",
+    "fotos/m/l200-2.jpg"
+   ],
    "claves": [
     "16",
     "498",
@@ -8318,6 +9128,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l201-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l201-1.jpg"
    ],
    "claves": [
     "17",
@@ -8362,6 +9175,10 @@
     "fotos/l202-1.jpg",
     "fotos/l202-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l202-1.jpg",
+    "fotos/m/l202-2.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -8404,6 +9221,10 @@
    "fotos": [
     "fotos/l203-1.jpg",
     "fotos/l203-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l203-1.jpg",
+    "fotos/m/l203-2.jpg"
    ],
    "claves": [
     "14",
@@ -8449,6 +9270,11 @@
     "fotos/l204-2.jpg",
     "fotos/l204-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l204-1.jpg",
+    "fotos/m/l204-2.jpg",
+    "fotos/m/l204-3.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -8491,6 +9317,10 @@
    "fotos": [
     "fotos/l205-1.jpg",
     "fotos/l205-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l205-1.jpg",
+    "fotos/m/l205-2.jpg"
    ],
    "claves": [
     "16",
@@ -8536,6 +9366,11 @@
     "fotos/l206-2.jpg",
     "fotos/l206-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l206-1.jpg",
+    "fotos/m/l206-2.jpg",
+    "fotos/m/l206-3.jpg"
+   ],
    "claves": [
     "13",
     "4108",
@@ -8577,6 +9412,9 @@
    "fotos": [
     "fotos/l207-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l207-1.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -8614,6 +9452,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l208-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l208-1.jpg"
    ],
    "claves": [
     "13"
@@ -8653,6 +9494,9 @@
    "fotos": [
     "fotos/l209-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l209-1.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -8689,6 +9533,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l210-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l210-1.jpg"
    ],
    "claves": [
     "16"
@@ -8729,6 +9576,11 @@
     "fotos/l211-2.jpg",
     "fotos/l211-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l211-1.jpg",
+    "fotos/m/l211-2.jpg",
+    "fotos/m/l211-3.jpg"
+   ],
    "claves": [
     "15"
    ],
@@ -8768,6 +9620,10 @@
     "fotos/l212-1.jpg",
     "fotos/l212-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l212-1.jpg",
+    "fotos/m/l212-2.jpg"
+   ],
    "claves": [
     "14"
    ],
@@ -8804,6 +9660,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l213-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l213-1.jpg"
    ],
    "claves": [
     "14"
@@ -8843,6 +9702,9 @@
    "fotos": [
     "fotos/l214-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l214-1.jpg"
+   ],
    "claves": [
     "14"
    ],
@@ -8881,6 +9743,9 @@
    "fotos": [
     "fotos/l215-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l215-1.jpg"
+   ],
    "claves": [
     "14"
    ],
@@ -8918,6 +9783,10 @@
    "fotos": [
     "fotos/l216-1.jpg",
     "fotos/l216-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l216-1.jpg",
+    "fotos/m/l216-2.jpg"
    ],
    "claves": [
     "14"
@@ -8959,6 +9828,11 @@
     "fotos/l217-1.jpg",
     "fotos/l217-2.jpg",
     "fotos/l217-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l217-1.jpg",
+    "fotos/m/l217-2.jpg",
+    "fotos/m/l217-3.jpg"
    ],
    "claves": [
     "15",
@@ -9004,6 +9878,11 @@
     "fotos/l218-2.jpg",
     "fotos/l218-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l218-1.jpg",
+    "fotos/m/l218-2.jpg",
+    "fotos/m/l218-3.jpg"
+   ],
    "claves": [
     "16",
     "5114.3",
@@ -9048,6 +9927,11 @@
     "fotos/l219-2.jpg",
     "fotos/l219-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l219-1.jpg",
+    "fotos/m/l219-2.jpg",
+    "fotos/m/l219-3.jpg"
+   ],
    "claves": [
     "16",
     "4108",
@@ -9091,6 +9975,11 @@
     "fotos/l220-1.jpg",
     "fotos/l220-2.jpg",
     "fotos/l220-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l220-1.jpg",
+    "fotos/m/l220-2.jpg",
+    "fotos/m/l220-3.jpg"
    ],
    "claves": [
     "17",
@@ -9139,6 +10028,11 @@
     "fotos/r058-1.jpg",
     "fotos/r058-2.jpg",
     "fotos/r058-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r058-1.jpg",
+    "fotos/m/r058-2.jpg",
+    "fotos/m/r058-3.jpg"
    ],
    "claves": [
     "2656517",
@@ -9190,6 +10084,9 @@
    "fotos": [
     "fotos/l007-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l007-1.jpg"
+   ],
    "claves": [
     "16",
     "4108",
@@ -9237,6 +10134,11 @@
     "fotos/r059-1.jpg",
     "fotos/r059-2.jpg",
     "fotos/r059-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r059-1.jpg",
+    "fotos/m/r059-2.jpg",
+    "fotos/m/r059-3.jpg"
    ],
    "claves": [
     "1756514",
@@ -9294,6 +10196,13 @@
     "fotos/r060-4.jpg",
     "fotos/r060-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r060-1.jpg",
+    "fotos/m/r060-2.jpg",
+    "fotos/m/r060-3.jpg",
+    "fotos/m/r060-4.jpg",
+    "fotos/m/r060-5.jpg"
+   ],
    "claves": [
     "2356517",
     "5114.3",
@@ -9350,6 +10259,11 @@
     "fotos/r061-2.jpg",
     "fotos/r061-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r061-1.jpg",
+    "fotos/m/r061-2.jpg",
+    "fotos/m/r061-3.jpg"
+   ],
    "claves": [
     "1956515"
    ],
@@ -9400,6 +10314,11 @@
     "fotos/r062-1.jpg",
     "fotos/r062-2.jpg",
     "fotos/r062-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r062-1.jpg",
+    "fotos/m/r062-2.jpg",
+    "fotos/m/r062-3.jpg"
    ],
    "claves": [
     "2056016",
@@ -9455,6 +10374,12 @@
     "fotos/r063-2.jpg",
     "fotos/r063-3.jpg",
     "fotos/r063-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r063-1.jpg",
+    "fotos/m/r063-2.jpg",
+    "fotos/m/r063-3.jpg",
+    "fotos/m/r063-4.jpg"
    ],
    "claves": [
     "2254517",
@@ -9513,6 +10438,15 @@
     "fotos/r064-6.jpg",
     "fotos/r064-7.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r064-1.jpg",
+    "fotos/m/r064-2.jpg",
+    "fotos/m/r064-3.jpg",
+    "fotos/m/r064-4.jpg",
+    "fotos/m/r064-5.jpg",
+    "fotos/m/r064-6.jpg",
+    "fotos/m/r064-7.jpg"
+   ],
    "claves": [
     "2055516",
     "4100",
@@ -9568,6 +10502,12 @@
     "fotos/r065-3.jpg",
     "fotos/r065-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r065-1.jpg",
+    "fotos/m/r065-2.jpg",
+    "fotos/m/r065-3.jpg",
+    "fotos/m/r065-4.jpg"
+   ],
    "claves": [
     "2055516",
     "4108",
@@ -9622,6 +10562,12 @@
     "fotos/r066-3.jpg",
     "fotos/r066-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r066-1.jpg",
+    "fotos/m/r066-2.jpg",
+    "fotos/m/r066-3.jpg",
+    "fotos/m/r066-4.jpg"
+   ],
    "claves": [
     "1956515"
    ],
@@ -9673,6 +10619,12 @@
     "fotos/r067-2.jpg",
     "fotos/r067-3.jpg",
     "fotos/r067-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r067-1.jpg",
+    "fotos/m/r067-2.jpg",
+    "fotos/m/r067-3.jpg",
+    "fotos/m/r067-4.jpg"
    ],
    "claves": [
     "2056016",
@@ -9726,6 +10678,11 @@
     "fotos/r068-1.jpg",
     "fotos/r068-2.jpg",
     "fotos/r068-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r068-1.jpg",
+    "fotos/m/r068-2.jpg",
+    "fotos/m/r068-3.jpg"
    ],
    "claves": [
     "1856514",
@@ -9781,6 +10738,11 @@
     "fotos/r069-2.jpg",
     "fotos/r069-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r069-1.jpg",
+    "fotos/m/r069-2.jpg",
+    "fotos/m/r069-3.jpg"
+   ],
    "claves": [
     "2056515",
     "498",
@@ -9835,6 +10797,12 @@
     "fotos/r070-3.jpg",
     "fotos/r070-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r070-1.jpg",
+    "fotos/m/r070-2.jpg",
+    "fotos/m/r070-3.jpg",
+    "fotos/m/r070-4.jpg"
+   ],
    "claves": [
     "2155017",
     "5105",
@@ -9886,6 +10854,11 @@
     "fotos/r071-1.jpg",
     "fotos/r071-2.jpg",
     "fotos/r071-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r071-1.jpg",
+    "fotos/m/r071-2.jpg",
+    "fotos/m/r071-3.jpg"
    ],
    "claves": [
     "1856515",
@@ -9943,6 +10916,14 @@
     "fotos/r072-5.jpg",
     "fotos/r072-6.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r072-1.jpg",
+    "fotos/m/r072-2.jpg",
+    "fotos/m/r072-3.jpg",
+    "fotos/m/r072-4.jpg",
+    "fotos/m/r072-5.jpg",
+    "fotos/m/r072-6.jpg"
+   ],
    "claves": [
     "1856514",
     "4108",
@@ -9999,6 +10980,12 @@
     "fotos/r073-3.jpg",
     "fotos/r073-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r073-1.jpg",
+    "fotos/m/r073-2.jpg",
+    "fotos/m/r073-3.jpg",
+    "fotos/m/r073-4.jpg"
+   ],
    "claves": [
     "2057016",
     "5105",
@@ -10053,6 +11040,12 @@
     "fotos/l008-3.jpg",
     "fotos/l008-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l008-1.jpg",
+    "fotos/m/l008-2.jpg",
+    "fotos/m/l008-3.jpg",
+    "fotos/m/l008-4.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -10101,6 +11094,12 @@
     "fotos/r074-2.jpg",
     "fotos/r074-3.jpg",
     "fotos/r074-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r074-1.jpg",
+    "fotos/m/r074-2.jpg",
+    "fotos/m/r074-3.jpg",
+    "fotos/m/r074-4.jpg"
    ],
    "claves": [
     "2056016",
@@ -10154,6 +11153,10 @@
     "fotos/l009-1.jpg",
     "fotos/l009-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l009-1.jpg",
+    "fotos/m/l009-2.jpg"
+   ],
    "claves": [
     "14"
    ],
@@ -10197,6 +11200,12 @@
     "fotos/r075-2.jpg",
     "fotos/r075-3.jpg",
     "fotos/r075-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r075-1.jpg",
+    "fotos/m/r075-2.jpg",
+    "fotos/m/r075-3.jpg",
+    "fotos/m/r075-4.jpg"
    ],
    "claves": [
     "1856514"
@@ -10247,6 +11256,12 @@
     "fotos/r076-2.jpg",
     "fotos/r076-3.jpg",
     "fotos/r076-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r076-1.jpg",
+    "fotos/m/r076-2.jpg",
+    "fotos/m/r076-3.jpg",
+    "fotos/m/r076-4.jpg"
    ],
    "claves": [
     "1856514",
@@ -10299,6 +11314,11 @@
     "fotos/r077-1.jpg",
     "fotos/r077-2.jpg",
     "fotos/r077-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r077-1.jpg",
+    "fotos/m/r077-2.jpg",
+    "fotos/m/r077-3.jpg"
    ],
    "claves": [
     "1756514",
@@ -10354,6 +11374,12 @@
     "fotos/r078-3.jpg",
     "fotos/r078-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r078-1.jpg",
+    "fotos/m/r078-2.jpg",
+    "fotos/m/r078-3.jpg",
+    "fotos/m/r078-4.jpg"
+   ],
    "claves": [
     "1856015"
    ],
@@ -10403,6 +11429,11 @@
     "fotos/r079-1.jpg",
     "fotos/r079-2.jpg",
     "fotos/r079-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r079-1.jpg",
+    "fotos/m/r079-2.jpg",
+    "fotos/m/r079-3.jpg"
    ],
    "claves": [
     "1856514",
@@ -10455,6 +11486,10 @@
    "fotos": [
     "fotos/r080-1.jpg",
     "fotos/r080-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r080-1.jpg",
+    "fotos/m/r080-2.jpg"
    ],
    "claves": [
     "2557015",
@@ -10510,6 +11545,12 @@
     "fotos/r081-3.jpg",
     "fotos/r081-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r081-1.jpg",
+    "fotos/m/r081-2.jpg",
+    "fotos/m/r081-3.jpg",
+    "fotos/m/r081-4.jpg"
+   ],
    "claves": [
     "2156516",
     "5114.3",
@@ -10562,6 +11603,10 @@
     "fotos/r082-1.jpg",
     "fotos/r082-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r082-1.jpg",
+    "fotos/m/r082-2.jpg"
+   ],
    "claves": [
     "3110.515"
    ],
@@ -10610,6 +11655,11 @@
     "fotos/r083-1.jpg",
     "fotos/r083-2.jpg",
     "fotos/r083-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r083-1.jpg",
+    "fotos/m/r083-2.jpg",
+    "fotos/m/r083-3.jpg"
    ],
    "claves": [
     "1756514",
@@ -10663,6 +11713,11 @@
     "fotos/r084-2.jpg",
     "fotos/r084-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r084-1.jpg",
+    "fotos/m/r084-2.jpg",
+    "fotos/m/r084-3.jpg"
+   ],
    "claves": [
     "1856015",
     "498",
@@ -10715,6 +11770,11 @@
     "fotos/r085-2.jpg",
     "fotos/r085-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r085-1.jpg",
+    "fotos/m/r085-2.jpg",
+    "fotos/m/r085-3.jpg"
+   ],
    "claves": [
     "1856015",
     "4100",
@@ -10762,6 +11822,11 @@
     "fotos/c041-2.jpg",
     "fotos/c041-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c041-1.jpg",
+    "fotos/m/c041-2.jpg",
+    "fotos/m/c041-3.jpg"
+   ],
    "claves": [
     "2155017"
    ],
@@ -10803,6 +11868,13 @@
     "fotos/c042-4.jpg",
     "fotos/c042-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c042-1.jpg",
+    "fotos/m/c042-2.jpg",
+    "fotos/m/c042-3.jpg",
+    "fotos/m/c042-4.jpg",
+    "fotos/m/c042-5.jpg"
+   ],
    "claves": [
     "1855516"
    ],
@@ -10842,6 +11914,11 @@
     "fotos/c043-2.jpg",
     "fotos/c043-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c043-1.jpg",
+    "fotos/m/c043-2.jpg",
+    "fotos/m/c043-3.jpg"
+   ],
    "claves": [
     "1955016"
    ],
@@ -10879,6 +11956,10 @@
    "fotos": [
     "fotos/c044-1.jpg",
     "fotos/c044-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c044-1.jpg",
+    "fotos/m/c044-2.jpg"
    ],
    "claves": [
     "1856015"
@@ -10921,6 +12002,13 @@
     "fotos/c045-4.jpg",
     "fotos/c045-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c045-1.jpg",
+    "fotos/m/c045-2.jpg",
+    "fotos/m/c045-3.jpg",
+    "fotos/m/c045-4.jpg",
+    "fotos/m/c045-5.jpg"
+   ],
    "claves": [
     "1856515"
    ],
@@ -10960,6 +12048,11 @@
     "fotos/c046-2.jpg",
     "fotos/c046-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c046-1.jpg",
+    "fotos/m/c046-2.jpg",
+    "fotos/m/c046-3.jpg"
+   ],
    "claves": [
     "2055516"
    ],
@@ -10998,6 +12091,10 @@
     "fotos/c047-1.jpg",
     "fotos/c047-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c047-1.jpg",
+    "fotos/m/c047-2.jpg"
+   ],
    "claves": [
     "1856515"
    ],
@@ -11035,6 +12132,10 @@
    "fotos": [
     "fotos/c048-1.jpg",
     "fotos/c048-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c048-1.jpg",
+    "fotos/m/c048-2.jpg"
    ],
    "claves": [
     "2055516"
@@ -11075,6 +12176,11 @@
     "fotos/c049-2.jpg",
     "fotos/c049-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c049-1.jpg",
+    "fotos/m/c049-2.jpg",
+    "fotos/m/c049-3.jpg"
+   ],
    "claves": [
     "1856515"
    ],
@@ -11112,6 +12218,10 @@
    "fotos": [
     "fotos/c050-1.jpg",
     "fotos/c050-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c050-1.jpg",
+    "fotos/m/c050-2.jpg"
    ],
    "claves": [
     "1856515"
@@ -11152,6 +12262,11 @@
     "fotos/c051-2.jpg",
     "fotos/c051-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c051-1.jpg",
+    "fotos/m/c051-2.jpg",
+    "fotos/m/c051-3.jpg"
+   ],
    "claves": [
     "2055516"
    ],
@@ -11190,6 +12305,11 @@
     "fotos/c052-1.jpg",
     "fotos/c052-2.jpg",
     "fotos/c052-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c052-1.jpg",
+    "fotos/m/c052-2.jpg",
+    "fotos/m/c052-3.jpg"
    ],
    "claves": [
     "1856515"
@@ -11230,6 +12350,11 @@
     "fotos/c053-2.jpg",
     "fotos/c053-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c053-1.jpg",
+    "fotos/m/c053-2.jpg",
+    "fotos/m/c053-3.jpg"
+   ],
    "claves": [
     "2055516"
    ],
@@ -11269,6 +12394,11 @@
     "fotos/c054-2.jpg",
     "fotos/c054-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c054-1.jpg",
+    "fotos/m/c054-2.jpg",
+    "fotos/m/c054-3.jpg"
+   ],
    "claves": [
     "1956015"
    ],
@@ -11307,6 +12437,10 @@
     "fotos/c055-1.jpg",
     "fotos/c055-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c055-1.jpg",
+    "fotos/m/c055-2.jpg"
+   ],
    "claves": [
     "1756514"
    ],
@@ -11344,6 +12478,10 @@
    "fotos": [
     "fotos/c056-1.jpg",
     "fotos/c056-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c056-1.jpg",
+    "fotos/m/c056-2.jpg"
    ],
    "claves": [
     "1955516"
@@ -11384,6 +12522,11 @@
     "fotos/c057-2.jpg",
     "fotos/c057-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c057-1.jpg",
+    "fotos/m/c057-2.jpg",
+    "fotos/m/c057-3.jpg"
+   ],
    "claves": [
     "1756514"
    ],
@@ -11422,6 +12565,11 @@
     "fotos/c058-1.jpg",
     "fotos/c058-2.jpg",
     "fotos/c058-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c058-1.jpg",
+    "fotos/m/c058-2.jpg",
+    "fotos/m/c058-3.jpg"
    ],
    "claves": [
     "1757014"
@@ -11465,6 +12613,14 @@
     "fotos/c059-5.jpg",
     "fotos/c059-6.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c059-1.jpg",
+    "fotos/m/c059-2.jpg",
+    "fotos/m/c059-3.jpg",
+    "fotos/m/c059-4.jpg",
+    "fotos/m/c059-5.jpg",
+    "fotos/m/c059-6.jpg"
+   ],
    "claves": [
     "1857014"
    ],
@@ -11502,6 +12658,10 @@
    "fotos": [
     "fotos/c060-1.jpg",
     "fotos/c060-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c060-1.jpg",
+    "fotos/m/c060-2.jpg"
    ],
    "claves": [
     "1856014"
@@ -11541,6 +12701,10 @@
     "fotos/c061-1.jpg",
     "fotos/c061-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c061-1.jpg",
+    "fotos/m/c061-2.jpg"
+   ],
    "claves": [
     "1657014"
    ],
@@ -11578,6 +12742,10 @@
    "fotos": [
     "fotos/c062-1.jpg",
     "fotos/c062-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c062-1.jpg",
+    "fotos/m/c062-2.jpg"
    ],
    "claves": [
     "1757013"
@@ -11624,6 +12792,11 @@
     "fotos/r086-1.jpg",
     "fotos/r086-2.jpg",
     "fotos/r086-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r086-1.jpg",
+    "fotos/m/r086-2.jpg",
+    "fotos/m/r086-3.jpg"
    ],
    "claves": [
     "2557015",
@@ -11676,6 +12849,10 @@
     "fotos/r088-1.jpg",
     "fotos/r088-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r088-1.jpg",
+    "fotos/m/r088-2.jpg"
+   ],
    "claves": [
     "1756514",
     "4108",
@@ -11726,6 +12903,10 @@
    "fotos": [
     "fotos/r089-1.jpg",
     "fotos/r089-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r089-1.jpg",
+    "fotos/m/r089-2.jpg"
    ],
    "claves": [
     "1856015",
@@ -11779,6 +12960,11 @@
     "fotos/r090-2.jpg",
     "fotos/r090-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r090-1.jpg",
+    "fotos/m/r090-2.jpg",
+    "fotos/m/r090-3.jpg"
+   ],
    "claves": [
     "1756514",
     "4108",
@@ -11830,6 +13016,11 @@
     "fotos/r091-1.jpg",
     "fotos/r091-2.jpg",
     "fotos/r091-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r091-1.jpg",
+    "fotos/m/r091-2.jpg",
+    "fotos/m/r091-3.jpg"
    ],
    "claves": [
     "1756514",
@@ -11884,6 +13075,13 @@
     "fotos/r092-4.jpg",
     "fotos/r092-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r092-1.jpg",
+    "fotos/m/r092-2.jpg",
+    "fotos/m/r092-3.jpg",
+    "fotos/m/r092-4.jpg",
+    "fotos/m/r092-5.jpg"
+   ],
    "claves": [
     "1856514"
    ],
@@ -11931,6 +13129,10 @@
    "fotos": [
     "fotos/r093-1.jpg",
     "fotos/r093-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r093-1.jpg",
+    "fotos/m/r093-2.jpg"
    ],
    "claves": [
     "1856515",
@@ -11984,6 +13186,11 @@
     "fotos/r094-2.jpg",
     "fotos/r094-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r094-1.jpg",
+    "fotos/m/r094-2.jpg",
+    "fotos/m/r094-3.jpg"
+   ],
    "claves": [
     "2055516",
     "5114.3",
@@ -12034,6 +13241,10 @@
    "fotos": [
     "fotos/r095-1.jpg",
     "fotos/r095-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r095-1.jpg",
+    "fotos/m/r095-2.jpg"
    ],
    "claves": [
     "1856014",
@@ -12087,6 +13298,11 @@
     "fotos/r096-2.jpg",
     "fotos/r096-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r096-1.jpg",
+    "fotos/m/r096-2.jpg",
+    "fotos/m/r096-3.jpg"
+   ],
    "claves": [
     "1756514",
     "4100",
@@ -12139,6 +13355,11 @@
     "fotos/r099-2.jpg",
     "fotos/r099-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r099-1.jpg",
+    "fotos/m/r099-2.jpg",
+    "fotos/m/r099-3.jpg"
+   ],
    "claves": [
     "1856515",
     "4108",
@@ -12189,6 +13410,10 @@
    "fotos": [
     "fotos/r100-1.jpg",
     "fotos/r100-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r100-1.jpg",
+    "fotos/m/r100-2.jpg"
    ],
    "claves": [
     "1856515",
@@ -12243,6 +13468,11 @@
     "fotos/r101-2.jpg",
     "fotos/r101-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r101-1.jpg",
+    "fotos/m/r101-2.jpg",
+    "fotos/m/r101-3.jpg"
+   ],
    "claves": [
     "1856015",
     "4108",
@@ -12294,6 +13524,11 @@
     "fotos/r102-1.jpg",
     "fotos/r102-2.jpg",
     "fotos/r102-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r102-1.jpg",
+    "fotos/m/r102-2.jpg",
+    "fotos/m/r102-3.jpg"
    ],
    "claves": [
     "1957014",
@@ -12347,6 +13582,11 @@
     "fotos/r103-2.jpg",
     "fotos/r103-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r103-1.jpg",
+    "fotos/m/r103-2.jpg",
+    "fotos/m/r103-3.jpg"
+   ],
    "claves": [
     "1756515",
     "4100",
@@ -12398,6 +13638,11 @@
     "fotos/r104-1.jpg",
     "fotos/r104-2.jpg",
     "fotos/r104-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r104-1.jpg",
+    "fotos/m/r104-2.jpg",
+    "fotos/m/r104-3.jpg"
    ],
    "claves": [
     "1756515",
@@ -12451,6 +13696,11 @@
     "fotos/r105-2.jpg",
     "fotos/r105-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r105-1.jpg",
+    "fotos/m/r105-2.jpg",
+    "fotos/m/r105-3.jpg"
+   ],
    "claves": [
     "1956015",
     "4108",
@@ -12503,6 +13753,11 @@
     "fotos/r106-2.jpg",
     "fotos/r106-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r106-1.jpg",
+    "fotos/m/r106-2.jpg",
+    "fotos/m/r106-3.jpg"
+   ],
    "claves": [
     "1956515",
     "4100",
@@ -12554,6 +13809,11 @@
     "fotos/r107-1.jpg",
     "fotos/r107-2.jpg",
     "fotos/r107-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r107-1.jpg",
+    "fotos/m/r107-2.jpg",
+    "fotos/m/r107-3.jpg"
    ],
    "claves": [
     "1955515",
@@ -12608,6 +13868,11 @@
     "fotos/r108-2.jpg",
     "fotos/r108-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r108-1.jpg",
+    "fotos/m/r108-2.jpg",
+    "fotos/m/r108-3.jpg"
+   ],
    "claves": [
     "1856515",
     "4100",
@@ -12659,6 +13924,11 @@
     "fotos/r109-1.jpg",
     "fotos/r109-2.jpg",
     "fotos/r109-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r109-1.jpg",
+    "fotos/m/r109-2.jpg",
+    "fotos/m/r109-3.jpg"
    ],
    "claves": [
     "1955515",
@@ -12712,6 +13982,11 @@
     "fotos/r110-2.jpg",
     "fotos/r110-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r110-1.jpg",
+    "fotos/m/r110-2.jpg",
+    "fotos/m/r110-3.jpg"
+   ],
    "claves": [
     "1955516",
     "4100",
@@ -12763,6 +14038,11 @@
     "fotos/r111-1.jpg",
     "fotos/r111-2.jpg",
     "fotos/r111-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r111-1.jpg",
+    "fotos/m/r111-2.jpg",
+    "fotos/m/r111-3.jpg"
    ],
    "claves": [
     "1856514",
@@ -12816,6 +14096,11 @@
     "fotos/r112-2.jpg",
     "fotos/r112-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r112-1.jpg",
+    "fotos/m/r112-2.jpg",
+    "fotos/m/r112-3.jpg"
+   ],
    "claves": [
     "1956015",
     "4108",
@@ -12868,6 +14153,11 @@
     "fotos/r113-2.jpg",
     "fotos/r113-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r113-1.jpg",
+    "fotos/m/r113-2.jpg",
+    "fotos/m/r113-3.jpg"
+   ],
    "claves": [
     "1856015",
     "4108",
@@ -12919,6 +14209,11 @@
     "fotos/r114-2.jpg",
     "fotos/r114-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r114-1.jpg",
+    "fotos/m/r114-2.jpg",
+    "fotos/m/r114-3.jpg"
+   ],
    "claves": [
     "2056016"
    ],
@@ -12967,6 +14262,11 @@
     "fotos/r115-1.jpg",
     "fotos/r115-2.jpg",
     "fotos/r115-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r115-1.jpg",
+    "fotos/m/r115-2.jpg",
+    "fotos/m/r115-3.jpg"
    ],
    "claves": [
     "1956515",
@@ -13020,6 +14320,11 @@
     "fotos/r116-2.jpg",
     "fotos/r116-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r116-1.jpg",
+    "fotos/m/r116-2.jpg",
+    "fotos/m/r116-3.jpg"
+   ],
    "claves": [
     "2056015",
     "4108",
@@ -13071,6 +14376,11 @@
     "fotos/r117-1.jpg",
     "fotos/r117-2.jpg",
     "fotos/r117-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r117-1.jpg",
+    "fotos/m/r117-2.jpg",
+    "fotos/m/r117-3.jpg"
    ],
    "claves": [
     "1956015",
@@ -13124,6 +14434,11 @@
     "fotos/r118-1.jpg",
     "fotos/r118-2.jpg",
     "fotos/r118-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r118-1.jpg",
+    "fotos/m/r118-2.jpg",
+    "fotos/m/r118-3.jpg"
    ],
    "claves": [
     "2156516",
@@ -13179,6 +14494,11 @@
     "fotos/r119-2.jpg",
     "fotos/r119-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r119-1.jpg",
+    "fotos/m/r119-2.jpg",
+    "fotos/m/r119-3.jpg"
+   ],
    "claves": [
     "2055516",
     "4100",
@@ -13231,6 +14551,11 @@
     "fotos/r120-1.jpg",
     "fotos/r120-2.jpg",
     "fotos/r120-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r120-1.jpg",
+    "fotos/m/r120-2.jpg",
+    "fotos/m/r120-3.jpg"
    ],
    "claves": [
     "1956515",
@@ -13286,6 +14611,12 @@
     "fotos/r121-2.jpg",
     "fotos/r121-3.jpg",
     "fotos/r121-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r121-1.jpg",
+    "fotos/m/r121-2.jpg",
+    "fotos/m/r121-3.jpg",
+    "fotos/m/r121-4.jpg"
    ],
    "claves": [
     "2055517",
@@ -13344,6 +14675,13 @@
     "fotos/r122-4.jpg",
     "fotos/r122-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r122-1.jpg",
+    "fotos/m/r122-2.jpg",
+    "fotos/m/r122-3.jpg",
+    "fotos/m/r122-4.jpg",
+    "fotos/m/r122-5.jpg"
+   ],
    "claves": [
     "2156017",
     "5114.3",
@@ -13397,6 +14735,12 @@
     "fotos/r123-2.jpg",
     "fotos/r123-3.jpg",
     "fotos/r123-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r123-1.jpg",
+    "fotos/m/r123-2.jpg",
+    "fotos/m/r123-3.jpg",
+    "fotos/m/r123-4.jpg"
    ],
    "claves": [
     "1956015",
@@ -13452,6 +14796,12 @@
     "fotos/r124-3.jpg",
     "fotos/r124-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r124-1.jpg",
+    "fotos/m/r124-2.jpg",
+    "fotos/m/r124-3.jpg",
+    "fotos/m/r124-4.jpg"
+   ],
    "claves": [
     "1756514",
     "4100",
@@ -13504,6 +14854,12 @@
     "fotos/r125-2.jpg",
     "fotos/r125-3.jpg",
     "fotos/r125-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r125-1.jpg",
+    "fotos/m/r125-2.jpg",
+    "fotos/m/r125-3.jpg",
+    "fotos/m/r125-4.jpg"
    ],
    "claves": [
     "1856515",
@@ -13559,6 +14915,12 @@
     "fotos/r126-3.jpg",
     "fotos/r126-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r126-1.jpg",
+    "fotos/m/r126-2.jpg",
+    "fotos/m/r126-3.jpg",
+    "fotos/m/r126-4.jpg"
+   ],
    "claves": [
     "1955016",
     "4108",
@@ -13612,6 +14974,11 @@
     "fotos/r127-2.jpg",
     "fotos/r127-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r127-1.jpg",
+    "fotos/m/r127-2.jpg",
+    "fotos/m/r127-3.jpg"
+   ],
    "claves": [
     "1955515",
     "4108",
@@ -13664,6 +15031,11 @@
     "fotos/r128-1.jpg",
     "fotos/r128-2.jpg",
     "fotos/r128-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r128-1.jpg",
+    "fotos/m/r128-2.jpg",
+    "fotos/m/r128-3.jpg"
    ],
    "claves": [
     "1756514",
@@ -13720,6 +15092,11 @@
     "fotos/r129-2.jpg",
     "fotos/r129-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r129-1.jpg",
+    "fotos/m/r129-2.jpg",
+    "fotos/m/r129-3.jpg"
+   ],
    "claves": [
     "2055516",
     "4108",
@@ -13772,6 +15149,12 @@
     "fotos/r130-2.jpg",
     "fotos/r130-3.jpg",
     "fotos/r130-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r130-1.jpg",
+    "fotos/m/r130-2.jpg",
+    "fotos/m/r130-3.jpg",
+    "fotos/m/r130-4.jpg"
    ],
    "claves": [
     "2055516",
@@ -13827,6 +15210,11 @@
     "fotos/r131-2.jpg",
     "fotos/r131-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r131-1.jpg",
+    "fotos/m/r131-2.jpg",
+    "fotos/m/r131-3.jpg"
+   ],
    "claves": [
     "1956515",
     "4108",
@@ -13881,6 +15269,12 @@
     "fotos/r132-2.jpg",
     "fotos/r132-3.jpg",
     "fotos/r132-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r132-1.jpg",
+    "fotos/m/r132-2.jpg",
+    "fotos/m/r132-3.jpg",
+    "fotos/m/r132-4.jpg"
    ],
    "claves": [
     "1856514",
@@ -13938,6 +15332,11 @@
     "fotos/r133-2.jpg",
     "fotos/r133-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r133-1.jpg",
+    "fotos/m/r133-2.jpg",
+    "fotos/m/r133-3.jpg"
+   ],
    "claves": [
     "1955516",
     "4108",
@@ -13991,6 +15390,11 @@
     "fotos/r134-1.jpg",
     "fotos/r134-2.jpg",
     "fotos/r134-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r134-1.jpg",
+    "fotos/m/r134-2.jpg",
+    "fotos/m/r134-3.jpg"
    ],
    "claves": [
     "2454517",
@@ -14046,6 +15450,12 @@
     "fotos/r135-3.jpg",
     "fotos/r135-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r135-1.jpg",
+    "fotos/m/r135-2.jpg",
+    "fotos/m/r135-3.jpg",
+    "fotos/m/r135-4.jpg"
+   ],
    "claves": [
     "1955516",
     "4108",
@@ -14098,6 +15508,12 @@
     "fotos/r136-2.jpg",
     "fotos/r136-3.jpg",
     "fotos/r136-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r136-1.jpg",
+    "fotos/m/r136-2.jpg",
+    "fotos/m/r136-3.jpg",
+    "fotos/m/r136-4.jpg"
    ],
    "claves": [
     "1856015",
@@ -14152,6 +15568,12 @@
     "fotos/r137-3.jpg",
     "fotos/r137-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r137-1.jpg",
+    "fotos/m/r137-2.jpg",
+    "fotos/m/r137-3.jpg",
+    "fotos/m/r137-4.jpg"
+   ],
    "claves": [
     "2055516",
     "4108",
@@ -14203,6 +15625,10 @@
     "fotos/r138-1.jpg",
     "fotos/r138-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r138-1.jpg",
+    "fotos/m/r138-2.jpg"
+   ],
    "claves": [
     "2056516"
    ],
@@ -14248,6 +15674,10 @@
    "fotos": [
     "fotos/r139-1.jpg",
     "fotos/r139-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r139-1.jpg",
+    "fotos/m/r139-2.jpg"
    ],
    "claves": [
     "2056515"
@@ -14296,6 +15726,10 @@
     "fotos/l010-1.jpg",
     "fotos/l010-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l010-1.jpg",
+    "fotos/m/l010-2.jpg"
+   ],
    "claves": [
     "14",
     "4108",
@@ -14340,6 +15774,9 @@
    "fotos": [
     "fotos/l011-1.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l011-1.jpg"
+   ],
    "claves": [
     "13",
     "498",
@@ -14383,6 +15820,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l012-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l012-1.jpg"
    ],
    "claves": [
     "14",
@@ -14430,6 +15870,10 @@
     "fotos/l013-1.jpg",
     "fotos/l013-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l013-1.jpg",
+    "fotos/m/l013-2.jpg"
+   ],
    "claves": [
     "15",
     "6139.7",
@@ -14474,6 +15918,10 @@
    "fotos": [
     "fotos/l014-1.jpg",
     "fotos/l014-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l014-1.jpg",
+    "fotos/m/l014-2.jpg"
    ],
    "claves": [
     "15",
@@ -14521,6 +15969,11 @@
     "fotos/l015-2.jpg",
     "fotos/l015-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l015-1.jpg",
+    "fotos/m/l015-2.jpg",
+    "fotos/m/l015-3.jpg"
+   ],
    "claves": [
     "15",
     "4108",
@@ -14565,6 +16018,10 @@
    "fotos": [
     "fotos/l016-1.jpg",
     "fotos/l016-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l016-1.jpg",
+    "fotos/m/l016-2.jpg"
    ],
    "claves": [
     "14",
@@ -14611,6 +16068,10 @@
     "fotos/l017-1.jpg",
     "fotos/l017-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l017-1.jpg",
+    "fotos/m/l017-2.jpg"
+   ],
    "claves": [
     "14",
     "4100",
@@ -14654,6 +16115,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/l018-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l018-1.jpg"
    ],
    "claves": [
     "14",
@@ -14700,6 +16164,11 @@
     "fotos/r140-1.jpg",
     "fotos/r140-2.jpg",
     "fotos/r140-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r140-1.jpg",
+    "fotos/m/r140-2.jpg",
+    "fotos/m/r140-3.jpg"
    ],
    "claves": [
     "1856016",
@@ -14754,6 +16223,11 @@
     "fotos/r141-2.jpg",
     "fotos/r141-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r141-1.jpg",
+    "fotos/m/r141-2.jpg",
+    "fotos/m/r141-3.jpg"
+   ],
    "claves": [
     "1856515",
     "4100",
@@ -14803,6 +16277,11 @@
     "fotos/c003-1.jpg",
     "fotos/c003-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c003-2.jpg",
+    "fotos/m/c003-1.jpg",
+    "fotos/m/c003-3.jpg"
+   ],
    "claves": [
     "2056016"
    ],
@@ -14844,6 +16323,11 @@
     "fotos/c004-1.jpg",
     "fotos/c004-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c004-2.jpg",
+    "fotos/m/c004-1.jpg",
+    "fotos/m/c004-3.jpg"
+   ],
    "claves": [
     "2056016"
    ],
@@ -14883,6 +16367,11 @@
     "fotos/c005-2.jpg",
     "fotos/c005-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c005-1.jpg",
+    "fotos/m/c005-2.jpg",
+    "fotos/m/c005-3.jpg"
+   ],
    "claves": [
     "2055517"
    ],
@@ -14921,6 +16410,11 @@
     "fotos/c006-1.jpg",
     "fotos/c006-2.jpg",
     "fotos/c006-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c006-1.jpg",
+    "fotos/m/c006-2.jpg",
+    "fotos/m/c006-3.jpg"
    ],
    "claves": [
     "2055517"
@@ -14963,6 +16457,11 @@
     "fotos/c007-2.jpg",
     "fotos/c007-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c007-1.jpg",
+    "fotos/m/c007-2.jpg",
+    "fotos/m/c007-3.jpg"
+   ],
    "claves": [
     "2055517"
    ],
@@ -15001,6 +16500,11 @@
     "fotos/c008-1.jpg",
     "fotos/c008-2.jpg",
     "fotos/c008-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c008-1.jpg",
+    "fotos/m/c008-2.jpg",
+    "fotos/m/c008-3.jpg"
    ],
    "claves": [
     "2156017"
@@ -15043,6 +16547,11 @@
     "fotos/c009-2.jpg",
     "fotos/c009-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c009-1.jpg",
+    "fotos/m/c009-2.jpg",
+    "fotos/m/c009-3.jpg"
+   ],
    "claves": [
     "2254018"
    ],
@@ -15080,6 +16589,10 @@
    "fotos": [
     "fotos/c010-1.jpg",
     "fotos/c010-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c010-1.jpg",
+    "fotos/m/c010-2.jpg"
    ],
    "claves": [
     "2254018"
@@ -15123,6 +16636,12 @@
     "fotos/c011-3.jpg",
     "fotos/c011-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c011-1.jpg",
+    "fotos/m/c011-2.jpg",
+    "fotos/m/c011-3.jpg",
+    "fotos/m/c011-4.jpg"
+   ],
    "claves": [
     "2454018"
    ],
@@ -15164,6 +16683,11 @@
     "fotos/c012-2.jpg",
     "fotos/c012-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c012-1.jpg",
+    "fotos/m/c012-2.jpg",
+    "fotos/m/c012-3.jpg"
+   ],
    "claves": [
     "2057516"
    ],
@@ -15203,6 +16727,11 @@
     "fotos/c013-2.jpg",
     "fotos/c013-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c013-1.jpg",
+    "fotos/m/c013-2.jpg",
+    "fotos/m/c013-3.jpg"
+   ],
    "claves": [
     "2056016"
    ],
@@ -15241,6 +16770,11 @@
     "fotos/c014-1.jpg",
     "fotos/c014-2.jpg",
     "fotos/c014-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c014-1.jpg",
+    "fotos/m/c014-2.jpg",
+    "fotos/m/c014-3.jpg"
    ],
    "claves": [
     "2056016"
@@ -15283,6 +16817,11 @@
     "fotos/c015-2.jpg",
     "fotos/c015-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c015-1.jpg",
+    "fotos/m/c015-2.jpg",
+    "fotos/m/c015-3.jpg"
+   ],
    "claves": [
     "2356016"
    ],
@@ -15323,6 +16862,10 @@
     "fotos/c016-1.jpg",
     "fotos/c016-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c016-1.jpg",
+    "fotos/m/c016-2.jpg"
+   ],
    "claves": [
     "2356016"
    ],
@@ -15362,6 +16905,11 @@
     "fotos/c017-2.jpg",
     "fotos/c017-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c017-1.jpg",
+    "fotos/m/c017-2.jpg",
+    "fotos/m/c017-3.jpg"
+   ],
    "claves": [
     "2254517"
    ],
@@ -15400,6 +16948,11 @@
     "fotos/c018-1.jpg",
     "fotos/c018-2.jpg",
     "fotos/c018-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c018-1.jpg",
+    "fotos/m/c018-2.jpg",
+    "fotos/m/c018-3.jpg"
    ],
    "claves": [
     "2254517"
@@ -15443,6 +16996,11 @@
     "fotos/c019-2.jpg",
     "fotos/c019-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c019-1.jpg",
+    "fotos/m/c019-2.jpg",
+    "fotos/m/c019-3.jpg"
+   ],
    "claves": [
     "1855516"
    ],
@@ -15481,6 +17039,11 @@
     "fotos/c020-1.jpg",
     "fotos/c020-2.jpg",
     "fotos/c020-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c020-1.jpg",
+    "fotos/m/c020-2.jpg",
+    "fotos/m/c020-3.jpg"
    ],
    "claves": [
     "2254517"
@@ -15521,6 +17084,11 @@
     "fotos/c021-2.jpg",
     "fotos/c021-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c021-1.jpg",
+    "fotos/m/c021-2.jpg",
+    "fotos/m/c021-3.jpg"
+   ],
    "claves": [
     "1955016"
    ],
@@ -15560,6 +17128,11 @@
     "fotos/c022-2.jpg",
     "fotos/c022-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c022-1.jpg",
+    "fotos/m/c022-2.jpg",
+    "fotos/m/c022-3.jpg"
+   ],
    "claves": [
     "2155017"
    ],
@@ -15597,6 +17170,10 @@
    "fotos": [
     "fotos/c023-1.jpg",
     "fotos/c023-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c023-1.jpg",
+    "fotos/m/c023-2.jpg"
    ],
    "claves": [
     "2055516"
@@ -15638,6 +17215,11 @@
     "fotos/c024-1.jpg",
     "fotos/c024-2.jpg",
     "fotos/c024-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c024-1.jpg",
+    "fotos/m/c024-2.jpg",
+    "fotos/m/c024-3.jpg"
    ],
    "claves": [
     "2155517"
@@ -15688,6 +17270,18 @@
     "fotos/c025-9.jpg",
     "fotos/c025-10.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c025-1.jpg",
+    "fotos/m/c025-2.jpg",
+    "fotos/m/c025-3.jpg",
+    "fotos/m/c025-4.jpg",
+    "fotos/m/c025-5.jpg",
+    "fotos/m/c025-6.jpg",
+    "fotos/m/c025-7.jpg",
+    "fotos/m/c025-8.jpg",
+    "fotos/m/c025-9.jpg",
+    "fotos/m/c025-10.jpg"
+   ],
    "claves": [
     "1657014"
    ],
@@ -15726,6 +17320,11 @@
     "fotos/c026-1.jpg",
     "fotos/c026-2.jpg",
     "fotos/c026-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c026-1.jpg",
+    "fotos/m/c026-2.jpg",
+    "fotos/m/c026-3.jpg"
    ],
    "claves": [
     "1956016"
@@ -15770,6 +17369,11 @@
     "fotos/c027-2.jpg",
     "fotos/c027-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c027-1.jpg",
+    "fotos/m/c027-2.jpg",
+    "fotos/m/c027-3.jpg"
+   ],
    "claves": [
     "2656517"
    ],
@@ -15812,6 +17416,11 @@
     "fotos/c028-2.jpg",
     "fotos/c028-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c028-1.jpg",
+    "fotos/m/c028-2.jpg",
+    "fotos/m/c028-3.jpg"
+   ],
    "claves": [
     "2656018"
    ],
@@ -15850,6 +17459,11 @@
     "fotos/c029-1.jpg",
     "fotos/c029-2.jpg",
     "fotos/c029-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c029-1.jpg",
+    "fotos/m/c029-2.jpg",
+    "fotos/m/c029-3.jpg"
    ],
    "claves": [
     "1956016"
@@ -15892,6 +17506,11 @@
     "fotos/c030-2.jpg",
     "fotos/c030-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c030-1.jpg",
+    "fotos/m/c030-2.jpg",
+    "fotos/m/c030-3.jpg"
+   ],
    "claves": [
     "2356018"
    ],
@@ -15932,6 +17551,10 @@
    "fotos": [
     "fotos/c031-1.jpg",
     "fotos/c031-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c031-1.jpg",
+    "fotos/m/c031-2.jpg"
    ],
    "claves": [
     "2457016"
@@ -15977,6 +17600,14 @@
     "fotos/c032-5.jpg",
     "fotos/c032-6.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c032-1.jpg",
+    "fotos/m/c032-2.jpg",
+    "fotos/m/c032-3.jpg",
+    "fotos/m/c032-4.jpg",
+    "fotos/m/c032-5.jpg",
+    "fotos/m/c032-6.jpg"
+   ],
    "claves": [
     "2255518"
    ],
@@ -16019,6 +17650,11 @@
     "fotos/c033-1.jpg",
     "fotos/c033-2.jpg",
     "fotos/c033-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c033-1.jpg",
+    "fotos/m/c033-2.jpg",
+    "fotos/m/c033-3.jpg"
    ],
    "claves": [
     "2457016"
@@ -16064,6 +17700,14 @@
     "fotos/c034-5.jpg",
     "fotos/c034-6.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c034-1.jpg",
+    "fotos/m/c034-2.jpg",
+    "fotos/m/c034-3.jpg",
+    "fotos/m/c034-4.jpg",
+    "fotos/m/c034-5.jpg",
+    "fotos/m/c034-6.jpg"
+   ],
    "claves": [
     "2256517"
    ],
@@ -16105,6 +17749,11 @@
     "fotos/c035-1.jpg",
     "fotos/c035-2.jpg",
     "fotos/c035-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c035-1.jpg",
+    "fotos/m/c035-2.jpg",
+    "fotos/m/c035-3.jpg"
    ],
    "claves": [
     "2457016"
@@ -16149,6 +17798,11 @@
     "fotos/c036-2.jpg",
     "fotos/c036-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c036-1.jpg",
+    "fotos/m/c036-2.jpg",
+    "fotos/m/c036-3.jpg"
+   ],
    "claves": [
     "2457016"
    ],
@@ -16189,6 +17843,10 @@
    "fotos": [
     "fotos/c037-1.jpg",
     "fotos/c037-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c037-1.jpg",
+    "fotos/m/c037-2.jpg"
    ],
    "claves": [
     "2457016"
@@ -16231,6 +17889,11 @@
     "fotos/c038-1.jpg",
     "fotos/c038-2.jpg",
     "fotos/c038-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c038-1.jpg",
+    "fotos/m/c038-2.jpg",
+    "fotos/m/c038-3.jpg"
    ],
    "claves": [
     "2656517"
@@ -16275,6 +17938,11 @@
     "fotos/c039-2.jpg",
     "fotos/c039-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/c039-1.jpg",
+    "fotos/m/c039-2.jpg",
+    "fotos/m/c039-3.jpg"
+   ],
    "claves": [
     "2456517"
    ],
@@ -16315,6 +17983,11 @@
     "fotos/c040-1.jpg",
     "fotos/c040-2.jpg",
     "fotos/c040-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c040-1.jpg",
+    "fotos/m/c040-2.jpg",
+    "fotos/m/c040-3.jpg"
    ],
    "claves": [
     "2656517"
@@ -16362,6 +18035,12 @@
     "fotos/r019-2.jpg",
     "fotos/r019-3.jpg",
     "fotos/r019-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r019-1.jpg",
+    "fotos/m/r019-2.jpg",
+    "fotos/m/r019-3.jpg",
+    "fotos/m/r019-4.jpg"
    ],
    "claves": [
     "2156516",
@@ -16417,6 +18096,12 @@
     "fotos/r020-3.jpg",
     "fotos/r020-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r020-1.jpg",
+    "fotos/m/r020-2.jpg",
+    "fotos/m/r020-3.jpg",
+    "fotos/m/r020-4.jpg"
+   ],
    "claves": [
     "1955515",
     "5100",
@@ -16469,6 +18154,11 @@
     "fotos/r021-2.jpg",
     "fotos/r021-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r021-1.jpg",
+    "fotos/m/r021-2.jpg",
+    "fotos/m/r021-3.jpg"
+   ],
    "claves": [
     "1956515",
     "4100",
@@ -16520,6 +18210,10 @@
     "fotos/l005-1.jpg",
     "fotos/l005-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l005-1.jpg",
+    "fotos/m/l005-2.jpg"
+   ],
    "claves": [
     "18",
     "6139.7",
@@ -16566,6 +18260,11 @@
     "fotos/r022-1.jpg",
     "fotos/r022-2.jpg",
     "fotos/r022-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r022-1.jpg",
+    "fotos/m/r022-2.jpg",
+    "fotos/m/r022-3.jpg"
    ],
    "claves": [
     "1956015",
@@ -16622,6 +18321,13 @@
     "fotos/r023-4.jpg",
     "fotos/r023-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r023-1.jpg",
+    "fotos/m/r023-2.jpg",
+    "fotos/m/r023-3.jpg",
+    "fotos/m/r023-4.jpg",
+    "fotos/m/r023-5.jpg"
+   ],
    "claves": [
     "1955515",
     "5100",
@@ -16673,6 +18379,10 @@
     "fotos/r024-1.jpg",
     "fotos/r024-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r024-1.jpg",
+    "fotos/m/r024-2.jpg"
+   ],
    "claves": [
     "1856514",
     "4108",
@@ -16722,6 +18432,9 @@
    "precios_extra": [],
    "fotos": [
     "fotos/r025-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r025-1.jpg"
    ],
    "claves": [
     "1955516",
@@ -16777,6 +18490,12 @@
     "fotos/r026-3.jpg",
     "fotos/r026-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r026-1.jpg",
+    "fotos/m/r026-2.jpg",
+    "fotos/m/r026-3.jpg",
+    "fotos/m/r026-4.jpg"
+   ],
    "claves": [
     "1756515",
     "4100",
@@ -16829,6 +18548,10 @@
    "fotos": [
     "fotos/r027-1.jpg",
     "fotos/r027-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r027-1.jpg",
+    "fotos/m/r027-2.jpg"
    ],
    "claves": [
     "1956015",
@@ -16885,6 +18608,12 @@
     "fotos/r028-3.jpg",
     "fotos/r028-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r028-1.jpg",
+    "fotos/m/r028-2.jpg",
+    "fotos/m/r028-3.jpg",
+    "fotos/m/r028-4.jpg"
+   ],
    "claves": [
     "2154516",
     "5112",
@@ -16939,6 +18668,11 @@
     "fotos/r029-2.jpg",
     "fotos/r029-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r029-1.jpg",
+    "fotos/m/r029-2.jpg",
+    "fotos/m/r029-3.jpg"
+   ],
    "claves": [
     "2356018",
     "5112",
@@ -16990,6 +18724,10 @@
    "fotos": [
     "fotos/r030-1.jpg",
     "fotos/r030-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r030-1.jpg",
+    "fotos/m/r030-2.jpg"
    ],
    "claves": [
     "2254518",
@@ -17047,6 +18785,13 @@
     "fotos/r031-4.jpg",
     "fotos/r031-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r031-1.jpg",
+    "fotos/m/r031-2.jpg",
+    "fotos/m/r031-3.jpg",
+    "fotos/m/r031-4.jpg",
+    "fotos/m/r031-5.jpg"
+   ],
    "claves": [
     "2255017",
     "5112",
@@ -17103,6 +18848,12 @@
     "fotos/r032-3.jpg",
     "fotos/r032-4.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r032-1.jpg",
+    "fotos/m/r032-2.jpg",
+    "fotos/m/r032-3.jpg",
+    "fotos/m/r032-4.jpg"
+   ],
    "claves": [
     "2055516",
     "5112",
@@ -17155,6 +18906,11 @@
     "fotos/r033-1.jpg",
     "fotos/r033-2.jpg",
     "fotos/r033-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r033-1.jpg",
+    "fotos/m/r033-2.jpg",
+    "fotos/m/r033-3.jpg"
    ],
    "claves": [
     "2055516",
@@ -17210,6 +18966,11 @@
     "fotos/r034-2.jpg",
     "fotos/r034-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r034-1.jpg",
+    "fotos/m/r034-2.jpg",
+    "fotos/m/r034-3.jpg"
+   ],
    "claves": [
     "2055516",
     "4108",
@@ -17264,6 +19025,11 @@
     "fotos/r035-2.jpg",
     "fotos/r035-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r035-1.jpg",
+    "fotos/m/r035-2.jpg",
+    "fotos/m/r035-3.jpg"
+   ],
    "claves": [
     "2055516",
     "4108",
@@ -17314,6 +19080,10 @@
    "fotos": [
     "fotos/r036-1.jpg",
     "fotos/r036-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r036-1.jpg",
+    "fotos/m/r036-2.jpg"
    ],
    "claves": [
     "1956015",
@@ -17367,6 +19137,11 @@
     "fotos/r037-2.jpg",
     "fotos/r037-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r037-1.jpg",
+    "fotos/m/r037-2.jpg",
+    "fotos/m/r037-3.jpg"
+   ],
    "claves": [
     "1956015"
    ],
@@ -17414,6 +19189,11 @@
     "fotos/r039-1.jpg",
     "fotos/r039-2.jpg",
     "fotos/r039-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r039-1.jpg",
+    "fotos/m/r039-2.jpg",
+    "fotos/m/r039-3.jpg"
    ],
    "claves": [
     "1757013"
@@ -17464,6 +19244,11 @@
     "fotos/r040-1.jpg",
     "fotos/r040-2.jpg",
     "fotos/r040-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r040-1.jpg",
+    "fotos/m/r040-2.jpg",
+    "fotos/m/r040-3.jpg"
    ],
    "claves": [
     "2256517",
@@ -17521,6 +19306,13 @@
     "fotos/r041-4.jpg",
     "fotos/r041-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r041-1.jpg",
+    "fotos/m/r041-2.jpg",
+    "fotos/m/r041-3.jpg",
+    "fotos/m/r041-4.jpg",
+    "fotos/m/r041-5.jpg"
+   ],
    "claves": [
     "2155017",
     "5114.3",
@@ -17572,6 +19364,11 @@
     "fotos/r042-1.jpg",
     "fotos/r042-2.jpg",
     "fotos/r042-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r042-1.jpg",
+    "fotos/m/r042-2.jpg",
+    "fotos/m/r042-3.jpg"
    ],
    "claves": [
     "1756514",
@@ -17627,6 +19424,11 @@
     "fotos/r043-2.jpg",
     "fotos/r043-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r043-1.jpg",
+    "fotos/m/r043-2.jpg",
+    "fotos/m/r043-3.jpg"
+   ],
    "claves": [
     "2055516",
     "4100",
@@ -17680,6 +19482,11 @@
     "fotos/r044-2.jpg",
     "fotos/r044-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r044-1.jpg",
+    "fotos/m/r044-2.jpg",
+    "fotos/m/r044-3.jpg"
+   ],
    "claves": [
     "2055516",
     "5114.3",
@@ -17732,6 +19539,11 @@
     "fotos/r045-1.jpg",
     "fotos/r045-2.jpg",
     "fotos/r045-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r045-1.jpg",
+    "fotos/m/r045-2.jpg",
+    "fotos/m/r045-3.jpg"
    ],
    "claves": [
     "1856015"
@@ -17788,6 +19600,15 @@
     "fotos/r046-6.jpg",
     "fotos/r046-7.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r046-1.jpg",
+    "fotos/m/r046-2.jpg",
+    "fotos/m/r046-3.jpg",
+    "fotos/m/r046-4.jpg",
+    "fotos/m/r046-5.jpg",
+    "fotos/m/r046-6.jpg",
+    "fotos/m/r046-7.jpg"
+   ],
    "claves": [
     "1856015",
     "498",
@@ -17841,6 +19662,10 @@
     "fotos/r047-1.jpg",
     "fotos/r047-2.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r047-1.jpg",
+    "fotos/m/r047-2.jpg"
+   ],
    "claves": [
     "2156516",
     "5114.3",
@@ -17892,6 +19717,10 @@
    "fotos": [
     "fotos/r048-1.jpg",
     "fotos/r048-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r048-1.jpg",
+    "fotos/m/r048-2.jpg"
    ],
    "claves": [
     "1856514",
@@ -17945,6 +19774,11 @@
     "fotos/l006-2.jpg",
     "fotos/l006-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l006-1.jpg",
+    "fotos/m/l006-2.jpg",
+    "fotos/m/l006-3.jpg"
+   ],
    "claves": [
     "16",
     "4100",
@@ -17992,6 +19826,12 @@
     "fotos/r049-2.jpg",
     "fotos/r049-3.jpg",
     "fotos/r049-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r049-1.jpg",
+    "fotos/m/r049-2.jpg",
+    "fotos/m/r049-3.jpg",
+    "fotos/m/r049-4.jpg"
    ],
    "claves": [
     "1856015",
@@ -18047,6 +19887,11 @@
     "fotos/r050-2.jpg",
     "fotos/r050-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r050-1.jpg",
+    "fotos/m/r050-2.jpg",
+    "fotos/m/r050-3.jpg"
+   ],
    "claves": [
     "2055516",
     "5100",
@@ -18097,6 +19942,10 @@
    "fotos": [
     "fotos/r051-1.jpg",
     "fotos/r051-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r051-1.jpg",
+    "fotos/m/r051-2.jpg"
    ],
    "claves": [
     "2156516",
@@ -18149,6 +19998,11 @@
     "fotos/r052-1.jpg",
     "fotos/r052-2.jpg",
     "fotos/r052-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r052-1.jpg",
+    "fotos/m/r052-2.jpg",
+    "fotos/m/r052-3.jpg"
    ],
    "claves": [
     "1956015",
@@ -18204,6 +20058,11 @@
     "fotos/r053-2.jpg",
     "fotos/r053-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r053-1.jpg",
+    "fotos/m/r053-2.jpg",
+    "fotos/m/r053-3.jpg"
+   ],
    "claves": [
     "2056016",
     "4108",
@@ -18258,6 +20117,12 @@
     "fotos/r054-2.jpg",
     "fotos/r054-3.jpg",
     "fotos/r054-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r054-1.jpg",
+    "fotos/m/r054-2.jpg",
+    "fotos/m/r054-3.jpg",
+    "fotos/m/r054-4.jpg"
    ],
    "claves": [
     "2557015",
@@ -18317,6 +20182,14 @@
     "fotos/r055-5.jpg",
     "fotos/r055-6.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r055-1.jpg",
+    "fotos/m/r055-2.jpg",
+    "fotos/m/r055-3.jpg",
+    "fotos/m/r055-4.jpg",
+    "fotos/m/r055-5.jpg",
+    "fotos/m/r055-6.jpg"
+   ],
    "claves": [
     "2255018",
     "5114.3",
@@ -18371,6 +20244,11 @@
     "fotos/r056-2.jpg",
     "fotos/r056-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r056-1.jpg",
+    "fotos/m/r056-2.jpg",
+    "fotos/m/r056-3.jpg"
+   ],
    "claves": [
     "2657016",
     "6139.7",
@@ -18423,6 +20301,11 @@
     "fotos/r057-1.jpg",
     "fotos/r057-2.jpg",
     "fotos/r057-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r057-1.jpg",
+    "fotos/m/r057-2.jpg",
+    "fotos/m/r057-3.jpg"
    ],
    "claves": [
     "1956515",
@@ -18482,6 +20365,16 @@
     "fotos/r001-7.jpg",
     "fotos/r001-8.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r001-1.jpg",
+    "fotos/m/r001-2.jpg",
+    "fotos/m/r001-3.jpg",
+    "fotos/m/r001-4.jpg",
+    "fotos/m/r001-5.jpg",
+    "fotos/m/r001-6.jpg",
+    "fotos/m/r001-7.jpg",
+    "fotos/m/r001-8.jpg"
+   ],
    "claves": [
     "1856515",
     "498",
@@ -18534,6 +20427,11 @@
     "fotos/l002-2.jpg",
     "fotos/l002-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/l002-1.jpg",
+    "fotos/m/l002-2.jpg",
+    "fotos/m/l002-3.jpg"
+   ],
    "claves": [
     "14",
     "498",
@@ -18580,6 +20478,11 @@
     "fotos/r002-1.jpg",
     "fotos/r002-2.jpg",
     "fotos/r002-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r002-1.jpg",
+    "fotos/m/r002-2.jpg",
+    "fotos/m/r002-3.jpg"
    ],
    "claves": [
     "1955515"
@@ -18628,6 +20531,10 @@
    "fotos": [
     "fotos/r003-1.jpg",
     "fotos/r003-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r003-1.jpg",
+    "fotos/m/r003-2.jpg"
    ],
    "claves": [
     "2055516",
@@ -18684,6 +20591,11 @@
     "fotos/r004-2.jpg",
     "fotos/r004-3.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r004-1.jpg",
+    "fotos/m/r004-2.jpg",
+    "fotos/m/r004-3.jpg"
+   ],
    "claves": [
     "1756514",
     "498",
@@ -18737,6 +20649,11 @@
     "fotos/r005-1.jpg",
     "fotos/r005-2.jpg",
     "fotos/r005-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r005-1.jpg",
+    "fotos/m/r005-2.jpg",
+    "fotos/m/r005-3.jpg"
    ],
    "claves": [
     "2055516",
@@ -18793,6 +20710,14 @@
     "fotos/r006-5.jpg",
     "fotos/r006-6.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r006-1.jpg",
+    "fotos/m/r006-2.jpg",
+    "fotos/m/r006-3.jpg",
+    "fotos/m/r006-4.jpg",
+    "fotos/m/r006-5.jpg",
+    "fotos/m/r006-6.jpg"
+   ],
    "claves": [
     "15",
     "4100",
@@ -18845,6 +20770,15 @@
     "fotos/r007-6.jpg",
     "fotos/r007-7.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r007-1.jpg",
+    "fotos/m/r007-2.jpg",
+    "fotos/m/r007-3.jpg",
+    "fotos/m/r007-4.jpg",
+    "fotos/m/r007-5.jpg",
+    "fotos/m/r007-6.jpg",
+    "fotos/m/r007-7.jpg"
+   ],
    "claves": [
     "2355517"
    ],
@@ -18892,6 +20826,11 @@
     "fotos/l003-1.jpg",
     "fotos/l003-2.jpg",
     "fotos/l003-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l003-1.jpg",
+    "fotos/m/l003-2.jpg",
+    "fotos/m/l003-3.jpg"
    ],
    "claves": [
     "15",
@@ -18945,6 +20884,16 @@
     "fotos/r008-6.jpg",
     "fotos/r008-7.jpg",
     "fotos/r008-8.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r008-1.jpg",
+    "fotos/m/r008-2.jpg",
+    "fotos/m/r008-3.jpg",
+    "fotos/m/r008-4.jpg",
+    "fotos/m/r008-5.jpg",
+    "fotos/m/r008-6.jpg",
+    "fotos/m/r008-7.jpg",
+    "fotos/m/r008-8.jpg"
    ],
    "claves": [
     "1856015",
@@ -19001,6 +20950,13 @@
     "fotos/r009-4.jpg",
     "fotos/r009-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r009-1.jpg",
+    "fotos/m/r009-2.jpg",
+    "fotos/m/r009-3.jpg",
+    "fotos/m/r009-4.jpg",
+    "fotos/m/r009-5.jpg"
+   ],
    "claves": [
     "2156517",
     "5112",
@@ -19055,6 +21011,12 @@
     "fotos/r010-2.jpg",
     "fotos/r010-3.jpg",
     "fotos/r010-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r010-1.jpg",
+    "fotos/m/r010-2.jpg",
+    "fotos/m/r010-3.jpg",
+    "fotos/m/r010-4.jpg"
    ],
    "claves": [
     "2255518",
@@ -19114,6 +21076,15 @@
     "fotos/r011-6.jpg",
     "fotos/r011-7.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r011-1.jpg",
+    "fotos/m/r011-2.jpg",
+    "fotos/m/r011-3.jpg",
+    "fotos/m/r011-4.jpg",
+    "fotos/m/r011-5.jpg",
+    "fotos/m/r011-6.jpg",
+    "fotos/m/r011-7.jpg"
+   ],
    "claves": [
     "2155517",
     "5114.3",
@@ -19170,6 +21141,15 @@
     "fotos/r012-5.jpg",
     "fotos/r012-6.jpg",
     "fotos/r012-7.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r012-1.jpg",
+    "fotos/m/r012-2.jpg",
+    "fotos/m/r012-3.jpg",
+    "fotos/m/r012-4.jpg",
+    "fotos/m/r012-5.jpg",
+    "fotos/m/r012-6.jpg",
+    "fotos/m/r012-7.jpg"
    ],
    "claves": [
     "2256517",
@@ -19229,6 +21209,14 @@
     "fotos/r013-5.jpg",
     "fotos/r013-6.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r013-1.jpg",
+    "fotos/m/r013-2.jpg",
+    "fotos/m/r013-3.jpg",
+    "fotos/m/r013-4.jpg",
+    "fotos/m/r013-5.jpg",
+    "fotos/m/r013-6.jpg"
+   ],
    "claves": [
     "2054517",
     "4108",
@@ -19284,6 +21272,14 @@
     "fotos/r014-4.jpg",
     "fotos/r014-5.jpg",
     "fotos/r014-6.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r014-1.jpg",
+    "fotos/m/r014-2.jpg",
+    "fotos/m/r014-3.jpg",
+    "fotos/m/r014-4.jpg",
+    "fotos/m/r014-5.jpg",
+    "fotos/m/r014-6.jpg"
    ],
    "claves": [
     "2055516",
@@ -19342,6 +21338,13 @@
     "fotos/r015-4.jpg",
     "fotos/r015-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r015-1.jpg",
+    "fotos/m/r015-2.jpg",
+    "fotos/m/r015-3.jpg",
+    "fotos/m/r015-4.jpg",
+    "fotos/m/r015-5.jpg"
+   ],
    "claves": [
     "2055516",
     "5112",
@@ -19396,6 +21399,12 @@
     "fotos/r016-2.jpg",
     "fotos/r016-3.jpg",
     "fotos/r016-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r016-1.jpg",
+    "fotos/m/r016-2.jpg",
+    "fotos/m/r016-3.jpg",
+    "fotos/m/r016-4.jpg"
    ],
    "claves": [
     "1756514",
@@ -19453,6 +21462,13 @@
     "fotos/r017-4.jpg",
     "fotos/r017-5.jpg"
    ],
+   "miniaturas": [
+    "fotos/m/r017-1.jpg",
+    "fotos/m/r017-2.jpg",
+    "fotos/m/r017-3.jpg",
+    "fotos/m/r017-4.jpg",
+    "fotos/m/r017-5.jpg"
+   ],
    "claves": [
     "1657014",
     "4108",
@@ -19503,6 +21519,10 @@
    "fotos": [
     "fotos/l004-1.jpg",
     "fotos/l004-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l004-1.jpg",
+    "fotos/m/l004-2.jpg"
    ],
    "claves": [
     "16",
@@ -19555,6 +21575,16 @@
     "fotos/r018-6.jpg",
     "fotos/r018-7.jpg",
     "fotos/r018-8.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r018-1.jpg",
+    "fotos/m/r018-2.jpg",
+    "fotos/m/r018-3.jpg",
+    "fotos/m/r018-4.jpg",
+    "fotos/m/r018-5.jpg",
+    "fotos/m/r018-6.jpg",
+    "fotos/m/r018-7.jpg",
+    "fotos/m/r018-8.jpg"
    ],
    "claves": [
     "1856515"

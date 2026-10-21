@@ -373,6 +373,7 @@ def publico(p):
         "precio_unidad": p.get("precio_unidad"),
         "precios_extra": precios_extra(p, n),
         "fotos": p.get("fotos", []),
+        "miniaturas": [miniatura(f) for f in p.get("fotos", [])],
         "claves": claves,
         "nums": numeros(p, claves),
         "texto": " ".join([titulo, sub, sirve, " ".join(etiquetas)]).lower(),
@@ -439,6 +440,23 @@ def og_imagen():
     linea = CONFIG["ubicacion"] + (" · Hacemos envíos" if CONFIG.get("envios") else "")
     d.text((80, 500), linea, font=small, fill="#BDBDBD")
     im.save(destino, quality=82, optimize=True, progressive=True)
+
+
+MINI_LADO = 640  # tarjetas: foto liviana (en el celular cargar 1000 fotos de 1280px colgaba Safari)
+
+
+def miniatura(foto):
+    """fotos/x.jpg -> fotos/m/x.jpg (la crea si falta o si la original es más nueva)."""
+    origen = ROOT / foto
+    nombre = f"fotos/m/{Path(foto).name}"
+    destino = ROOT / nombre
+    if origen.exists() and (not destino.exists() or destino.stat().st_mtime < origen.stat().st_mtime):
+        from PIL import Image
+        destino.parent.mkdir(parents=True, exist_ok=True)
+        im = Image.open(origen).convert("RGB")
+        im.thumbnail((MINI_LADO, MINI_LADO), Image.LANCZOS)
+        im.save(destino, "JPEG", quality=70, optimize=True, progressive=True)
+    return nombre if destino.exists() else foto
 
 
 def build(silencioso=False):

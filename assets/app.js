@@ -116,7 +116,10 @@
   function tarjeta(p) {
     const comoLlanta = estado.tab === "llanta" && (p.tipo === "rueda" || p.tipo === "auto") && p.titulo_llanta;  // rueda completa vista en Llantas
     const fotos = p.fotos.length
-      ? `<div class="fotos">${p.fotos.map((f, i) => `<img src="${esc(f)}" alt="${esc(p.titulo + " " + p.subtitulo)} — foto ${i + 1}" loading="lazy" decoding="async" onload="this.classList.add('cargada')">`).join("")}</div>
+      ? `<div class="fotos">${p.fotos.map((f, i) => {
+          const mini = (p.miniaturas && p.miniaturas[i]) || f;
+          return `<img ${i ? "data-src" : "src"}="${esc(mini)}" data-full="${esc(f)}" alt="${esc(p.titulo + " " + p.subtitulo)} — foto ${i + 1}" loading="lazy" decoding="async" onload="this.classList.add('cargada')">`;
+        }).join("")}</div>
          ${p.fotos.length > 1 ? `<span class="contador">1/${p.fotos.length}</span>
          <button class="flecha izq" aria-label="Foto anterior"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="flecha der" aria-label="Foto siguiente"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>` : ""}`
       : `<div class="sin-foto">${RUEDA}<span>Foto a confirmar</span></div>`;
@@ -177,7 +180,39 @@
       $("#aviso").innerHTML = "";
       lista = visibles(estado.tab).filter(pasaFiltros);
     }
-    $("#lista").innerHTML = lista.length ? lista.map(tarjeta).join("") : vacio();
+    estado.lista = lista;
+    estado.mostrados = Math.min(POR_TANDA, lista.length);
+    $("#lista").innerHTML = lista.length ? lista.slice(0, estado.mostrados).map(tarjeta).join("") + botonMas() : vacio();
+    observarMas();
+  }
+
+  // ---------- de a tandas: en el celular 300+ tarjetas juntas colgaban la página ----------
+  const POR_TANDA = 24;
+  function botonMas() {
+    const faltan = estado.lista.length - estado.mostrados;
+    return faltan > 0 ? `<div class="mas"><button class="btn btn-mas" data-ver-mas>Ver más (${faltan})</button></div>` : "";
+  }
+  function verMas() {
+    const viejo = $("#lista .mas");
+    if (!viejo) return;
+    const desde = estado.mostrados;
+    estado.mostrados = Math.min(desde + POR_TANDA, estado.lista.length);
+    viejo.insertAdjacentHTML("beforebegin", estado.lista.slice(desde, estado.mostrados).map(tarjeta).join(""));
+    viejo.outerHTML = botonMas();
+    observarMas();
+  }
+  let obsMas = null;
+  function observarMas() {
+    if (!("IntersectionObserver" in window)) return;  // sin soporte: queda el botón "Ver más"
+    if (obsMas) obsMas.disconnect();
+    const b = $("#lista .mas");
+    if (!b) return;
+    obsMas = new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting)) verMas(); }, { rootMargin: "600px 0px" });
+    obsMas.observe(b);
+  }
+  // fotos 2, 3... de una tarjeta: se descargan recién cuando el cliente desliza o toca la flecha
+  function cargarResto(f) {
+    f.querySelectorAll("img[data-src]").forEach((im) => { im.src = im.dataset.src; im.removeAttribute("data-src"); });
   }
 
   // ---------- eventos ----------
@@ -198,9 +233,11 @@
     }
     const foto = e.target.closest(".fotos img");
     if (foto) { abrirVisor(foto); return; }
+    if (e.target.closest("[data-ver-mas]")) return verMas();
     const flecha = e.target.closest(".flecha");
     if (flecha) {
       const f = flecha.parentElement.querySelector(".fotos");
+      cargarResto(f);
       f.scrollBy({ left: (flecha.classList.contains("der") ? 1 : -1) * f.clientWidth, behavior: "smooth" });
       return;
     }
@@ -221,6 +258,7 @@
   document.addEventListener("scroll", (e) => {
     const f = e.target;
     if (!(f instanceof Element) || !f.classList.contains("fotos")) return;
+    cargarResto(f);
     const c = f.parentElement.querySelector(".contador");
     if (c) c.textContent = `${Math.round(f.scrollLeft / f.clientWidth) + 1}/${f.children.length}`;
   }, true);
@@ -256,7 +294,7 @@
   function abrirVisor(img) {
     const imgs = [...img.closest(".fotos").querySelectorAll("img")];
     vOrigen = img;
-    vFotos.innerHTML = imgs.map((x) => `<div class="visor-item"><img src="${esc(x.getAttribute("src"))}" alt="${esc(x.alt)}" decoding="async"></div>`).join("");
+    vFotos.innerHTML = imgs.map((x) => `<div class="visor-item"><img src="${esc(x.dataset.full || x.getAttribute("src") || x.dataset.src)}" alt="${esc(x.alt)}" decoding="async"></div>`).join("");
     visor.hidden = false;
     document.documentElement.classList.add("visor-abierto");
     vFotos.scrollLeft = imgs.indexOf(img) * vFotos.clientWidth;

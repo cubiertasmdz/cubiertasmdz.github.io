@@ -416,3 +416,13 @@ a { color: inherit; }
   .filtros.con-auto { grid-template-columns: 260px 260px 260px; }
   .filtros.con-auto #filtro-auto { grid-column: auto; }
 }
+
+/* ---------- "Ver más" y pestañas en celular ---------- */
+.mas { grid-column: 1 / -1; display: flex; justify-content: center; padding: 8px 0 4px; }
+.btn-mas { width: 100%; max-width: 360px; background: #fff; color: var(--negro); border: 2px solid var(--negro); }
+@media (hover: hover) { .btn-mas:hover { background: #f1eee8; } }
+@media (max-width: 719px) {
+  /* 4 pestañas no entran en una fila en el celular: van de a 2 */
+  .tabs { display: grid; grid-template-columns: 1fr 1fr; }
+  .tab { max-width: none; }
+}
