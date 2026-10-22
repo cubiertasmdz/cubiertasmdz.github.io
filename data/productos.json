@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21 17:30",
+ "actualizado": "2026-10-22 15:52",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -55,6 +55,175 @@
   }
  ],
  "productos": [
+  {
+   "id": "A010",
+   "tipo": "auto",
+   "titulo": "Peugeot 3008",
+   "subtitulo": "205/60 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Muy buena",
+   "vida": null,
+   "segmentos": 5,
+   "etiquetas": [
+    "Cubiertas Goodyear",
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original"
+   ],
+   "sirve": "Peugeot 3008, 308, 408",
+   "detalle": "Juego completo de 4 ruedas (llanta con cubierta Goodyear 205/60 R16) puestas en el Peugeot 3008. Cubiertas en muy buen estado. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a010-1.jpg",
+    "fotos/a010-2.jpg",
+    "fotos/a010-3.jpg",
+    "fotos/a010-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a010-1.jpg",
+    "fotos/m/a010-2.jpg",
+    "fotos/m/a010-3.jpg",
+    "fotos/m/a010-4.jpg"
+   ],
+   "claves": [
+    "2056016",
+    "4108",
+    "164108"
+   ],
+   "nums": [
+    "108",
+    "16",
+    "205",
+    "3008",
+    "4",
+    "60"
+   ],
+   "texto": "peugeot 3008 205/60 r16 peugeot 3008, 308, 408 cubiertas goodyear llanta peugeot de aleación 4x108 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Peugeot 3008 (205/60 R16) que vi en el catálogo (cód. A010).\nhttps://cubiertasmdz.github.io/p/A010/",
+   "url": "https://cubiertasmdz.github.io/p/A010/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "205/60 R16",
+   "auto": "Peugeot 3008",
+   "titulo_llanta": "Llanta Peugeot R16",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Goodyear 205/60 R16 · del Peugeot 3008"
+  },
+  {
+   "id": "L224",
+   "tipo": "llanta",
+   "titulo": "Llanta Peugeot R16",
+   "subtitulo": "4x108 · R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Se venden sin cubierta"
+   ],
+   "sirve": "Peugeot 208, 207, 2008, 308",
+   "detalle": "Juego de 4 llantas originales Peugeot de aleación rodado 16 de 4 agujeros, de un Peugeot 208, en buen estado. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l224-1.jpg",
+    "fotos/l224-2.jpg",
+    "fotos/l224-3.jpg",
+    "fotos/l224-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l224-1.jpg",
+    "fotos/m/l224-2.jpg",
+    "fotos/m/l224-3.jpg",
+    "fotos/m/l224-4.jpg"
+   ],
+   "claves": [
+    "16",
+    "4108",
+    "164108"
+   ],
+   "nums": [
+    "108",
+    "16",
+    "4"
+   ],
+   "texto": "llanta peugeot r16 4x108 · r16 peugeot 208, 207, 2008, 308 original aleación se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 4 llantas Peugeot R16 4x108 que vi en el catálogo (cód. L224).\nhttps://cubiertasmdz.github.io/p/L224/",
+   "url": "https://cubiertasmdz.github.io/p/L224/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "auto": "Peugeot 208",
+   "titulo_auto": "Peugeot 208",
+   "subtitulo_auto": "Solo llantas · 4x108 · R16"
+  },
+  {
+   "id": "L225",
+   "tipo": "llanta",
+   "titulo": "Llanta Volkswagen R16",
+   "subtitulo": "5x112 · R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Regular",
+   "vida": null,
+   "segmentos": 2,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Con detalles",
+    "Se venden sin cubierta"
+   ],
+   "sirve": "VW Vento, Golf, Bora",
+   "detalle": "Juego de 4 llantas originales Volkswagen de aleación rodado 16 de 5 agujeros, de un Vento 2.5. Tienen detalles (rayones/marcas en el borde, ver fotos). Se venden solo las llantas: las cubiertas no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l225-1.jpg",
+    "fotos/l225-2.jpg",
+    "fotos/l225-3.jpg",
+    "fotos/l225-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l225-1.jpg",
+    "fotos/m/l225-2.jpg",
+    "fotos/m/l225-3.jpg",
+    "fotos/m/l225-4.jpg"
+   ],
+   "claves": [
+    "16",
+    "5112",
+    "165112"
+   ],
+   "nums": [
+    "112",
+    "16",
+    "5"
+   ],
+   "texto": "llanta volkswagen r16 5x112 · r16 vw vento, golf, bora original aleación con detalles se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 4 llantas Volkswagen R16 5x112 que vi en el catálogo (cód. L225).\nhttps://cubiertasmdz.github.io/p/L225/",
+   "url": "https://cubiertasmdz.github.io/p/L225/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "auto": "Volkswagen Vento 2.5",
+   "titulo_auto": "Volkswagen Vento 2.5",
+   "subtitulo_auto": "Solo llantas · 5x112 · R16"
+  },
   {
    "id": "L221",
    "tipo": "llanta",
@@ -19403,63 +19572,6 @@
    "auto": null,
    "titulo_llanta": "Llanta Nissan R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta Michelin 215/50 R17"
-  },
-  {
-   "id": "R042",
-   "tipo": "rueda",
-   "titulo": "Rueda Fiat R14 con Pirelli",
-   "subtitulo": "175/65 R14 · 82T",
-   "rodado": 14,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
-   "estado": "Muy buena",
-   "vida": 75,
-   "segmentos": 4,
-   "etiquetas": [
-    "Llanta Fiat de aleación",
-    "4x98",
-    "Llanta original",
-    "Llanta sana"
-   ],
-   "sirve": "Fiat Mobi, Argo, Cronos, Uno, Palio, Siena",
-   "detalle": "Llanta original Fiat rodado 14, sana, con cubierta Pirelli Cinturato P1 175/65 R14 en muy buen estado. Ideal como auxilio.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/r042-1.jpg",
-    "fotos/r042-2.jpg",
-    "fotos/r042-3.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/r042-1.jpg",
-    "fotos/m/r042-2.jpg",
-    "fotos/m/r042-3.jpg"
-   ],
-   "claves": [
-    "1756514",
-    "498",
-    "14498"
-   ],
-   "nums": [
-    "14",
-    "175",
-    "4",
-    "65",
-    "98"
-   ],
-   "texto": "rueda fiat r14 con pirelli 175/65 r14 · 82t fiat mobi, argo, cronos, uno, palio, siena llanta fiat de aleación 4x98 llanta original llanta sana",
-   "wa": "Hola, quería consultar por la rueda completa con llanta Fiat R14 y cubierta Pirelli 175/65 R14 que vi en el catálogo (cód. R042).\nhttps://cubiertasmdz.github.io/p/R042/",
-   "url": "https://cubiertasmdz.github.io/p/R042/",
-   "marcas_llanta": [
-    "Fiat"
-   ],
-   "marcas_cubierta": [
-    "Pirelli"
-   ],
-   "medida_cubierta": "175/65 R14",
-   "auto": null,
-   "titulo_llanta": "Llanta Fiat R14",
-   "subtitulo_llanta": "4x98 · R14 · con cubierta Pirelli 175/65 R14"
   },
   {
    "id": "R043",
