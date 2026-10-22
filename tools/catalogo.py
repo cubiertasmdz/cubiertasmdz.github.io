@@ -386,8 +386,9 @@ def publico(p):
         "medida_cubierta": medida(p) if p["tipo"] in ("cubierta", "rueda", "auto") else None,
         "auto": nombre_auto(p) if p["tipo"] == "auto" or p.get("auto_modelo") else None,
         # llantas solas que siguen puestas en un auto: también salen en "En autos", con el auto como título
-        **({"titulo_auto": nombre_auto(p, anio=True), "subtitulo_auto": f"Solo llantas · {sub}"}
-           if p["tipo"] == "llanta" and p.get("auto_modelo") else {}),
+        **({"titulo_auto": nombre_auto(p, anio=True),
+            "subtitulo_auto": f'{"Solo llantas" if p["tipo"] == "llanta" else "Llanta con cubierta"} · {sub}'}
+           if p["tipo"] in ("llanta", "rueda") and p.get("auto_modelo") else {}),
         # en la pestaña Llantas las ruedas completas se muestran como llanta (marca + rodado) "con cubierta"
         **(como_llanta(p, titulo) if p["tipo"] in ("rueda", "auto") else {}),
         "alta": p.get("fecha_ingreso"),

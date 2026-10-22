@@ -116,7 +116,7 @@
 
   function tarjeta(p) {
     const comoLlanta = estado.tab === "llanta" && (p.tipo === "rueda" || p.tipo === "auto") && p.titulo_llanta;  // rueda completa vista en Llantas
-    const comoAuto = estado.tab === "auto" && p.tipo === "llanta" && p.titulo_auto;  // llanta sola vista en En autos
+    const comoAuto = estado.tab === "auto" && (p.tipo === "llanta" || p.tipo === "rueda") && p.titulo_auto;  // llanta sola vista en En autos
     const fotos = p.fotos.length
       ? `<div class="fotos">${p.fotos.map((f, i) => {
           const mini = (p.miniaturas && p.miniaturas[i]) || f;

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-22 15:52",
+ "actualizado": "2026-10-22 15:54",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -223,6 +223,62 @@
    "auto": "Volkswagen Vento 2.5",
    "titulo_auto": "Volkswagen Vento 2.5",
    "subtitulo_auto": "Solo llantas · 5x112 · R16"
+  },
+  {
+   "id": "R143",
+   "tipo": "rueda",
+   "titulo": "Ruedas Fiat Cronos R15 con Firemax",
+   "subtitulo": "185/60 R15",
+   "rodado": 15,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Fiat de aleación",
+    "4x98",
+    "Llanta original"
+   ],
+   "sirve": "Fiat Cronos, Argo",
+   "detalle": "Par de ruedas: llantas originales Fiat Cronos de aleación rodado 15 con cubiertas Firemax 185/60 R15, puestas en el auto. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r143-1.jpg",
+    "fotos/r143-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r143-1.jpg",
+    "fotos/m/r143-2.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "498",
+    "15498"
+   ],
+   "nums": [
+    "15",
+    "185",
+    "4",
+    "60",
+    "98"
+   ],
+   "texto": "ruedas fiat cronos r15 con firemax 185/60 r15 fiat cronos, argo llanta fiat de aleación 4x98 llanta original",
+   "wa": "Hola, quería consultar por las 2 ruedas completas Firemax 185/60 R15 con llanta Fiat que vi en el catálogo (cód. R143).\nhttps://cubiertasmdz.github.io/p/R143/",
+   "url": "https://cubiertasmdz.github.io/p/R143/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Firemax"
+   ],
+   "medida_cubierta": "185/60 R15",
+   "auto": "Fiat Cronos",
+   "titulo_auto": "Fiat Cronos",
+   "subtitulo_auto": "Llanta con cubierta · 185/60 R15",
+   "titulo_llanta": "Llanta Fiat R15",
+   "subtitulo_llanta": "4x98 · R15 · con cubierta Firemax 185/60 R15"
   },
   {
    "id": "L221",
@@ -841,11 +897,11 @@
   {
    "id": "R142",
    "tipo": "rueda",
-   "titulo": "Par de ruedas Peugeot R15 con Pirelli",
+   "titulo": "Juego de 4 ruedas Peugeot R15 con Pirelli",
    "subtitulo": "185/65 R15",
    "rodado": 15,
-   "cantidad": 2,
-   "cantidad_txt": "Par",
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
    "estado": null,
    "vida": null,
    "segmentos": null,
@@ -855,20 +911,24 @@
     "Llanta original"
    ],
    "sirve": "Peugeot 206, 207, 307, Citroën C3",
-   "detalle": "2 ruedas completas: llanta original Peugeot de aleación rodado 15 con cubierta Pirelli Cinturato P1 185/65 R15. Consultá por tu auto.",
+   "detalle": "4 ruedas completas: llantas originales Peugeot de aleación rodado 15 con cubiertas Pirelli Cinturato P1 185/65 R15. Se pueden llevar por unidad, par o juego. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
     "fotos/r142-1.jpg",
     "fotos/r142-2.jpg",
     "fotos/r142-3.jpg",
-    "fotos/r142-4.jpg"
+    "fotos/r142-4.jpg",
+    "fotos/r142-5.jpg",
+    "fotos/r142-6.jpg"
    ],
    "miniaturas": [
     "fotos/m/r142-1.jpg",
     "fotos/m/r142-2.jpg",
     "fotos/m/r142-3.jpg",
-    "fotos/m/r142-4.jpg"
+    "fotos/m/r142-4.jpg",
+    "fotos/m/r142-5.jpg",
+    "fotos/m/r142-6.jpg"
    ],
    "claves": [
     "1856515",
@@ -882,8 +942,8 @@
     "4",
     "65"
    ],
-   "texto": "par de ruedas peugeot r15 con pirelli 185/65 r15 peugeot 206, 207, 307, citroën c3 llanta peugeot de aleación 4x108 llanta original",
-   "wa": "Hola, quería consultar por las 2 ruedas completas Pirelli 185/65 R15 con llanta Peugeot que vi en el catálogo (cód. R142).\nhttps://cubiertasmdz.github.io/p/R142/",
+   "texto": "juego de 4 ruedas peugeot r15 con pirelli 185/65 r15 peugeot 206, 207, 307, citroën c3 llanta peugeot de aleación 4x108 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas Peugeot R15 con Pirelli Cinturato P1 185/65 R15 que vi en el catálogo (cód. R142).\nhttps://cubiertasmdz.github.io/p/R142/",
    "url": "https://cubiertasmdz.github.io/p/R142/",
    "marcas_llanta": [
     "Peugeot"
