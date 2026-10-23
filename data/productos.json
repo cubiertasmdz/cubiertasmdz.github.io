@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23 18:55",
+ "actualizado": "2026-10-23 18:59",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -12792,50 +12792,6 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
-   "auto": null
-  },
-  {
-   "id": "C058",
-   "tipo": "cubierta",
-   "titulo": "Sunfull SF-688",
-   "subtitulo": "175/70 R14",
-   "rodado": 14,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
-   "estado": "Muy buena",
-   "vida": 85,
-   "segmentos": 4,
-   "etiquetas": [],
-   "sirve": "",
-   "detalle": "Cubierta suelta con buen dibujo.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/c058-1.jpg",
-    "fotos/c058-2.jpg",
-    "fotos/c058-3.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/c058-1.jpg",
-    "fotos/m/c058-2.jpg",
-    "fotos/m/c058-3.jpg"
-   ],
-   "claves": [
-    "1757014"
-   ],
-   "nums": [
-    "14",
-    "175",
-    "70"
-   ],
-   "texto": "sunfull sf-688 175/70 r14  ",
-   "wa": "Hola, quería consultar por la cubierta Sunfull 175/70 R14 que vi en el catálogo (cód. C058).\nhttps://cubiertasmdz.github.io/p/C058/",
-   "url": "https://cubiertasmdz.github.io/p/C058/",
-   "marcas_llanta": [],
-   "marcas_cubierta": [
-    "Sunfull"
-   ],
-   "medida_cubierta": "175/70 R14",
    "auto": null
   },
   {
