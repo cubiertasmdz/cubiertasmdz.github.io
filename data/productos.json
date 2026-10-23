@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-22 15:54",
+ "actualizado": "2026-10-22 23:16",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -3592,51 +3592,6 @@
    "texto": "llanta peugeot r15 4x108 · r15 peugeot 206, 207, 208, 2008, 307, 308, 408 original aleación",
    "wa": "Hola, quería consultar por las 4 llantas Peugeot R15 4x108 que vi en el catálogo (cód. L073).\nhttps://cubiertasmdz.github.io/p/L073/",
    "url": "https://cubiertasmdz.github.io/p/L073/",
-   "marcas_llanta": [
-    "Peugeot"
-   ],
-   "marcas_cubierta": [],
-   "medida_cubierta": null,
-   "auto": null
-  },
-  {
-   "id": "L074",
-   "tipo": "llanta",
-   "titulo": "Llanta Peugeot R15",
-   "subtitulo": "4x108 · R15",
-   "rodado": 15,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
-   "estado": null,
-   "vida": null,
-   "segmentos": null,
-   "etiquetas": [
-    "Original",
-    "Aleación"
-   ],
-   "sirve": "Peugeot 206, 207, 208, 2008, 307, 308, 408",
-   "detalle": "Llanta original Peugeot de aleación rodado 15 de 4 agujeros. Se vende sin cubierta. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/l074-1.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/l074-1.jpg"
-   ],
-   "claves": [
-    "15",
-    "4108",
-    "154108"
-   ],
-   "nums": [
-    "108",
-    "15",
-    "4"
-   ],
-   "texto": "llanta peugeot r15 4x108 · r15 peugeot 206, 207, 208, 2008, 307, 308, 408 original aleación",
-   "wa": "Hola, quería consultar por la llanta Peugeot R15 4x108 que vi en el catálogo (cód. L074).\nhttps://cubiertasmdz.github.io/p/L074/",
-   "url": "https://cubiertasmdz.github.io/p/L074/",
    "marcas_llanta": [
     "Peugeot"
    ],
