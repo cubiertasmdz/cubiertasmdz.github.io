@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23 18:59",
+ "actualizado": "2026-10-25 12:56",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -16997,52 +16997,6 @@
     "Fate"
    ],
    "medida_cubierta": "205/60 R16",
-   "auto": null
-  },
-  {
-   "id": "C015",
-   "tipo": "cubierta",
-   "titulo": "Bridgestone Dueler H/T 687",
-   "subtitulo": "235/60 R16 · 100H",
-   "rodado": 16,
-   "cantidad": 2,
-   "cantidad_txt": "Par",
-   "estado": "Buena",
-   "vida": 60,
-   "segmentos": 3,
-   "etiquetas": [
-    "Para camioneta / SUV"
-   ],
-   "sirve": "",
-   "detalle": "",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/c015-1.jpg",
-    "fotos/c015-2.jpg",
-    "fotos/c015-3.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/c015-1.jpg",
-    "fotos/m/c015-2.jpg",
-    "fotos/m/c015-3.jpg"
-   ],
-   "claves": [
-    "2356016"
-   ],
-   "nums": [
-    "16",
-    "235",
-    "60"
-   ],
-   "texto": "bridgestone dueler h/t 687 235/60 r16 · 100h  para camioneta / suv",
-   "wa": "Hola, quería consultar por las 2 cubiertas Bridgestone 235/60 R16 que vi en el catálogo (cód. C015).\nhttps://cubiertasmdz.github.io/p/C015/",
-   "url": "https://cubiertasmdz.github.io/p/C015/",
-   "marcas_llanta": [],
-   "marcas_cubierta": [
-    "Bridgestone"
-   ],
-   "medida_cubierta": "235/60 R16",
    "auto": null
   },
   {
