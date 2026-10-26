@@ -426,3 +426,13 @@ a { color: inherit; }
   .tabs { display: grid; grid-template-columns: 1fr 1fr; }
   .tab { max-width: none; }
 }
+
+/* ---------- cartel "Nuevo ingreso" (primeros 3 días) ---------- */
+.nuevo {
+  position: absolute; top: 12px; right: 12px;
+  background: var(--amarillo); color: var(--negro);
+  font: 800 17px/1 var(--titulos);
+  text-transform: uppercase; letter-spacing: .03em;
+  padding: 8px 11px; border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.2);
+}

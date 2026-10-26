@@ -469,7 +469,7 @@ def build(silencioso=False):
     productos = [publico(p) for p in stock["productos"] if visible(p)]
     productos.sort(key=lambda x: (x["alta"] or ""), reverse=True)
     for x in productos:
-        x.pop("alta")
+        x["ingreso"] = x.pop("alta")  # la página marca "Nuevo ingreso" los primeros 3 días (lo calcula el navegador)
     salida = {
         "actualizado": ahora(),
         "sitio": {k: CONFIG[k] for k in ["titulo", "bajada", "whatsapp", "whatsapp_visible", "ubicacion", "envios", "sitio_url"]},

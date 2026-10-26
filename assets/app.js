@@ -91,9 +91,17 @@
     const cat = estado.datos.categorias.find((c) => c.id === tab);
     return !!(cat && cat.incluye && cat.incluye.includes(p.tipo));
   }
+  // "Nuevo ingreso": cargado hace menos de 3 días. Va primero en cada pestaña.
+  const DIAS_NUEVO = 3;
+  function esNuevo(p) {
+    if (!p.ingreso) return false;
+    const [a, m, d] = p.ingreso.split("-").map(Number);
+    return (Date.now() - new Date(a, m - 1, d).getTime()) / 864e5 < DIAS_NUEVO;
+  }
   function visibles(tab) {
     const q = analizar(estado.q);
-    return estado.datos.productos.filter((p) => enPestana(p, tab) && coincide(p, q));
+    const lista = estado.datos.productos.filter((p) => enPestana(p, tab) && coincide(p, q));
+    return lista.filter(esNuevo).concat(lista.filter((p) => !esNuevo(p)));
   }
 
   // ---------- render ----------
@@ -146,6 +154,7 @@
       <div class="media">
         ${fotos}
         <span class="badge">${esc(p.cantidad_txt)}</span>
+        ${esNuevo(p) ? `<span class="nuevo">Nuevo ingreso</span>` : ""}
       </div>
       <div class="cuerpo">
         <h2>${esc(comoLlanta ? p.titulo_llanta : comoAuto ? p.titulo_auto : p.titulo)}</h2>
