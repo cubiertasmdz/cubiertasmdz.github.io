@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26 14:16",
+ "actualizado": "2026-10-26 14:20",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -452,8 +452,8 @@
     "Aleación",
     "Se venden sin cubierta"
    ],
-   "sirve": "Nissan March, Versa, Note",
-   "detalle": "Juego de 4 llantas originales Nissan de aleación rodado 15 de 4 agujeros. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
+   "sirve": "Nissan Tiida, March, Versa, Note",
+   "detalle": "Juego de 4 llantas originales Nissan de aleación rodado 15 de 4 agujeros, de un Nissan Tiida. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -474,7 +474,7 @@
     "15",
     "4"
    ],
-   "texto": "llanta nissan r15 4x100 · r15 nissan march, versa, note original aleación se venden sin cubierta",
+   "texto": "llanta nissan r15 4x100 · r15 nissan tiida, march, versa, note original aleación se venden sin cubierta",
    "wa": "Hola, quería consultar por las 4 llantas Nissan R15 4x100 que vi en el catálogo (cód. L231).\nhttps://cubiertasmdz.github.io/p/L231/",
    "url": "https://cubiertasmdz.github.io/p/L231/",
    "marcas_llanta": [
@@ -482,7 +482,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
-   "auto": null,
+   "auto": "Nissan Tiida",
+   "titulo_auto": "Nissan Tiida",
+   "subtitulo_auto": "Solo llantas · 4x100 · R15",
    "ingreso": "2026-10-26"
   },
   {
@@ -546,7 +548,7 @@
   {
    "id": "R144",
    "tipo": "rueda",
-   "titulo": "3 ruedas Nissan R16 con Continental",
+   "titulo": "3 ruedas Nissan Tiida R16 con Continental",
    "subtitulo": "195/55 R16",
    "rodado": 16,
    "cantidad": 3,
@@ -559,8 +561,8 @@
     "4x100",
     "Llanta original"
    ],
-   "sirve": "Nissan March, Note, Versa",
-   "detalle": "3 ruedas completas: llantas originales Nissan de aleación rodado 16 con cubiertas Continental 195/55 R16 (puestas en el auto). Consultá por tu auto.",
+   "sirve": "Nissan Tiida, March, Versa, Note",
+   "detalle": "3 ruedas completas: llantas originales Nissan de aleación rodado 16 con cubiertas Continental 195/55 R16, puestas en el Nissan Tiida. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -585,7 +587,7 @@
     "4",
     "55"
    ],
-   "texto": "3 ruedas nissan r16 con continental 195/55 r16 nissan march, note, versa llanta nissan de aleación 4x100 llanta original",
+   "texto": "3 ruedas nissan tiida r16 con continental 195/55 r16 nissan tiida, march, versa, note llanta nissan de aleación 4x100 llanta original",
    "wa": "Hola, quería consultar por las 3 ruedas completas Continental 195/55 R16 con llanta Nissan que vi en el catálogo (cód. R144).\nhttps://cubiertasmdz.github.io/p/R144/",
    "url": "https://cubiertasmdz.github.io/p/R144/",
    "marcas_llanta": [
@@ -595,7 +597,9 @@
     "Continental"
    ],
    "medida_cubierta": "195/55 R16",
-   "auto": null,
+   "auto": "Nissan Tiida",
+   "titulo_auto": "Nissan Tiida",
+   "subtitulo_auto": "Llanta con cubierta · 195/55 R16",
    "titulo_llanta": "Llanta Nissan R16",
    "subtitulo_llanta": "4x100 · R16 · con cubierta Continental 195/55 R16",
    "ingreso": "2026-10-26"
