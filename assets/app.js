@@ -162,7 +162,7 @@
         ${estadoHtml}
         ${p.etiquetas.length ? `<ul class="tags">${p.etiquetas.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}
         ${p.sirve ? `<p class="sirve"><b>Sirve para:</b> ${esc(p.sirve)}</p>` : ""}
-        ${p.tipo === "llanta" || p.tipo === "rueda" ? `<p class="detalle">¿No sabés si le va a tu auto? Consultanos con el modelo y el año.</p>` : ""}
+        ${p.tipo === "llanta" || p.tipo === "rueda" || p.tipo === "auxilio" ? `<p class="detalle">¿No sabés si le va a tu auto? Consultanos con el modelo y el año.</p>` : ""}
         ${p.detalle ? `<p class="detalle">${esc(p.detalle)}</p>` : ""}
         <div class="precio">${precio}</div>
         <a class="btn btn-wa" href="${wa(p.wa)}" target="_blank" rel="noopener">${ICONO_WA}Consultar por WhatsApp</a>

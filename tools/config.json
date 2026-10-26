@@ -48,6 +48,15 @@
       "filtro_rodado": false,
       "filtro_medida": true,
       "filtro_auto": true
+    },
+    {
+      "id": "auxilio",
+      "prefijo": "X",
+      "nombre": "Auxilios",
+      "singular": "rueda de auxilio",
+      "plural": "ruedas de auxilio",
+      "filtro_rodado": true,
+      "filtro_medida": true
     }
   ],
   "comision": 0.1

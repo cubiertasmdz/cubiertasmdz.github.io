@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26 14:20",
+ "actualizado": "2026-10-26 14:23",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -51,6 +51,16 @@
    "filtro_rodado": false,
    "filtro_medida": true,
    "filtro_auto": true,
+   "incluye": false
+  },
+  {
+   "id": "auxilio",
+   "nombre": "Auxilios",
+   "singular": "rueda de auxilio",
+   "plural": "ruedas de auxilio",
+   "filtro_rodado": true,
+   "filtro_medida": true,
+   "filtro_auto": false,
    "incluye": false
   }
  ],
@@ -829,8 +839,8 @@
   },
   {
    "id": "R145",
-   "tipo": "rueda",
-   "titulo": "Auxilio Ford Focus sin rodar",
+   "tipo": "auxilio",
+   "titulo": "Auxilio Ford Focus R16 sin rodar",
    "subtitulo": "125/80 R16",
    "rodado": 16,
    "cantidad": 1,
@@ -839,10 +849,10 @@
    "vida": 100,
    "segmentos": 5,
    "etiquetas": [
+    "Sin rodar",
     "Llanta Ford de chapa",
     "5x108",
     "Llanta original",
-    "Sin rodar",
     "Auxilio temporal"
    ],
    "sirve": "Ford Focus",
@@ -850,12 +860,12 @@
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
-    "fotos/r145-1.jpg",
-    "fotos/r145-2.jpg"
+    "fotos/r145-2.jpg",
+    "fotos/r145-1.jpg"
    ],
    "miniaturas": [
-    "fotos/m/r145-1.jpg",
-    "fotos/m/r145-2.jpg"
+    "fotos/m/r145-2.jpg",
+    "fotos/m/r145-1.jpg"
    ],
    "claves": [
     "1258016",
@@ -869,8 +879,8 @@
     "5",
     "80"
    ],
-   "texto": "auxilio ford focus sin rodar 125/80 r16 ford focus llanta ford de chapa 5x108 llanta original sin rodar auxilio temporal",
-   "wa": "Hola, quería consultar por la rueda completa 125/80 R16 con llanta Ford que vi en el catálogo (cód. R145).\nhttps://cubiertasmdz.github.io/p/R145/",
+   "texto": "auxilio ford focus r16 sin rodar 125/80 r16 ford focus sin rodar llanta ford de chapa 5x108 llanta original auxilio temporal",
+   "wa": "Hola, quería consultar por la rueda de auxilio Ford Focus 125/80 R16 que vi en el catálogo (cód. R145).\nhttps://cubiertasmdz.github.io/p/R145/",
    "url": "https://cubiertasmdz.github.io/p/R145/",
    "marcas_llanta": [
     "Ford"
@@ -884,8 +894,8 @@
   },
   {
    "id": "R146",
-   "tipo": "rueda",
-   "titulo": "Auxilio Chevrolet Astra sin rodar",
+   "tipo": "auxilio",
+   "titulo": "Auxilio Chevrolet Astra R15 sin rodar",
    "subtitulo": "195/60 R15",
    "rodado": 15,
    "cantidad": 1,
@@ -894,9 +904,10 @@
    "vida": 100,
    "segmentos": 5,
    "etiquetas": [
+    "Sin rodar",
+    "Cubierta Bridgestone Turanza",
     "Llanta Chevrolet de chapa",
-    "Llanta original",
-    "Sin rodar"
+    "Llanta original"
    ],
    "sirve": "Chevrolet Astra",
    "detalle": "Rueda de auxilio del Chevrolet Astra (llanta de chapa con cubierta Bridgestone Turanza 195/60 R15), sin rodar. Consultá por tu auto.",
@@ -920,8 +931,8 @@
     "195",
     "60"
    ],
-   "texto": "auxilio chevrolet astra sin rodar 195/60 r15 chevrolet astra llanta chevrolet de chapa llanta original sin rodar",
-   "wa": "Hola, quería consultar por la rueda completa Bridgestone 195/60 R15 con llanta Chevrolet que vi en el catálogo (cód. R146).\nhttps://cubiertasmdz.github.io/p/R146/",
+   "texto": "auxilio chevrolet astra r15 sin rodar 195/60 r15 chevrolet astra sin rodar cubierta bridgestone turanza llanta chevrolet de chapa llanta original",
+   "wa": "Hola, quería consultar por la rueda de auxilio Chevrolet Astra 195/60 R15 que vi en el catálogo (cód. R146).\nhttps://cubiertasmdz.github.io/p/R146/",
    "url": "https://cubiertasmdz.github.io/p/R146/",
    "marcas_llanta": [
     "Chevrolet"
@@ -937,7 +948,7 @@
   },
   {
    "id": "R147",
-   "tipo": "rueda",
+   "tipo": "auxilio",
    "titulo": "Auxilio Volkswagen up! R14",
    "subtitulo": "175/70 R14",
    "rodado": 14,
@@ -949,8 +960,7 @@
    "etiquetas": [
     "Llanta Volkswagen de chapa",
     "4x100",
-    "Llanta original",
-    "Auxilio"
+    "Llanta original"
    ],
    "sirve": "VW up!, Gol, Fox",
    "detalle": "Rueda de auxilio del Volkswagen up! (llanta de chapa con cubierta 175/70 R14). Consultá por tu auto.",
@@ -974,8 +984,8 @@
     "4",
     "70"
    ],
-   "texto": "auxilio volkswagen up! r14 175/70 r14 vw up!, gol, fox llanta volkswagen de chapa 4x100 llanta original auxilio",
-   "wa": "Hola, quería consultar por la rueda completa 175/70 R14 con llanta Volkswagen que vi en el catálogo (cód. R147).\nhttps://cubiertasmdz.github.io/p/R147/",
+   "texto": "auxilio volkswagen up! r14 175/70 r14 vw up!, gol, fox llanta volkswagen de chapa 4x100 llanta original",
+   "wa": "Hola, quería consultar por la rueda de auxilio Volkswagen up! 175/70 R14 que vi en el catálogo (cód. R147).\nhttps://cubiertasmdz.github.io/p/R147/",
    "url": "https://cubiertasmdz.github.io/p/R147/",
    "marcas_llanta": [
     "Volkswagen"
