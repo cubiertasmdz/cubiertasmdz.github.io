@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26 14:23",
+ "actualizado": "2026-10-26 14:26",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -55,7 +55,7 @@
   },
   {
    "id": "auxilio",
-   "nombre": "Auxilios",
+   "nombre": "Auxilios sin rodar",
    "singular": "rueda de auxilio",
    "plural": "ruedas de auxilio",
    "filtro_rodado": true,
@@ -948,7 +948,7 @@
   },
   {
    "id": "R147",
-   "tipo": "auxilio",
+   "tipo": "rueda",
    "titulo": "Auxilio Volkswagen up! R14",
    "subtitulo": "175/70 R14",
    "rodado": 14,
@@ -985,14 +985,16 @@
     "70"
    ],
    "texto": "auxilio volkswagen up! r14 175/70 r14 vw up!, gol, fox llanta volkswagen de chapa 4x100 llanta original",
-   "wa": "Hola, quería consultar por la rueda de auxilio Volkswagen up! 175/70 R14 que vi en el catálogo (cód. R147).\nhttps://cubiertasmdz.github.io/p/R147/",
+   "wa": "Hola, quería consultar por la rueda completa 175/70 R14 con llanta Volkswagen que vi en el catálogo (cód. R147).\nhttps://cubiertasmdz.github.io/p/R147/",
    "url": "https://cubiertasmdz.github.io/p/R147/",
    "marcas_llanta": [
     "Volkswagen"
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "175/70 R14",
-   "auto": null,
+   "auto": "Volkswagen up!",
+   "titulo_auto": "Volkswagen up!",
+   "subtitulo_auto": "Llanta con cubierta · 175/70 R14",
    "titulo_llanta": "Llanta Volkswagen R14 de chapa",
    "subtitulo_llanta": "4x100 · R14 · con cubierta 175/70 R14",
    "ingreso": "2026-10-26"

@@ -52,7 +52,7 @@
     {
       "id": "auxilio",
       "prefijo": "X",
-      "nombre": "Auxilios",
+      "nombre": "Auxilios sin rodar",
       "singular": "rueda de auxilio",
       "plural": "ruedas de auxilio",
       "filtro_rodado": true,
