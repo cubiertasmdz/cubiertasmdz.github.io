@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 17:38",
+ "actualizado": "2026-10-27 17:48",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -468,6 +468,63 @@
    "auto": "Volkswagen Bora",
    "titulo_llanta": "Llanta Volkswagen R15",
    "subtitulo_llanta": "5x100 · R15 · con cubierta Firemax 195/55 R15 · del Volkswagen Bora",
+   "ingreso": "2026-10-27"
+  },
+  {
+   "id": "X001",
+   "tipo": "auxilio",
+   "titulo": "Auxilio Volkswagen up! R14 sin rodar",
+   "subtitulo": "175/70 R14 · 84T",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Sin rodar",
+    "Cubierta Dunlop Enasave EC300+",
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original"
+   ],
+   "sirve": "VW up!, Gol, Fox",
+   "detalle": "Rueda de auxilio del Volkswagen up! (llanta de chapa con cubierta Dunlop Enasave 175/70 R14), sin rodar. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/x001-1.jpg",
+    "fotos/x001-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/x001-1.jpg",
+    "fotos/m/x001-2.jpg"
+   ],
+   "claves": [
+    "1757014",
+    "4100",
+    "144100"
+   ],
+   "nums": [
+    "100",
+    "14",
+    "175",
+    "4",
+    "70"
+   ],
+   "texto": "auxilio volkswagen up! r14 sin rodar 175/70 r14 · 84t vw up!, gol, fox sin rodar cubierta dunlop enasave ec300+ llanta volkswagen de chapa 4x100 llanta original",
+   "wa": "Hola, quería consultar por la rueda de auxilio Volkswagen up! 175/70 R14 que vi en el catálogo (cód. X001).\nhttps://cubiertasmdz.github.io/p/X001/",
+   "url": "https://cubiertasmdz.github.io/p/X001/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "175/70 R14",
+   "auto": null,
+   "titulo_llanta": "Llanta Volkswagen R14 de chapa",
+   "subtitulo_llanta": "4x100 · R14 · con cubierta Dunlop 175/70 R14",
    "ingreso": "2026-10-27"
   },
   {
@@ -1346,32 +1403,29 @@
    "id": "R147",
    "tipo": "auxilio",
    "titulo": "Auxilio Volkswagen up! R14 sin rodar",
-   "subtitulo": "175/70 R14",
+   "subtitulo": "175/70 R14 · 84T",
    "rodado": 14,
-   "cantidad": 2,
-   "cantidad_txt": "Par",
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
    "estado": null,
    "vida": null,
    "segmentos": null,
    "etiquetas": [
     "Sin rodar",
+    "Cubierta Dunlop Enasave EC300+",
     "Llanta Volkswagen de chapa",
     "4x100",
     "Llanta original"
    ],
    "sirve": "VW up!, Gol, Fox",
-   "detalle": "Ruedas de auxilio del Volkswagen up! (llanta de chapa con cubierta 175/70 R14), sin rodar. Consultá por tu auto.",
+   "detalle": "Rueda de auxilio del Volkswagen up! (llanta de chapa con cubierta Dunlop Enasave 175/70 R14), sin rodar. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
-    "fotos/r147-1.jpg",
-    "fotos/r147-2.jpg",
-    "fotos/r147-3.jpg"
+    "fotos/r147-1.jpg"
    ],
    "miniaturas": [
-    "fotos/m/r147-1.jpg",
-    "fotos/m/r147-2.jpg",
-    "fotos/m/r147-3.jpg"
+    "fotos/m/r147-1.jpg"
    ],
    "claves": [
     "1757014",
@@ -1385,17 +1439,19 @@
     "4",
     "70"
    ],
-   "texto": "auxilio volkswagen up! r14 sin rodar 175/70 r14 vw up!, gol, fox sin rodar llanta volkswagen de chapa 4x100 llanta original",
-   "wa": "Hola, quería consultar por las 2 ruedas de auxilio Volkswagen up! 175/70 R14 que vi en el catálogo (cód. R147).\nhttps://cubiertasmdz.github.io/p/R147/",
+   "texto": "auxilio volkswagen up! r14 sin rodar 175/70 r14 · 84t vw up!, gol, fox sin rodar cubierta dunlop enasave ec300+ llanta volkswagen de chapa 4x100 llanta original",
+   "wa": "Hola, quería consultar por la rueda de auxilio Volkswagen up! 175/70 R14 que vi en el catálogo (cód. R147).\nhttps://cubiertasmdz.github.io/p/R147/",
    "url": "https://cubiertasmdz.github.io/p/R147/",
    "marcas_llanta": [
     "Volkswagen"
    ],
-   "marcas_cubierta": [],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
    "medida_cubierta": "175/70 R14",
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R14 de chapa",
-   "subtitulo_llanta": "4x100 · R14 · con cubierta 175/70 R14",
+   "subtitulo_llanta": "4x100 · R14 · con cubierta Dunlop 175/70 R14",
    "ingreso": "2026-10-26"
   },
   {
