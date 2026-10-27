@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 17:51",
+ "actualizado": "2026-10-27 17:56",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -14621,23 +14621,23 @@
   },
   {
    "id": "R089",
-   "tipo": "rueda",
-   "titulo": "Rueda Citroën R15 de chapa con Goodyear",
-   "subtitulo": "185/60 R15",
+   "tipo": "llanta",
+   "titulo": "Llanta Citroën R15",
+   "subtitulo": "4x108 · R15",
    "rodado": 15,
    "cantidad": 1,
    "cantidad_txt": "1 unidad",
    "estado": "Buena",
-   "vida": 55,
-   "segmentos": 3,
+   "vida": null,
+   "segmentos": 4,
    "etiquetas": [
-    "Llanta Citroën de chapa",
-    "4x108",
-    "Llanta original",
-    "Rayones"
+    "Original",
+    "Chapa",
+    "Rayones",
+    "Solo se vende la llanta"
    ],
    "sirve": "Citroën C3, C4, Peugeot 207, 208",
-   "detalle": "Llanta original Citroën rodado 15 de chapa de 4 agujeros, con cubierta Goodyear Eagle NCT5 185/60 R15. Ideal como auxilio. Consultá por tu auto.",
+   "detalle": "Llanta original Citroën rodado 15 de chapa de 4 agujeros, con rayones. Solo se vende la llanta: la cubierta que se ve en las fotos ya se vendió. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -14649,30 +14649,24 @@
     "fotos/m/r089-2.jpg"
    ],
    "claves": [
-    "1856015",
+    "15",
     "4108",
     "154108"
    ],
    "nums": [
     "108",
     "15",
-    "185",
-    "4",
-    "60"
+    "4"
    ],
-   "texto": "rueda citroën r15 de chapa con goodyear 185/60 r15 citroën c3, c4, peugeot 207, 208 llanta citroën de chapa 4x108 llanta original rayones",
-   "wa": "Hola, quería consultar por la rueda completa con llanta Citroën R15 de chapa y cubierta Goodyear 185/60 R15 que vi en el catálogo (cód. R089).\nhttps://cubiertasmdz.github.io/p/R089/",
+   "texto": "llanta citroën r15 4x108 · r15 citroën c3, c4, peugeot 207, 208 original chapa rayones solo se vende la llanta",
+   "wa": "Hola, quería consultar por la llanta Citroën R15 4x108 que vi en el catálogo (cód. R089).\nhttps://cubiertasmdz.github.io/p/R089/",
    "url": "https://cubiertasmdz.github.io/p/R089/",
    "marcas_llanta": [
     "Citroën"
    ],
-   "marcas_cubierta": [
-    "Goodyear"
-   ],
-   "medida_cubierta": "185/60 R15",
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
    "auto": null,
-   "titulo_llanta": "Llanta Citroën R15 de chapa",
-   "subtitulo_llanta": "4x108 · R15 · con cubierta Goodyear 185/60 R15",
    "ingreso": "2026-10-17"
   },
   {
@@ -15194,7 +15188,7 @@
   {
    "id": "R101",
    "tipo": "rueda",
-   "titulo": "Par de ruedas Peugeot R15 de chapa con Linglong",
+   "titulo": "2 llantas Peugeot R15 de chapa (1 con cubierta Linglong)",
    "subtitulo": "185/60 R15 · 88H",
    "rodado": 15,
    "cantidad": 2,
@@ -15207,10 +15201,11 @@
     "4x108",
     "Llanta original",
     "Rayones",
-    "Reforzada (XL)"
+    "Reforzada (XL)",
+    "1 de las 2 sin cubierta"
    ],
    "sirve": "Peugeot 207, 208, 2008, Citroën C3",
-   "detalle": "Par de llantas originales Peugeot rodado 15 de 4 agujeros, con cubiertas Linglong L900 185/60 R15 · 88H. Consultá por tu auto.",
+   "detalle": "Par de llantas originales Peugeot rodado 15 de 4 agujeros, con rayones. Una tiene cubierta Linglong L900 185/60 R15 · 88H; la otra se entrega sin cubierta (la cubierta ya se vendió). Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -15235,8 +15230,8 @@
     "4",
     "60"
    ],
-   "texto": "par de ruedas peugeot r15 de chapa con linglong 185/60 r15 · 88h peugeot 207, 208, 2008, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones reforzada (xl)",
-   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Peugeot R15 de chapa y cubiertas 185/60 R15 que vi en el catálogo (cód. R101).\nhttps://cubiertasmdz.github.io/p/R101/",
+   "texto": "2 llantas peugeot r15 de chapa (1 con cubierta linglong) 185/60 r15 · 88h peugeot 207, 208, 2008, citroën c3 llanta peugeot de chapa 4x108 llanta original rayones reforzada (xl) 1 de las 2 sin cubierta",
+   "wa": "Hola, quería consultar por las 2 llantas Peugeot R15 de chapa (una con cubierta Linglong 185/60 R15) que vi en el catálogo (cód. R101).\nhttps://cubiertasmdz.github.io/p/R101/",
    "url": "https://cubiertasmdz.github.io/p/R101/",
    "marcas_llanta": [
     "Peugeot"
@@ -15246,7 +15241,7 @@
    ],
    "medida_cubierta": "185/60 R15",
    "auto": null,
-   "titulo_llanta": "Llanta Peugeot R15 de chapa",
+   "titulo_llanta": "2 llantas Peugeot R15 de chapa (1 con cubierta Linglong)",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Linglong 185/60 R15",
    "ingreso": "2026-10-17"
   },
