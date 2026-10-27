@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 17:48",
+ "actualizado": "2026-10-27 17:51",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1301,9 +1301,9 @@
   },
   {
    "id": "R145",
-   "tipo": "llanta",
-   "titulo": "Llanta Ford R16",
-   "subtitulo": "5x108 · R16",
+   "tipo": "auxilio",
+   "titulo": "Auxilio Ford Focus R16 sin rodar",
+   "subtitulo": "125/80 R16",
    "rodado": 16,
    "cantidad": 1,
    "cantidad_txt": "1 unidad",
@@ -1311,12 +1311,14 @@
    "vida": null,
    "segmentos": null,
    "etiquetas": [
-    "Original",
-    "Chapa",
-    "Se vende sin cubierta"
+    "Sin rodar",
+    "Llanta Ford de chapa",
+    "5x108",
+    "Llanta original",
+    "Auxilio temporal"
    ],
    "sirve": "Ford Focus",
-   "detalle": "Llanta de chapa original Ford rodado 16 de 5 agujeros (de auxilio del Ford Focus). Se vende sin cubierta. Consultá por tu auto.",
+   "detalle": "Rueda de auxilio original del Ford Focus (llanta de chapa con cubierta temporal 125/80 R16), sin rodar. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -1328,33 +1330,35 @@
     "fotos/m/r145-1.jpg"
    ],
    "claves": [
-    "16",
+    "1258016",
     "5108",
     "165108"
    ],
    "nums": [
     "108",
+    "125",
     "16",
-    "5"
+    "5",
+    "80"
    ],
-   "texto": "llanta ford r16 5x108 · r16 ford focus original chapa se vende sin cubierta",
-   "wa": "Hola, quería consultar por la llanta Ford R16 5x108 que vi en el catálogo (cód. R145).\nhttps://cubiertasmdz.github.io/p/R145/",
+   "texto": "auxilio ford focus r16 sin rodar 125/80 r16 ford focus sin rodar llanta ford de chapa 5x108 llanta original auxilio temporal",
+   "wa": "Hola, quería consultar por la rueda de auxilio Ford Focus 125/80 R16 que vi en el catálogo (cód. R145).\nhttps://cubiertasmdz.github.io/p/R145/",
    "url": "https://cubiertasmdz.github.io/p/R145/",
    "marcas_llanta": [
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": null,
-   "auto": "Ford Focus",
-   "titulo_auto": "Ford Focus",
-   "subtitulo_auto": "Solo llantas · 5x108 · R16",
+   "medida_cubierta": "125/80 R16",
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R16 de chapa",
+   "subtitulo_llanta": "5x108 · R16 · con cubierta 125/80 R16",
    "ingreso": "2026-10-26"
   },
   {
    "id": "R146",
-   "tipo": "llanta",
-   "titulo": "Llanta Chevrolet R15",
-   "subtitulo": "R15",
+   "tipo": "auxilio",
+   "titulo": "Auxilio Chevrolet Astra R15 sin rodar",
+   "subtitulo": "195/60 R15",
    "rodado": 15,
    "cantidad": 1,
    "cantidad_txt": "1 unidad",
@@ -1362,12 +1366,13 @@
    "vida": null,
    "segmentos": null,
    "etiquetas": [
-    "Original",
-    "Chapa",
-    "Se vende sin cubierta"
+    "Sin rodar",
+    "Cubierta Bridgestone Turanza",
+    "Llanta Chevrolet de chapa",
+    "Llanta original"
    ],
    "sirve": "Chevrolet Astra",
-   "detalle": "Llanta de chapa original Chevrolet rodado 15 (de auxilio del Chevrolet Astra). Se vende sin cubierta. Consultá por tu auto.",
+   "detalle": "Rueda de auxilio del Chevrolet Astra (llanta de chapa con cubierta Bridgestone Turanza 195/60 R15), sin rodar. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -1381,22 +1386,26 @@
     "fotos/m/r146-3.jpg"
    ],
    "claves": [
-    "15"
+    "1956015"
    ],
    "nums": [
-    "15"
+    "15",
+    "195",
+    "60"
    ],
-   "texto": "llanta chevrolet r15 r15 chevrolet astra original chapa se vende sin cubierta",
-   "wa": "Hola, quería consultar por la llanta Chevrolet R15 que vi en el catálogo (cód. R146).\nhttps://cubiertasmdz.github.io/p/R146/",
+   "texto": "auxilio chevrolet astra r15 sin rodar 195/60 r15 chevrolet astra sin rodar cubierta bridgestone turanza llanta chevrolet de chapa llanta original",
+   "wa": "Hola, quería consultar por la rueda de auxilio Chevrolet Astra 195/60 R15 que vi en el catálogo (cód. R146).\nhttps://cubiertasmdz.github.io/p/R146/",
    "url": "https://cubiertasmdz.github.io/p/R146/",
    "marcas_llanta": [
     "Chevrolet"
    ],
-   "marcas_cubierta": [],
-   "medida_cubierta": null,
-   "auto": "Chevrolet Astra",
-   "titulo_auto": "Chevrolet Astra",
-   "subtitulo_auto": "Solo llantas · R15",
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "195/60 R15",
+   "auto": null,
+   "titulo_llanta": "Llanta Chevrolet R15 de chapa",
+   "subtitulo_llanta": "R15 · con cubierta Bridgestone 195/60 R15",
    "ingreso": "2026-10-26"
   },
   {
