@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27 17:28",
+ "actualizado": "2026-10-27 17:32",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -65,6 +65,411 @@
   }
  ],
  "productos": [
+  {
+   "id": "L236",
+   "tipo": "llanta",
+   "titulo": "Llanta Chevrolet R13",
+   "subtitulo": "4x100 · R13",
+   "rodado": 13,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Chapa",
+    "Con tazas",
+    "Se venden sin cubierta"
+   ],
+   "sirve": "Chevrolet Corsa, Classic, Celta",
+   "detalle": "Juego de 4 llantas de chapa originales Chevrolet rodado 13 de 4 agujeros, con tazas, de un Chevrolet Corsa. Se venden solo las llantas: las cubiertas no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l236-1.jpg",
+    "fotos/l236-2.jpg",
+    "fotos/l236-3.jpg",
+    "fotos/l236-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l236-1.jpg",
+    "fotos/m/l236-2.jpg",
+    "fotos/m/l236-3.jpg",
+    "fotos/m/l236-4.jpg"
+   ],
+   "claves": [
+    "13",
+    "4100",
+    "134100"
+   ],
+   "nums": [
+    "100",
+    "13",
+    "4"
+   ],
+   "texto": "llanta chevrolet r13 4x100 · r13 chevrolet corsa, classic, celta original chapa con tazas se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 4 llantas Chevrolet R13 4x100 que vi en el catálogo (cód. L236).\nhttps://cubiertasmdz.github.io/p/L236/",
+   "url": "https://cubiertasmdz.github.io/p/L236/",
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "auto": "Chevrolet Corsa",
+   "titulo_auto": "Chevrolet Corsa",
+   "subtitulo_auto": "Solo llantas · 4x100 · R13",
+   "ingreso": "2026-10-27"
+  },
+  {
+   "id": "R148",
+   "tipo": "rueda",
+   "titulo": "4 ruedas Peugeot R15 de chapa con Bridgestone",
+   "subtitulo": "195/60 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Ideal auxilio"
+   ],
+   "sirve": "Peugeot 207, 208, 307, Citroën C3",
+   "detalle": "4 ruedas completas: llantas de chapa originales Peugeot rodado 15 con cubiertas Bridgestone Ecopia EP150 195/60 R15 (puestas en el auto). Ideales para auxilio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r148-1.jpg",
+    "fotos/r148-2.jpg",
+    "fotos/r148-3.jpg",
+    "fotos/r148-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r148-1.jpg",
+    "fotos/m/r148-2.jpg",
+    "fotos/m/r148-3.jpg",
+    "fotos/m/r148-4.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "4108",
+    "154108"
+   ],
+   "nums": [
+    "108",
+    "15",
+    "195",
+    "4",
+    "60"
+   ],
+   "texto": "4 ruedas peugeot r15 de chapa con bridgestone 195/60 r15 peugeot 207, 208, 307, citroën c3 llanta peugeot de chapa 4x108 llanta original ideal auxilio",
+   "wa": "Hola, quería consultar por las 4 ruedas completas Bridgestone 195/60 R15 con llanta Peugeot que vi en el catálogo (cód. R148).\nhttps://cubiertasmdz.github.io/p/R148/",
+   "url": "https://cubiertasmdz.github.io/p/R148/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "195/60 R15",
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R15 de chapa",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Bridgestone 195/60 R15",
+   "ingreso": "2026-10-27"
+  },
+  {
+   "id": "L237",
+   "tipo": "llanta",
+   "titulo": "Llanta Toyota R16",
+   "subtitulo": "6x139.7 · R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Se venden sin cubierta"
+   ],
+   "sirve": "Toyota Hilux, SW4",
+   "detalle": "Juego de 4 llantas originales Toyota de aleación rodado 16 de 6 agujeros, de una Toyota Hilux. Se venden solo las llantas: las cubiertas no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l237-1.jpg",
+    "fotos/l237-2.jpg",
+    "fotos/l237-3.jpg",
+    "fotos/l237-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l237-1.jpg",
+    "fotos/m/l237-2.jpg",
+    "fotos/m/l237-3.jpg",
+    "fotos/m/l237-4.jpg"
+   ],
+   "claves": [
+    "16",
+    "6139.7",
+    "166139.7"
+   ],
+   "nums": [
+    "1397",
+    "16",
+    "6"
+   ],
+   "texto": "llanta toyota r16 6x139.7 · r16 toyota hilux, sw4 original aleación se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 4 llantas Toyota R16 6x139.7 que vi en el catálogo (cód. L237).\nhttps://cubiertasmdz.github.io/p/L237/",
+   "url": "https://cubiertasmdz.github.io/p/L237/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "auto": "Toyota Hilux",
+   "titulo_auto": "Toyota Hilux",
+   "subtitulo_auto": "Solo llantas · 6x139.7 · R16",
+   "ingreso": "2026-10-27"
+  },
+  {
+   "id": "R149",
+   "tipo": "rueda",
+   "titulo": "2 ruedas Toyota Hilux R16 de chapa con Bridgestone",
+   "subtitulo": "245/60 R16",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Toyota de chapa",
+    "6x139.7",
+    "Llanta original"
+   ],
+   "sirve": "Toyota Hilux, SW4",
+   "detalle": "2 ruedas completas: llantas de chapa originales Toyota Hilux rodado 16 con cubiertas Bridgestone Dueler H/T 245/60 R16 (puestas en el auto). Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r149-1.jpg",
+    "fotos/r149-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r149-1.jpg",
+    "fotos/m/r149-2.jpg"
+   ],
+   "claves": [
+    "2456016",
+    "6139.7",
+    "166139.7"
+   ],
+   "nums": [
+    "1397",
+    "16",
+    "245",
+    "6",
+    "60"
+   ],
+   "texto": "2 ruedas toyota hilux r16 de chapa con bridgestone 245/60 r16 toyota hilux, sw4 llanta toyota de chapa 6x139.7 llanta original",
+   "wa": "Hola, quería consultar por las 2 ruedas completas Bridgestone 245/60 R16 con llanta Toyota que vi en el catálogo (cód. R149).\nhttps://cubiertasmdz.github.io/p/R149/",
+   "url": "https://cubiertasmdz.github.io/p/R149/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "245/60 R16",
+   "auto": "Toyota Hilux",
+   "titulo_auto": "Toyota Hilux",
+   "subtitulo_auto": "Llanta con cubierta · 245/60 R16",
+   "titulo_llanta": "Llanta Toyota R16 de chapa",
+   "subtitulo_llanta": "6x139.7 · R16 · con cubierta Bridgestone 245/60 R16",
+   "ingreso": "2026-10-27"
+  },
+  {
+   "id": "A014",
+   "tipo": "auto",
+   "titulo": "Ford Territory Titanium",
+   "subtitulo": "235/50 R19",
+   "rodado": 19,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Muy buena",
+   "vida": null,
+   "segmentos": 5,
+   "etiquetas": [
+    "Cubiertas Goodyear Performance",
+    "Llanta Ford de aleación",
+    "5x108",
+    "Llanta original"
+   ],
+   "sirve": "Ford Territory",
+   "detalle": "Juego de 4 ruedas (llantas Ford con cubiertas Goodyear Performance 235/50 R19 en muy buen estado) puestas en la Ford Territory Titanium. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a014-1.jpg",
+    "fotos/a014-2.jpg",
+    "fotos/a014-3.jpg",
+    "fotos/a014-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a014-1.jpg",
+    "fotos/m/a014-2.jpg",
+    "fotos/m/a014-3.jpg",
+    "fotos/m/a014-4.jpg"
+   ],
+   "claves": [
+    "2355019",
+    "5108",
+    "195108"
+   ],
+   "nums": [
+    "108",
+    "19",
+    "235",
+    "5",
+    "50"
+   ],
+   "texto": "ford territory titanium 235/50 r19 ford territory cubiertas goodyear performance llanta ford de aleación 5x108 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Ford Territory Titanium (235/50 R19) que vi en el catálogo (cód. A014).\nhttps://cubiertasmdz.github.io/p/A014/",
+   "url": "https://cubiertasmdz.github.io/p/A014/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Goodyear"
+   ],
+   "medida_cubierta": "235/50 R19",
+   "auto": "Ford Territory Titanium",
+   "titulo_llanta": "Llanta Ford R19",
+   "subtitulo_llanta": "5x108 · R19 · con cubierta Goodyear 235/50 R19 · del Ford Territory Titanium",
+   "ingreso": "2026-10-27"
+  },
+  {
+   "id": "A015",
+   "tipo": "auto",
+   "titulo": "Porsche Cayenne",
+   "subtitulo": "275/45 R20",
+   "rodado": 20,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 3 cubiertas",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Llanta Porsche de aleación",
+    "5x130",
+    "Llanta original"
+   ],
+   "sirve": "Porsche Cayenne, VW Touareg, Audi Q7",
+   "detalle": "4 llantas originales Porsche de aleación rodado 20 del Porsche Cayenne: 3 con cubierta 275/45 R20 y 1 sin cubierta. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a015-1.jpg",
+    "fotos/a015-2.jpg",
+    "fotos/a015-3.jpg",
+    "fotos/a015-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a015-1.jpg",
+    "fotos/m/a015-2.jpg",
+    "fotos/m/a015-3.jpg",
+    "fotos/m/a015-4.jpg"
+   ],
+   "claves": [
+    "2754520",
+    "5130",
+    "205130"
+   ],
+   "nums": [
+    "130",
+    "20",
+    "275",
+    "45",
+    "5"
+   ],
+   "texto": "porsche cayenne 275/45 r20 porsche cayenne, vw touareg, audi q7 llanta porsche de aleación 5x130 llanta original",
+   "wa": "Hola, quería consultar por las 4 llantas (3 con cubierta) del Porsche Cayenne (275/45 R20) que vi en el catálogo (cód. A015).\nhttps://cubiertasmdz.github.io/p/A015/",
+   "url": "https://cubiertasmdz.github.io/p/A015/",
+   "marcas_llanta": [
+    "Porsche"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": "275/45 R20",
+   "auto": "Porsche Cayenne",
+   "titulo_llanta": "Llanta Porsche R20",
+   "subtitulo_llanta": "5x130 · R20 · con cubierta 275/45 R20 · del Porsche Cayenne",
+   "ingreso": "2026-10-27"
+  },
+  {
+   "id": "A016",
+   "tipo": "auto",
+   "titulo": "Volkswagen Bora",
+   "subtitulo": "195/55 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Cubiertas Firemax",
+    "Llanta Volkswagen de aleación",
+    "5x100",
+    "Llanta original"
+   ],
+   "sirve": "VW Bora, Golf IV, Polo",
+   "detalle": "Juego de 4 ruedas (llantas Volkswagen con cubiertas Firemax 195/55 R15) puestas en el Volkswagen Bora. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a016-1.jpg",
+    "fotos/a016-2.jpg",
+    "fotos/a016-3.jpg",
+    "fotos/a016-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a016-1.jpg",
+    "fotos/m/a016-2.jpg",
+    "fotos/m/a016-3.jpg",
+    "fotos/m/a016-4.jpg"
+   ],
+   "claves": [
+    "1955515",
+    "5100",
+    "155100"
+   ],
+   "nums": [
+    "100",
+    "15",
+    "195",
+    "5",
+    "55"
+   ],
+   "texto": "volkswagen bora 195/55 r15 vw bora, golf iv, polo cubiertas firemax llanta volkswagen de aleación 5x100 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Volkswagen Bora (195/55 R15) que vi en el catálogo (cód. A016).\nhttps://cubiertasmdz.github.io/p/A016/",
+   "url": "https://cubiertasmdz.github.io/p/A016/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Firemax"
+   ],
+   "medida_cubierta": "195/55 R15",
+   "auto": "Volkswagen Bora",
+   "titulo_llanta": "Llanta Volkswagen R15",
+   "subtitulo_llanta": "5x100 · R15 · con cubierta Firemax 195/55 R15 · del Volkswagen Bora",
+   "ingreso": "2026-10-27"
+  },
   {
    "id": "A011",
    "tipo": "auto",
@@ -839,24 +1244,22 @@
   },
   {
    "id": "R145",
-   "tipo": "auxilio",
-   "titulo": "Auxilio Ford Focus R16 sin rodar",
-   "subtitulo": "125/80 R16",
+   "tipo": "llanta",
+   "titulo": "Llanta Ford R16",
+   "subtitulo": "5x108 · R16",
    "rodado": 16,
    "cantidad": 1,
    "cantidad_txt": "1 unidad",
-   "estado": "Muy buena",
-   "vida": 100,
-   "segmentos": 5,
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
    "etiquetas": [
-    "Sin rodar",
-    "Llanta Ford de chapa",
-    "5x108",
-    "Llanta original",
-    "Auxilio temporal"
+    "Original",
+    "Chapa",
+    "Se vende sin cubierta"
    ],
    "sirve": "Ford Focus",
-   "detalle": "Rueda de auxilio original del Ford Focus (llanta de chapa con cubierta temporal 125/80 R16), sin rodar. Consultá por tu auto.",
+   "detalle": "Llanta de chapa original Ford rodado 16 de 5 agujeros (de auxilio del Ford Focus). Se vende sin cubierta. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -868,49 +1271,46 @@
     "fotos/m/r145-1.jpg"
    ],
    "claves": [
-    "1258016",
+    "16",
     "5108",
     "165108"
    ],
    "nums": [
     "108",
-    "125",
     "16",
-    "5",
-    "80"
+    "5"
    ],
-   "texto": "auxilio ford focus r16 sin rodar 125/80 r16 ford focus sin rodar llanta ford de chapa 5x108 llanta original auxilio temporal",
-   "wa": "Hola, quería consultar por la rueda de auxilio Ford Focus 125/80 R16 que vi en el catálogo (cód. R145).\nhttps://cubiertasmdz.github.io/p/R145/",
+   "texto": "llanta ford r16 5x108 · r16 ford focus original chapa se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Ford R16 5x108 que vi en el catálogo (cód. R145).\nhttps://cubiertasmdz.github.io/p/R145/",
    "url": "https://cubiertasmdz.github.io/p/R145/",
    "marcas_llanta": [
     "Ford"
    ],
    "marcas_cubierta": [],
-   "medida_cubierta": "125/80 R16",
-   "auto": null,
-   "titulo_llanta": "Llanta Ford R16 de chapa",
-   "subtitulo_llanta": "5x108 · R16 · con cubierta 125/80 R16",
+   "medida_cubierta": null,
+   "auto": "Ford Focus",
+   "titulo_auto": "Ford Focus",
+   "subtitulo_auto": "Solo llantas · 5x108 · R16",
    "ingreso": "2026-10-26"
   },
   {
    "id": "R146",
-   "tipo": "auxilio",
-   "titulo": "Auxilio Chevrolet Astra R15 sin rodar",
-   "subtitulo": "195/60 R15",
+   "tipo": "llanta",
+   "titulo": "Llanta Chevrolet R15",
+   "subtitulo": "R15",
    "rodado": 15,
    "cantidad": 1,
    "cantidad_txt": "1 unidad",
-   "estado": "Muy buena",
-   "vida": 100,
-   "segmentos": 5,
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
    "etiquetas": [
-    "Sin rodar",
-    "Cubierta Bridgestone Turanza",
-    "Llanta Chevrolet de chapa",
-    "Llanta original"
+    "Original",
+    "Chapa",
+    "Se vende sin cubierta"
    ],
    "sirve": "Chevrolet Astra",
-   "detalle": "Rueda de auxilio del Chevrolet Astra (llanta de chapa con cubierta Bridgestone Turanza 195/60 R15), sin rodar. Consultá por tu auto.",
+   "detalle": "Llanta de chapa original Chevrolet rodado 15 (de auxilio del Chevrolet Astra). Se vende sin cubierta. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -924,26 +1324,22 @@
     "fotos/m/r146-3.jpg"
    ],
    "claves": [
-    "1956015"
+    "15"
    ],
    "nums": [
-    "15",
-    "195",
-    "60"
+    "15"
    ],
-   "texto": "auxilio chevrolet astra r15 sin rodar 195/60 r15 chevrolet astra sin rodar cubierta bridgestone turanza llanta chevrolet de chapa llanta original",
-   "wa": "Hola, quería consultar por la rueda de auxilio Chevrolet Astra 195/60 R15 que vi en el catálogo (cód. R146).\nhttps://cubiertasmdz.github.io/p/R146/",
+   "texto": "llanta chevrolet r15 r15 chevrolet astra original chapa se vende sin cubierta",
+   "wa": "Hola, quería consultar por la llanta Chevrolet R15 que vi en el catálogo (cód. R146).\nhttps://cubiertasmdz.github.io/p/R146/",
    "url": "https://cubiertasmdz.github.io/p/R146/",
    "marcas_llanta": [
     "Chevrolet"
    ],
-   "marcas_cubierta": [
-    "Bridgestone"
-   ],
-   "medida_cubierta": "195/60 R15",
-   "auto": null,
-   "titulo_llanta": "Llanta Chevrolet R15 de chapa",
-   "subtitulo_llanta": "R15 · con cubierta Bridgestone 195/60 R15",
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "auto": "Chevrolet Astra",
+   "titulo_auto": "Chevrolet Astra",
+   "subtitulo_auto": "Solo llantas · R15",
    "ingreso": "2026-10-26"
   },
   {
@@ -952,8 +1348,8 @@
    "titulo": "Auxilio Volkswagen up! R14 sin rodar",
    "subtitulo": "175/70 R14",
    "rodado": 14,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
+   "cantidad": 2,
+   "cantidad_txt": "Par",
    "estado": null,
    "vida": null,
    "segmentos": null,
@@ -964,14 +1360,18 @@
     "Llanta original"
    ],
    "sirve": "VW up!, Gol, Fox",
-   "detalle": "Rueda de auxilio del Volkswagen up! (llanta de chapa con cubierta 175/70 R14). Consultá por tu auto.",
+   "detalle": "Ruedas de auxilio del Volkswagen up! (llanta de chapa con cubierta 175/70 R14), sin rodar. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
-    "fotos/r147-1.jpg"
+    "fotos/r147-1.jpg",
+    "fotos/r147-2.jpg",
+    "fotos/r147-3.jpg"
    ],
    "miniaturas": [
-    "fotos/m/r147-1.jpg"
+    "fotos/m/r147-1.jpg",
+    "fotos/m/r147-2.jpg",
+    "fotos/m/r147-3.jpg"
    ],
    "claves": [
     "1757014",
@@ -986,7 +1386,7 @@
     "70"
    ],
    "texto": "auxilio volkswagen up! r14 sin rodar 175/70 r14 vw up!, gol, fox sin rodar llanta volkswagen de chapa 4x100 llanta original",
-   "wa": "Hola, quería consultar por la rueda de auxilio Volkswagen up! 175/70 R14 que vi en el catálogo (cód. R147).\nhttps://cubiertasmdz.github.io/p/R147/",
+   "wa": "Hola, quería consultar por las 2 ruedas de auxilio Volkswagen up! 175/70 R14 que vi en el catálogo (cód. R147).\nhttps://cubiertasmdz.github.io/p/R147/",
    "url": "https://cubiertasmdz.github.io/p/R147/",
    "marcas_llanta": [
     "Volkswagen"
@@ -2167,61 +2567,13 @@
    "ingreso": "2026-10-19"
   },
   {
-   "id": "L023",
-   "tipo": "llanta",
-   "titulo": "Llanta Toyota R15",
-   "subtitulo": "4x100 · R15",
-   "rodado": 15,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
-   "estado": null,
-   "vida": null,
-   "segmentos": null,
-   "etiquetas": [
-    "Original",
-    "Aleación"
-   ],
-   "sirve": "Toyota Etios, Yaris",
-   "detalle": "Llantas originales Toyota de aleación rodado 15 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/l023-1.jpg",
-    "fotos/l023-2.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/l023-1.jpg",
-    "fotos/m/l023-2.jpg"
-   ],
-   "claves": [
-    "15",
-    "4100",
-    "154100"
-   ],
-   "nums": [
-    "100",
-    "15",
-    "4"
-   ],
-   "texto": "llanta toyota r15 4x100 · r15 toyota etios, yaris original aleación",
-   "wa": "Hola, quería consultar por las 4 llantas Toyota R15 4x100 que vi en el catálogo (cód. L023).\nhttps://cubiertasmdz.github.io/p/L023/",
-   "url": "https://cubiertasmdz.github.io/p/L023/",
-   "marcas_llanta": [
-    "Toyota"
-   ],
-   "marcas_cubierta": [],
-   "medida_cubierta": null,
-   "auto": null,
-   "ingreso": "2026-10-19"
-  },
-  {
    "id": "L024",
    "tipo": "llanta",
    "titulo": "Llanta Toyota R16",
    "subtitulo": "5x114.3 · R16",
    "rodado": 16,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
    "estado": null,
    "vida": null,
    "segmentos": null,
@@ -2252,7 +2604,7 @@
     "5"
    ],
    "texto": "llanta toyota r16 5x114.3 · r16 toyota corolla, rav4 original aleación",
-   "wa": "Hola, quería consultar por las 4 llantas Toyota R16 5x114.3 que vi en el catálogo (cód. L024).\nhttps://cubiertasmdz.github.io/p/L024/",
+   "wa": "Hola, quería consultar por las 3 llantas Toyota R16 5x114.3 que vi en el catálogo (cód. L024).\nhttps://cubiertasmdz.github.io/p/L024/",
    "url": "https://cubiertasmdz.github.io/p/L024/",
    "marcas_llanta": [
     "Toyota"
@@ -13472,51 +13824,6 @@
    "ingreso": "2026-10-17"
   },
   {
-   "id": "C046",
-   "tipo": "cubierta",
-   "titulo": "Michelin Primacy 4",
-   "subtitulo": "205/55 R16 · 94V",
-   "rodado": 16,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
-   "estado": "Buena",
-   "vida": 55,
-   "segmentos": 3,
-   "etiquetas": [],
-   "sirve": "",
-   "detalle": "Cubierta suelta con buen dibujo.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/c046-1.jpg",
-    "fotos/c046-2.jpg",
-    "fotos/c046-3.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/c046-1.jpg",
-    "fotos/m/c046-2.jpg",
-    "fotos/m/c046-3.jpg"
-   ],
-   "claves": [
-    "2055516"
-   ],
-   "nums": [
-    "16",
-    "205",
-    "55"
-   ],
-   "texto": "michelin primacy 4 205/55 r16 · 94v  ",
-   "wa": "Hola, quería consultar por la cubierta Michelin 205/55 R16 que vi en el catálogo (cód. C046).\nhttps://cubiertasmdz.github.io/p/C046/",
-   "url": "https://cubiertasmdz.github.io/p/C046/",
-   "marcas_llanta": [],
-   "marcas_cubierta": [
-    "Michelin"
-   ],
-   "medida_cubierta": "205/55 R16",
-   "auto": null,
-   "ingreso": "2026-10-17"
-  },
-  {
    "id": "C047",
    "tipo": "cubierta",
    "titulo": "Bridgestone Ecopia EP150",
@@ -16947,23 +17254,23 @@
   },
   {
    "id": "R136",
-   "tipo": "rueda",
-   "titulo": "Par de ruedas Peugeot R15 con Firestone",
-   "subtitulo": "185/60 R15",
+   "tipo": "llanta",
+   "titulo": "Llanta Peugeot R15",
+   "subtitulo": "4x108 · R15",
    "rodado": 15,
    "cantidad": 2,
    "cantidad_txt": "Par",
-   "estado": "Buena",
-   "vida": 65,
-   "segmentos": 3,
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
    "etiquetas": [
-    "Llanta Peugeot de aleación",
-    "4x108",
-    "Llanta original",
-    "Rayones"
+    "Original",
+    "Aleación",
+    "Rayones",
+    "Se venden sin cubierta"
    ],
    "sirve": "Peugeot 206, 207",
-   "detalle": "Par de llantas originales Peugeot rodado 15 de 4 agujeros, con cubiertas Firestone Firehawk 700 185/60 R15. Consultá por tu auto.",
+   "detalle": "Par de llantas originales Peugeot de aleación rodado 15 de 4 agujeros. Se venden sin cubierta. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -16979,30 +17286,24 @@
     "fotos/m/r136-4.jpg"
    ],
    "claves": [
-    "1856015",
+    "15",
     "4108",
     "154108"
    ],
    "nums": [
     "108",
     "15",
-    "185",
-    "4",
-    "60"
+    "4"
    ],
-   "texto": "par de ruedas peugeot r15 con firestone 185/60 r15 peugeot 206, 207 llanta peugeot de aleación 4x108 llanta original rayones",
-   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Peugeot R15 y cubiertas 185/60 R15 que vi en el catálogo (cód. R136).\nhttps://cubiertasmdz.github.io/p/R136/",
+   "texto": "llanta peugeot r15 4x108 · r15 peugeot 206, 207 original aleación rayones se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 2 llantas Peugeot R15 4x108 que vi en el catálogo (cód. R136).\nhttps://cubiertasmdz.github.io/p/R136/",
    "url": "https://cubiertasmdz.github.io/p/R136/",
    "marcas_llanta": [
     "Peugeot"
    ],
-   "marcas_cubierta": [
-    "Firestone"
-   ],
-   "medida_cubierta": "185/60 R15",
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
    "auto": null,
-   "titulo_llanta": "Llanta Peugeot R15",
-   "subtitulo_llanta": "4x108 · R15 · con cubierta Firestone 185/60 R15",
    "ingreso": "2026-10-17"
   },
   {

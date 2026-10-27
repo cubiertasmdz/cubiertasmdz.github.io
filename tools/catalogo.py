@@ -8,7 +8,7 @@ Comandos:
   nuevo <archivo.json>             Carga un producto nuevo (ingreso). Imprime el código asignado.
   sumar <id> <n> [--costo X]       Suma unidades a un lote existente (ingreso).
   fotos <id> <img...> [--reemplazar]  Comprime y agrega fotos al producto.
-  venta <id> <n> [--monto X] [--cliente "..."] [--fecha AAAA-MM-DD] [--nota "..."]
+  venta <id> <n> [--monto X] [--cliente "..."] [--fecha AAAA-MM-DD] [--comision 5] [--vendedor "..."] [--nota "..."]
   precio <id> [--unidad X] [--par X|no] [--juego X|no]   (juego = las 4)
   baja <id> [--nota "..."]         Oculta el producto del catálogo.
   alta <id>                        Vuelve a mostrar un producto oculto.
@@ -612,7 +612,9 @@ def cmd_venta(pid, n, op):
         monto = n * (p.get("precio_unidad") or 0)
     p["cantidad"] = int(p["cantidad"]) - n
     guardar(stock)
-    extra = {k: op[k] for k in ("cliente",) if op.get(k)}
+    extra = {k: op[k] for k in ("cliente", "vendedor") if op.get(k)}
+    if op.get("comision"):  # ej. ventas que hace Lucho: 5% en vez del 10% habitual
+        extra["comision"] = num(op["comision"]) / 100 if num(op["comision"]) > 1 else num(op["comision"])
     if op.get("fecha"):  # venta de otro día (ej. cargada al día siguiente)
         extra["fecha_venta"] = op["fecha"]
     registrar("venta", p, n, monto, op.get("nota", "") + (" — queda en 0, se oculta" if p["cantidad"] == 0 else ""), **extra)
@@ -807,7 +809,7 @@ def planilla(destino=None):
             unit = m["monto"] / cant
         ganancia = None
         if m["tipo"] == "venta" and m.get("monto") is not None:  # comisión sobre lo cobrado (no hay costo de compra)
-            ganancia = round(m["monto"] * CONFIG.get("comision", 0.10))
+            ganancia = round(m["monto"] * m.get("comision", CONFIG.get("comision", 0.10)))
         filas.append([
             m["fecha"], {"ingreso": "INGRESO", "venta": "SALIDA (venta)", "baja": "BAJA", "alta": "ALTA",
                          "precio": "Cambio de precio", "edicion": "Corrección"}.get(m["tipo"], m["tipo"]),
@@ -833,7 +835,7 @@ def planilla(destino=None):
         [f"Ventas de {mes} (unidades)", sum(m["cantidad"] or 0 for m in ventas_mes)],
         [f"Ventas de {mes} (monto)", sum(m["monto"] or 0 for m in ventas_mes)],
         [f'Ganancia de {mes} ({round(CONFIG.get("comision", 0.10) * 100)}% de lo cobrado)',
-         round(sum(m["monto"] or 0 for m in ventas_mes) * CONFIG.get("comision", 0.10))],
+         sum(round((m["monto"] or 0) * m.get("comision", CONFIG.get("comision", 0.10))) for m in ventas_mes)],
         [f'Cubiertas con más de {CONFIG["anios_alerta"]} años', ", ".join(p["id"] for p in viejas) or "Ninguna"],
         ["Nota", "Los totales no incluyen productos de prueba."],
     ]
@@ -880,9 +882,9 @@ def cmd_ventas_mes(mes=None):
     ws = wb.active
     ws.title = "Ventas"
     cols = ["Fecha", "Código", "Producto", "Tipo", "Marca", "Rodado / medida", "Cantidad", "Total cobrado", "Precio c/u",
-            f"Ganancia ({pct})", f"Para el dueño ({100 - round(com * 100)}%)", "Cliente", "Nota"]
+            "Ganancia (comisión)", "Para el dueño", "Cliente", "Nota"]
     ws.append(cols)
-    tot_u = tot_m = 0
+    tot_u = tot_m = tot_g = 0
     por_tipo = {}
     for m in sorted(ventas, key=lambda x: x.get("fecha_venta") or x["fecha"]):
         p = stock.get(m["id"], {})
@@ -892,12 +894,14 @@ def cmd_ventas_mes(mes=None):
         marca = (p.get("llanta_marca") or p.get("marca")) if p else None
         ws.append([(m.get("fecha_venta") or m["fecha"])[:10], m["id"], m.get("producto"), tipo, marca,
                    medida(p) if p else None, cant, monto, (monto / cant) if monto and cant else None,
-                   round(monto * com), round(monto * (1 - com)), m.get("cliente"), m.get("detalle")])
-        tot_u += cant; tot_m += monto
+                   round(monto * m.get("comision", com)), round(monto * (1 - m.get("comision", com))),
+                   m.get("cliente"), (f'Vendió {m["vendedor"]} ({round(m["comision"] * 100)}%). ' if m.get("vendedor") else
+                                      f'Comisión {round(m["comision"] * 100)}%. ' if "comision" in m else "") + (m.get("detalle") or "")])
+        tot_u += cant; tot_m += monto; tot_g += round(monto * m.get("comision", com))
         t = por_tipo.setdefault(tipo or "Otro", [0, 0])
         t[0] += cant; t[1] += monto
     ws.append([])
-    ws.append(["TOTAL", "", "", "", "", "", tot_u, tot_m, "", round(tot_m * com), round(tot_m * (1 - com))])
+    ws.append(["TOTAL", "", "", "", "", "", tot_u, tot_m, "", tot_g, tot_m - tot_g])
     for c in ws[1]:
         c.font = Font(bold=True, color="FFFFFF"); c.fill = PatternFill("solid", fgColor="111111")
         c.alignment = Alignment(wrap_text=True, vertical="center")
@@ -911,8 +915,8 @@ def cmd_ventas_mes(mes=None):
     ws.freeze_panes = "A2"
     r = wb.create_sheet("Resumen", 0)
     filas = [["Mes", mes], ["Operaciones de venta", len(ventas)], ["Unidades vendidas", tot_u],
-             ["Total cobrado", tot_m], [f"Ganancia ({pct} de lo cobrado)", round(tot_m * com)],
-             [f"Para los dueños ({100 - round(com * 100)}%)", round(tot_m * (1 - com))], [],
+             ["Total cobrado", tot_m], [f"Ganancia ({pct} de lo cobrado; 5% en las que vende Lucho)", tot_g],
+             ["Para los dueños", tot_m - tot_g], [],
              ["Por tipo", "Unidades / Total cobrado"]]
     for t, (u, mo) in sorted(por_tipo.items()):
         filas.append([t, f"{u} u. / {pesos(mo)}"])
@@ -928,7 +932,7 @@ def cmd_ventas_mes(mes=None):
     (ROOT / "exportes").mkdir(exist_ok=True)
     ruta = ROOT / "exportes" / f"VENTAS {mes}.xlsx"
     wb.save(ruta)
-    print(f"{ruta}\n{len(ventas)} ventas, {tot_u} unidades, cobrado {pesos(tot_m)}, ganancia ({pct}) {pesos(round(tot_m * com))}")
+    print(f"{ruta}\n{len(ventas)} ventas, {tot_u} unidades, cobrado {pesos(tot_m)}, ganancia {pesos(tot_g)}")
 
 
 def cmd_publicar(mensaje):
