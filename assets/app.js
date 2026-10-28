@@ -122,6 +122,14 @@
     }).join("");
   }
 
+  // en Llantas: cartel para distinguir llanta sola / con cubierta / puesta en un auto
+  function clasePest(p) {
+    if (estado.tab !== "llanta") return "";
+    const auto = p.tipo === "auto" ? p.titulo : p.titulo_auto;
+    const [txt, cls] = auto ? ["Puesta en " + auto, "en-auto"] : p.tipo === "rueda" ? ["Con cubierta", "con-cubierta"] : ["Llanta sola", "sola"];
+    return `<span class="clase-llanta ${cls}">${esc(txt)}</span>`;
+  }
+
   function tarjeta(p) {
     const comoLlanta = estado.tab === "llanta" && (p.tipo === "rueda" || p.tipo === "auto") && p.titulo_llanta;  // rueda completa vista en Llantas
     const comoAuto = estado.tab === "auto" && (p.tipo === "llanta" || p.tipo === "rueda") && p.titulo_auto;  // llanta sola vista en En autos
@@ -157,6 +165,7 @@
         ${esNuevo(p) ? `<span class="nuevo">Nuevo ingreso</span>` : ""}
       </div>
       <div class="cuerpo">
+        ${clasePest(p)}
         <h2>${esc(comoLlanta ? p.titulo_llanta : comoAuto ? p.titulo_auto : p.titulo)}</h2>
         <p class="medida">${esc(comoLlanta ? p.subtitulo_llanta : comoAuto ? p.subtitulo_auto : p.subtitulo)}</p>
         ${estadoHtml}
