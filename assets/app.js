@@ -65,7 +65,9 @@
     $("#f-marca").innerHTML = opt("", "Todas") +
       (ml.length ? `<optgroup label="Marca de llanta">${ml.map((m) => opt("l:" + m, m)).join("")}</optgroup>` : "") +
       (mc.length ? `<optgroup label="Marca de cubierta">${mc.map((m) => opt("c:" + m, m)).join("")}</optgroup>` : "");
-    const medidas = unicos(base.map((p) => p.medida_cubierta).filter(Boolean));
+    // en Cubiertas la lista de medidas incluye las cubiertas puestas en llanta
+    const deMedidas = cat && cat.id === "cubierta" ? estado.datos.productos : base;
+    const medidas = unicos(deMedidas.map((p) => p.medida_cubierta).filter(Boolean));
     $("#f-medida").innerHTML = [`<option value="">Todas</option>`]
       .concat(medidas.map((m) => `<option value="${esc(m)}"${m === estado.medida ? " selected" : ""}>${esc(m)}</option>`)).join("");
     const conMedida = !!(cat && cat.filtro_medida && medidas.length);
@@ -88,6 +90,8 @@
   function enPestana(p, tab) {
     if (p.tipo === tab) return true;
     if (tab === "auto" && p.titulo_auto) return true;  // llantas solas puestas en un auto
+    // Cubiertas filtradas por medida: también las que están puestas en llanta (ruedas, autos, auxilios)
+    if (tab === "cubierta" && estado.medida && p.medida_cubierta === estado.medida) return true;
     const cat = estado.datos.categorias.find((c) => c.id === tab);
     return !!(cat && cat.incluye && cat.incluye.includes(p.tipo));
   }
