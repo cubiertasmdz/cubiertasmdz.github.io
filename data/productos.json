@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28 22:25",
+ "actualizado": "2026-10-29 13:51",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -1814,6 +1814,8 @@
    "vida": null,
    "segmentos": null,
    "etiquetas": [
+    "Original",
+    "Aleación",
     "Se venden sin cubierta"
    ],
    "sirve": "Chevrolet Corsa, Classic, Celta, Agile",
@@ -1840,10 +1842,12 @@
     "14",
     "4"
    ],
-   "texto": "llantas r14 de corsa estrella 4x100 · r14 chevrolet corsa, classic, celta, agile se venden sin cubierta",
-   "wa": "Hola, quería consultar por las 4 llantas de aleación R14 4x100 que vi en el catálogo (cód. L223).\nhttps://cubiertasmdz.github.io/p/L223/",
+   "texto": "llantas r14 de corsa estrella 4x100 · r14 chevrolet corsa, classic, celta, agile original aleación se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 4 llantas Chevrolet R14 4x100 que vi en el catálogo (cód. L223).\nhttps://cubiertasmdz.github.io/p/L223/",
    "url": "https://cubiertasmdz.github.io/p/L223/",
-   "marcas_llanta": [],
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
    "auto": "Chevrolet Corsa Estrella",
