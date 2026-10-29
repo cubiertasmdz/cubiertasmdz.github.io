@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29 13:51",
+ "actualizado": "2026-10-29 14:37",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -65,6 +65,65 @@
   }
  ],
  "productos": [
+  {
+   "id": "X002",
+   "tipo": "auxilio",
+   "titulo": "Auxilio Toyota Yaris R15 sin rodar",
+   "subtitulo": "185/60 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Sin rodar",
+    "Cubierta Bridgestone Turanza ER300",
+    "Llanta Toyota de chapa",
+    "4x100",
+    "Llanta original"
+   ],
+   "sirve": "Toyota Yaris, Etios",
+   "detalle": "Rueda de auxilio del Toyota Yaris (llanta de chapa con cubierta Bridgestone Turanza ER300 185/60 R15), sin rodar. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/x002-1.jpg",
+    "fotos/x002-2.jpg",
+    "fotos/x002-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/x002-1.jpg",
+    "fotos/m/x002-2.jpg",
+    "fotos/m/x002-3.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "4100",
+    "154100"
+   ],
+   "nums": [
+    "100",
+    "15",
+    "185",
+    "4",
+    "60"
+   ],
+   "texto": "auxilio toyota yaris r15 sin rodar 185/60 r15 toyota yaris, etios sin rodar cubierta bridgestone turanza er300 llanta toyota de chapa 4x100 llanta original",
+   "wa": "Hola, quería consultar por la rueda de auxilio Toyota Yaris 185/60 R15 que vi en el catálogo (cód. X002).\nhttps://cubiertasmdz.github.io/p/X002/",
+   "url": "https://cubiertasmdz.github.io/p/X002/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "185/60 R15",
+   "auto": null,
+   "titulo_llanta": "Llanta Toyota R15 de chapa",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Bridgestone 185/60 R15",
+   "ingreso": "2026-10-29"
+  },
   {
    "id": "L236",
    "tipo": "llanta",
