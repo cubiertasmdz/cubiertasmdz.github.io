@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29 14:37",
+ "actualizado": "2026-10-30 15:36",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -65,6 +65,68 @@
   }
  ],
  "productos": [
+  {
+   "id": "A017",
+   "tipo": "auto",
+   "titulo": "Volkswagen Suran",
+   "subtitulo": "195/60 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Cubiertas Dunlop / Firestone SP Sport FM800 / Firehawk 900",
+    "Llanta Volkswagen de aleación",
+    "5x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "VW Suran, Fox, Gol Trend, Polo",
+   "detalle": "Juego de 4 ruedas (llantas originales Volkswagen de aleación rodado 15 con cubiertas 195/60 R15) puestas en la Volkswagen Suran. Cubiertas: 2 Dunlop SP Sport FM800 y 2 Firestone Firehawk 900. Las llantas tienen rayones. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a017-1.jpg",
+    "fotos/a017-2.jpg",
+    "fotos/a017-3.jpg",
+    "fotos/a017-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a017-1.jpg",
+    "fotos/m/a017-2.jpg",
+    "fotos/m/a017-3.jpg",
+    "fotos/m/a017-4.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "5100",
+    "155100"
+   ],
+   "nums": [
+    "100",
+    "15",
+    "195",
+    "5",
+    "60"
+   ],
+   "texto": "volkswagen suran 195/60 r15 vw suran, fox, gol trend, polo cubiertas dunlop / firestone sp sport fm800 / firehawk 900 llanta volkswagen de aleación 5x100 llanta original rayones",
+   "wa": "Hola, quería consultar por las 4 ruedas del Volkswagen Suran (195/60 R15) que vi en el catálogo (cód. A017).\nhttps://cubiertasmdz.github.io/p/A017/",
+   "url": "https://cubiertasmdz.github.io/p/A017/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Dunlop",
+    "Firestone"
+   ],
+   "medida_cubierta": "195/60 R15",
+   "auto": "Volkswagen Suran",
+   "titulo_llanta": "Llanta Volkswagen R15",
+   "subtitulo_llanta": "5x100 · R15 · con cubierta Dunlop / Firestone 195/60 R15 · del Volkswagen Suran",
+   "ingreso": "2026-10-30"
+  },
   {
    "id": "X002",
    "tipo": "auxilio",
