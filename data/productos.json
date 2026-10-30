@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30 15:36",
+ "actualizado": "2026-10-30 15:37",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -125,6 +125,68 @@
    "auto": "Volkswagen Suran",
    "titulo_llanta": "Llanta Volkswagen R15",
    "subtitulo_llanta": "5x100 · R15 · con cubierta Dunlop / Firestone 195/60 R15 · del Volkswagen Suran",
+   "ingreso": "2026-10-30"
+  },
+  {
+   "id": "A018",
+   "tipo": "auto",
+   "titulo": "Chevrolet Tracker",
+   "subtitulo": "215/55 R17 · 94V",
+   "rodado": 17,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Cubiertas Kumho / Goodyear Solus TA21 / EfficientGrip",
+    "Llanta Chevrolet de aleación",
+    "5x105",
+    "Llanta original",
+    "Rayones leves"
+   ],
+   "sirve": "Chevrolet Tracker, Cruze, Onix Plus",
+   "detalle": "Juego de 4 ruedas (llantas originales Chevrolet de aleación rodado 17 con cubiertas 215/55 R17 · 94V) puestas en la Chevrolet Tracker. Cubiertas: 2 Kumho Solus TA21 y 2 Goodyear EfficientGrip. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a018-1.jpg",
+    "fotos/a018-2.jpg",
+    "fotos/a018-3.jpg",
+    "fotos/a018-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a018-1.jpg",
+    "fotos/m/a018-2.jpg",
+    "fotos/m/a018-3.jpg",
+    "fotos/m/a018-4.jpg"
+   ],
+   "claves": [
+    "2155517",
+    "5105",
+    "175105"
+   ],
+   "nums": [
+    "105",
+    "17",
+    "215",
+    "5",
+    "55"
+   ],
+   "texto": "chevrolet tracker 215/55 r17 · 94v chevrolet tracker, cruze, onix plus cubiertas kumho / goodyear solus ta21 / efficientgrip llanta chevrolet de aleación 5x105 llanta original rayones leves",
+   "wa": "Hola, quería consultar por las 4 ruedas del Chevrolet Tracker (215/55 R17) que vi en el catálogo (cód. A018).\nhttps://cubiertasmdz.github.io/p/A018/",
+   "url": "https://cubiertasmdz.github.io/p/A018/",
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
+   "marcas_cubierta": [
+    "Kumho",
+    "Goodyear"
+   ],
+   "medida_cubierta": "215/55 R17",
+   "auto": "Chevrolet Tracker",
+   "titulo_llanta": "Llanta Chevrolet R17",
+   "subtitulo_llanta": "5x105 · R17 · con cubierta Kumho / Goodyear 215/55 R17 · del Chevrolet Tracker",
    "ingreso": "2026-10-30"
   },
   {
