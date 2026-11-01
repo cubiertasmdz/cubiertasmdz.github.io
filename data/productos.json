@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30 15:37",
+ "actualizado": "2026-11-01 16:20",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -122,6 +122,9 @@
     "Firestone"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": "Volkswagen Suran",
    "titulo_llanta": "Llanta Volkswagen R15",
    "subtitulo_llanta": "5x100 · R15 · con cubierta Dunlop / Firestone 195/60 R15 · del Volkswagen Suran",
@@ -184,6 +187,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "215/55 R17",
+   "medidas_cubierta": [
+    "215/55 R17"
+   ],
    "auto": "Chevrolet Tracker",
    "titulo_llanta": "Llanta Chevrolet R17",
    "subtitulo_llanta": "5x105 · R17 · con cubierta Kumho / Goodyear 215/55 R17 · del Chevrolet Tracker",
@@ -243,6 +249,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Toyota R15 de chapa",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Bridgestone 185/60 R15",
@@ -299,6 +308,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Chevrolet Corsa",
    "titulo_auto": "Chevrolet Corsa",
    "subtitulo_auto": "Solo llantas · 4x100 · R13",
@@ -359,6 +369,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R15 de chapa",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Bridgestone 195/60 R15",
@@ -414,6 +427,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Toyota Hilux",
    "titulo_auto": "Toyota Hilux",
    "subtitulo_auto": "Solo llantas · 6x139.7 · R16",
@@ -469,6 +483,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "245/60 R16",
+   "medidas_cubierta": [
+    "245/60 R16"
+   ],
    "auto": "Toyota Hilux",
    "titulo_auto": "Toyota Hilux",
    "subtitulo_auto": "Llanta con cubierta · 245/60 R16",
@@ -531,6 +548,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "235/50 R19",
+   "medidas_cubierta": [
+    "235/50 R19"
+   ],
    "auto": "Ford Territory Titanium",
    "titulo_llanta": "Llanta Ford R19",
    "subtitulo_llanta": "5x108 · R19 · con cubierta Goodyear 235/50 R19 · del Ford Territory Titanium",
@@ -588,6 +608,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "275/45 R20",
+   "medidas_cubierta": [
+    "275/45 R20"
+   ],
    "auto": "Porsche Cayenne",
    "titulo_llanta": "Llanta Porsche R20",
    "subtitulo_llanta": "5x130 · R20 · con cubierta 275/45 R20 · del Porsche Cayenne",
@@ -648,6 +671,9 @@
     "Firemax"
    ],
    "medida_cubierta": "195/55 R15",
+   "medidas_cubierta": [
+    "195/55 R15"
+   ],
    "auto": "Volkswagen Bora",
    "titulo_llanta": "Llanta Volkswagen R15",
    "subtitulo_llanta": "5x100 · R15 · con cubierta Firemax 195/55 R15 · del Volkswagen Bora",
@@ -705,6 +731,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "175/70 R14",
+   "medidas_cubierta": [
+    "175/70 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R14 de chapa",
    "subtitulo_llanta": "4x100 · R14 · con cubierta Dunlop 175/70 R14",
@@ -761,6 +790,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": "Fiat Cronos",
    "titulo_llanta": "Llanta Fiat R15",
    "subtitulo_llanta": "4x98 · R15 · con cubierta Bridgestone 185/60 R15 · del Fiat Cronos",
@@ -810,6 +842,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Toyota Hilux",
    "titulo_auto": "Toyota Hilux",
    "subtitulo_auto": "Solo llantas · 6x139.7 · R15",
@@ -866,6 +899,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": "Chevrolet Astra",
    "titulo_llanta": "Llanta Chevrolet R16",
    "subtitulo_llanta": "R16 · con cubierta Bridgestone 205/55 R16 · del Chevrolet Astra",
@@ -921,6 +957,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Chevrolet Corsa",
    "titulo_auto": "Chevrolet Corsa",
    "subtitulo_auto": "Solo llantas · 4x100 · R14",
@@ -976,6 +1013,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Peugeot 207",
    "titulo_auto": "Peugeot 207",
    "subtitulo_auto": "Solo llantas · 4x108 · R14",
@@ -1031,6 +1069,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Ford Focus",
    "titulo_auto": "Ford Focus",
    "subtitulo_auto": "Solo llantas · 5x108 · R16",
@@ -1086,6 +1125,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Honda City",
    "titulo_auto": "Honda City",
    "subtitulo_auto": "Solo llantas · 4x100 · R16",
@@ -1137,6 +1177,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Nissan Tiida",
    "titulo_auto": "Nissan Tiida",
    "subtitulo_auto": "Solo llantas · 4x100 · R15",
@@ -1195,6 +1236,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": "Fiat Cronos",
    "titulo_llanta": "Llanta Fiat R15",
    "subtitulo_llanta": "4x98 · R15 · con cubierta Pirelli 185/60 R15 · del Fiat Cronos",
@@ -1252,6 +1296,9 @@
     "Continental"
    ],
    "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
    "auto": "Nissan Tiida",
    "titulo_auto": "Nissan Tiida",
    "subtitulo_auto": "Llanta con cubierta · 195/55 R16",
@@ -1310,6 +1357,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Peugeot 208",
    "titulo_auto": "Peugeot 208",
    "subtitulo_auto": "Solo llantas · 4x108 · R16",
@@ -1365,6 +1413,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Ford Mondeo",
    "titulo_auto": "Ford Mondeo",
    "subtitulo_auto": "Solo llantas · 5x108 · R18",
@@ -1421,6 +1470,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Peugeot 2008",
    "titulo_auto": "Peugeot 2008",
    "subtitulo_auto": "Solo llantas · 4x108 · R16",
@@ -1477,6 +1527,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Renault Fluence GT",
    "titulo_auto": "Renault Fluence GT",
    "subtitulo_auto": "Solo llantas · 5x114.3 · R17",
@@ -1532,6 +1583,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "125/80 R16",
+   "medidas_cubierta": [
+    "125/80 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R16 de chapa",
    "subtitulo_llanta": "5x108 · R16 · con cubierta 125/80 R16",
@@ -1586,6 +1640,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Chevrolet R15 de chapa",
    "subtitulo_llanta": "R15 · con cubierta Bridgestone 195/60 R15",
@@ -1641,6 +1698,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "175/70 R14",
+   "medidas_cubierta": [
+    "175/70 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R14 de chapa",
    "subtitulo_llanta": "4x100 · R14 · con cubierta Dunlop 175/70 R14",
@@ -1702,6 +1762,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": "Peugeot 3008",
    "titulo_llanta": "Llanta Peugeot R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Goodyear 205/60 R16 · del Peugeot 3008",
@@ -1757,6 +1820,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Peugeot 208",
    "titulo_auto": "Peugeot 208",
    "subtitulo_auto": "Solo llantas · 4x108 · R16",
@@ -1813,6 +1877,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Volkswagen Vento 2.5",
    "titulo_auto": "Volkswagen Vento 2.5",
    "subtitulo_auto": "Solo llantas · 5x112 · R16",
@@ -1868,6 +1933,9 @@
     "Firemax"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": "Fiat Cronos",
    "titulo_auto": "Fiat Cronos",
    "subtitulo_auto": "Llanta con cubierta · 185/60 R15",
@@ -1925,6 +1993,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Volkswagen Amarok",
    "titulo_auto": "Volkswagen Amarok",
    "subtitulo_auto": "Solo llantas · 5x120 · R17",
@@ -1980,6 +2049,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Chery Tiggo",
    "titulo_auto": "Chery Tiggo",
    "subtitulo_auto": "Solo llantas · 5x114.3 · R16",
@@ -2033,6 +2103,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": "Chevrolet Corsa Estrella",
    "titulo_auto": "Chevrolet Corsa Estrella",
    "subtitulo_auto": "Solo llantas · 4x100 · R14",
@@ -2090,6 +2161,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "195/60 R16",
+   "medidas_cubierta": [
+    "195/60 R16"
+   ],
    "auto": "Citroën Picasso",
    "titulo_llanta": "Llanta Citroën R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta 195/60 R16 · del Citroën Picasso",
@@ -2143,6 +2217,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": "Volkswagen Golf",
    "titulo_llanta": "Llanta Volkswagen R16",
    "subtitulo_llanta": "R16 · con cubierta 205/55 R16 · del Volkswagen Golf",
@@ -2200,6 +2277,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": "Ford Focus",
    "titulo_llanta": "Llanta Ford R16",
    "subtitulo_llanta": "5x108 · R16 · con cubierta 205/55 R16 · del Ford Focus",
@@ -2261,6 +2341,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": "Peugeot 208",
    "titulo_llanta": "Llanta Peugeot R15",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 195/60 R15 · del Peugeot 208",
@@ -2322,6 +2405,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": "Peugeot 2008",
    "titulo_llanta": "Llanta Peugeot R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Goodyear 205/60 R16 · del Peugeot 2008",
@@ -2379,6 +2465,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": "Honda Civic",
    "titulo_llanta": "Llanta Honda R16",
    "subtitulo_llanta": "5x114.3 · R16 · con cubierta 205/55 R16 · del Honda Civic",
@@ -2440,6 +2529,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": "Peugeot 208",
    "titulo_llanta": "Llanta Peugeot R15",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Bridgestone 195/60 R15 · del Peugeot 208",
@@ -2499,6 +2591,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "265/70 R16",
+   "medidas_cubierta": [
+    "265/70 R16"
+   ],
    "auto": "Ford Ranger Limited",
    "titulo_llanta": "Llanta Ford R16",
    "subtitulo_llanta": "6x139.7 · R16 · con cubierta Bridgestone 265/70 R16 · del Ford Ranger Limited 2007",
@@ -2562,6 +2657,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R15",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 185/65 R15",
@@ -2619,6 +2717,9 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": "205/55 R17",
+   "medidas_cubierta": [
+    "205/55 R17"
+   ],
    "auto": "Renault Fluence GT",
    "titulo_llanta": "Llanta Renault R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta 205/55 R17 · del Renault Fluence GT",
@@ -2669,6 +2770,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -2717,6 +2819,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -2765,6 +2868,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -2815,6 +2919,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -2863,6 +2968,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -2911,6 +3017,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -2961,6 +3068,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3009,6 +3117,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3059,6 +3168,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3107,6 +3217,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3155,6 +3266,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3203,6 +3315,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3251,6 +3364,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3301,6 +3415,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3351,6 +3466,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3399,6 +3515,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3445,6 +3562,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3493,6 +3611,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3543,6 +3662,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3591,6 +3711,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3641,6 +3762,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3691,6 +3813,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3739,6 +3862,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3789,6 +3913,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3837,6 +3962,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3885,6 +4011,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3935,6 +4062,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -3983,6 +4111,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4031,6 +4160,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4079,6 +4209,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4125,6 +4256,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4173,6 +4305,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4220,6 +4353,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4266,6 +4400,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4308,6 +4443,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4356,6 +4492,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4404,6 +4541,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4452,6 +4590,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4499,6 +4638,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4546,6 +4686,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4596,6 +4737,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4643,6 +4785,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4688,6 +4831,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4738,6 +4882,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4786,6 +4931,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4832,6 +4978,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4882,6 +5029,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4930,6 +5078,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -4977,6 +5126,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5025,6 +5175,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5070,6 +5221,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5115,6 +5267,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5165,6 +5318,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5210,6 +5364,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5258,6 +5413,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5306,6 +5462,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5350,6 +5507,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5400,6 +5558,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5446,6 +5605,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5496,6 +5656,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5541,6 +5702,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5586,6 +5748,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5636,6 +5799,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5686,6 +5850,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5736,6 +5901,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5782,6 +5948,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5828,6 +5995,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5878,6 +6046,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5926,6 +6095,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -5972,6 +6142,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6020,6 +6191,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6068,6 +6240,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6114,6 +6287,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6164,6 +6338,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6214,6 +6389,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6266,6 +6442,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6314,6 +6491,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6364,6 +6542,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6410,6 +6589,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6460,6 +6640,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6502,6 +6683,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6552,6 +6734,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6600,6 +6783,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6650,6 +6834,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6703,6 +6888,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6753,6 +6939,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6803,6 +6990,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6853,6 +7041,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6903,6 +7092,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6951,6 +7141,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -6997,6 +7188,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7047,6 +7239,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7093,6 +7286,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7143,6 +7337,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7193,6 +7388,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7241,6 +7437,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7287,6 +7484,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7337,6 +7535,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7389,6 +7588,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7439,6 +7639,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7489,6 +7690,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7539,6 +7741,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7589,6 +7792,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7637,6 +7841,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7687,6 +7892,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7737,6 +7943,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7783,6 +7990,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7833,6 +8041,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7883,6 +8092,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7929,6 +8139,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -7977,6 +8188,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8025,6 +8237,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8071,6 +8284,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8117,6 +8331,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8159,6 +8374,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8202,6 +8418,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8250,6 +8467,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8298,6 +8516,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8350,6 +8569,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8398,6 +8618,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8446,6 +8667,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8496,6 +8718,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8544,6 +8767,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8594,6 +8818,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8644,6 +8869,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8692,6 +8918,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8739,6 +8966,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8784,6 +9012,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8827,6 +9056,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8875,6 +9105,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8923,6 +9154,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -8969,6 +9201,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9012,6 +9245,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9055,6 +9289,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9105,6 +9340,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9151,6 +9387,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9199,6 +9436,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9245,6 +9483,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9291,6 +9530,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9339,6 +9579,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9385,6 +9626,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9428,6 +9670,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9474,6 +9717,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9520,6 +9764,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9566,6 +9811,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9610,6 +9856,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9658,6 +9905,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9706,6 +9954,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9756,6 +10005,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9802,6 +10052,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9844,6 +10095,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9887,6 +10139,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9934,6 +10187,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -9977,6 +10231,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10025,6 +10280,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10071,6 +10327,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10117,6 +10374,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10165,6 +10423,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10211,6 +10470,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10257,6 +10517,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10307,6 +10568,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10353,6 +10615,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10399,6 +10662,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10447,6 +10711,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10497,6 +10762,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10543,6 +10809,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10593,6 +10860,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10639,6 +10907,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10681,6 +10950,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10724,6 +10994,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10770,6 +11041,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10818,6 +11090,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10860,6 +11133,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10902,6 +11176,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10952,6 +11227,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -10998,6 +11274,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11046,6 +11323,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11092,6 +11370,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11140,6 +11419,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11188,6 +11468,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11238,6 +11519,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11286,6 +11568,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11336,6 +11619,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11378,6 +11662,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11419,6 +11704,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11461,6 +11747,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11502,6 +11789,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11548,6 +11836,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11591,6 +11880,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11633,6 +11923,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11675,6 +11966,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11716,6 +12008,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11760,6 +12053,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11810,6 +12104,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11860,6 +12155,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11910,6 +12206,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -11960,6 +12257,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-19"
   },
@@ -12018,6 +12316,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "265/65 R17",
+   "medidas_cubierta": [
+    "265/65 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Toyota R17",
    "subtitulo_llanta": "6x139.7 · R17 · con cubierta Bridgestone 265/65 R17",
@@ -12068,6 +12369,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -12126,6 +12428,9 @@
     "Fate"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Fiat R14",
    "subtitulo_llanta": "4x98 · R14 · con cubierta Fate 175/65 R14",
@@ -12177,6 +12482,7 @@
     "1143",
     "17",
     "235",
+    "265",
     "5",
     "65"
    ],
@@ -12191,6 +12497,10 @@
     "Fate"
    ],
    "medida_cubierta": "235/65 R17",
+   "medidas_cubierta": [
+    "235/65 R17",
+    "265/65 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Honda R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta Dunlop / Fate 235/65 R17",
@@ -12249,6 +12559,9 @@
     "Tango"
    ],
    "medida_cubierta": "195/65 R15",
+   "medidas_cubierta": [
+    "195/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta alternativa R15",
    "subtitulo_llanta": "R15 · con cubierta Tango 195/65 R15",
@@ -12309,6 +12622,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Nissan R16",
    "subtitulo_llanta": "4x100 · R16 · con cubierta Pirelli 205/60 R16",
@@ -12371,6 +12687,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "225/45 R17",
+   "medidas_cubierta": [
+    "225/45 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Alfa Romeo R17",
    "subtitulo_llanta": "4x98 · R17 · con cubierta Dunlop 225/45 R17",
@@ -12438,6 +12757,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Renault R16",
    "subtitulo_llanta": "4x100 · R16 · con cubierta Bridgestone 205/55 R16",
@@ -12500,6 +12822,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Citroën R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/55 R16",
@@ -12558,6 +12883,9 @@
     "Pace"
    ],
    "medida_cubierta": "195/65 R15",
+   "medidas_cubierta": [
+    "195/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta TVW R15",
    "subtitulo_llanta": "R15 · con cubierta Pace 195/65 R15",
@@ -12620,6 +12948,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Nissan R16",
    "subtitulo_llanta": "4x100 · R16 · con cubierta Goodyear 205/60 R16",
@@ -12679,6 +13010,9 @@
     "Firemax"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14 de chapa",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Firemax 185/65 R14",
@@ -12739,6 +13073,9 @@
     "Pace"
    ],
    "medida_cubierta": "205/65 R15",
+   "medidas_cubierta": [
+    "205/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Fiat R15",
    "subtitulo_llanta": "4x98 · R15 · con cubierta Pace 205/65 R15",
@@ -12800,6 +13137,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "215/50 R17",
+   "medidas_cubierta": [
+    "215/50 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Chevrolet R17",
    "subtitulo_llanta": "5x105 · R17 · con cubierta Pirelli 215/50 R17",
@@ -12858,6 +13198,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R15 de chapa",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Goodyear 185/65 R15",
@@ -12924,6 +13267,9 @@
     "Kumho"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Pirelli / Kumho 185/65 R14",
@@ -12986,6 +13332,9 @@
     "Continental"
    ],
    "medida_cubierta": "205/70 R16",
+   "medidas_cubierta": [
+    "205/70 R16"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas Chevrolet Tracker R16 + 2 cubiertas",
    "subtitulo_llanta": "5x105 · R16 · con cubierta Continental 205/70 R16",
@@ -13043,6 +13392,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -13103,6 +13453,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Citroën R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/60 R16",
@@ -13153,6 +13506,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -13208,6 +13562,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta alternativa R14",
    "subtitulo_llanta": "R14 · con cubierta Pirelli 185/65 R14",
@@ -13268,6 +13625,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14 de chapa",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Fate 185/65 R14",
@@ -13326,6 +13686,9 @@
     "Firestone"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R14",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Firestone 175/65 R14",
@@ -13384,6 +13747,9 @@
     "Firestone"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Chery R15",
    "subtitulo_llanta": "R15 · con cubierta Firestone 185/60 R15",
@@ -13443,6 +13809,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14 de chapa",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Fate 185/65 R14",
@@ -13500,6 +13869,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "255/70 R15",
+   "medidas_cubierta": [
+    "255/70 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Toyota R15",
    "subtitulo_llanta": "6x139.7 · R15 · con cubierta Bridgestone 255/70 R15",
@@ -13561,6 +13933,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "215/65 R16",
+   "medidas_cubierta": [
+    "215/65 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Nissan R16",
    "subtitulo_llanta": "5x114.3 · R16 · con cubierta Bridgestone 215/65 R16",
@@ -13615,6 +13990,9 @@
     "GT Radial"
    ],
    "medida_cubierta": "31/10.5 R15",
+   "medidas_cubierta": [
+    "31/10.5 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta alternativa R15",
    "subtitulo_llanta": "R15 · con cubierta GT Radial 31/10.5 R15",
@@ -13673,6 +14051,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14 de chapa",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Pirelli 175/65 R14",
@@ -13731,6 +14112,9 @@
     "Wanli"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Fiat R15",
    "subtitulo_llanta": "4x98 · R15 · con cubierta Wanli 185/60 R15",
@@ -13789,6 +14173,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Dunlop 185/60 R15",
@@ -13836,6 +14223,9 @@
     "Giti"
    ],
    "medida_cubierta": "215/50 R17",
+   "medidas_cubierta": [
+    "215/50 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -13885,6 +14275,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/55 R16",
+   "medidas_cubierta": [
+    "185/55 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -13930,6 +14323,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "195/50 R16",
+   "medidas_cubierta": [
+    "195/50 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -13973,6 +14369,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14022,6 +14421,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14065,6 +14467,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14108,6 +14513,9 @@
     "Kumho"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14153,6 +14561,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14196,6 +14607,9 @@
     "Continental"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14241,6 +14655,9 @@
     "Fate"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14286,6 +14703,9 @@
     "Kumho"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14331,6 +14751,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14376,6 +14799,9 @@
     "Kelly"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14419,6 +14845,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14462,6 +14891,9 @@
     "Michelin"
    ],
    "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14507,6 +14939,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14558,6 +14993,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "185/70 R14",
+   "medidas_cubierta": [
+    "185/70 R14"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14601,6 +15039,9 @@
     "Tango"
    ],
    "medida_cubierta": "185/60 R14",
+   "medidas_cubierta": [
+    "185/60 R14"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14644,6 +15085,9 @@
     "Continental"
    ],
    "medida_cubierta": "165/70 R14",
+   "medidas_cubierta": [
+    "165/70 R14"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14687,6 +15131,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "175/70 R13",
+   "medidas_cubierta": [
+    "175/70 R13"
+   ],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14745,6 +15192,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "255/70 R15",
+   "medidas_cubierta": [
+    "255/70 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Toyota R15",
    "subtitulo_llanta": "6x139.7 · R15 · con cubierta Goodyear 255/70 R15",
@@ -14801,6 +15251,9 @@
     "Firestone"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14 de chapa",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Firestone 175/65 R14",
@@ -14853,6 +15306,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -14909,6 +15363,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14 de chapa",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Goodyear 175/65 R14",
@@ -14967,6 +15424,9 @@
     "Firestone"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R14 de chapa",
    "subtitulo_llanta": "4x100 · R14 · con cubierta Firestone 175/65 R14",
@@ -15025,6 +15485,9 @@
     "Firemax"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta alternativa R14 de chapa",
    "subtitulo_llanta": "R14 · con cubierta Firemax 185/65 R14",
@@ -15081,6 +15544,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Chevrolet R15 de chapa",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Fate 185/65 R15",
@@ -15139,6 +15605,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Honda R16 de chapa",
    "subtitulo_llanta": "5x114.3 · R16 · con cubierta Bridgestone 205/55 R16",
@@ -15195,6 +15664,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/60 R14",
+   "medidas_cubierta": [
+    "185/60 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14 de chapa",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Bridgestone 185/60 R14",
@@ -15253,6 +15725,9 @@
     "Pace"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R14 de chapa",
    "subtitulo_llanta": "4x100 · R14 · con cubierta Pace 175/65 R14",
@@ -15311,6 +15786,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R15 de chapa",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Goodyear 185/65 R15",
@@ -15367,6 +15845,9 @@
     "Continental"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Renault R15 de chapa",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Continental 185/65 R15",
@@ -15427,6 +15908,9 @@
     "Linglong"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "2 llantas Peugeot R15 de chapa (1 con cubierta Linglong)",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Linglong 185/60 R15",
@@ -15485,6 +15969,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "195/70 R14",
+   "medidas_cubierta": [
+    "195/70 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Renault R14 de chapa",
    "subtitulo_llanta": "4x100 · R14 · con cubierta Goodyear 195/70 R14",
@@ -15543,6 +16030,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R15",
+   "medidas_cubierta": [
+    "175/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Toyota R15 de chapa",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Pirelli 175/65 R15",
@@ -15601,6 +16091,9 @@
     "Yokohama"
    ],
    "medida_cubierta": "175/65 R15",
+   "medidas_cubierta": [
+    "175/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15 de chapa",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Yokohama 175/65 R15",
@@ -15659,6 +16152,9 @@
     "Michelin"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Citroën R15 de chapa",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Michelin 195/60 R15",
@@ -15717,6 +16213,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "195/65 R15",
+   "medidas_cubierta": [
+    "195/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15 de chapa",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Dunlop 195/65 R15",
@@ -15775,6 +16274,9 @@
     "Autodrive"
    ],
    "medida_cubierta": "195/55 R15",
+   "medidas_cubierta": [
+    "195/55 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15 de chapa",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Autodrive 195/55 R15",
@@ -15834,6 +16336,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15 de chapa",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Fate 185/65 R15",
@@ -15892,6 +16397,9 @@
     "Firemax"
    ],
    "medida_cubierta": "195/55 R15",
+   "medidas_cubierta": [
+    "195/55 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15 de chapa",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Firemax 195/55 R15",
@@ -15950,6 +16458,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R16 de chapa",
    "subtitulo_llanta": "4x100 · R16 · con cubierta Bridgestone 195/55 R16",
@@ -16008,6 +16519,9 @@
     "Fate"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Chevrolet R14 de chapa",
    "subtitulo_llanta": "4x100 · R14 · con cubierta Fate 185/65 R14",
@@ -16066,6 +16580,9 @@
     "Firestone"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R15 de chapa",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Firestone 195/60 R15",
@@ -16124,6 +16641,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R15 de chapa",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 185/60 R15",
@@ -16178,6 +16698,9 @@
     "Continental"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta alternativa R16 de chapa",
    "subtitulo_llanta": "R16 · con cubierta Continental 205/60 R16",
@@ -16236,6 +16759,9 @@
     "Fate"
    ],
    "medida_cubierta": "195/65 R15",
+   "medidas_cubierta": [
+    "195/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15 de chapa",
    "subtitulo_llanta": "5x100 · R15 · con cubierta Fate 195/65 R15",
@@ -16294,6 +16820,9 @@
     "Firestone"
    ],
    "medida_cubierta": "205/60 R15",
+   "medidas_cubierta": [
+    "205/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R15 de chapa",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Firestone 205/60 R15",
@@ -16352,6 +16881,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R15 de chapa",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 195/60 R15",
@@ -16411,6 +16943,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "215/65 R16",
+   "medidas_cubierta": [
+    "215/65 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Renault R16 de chapa",
    "subtitulo_llanta": "5x114.3 · R16 · con cubierta Pirelli 215/65 R16",
@@ -16471,6 +17006,9 @@
     "Kumho"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Nissan R16",
    "subtitulo_llanta": "4x100 · R16 · con cubierta Kumho 205/55 R16",
@@ -16531,6 +17069,9 @@
     "Fate"
    ],
    "medida_cubierta": "195/65 R15",
+   "medidas_cubierta": [
+    "195/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Nissan R15",
    "subtitulo_llanta": "4x114.3 · R15 · con cubierta Continental / Fate 195/65 R15",
@@ -16592,6 +17133,9 @@
     "Continental"
    ],
    "medida_cubierta": "205/55 R17",
+   "medidas_cubierta": [
+    "205/55 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Nissan R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta Continental 205/55 R17",
@@ -16658,6 +17202,9 @@
     "otras"
    ],
    "medida_cubierta": "215/60 R17",
+   "medidas_cubierta": [
+    "215/60 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Renault R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta Continental / otras 215/60 R17",
@@ -16718,6 +17265,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Renault R15",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Pirelli 195/60 R15",
@@ -16779,6 +17329,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Renault R14",
    "subtitulo_llanta": "4x100 · R14 · con cubierta Bridgestone 175/65 R14",
@@ -16839,6 +17392,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R15",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Goodyear 185/65 R15",
@@ -16900,6 +17456,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "195/50 R16",
+   "medidas_cubierta": [
+    "195/50 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Varias marcas 195/50 R16",
@@ -16959,6 +17518,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/55 R15",
+   "medidas_cubierta": [
+    "195/55 R15"
+   ],
    "auto": null,
    "titulo_llanta": "2 llantas Ford Fiesta R15 + 1 cubierta",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 195/55 R15",
@@ -17019,6 +17581,9 @@
     "otras"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R14",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Dunlop / otras 175/65 R14",
@@ -17079,6 +17644,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas Peugeot R16 + 3 cubiertas",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Varias marcas 205/55 R16",
@@ -17139,6 +17707,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Bridgestone 205/55 R16",
@@ -17200,6 +17771,9 @@
     "otras"
    ],
    "medida_cubierta": "195/65 R15",
+   "medidas_cubierta": [
+    "195/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R15",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Fate / otras 195/65 R15",
@@ -17262,6 +17836,9 @@
     "otras"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Pirelli / otras 185/65 R14",
@@ -17324,6 +17901,9 @@
     "otras"
    ],
    "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli / otras 195/55 R16",
@@ -17383,6 +17963,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "245/45 R17",
+   "medidas_cubierta": [
+    "245/45 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Mercedes-Benz R17",
    "subtitulo_llanta": "5x112 · R17 · con cubierta Varias marcas 245/45 R17",
@@ -17444,6 +18027,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 195/55 R16",
@@ -17500,6 +18086,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -17558,6 +18145,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Michelin 205/55 R16",
@@ -17610,6 +18200,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/65 R16",
+   "medidas_cubierta": [
+    "205/65 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R16",
    "subtitulo_llanta": "R16 · con cubierta Pirelli 205/65 R16",
@@ -17661,6 +18254,9 @@
     "Firemax"
    ],
    "medida_cubierta": "205/65 R15",
+   "medidas_cubierta": [
+    "205/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R15",
    "subtitulo_llanta": "R15 · con cubierta Firemax 205/65 R15",
@@ -17713,6 +18309,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -17761,6 +18358,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -17809,6 +18407,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -17860,6 +18459,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -17910,6 +18510,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -17962,6 +18563,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -18012,6 +18614,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -18062,6 +18665,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -18110,6 +18714,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-17"
   },
@@ -18166,6 +18771,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "185/60 R16",
+   "medidas_cubierta": [
+    "185/60 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Varias marcas 185/60 R16",
@@ -18225,6 +18833,9 @@
     "Varias marcas"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Renault R15",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Varias marcas 185/65 R15",
@@ -18274,6 +18885,9 @@
     "Firemax"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18321,6 +18935,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18366,6 +18983,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R17",
+   "medidas_cubierta": [
+    "205/55 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18411,6 +19031,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R17",
+   "medidas_cubierta": [
+    "205/55 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18458,6 +19081,9 @@
     "Yokohama"
    ],
    "medida_cubierta": "205/55 R17",
+   "medidas_cubierta": [
+    "205/55 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18503,6 +19129,9 @@
     "Toyo"
    ],
    "medida_cubierta": "215/60 R17",
+   "medidas_cubierta": [
+    "215/60 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18550,6 +19179,9 @@
     "Fate"
    ],
    "medida_cubierta": "225/40 R18",
+   "medidas_cubierta": [
+    "225/40 R18"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18593,6 +19225,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/40 R18",
+   "medidas_cubierta": [
+    "225/40 R18"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18642,6 +19277,9 @@
     "Continental"
    ],
    "medida_cubierta": "245/40 R18",
+   "medidas_cubierta": [
+    "245/40 R18"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18689,6 +19327,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/75 R16",
+   "medidas_cubierta": [
+    "205/75 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18734,6 +19375,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18779,6 +19423,9 @@
     "Fate"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18824,6 +19471,9 @@
     "Fate"
    ],
    "medida_cubierta": "235/60 R16",
+   "medidas_cubierta": [
+    "235/60 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18869,6 +19519,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "225/45 R17",
+   "medidas_cubierta": [
+    "225/45 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18914,6 +19567,9 @@
     "Westlake"
    ],
    "medida_cubierta": "225/45 R17",
+   "medidas_cubierta": [
+    "225/45 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -18962,6 +19618,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/55 R16",
+   "medidas_cubierta": [
+    "185/55 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19007,6 +19666,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "225/45 R17",
+   "medidas_cubierta": [
+    "225/45 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19052,6 +19714,9 @@
     "Yokohama"
    ],
    "medida_cubierta": "195/50 R16",
+   "medidas_cubierta": [
+    "195/50 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19097,6 +19762,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "215/50 R17",
+   "medidas_cubierta": [
+    "215/50 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19140,6 +19808,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19187,6 +19858,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "215/55 R17",
+   "medidas_cubierta": [
+    "215/55 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19249,6 +19923,9 @@
     "Continental"
    ],
    "medida_cubierta": "165/70 R14",
+   "medidas_cubierta": [
+    "165/70 R14"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19294,6 +19971,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "195/60 R16",
+   "medidas_cubierta": [
+    "195/60 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19343,6 +20023,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "265/65 R17",
+   "medidas_cubierta": [
+    "265/65 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19391,6 +20074,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "265/60 R18",
+   "medidas_cubierta": [
+    "265/60 R18"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19436,6 +20122,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/60 R16",
+   "medidas_cubierta": [
+    "195/60 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19483,6 +20172,9 @@
     "Triangle"
    ],
    "medida_cubierta": "235/60 R18",
+   "medidas_cubierta": [
+    "235/60 R18"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19529,6 +20221,9 @@
     "Continental"
    ],
    "medida_cubierta": "245/70 R16",
+   "medidas_cubierta": [
+    "245/70 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19582,6 +20277,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/55 R18",
+   "medidas_cubierta": [
+    "225/55 R18"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19631,6 +20329,9 @@
     "Fate"
    ],
    "medida_cubierta": "245/70 R16",
+   "medidas_cubierta": [
+    "245/70 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19684,6 +20385,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/65 R17",
+   "medidas_cubierta": [
+    "225/65 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19732,6 +20436,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "245/70 R16",
+   "medidas_cubierta": [
+    "245/70 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19781,6 +20488,9 @@
     "Michelin"
    ],
    "medida_cubierta": "245/70 R16",
+   "medidas_cubierta": [
+    "245/70 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19827,6 +20537,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "245/70 R16",
+   "medidas_cubierta": [
+    "245/70 R16"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19875,6 +20588,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "265/65 R17",
+   "medidas_cubierta": [
+    "265/65 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19924,6 +20640,9 @@
     "Continental"
    ],
    "medida_cubierta": "245/65 R17",
+   "medidas_cubierta": [
+    "245/65 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -19971,6 +20690,9 @@
     "Michelin"
    ],
    "medida_cubierta": "265/65 R17",
+   "medidas_cubierta": [
+    "265/65 R17"
+   ],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -20031,6 +20753,9 @@
     "Kumho"
    ],
    "medida_cubierta": "215/65 R16",
+   "medidas_cubierta": [
+    "215/65 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Jeep R16",
    "subtitulo_llanta": "5x110 · R16 · con cubierta Kumho 215/65 R16",
@@ -20092,6 +20817,9 @@
     "Hankook"
    ],
    "medida_cubierta": "195/55 R15",
+   "medidas_cubierta": [
+    "195/55 R15"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas VW R15 + 2 Hankook",
    "subtitulo_llanta": "5x100 · R15 · con cubierta Hankook 195/55 R15",
@@ -20150,6 +20878,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "195/65 R15",
+   "medidas_cubierta": [
+    "195/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Goodyear 195/65 R15",
@@ -20209,6 +20940,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas Citroën R15 + 1 Pirelli",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Pirelli 195/60 R15",
@@ -20272,6 +21006,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/55 R15",
+   "medidas_cubierta": [
+    "195/55 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15",
    "subtitulo_llanta": "5x100 · R15 · con cubierta Pirelli 195/55 R15",
@@ -20328,6 +21065,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R14",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Pirelli 185/65 R14",
@@ -20382,6 +21122,9 @@
     "Continental"
    ],
    "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas Nissan R16 + 2 cubiertas",
    "subtitulo_llanta": "4x100 · R16 · con cubierta Continental 195/55 R16",
@@ -20444,6 +21187,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "175/65 R15",
+   "medidas_cubierta": [
+    "175/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Mini R15",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Pirelli / Goodyear 175/65 R15",
@@ -20501,6 +21247,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas Citroën R15 + 2 cubiertas",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Dunlop 195/60 R15",
@@ -20563,6 +21312,9 @@
     "Continental"
    ],
    "medida_cubierta": "215/45 R16",
+   "medidas_cubierta": [
+    "215/45 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Audi R16",
    "subtitulo_llanta": "5x112 · R16 · con cubierta Continental 215/45 R16",
@@ -20623,6 +21375,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "235/60 R18",
+   "medidas_cubierta": [
+    "235/60 R18"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Audi R18",
    "subtitulo_llanta": "5x112 · R18 · con cubierta Goodyear 235/60 R18",
@@ -20680,6 +21435,9 @@
     "Continental"
    ],
    "medida_cubierta": "225/45 R18",
+   "medidas_cubierta": [
+    "225/45 R18"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas BMW R18 + 2 Continental",
    "subtitulo_llanta": "5x120 · R18 · con cubierta Continental 225/45 R18",
@@ -20745,6 +21503,9 @@
     "Michelin"
    ],
    "medida_cubierta": "225/50 R17",
+   "medidas_cubierta": [
+    "225/50 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Audi R17",
    "subtitulo_llanta": "5x112 · R17 · con cubierta Bridgestone / Michelin 225/50 R17",
@@ -20807,6 +21568,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Audi R16",
    "subtitulo_llanta": "5x112 · R16 · con cubierta Pirelli 205/55 R16",
@@ -20866,6 +21630,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Citroën R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/55 R16",
@@ -20926,6 +21693,9 @@
     "Triangle"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Triangle 205/55 R16",
@@ -20986,6 +21756,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/55 R16",
@@ -21042,6 +21815,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15",
    "subtitulo_llanta": "5x100 · R15 · con cubierta Bridgestone 195/60 R15",
@@ -21096,6 +21872,9 @@
     "Michelin"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R15",
    "subtitulo_llanta": "R15 · con cubierta Michelin 195/60 R15",
@@ -21151,6 +21930,9 @@
     "Fate"
    ],
    "medida_cubierta": "175/70 R13",
+   "medidas_cubierta": [
+    "175/70 R13"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta alternativa R13",
    "subtitulo_llanta": "R13 · con cubierta Fate 175/70 R13",
@@ -21210,6 +21992,9 @@
     "Yokohama"
    ],
    "medida_cubierta": "225/65 R17",
+   "medidas_cubierta": [
+    "225/65 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Honda R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta Yokohama 225/65 R17",
@@ -21274,6 +22059,9 @@
     "Michelin"
    ],
    "medida_cubierta": "215/50 R17",
+   "medidas_cubierta": [
+    "215/50 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Nissan R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta Michelin 215/50 R17",
@@ -21335,6 +22123,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Nissan R16",
    "subtitulo_llanta": "4x100 · R16 · con cubierta Kumho / Bridgestone 205/55 R16",
@@ -21393,6 +22184,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Honda R16",
    "subtitulo_llanta": "5x114.3 · R16 · con cubierta Bridgestone 205/55 R16",
@@ -21449,6 +22243,9 @@
     "Firestone"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Chery R15",
    "subtitulo_llanta": "R15 · con cubierta Firestone 185/60 R15",
@@ -21518,6 +22315,9 @@
     "Harmonic Plus"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "3 llantas Fiat Cronos R15 + 2 cubiertas",
    "subtitulo_llanta": "4x98 · R15 · con cubierta Pirelli / Harmonic Plus 185/60 R15",
@@ -21575,6 +22375,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "215/65 R16",
+   "medidas_cubierta": [
+    "215/65 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Renault R16",
    "subtitulo_llanta": "5x114.3 · R16 · con cubierta Bridgestone 215/65 R16",
@@ -21632,6 +22435,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "185/65 R14",
+   "medidas_cubierta": [
+    "185/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Fiat R14 de chapa",
    "subtitulo_llanta": "4x98 · R14 · con cubierta Dunlop 185/65 R14",
@@ -21686,6 +22492,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-16"
   },
@@ -21745,6 +22552,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas Chevrolet R15 de chapa + 3 cubiertas",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Dunlop 185/60 R15",
@@ -21805,6 +22615,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Toyota R16",
    "subtitulo_llanta": "5x100 · R16 · con cubierta Pirelli 205/55 R16",
@@ -21861,6 +22674,9 @@
     "Goodyear"
    ],
    "medida_cubierta": "215/65 R16",
+   "medidas_cubierta": [
+    "215/65 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Hyundai R16",
    "subtitulo_llanta": "5x114.3 · R16 · con cubierta Goodyear 215/65 R16",
@@ -21919,6 +22735,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Fiat R15 de chapa",
    "subtitulo_llanta": "4x98 · R15 · con cubierta Pirelli 195/60 R15",
@@ -21979,6 +22798,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/60 R16",
+   "medidas_cubierta": [
+    "205/60 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Citroën R16",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Pirelli 205/60 R16",
@@ -22041,6 +22863,9 @@
     "Fate"
    ],
    "medida_cubierta": "255/70 R15",
+   "medidas_cubierta": [
+    "255/70 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Toyota R15",
    "subtitulo_llanta": "6x139.7 · R15 · con cubierta Fate 255/70 R15",
@@ -22108,6 +22933,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/50 R18",
+   "medidas_cubierta": [
+    "225/50 R18"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Toyota R18",
    "subtitulo_llanta": "5x114.3 · R18 · con cubierta Bridgestone 225/50 R18",
@@ -22168,6 +22996,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "265/70 R16",
+   "medidas_cubierta": [
+    "265/70 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Toyota R16",
    "subtitulo_llanta": "6x139.7 · R16 · con cubierta Bridgestone 265/70 R16",
@@ -22227,6 +23058,9 @@
     "Michelin"
    ],
    "medida_cubierta": "195/65 R15",
+   "medidas_cubierta": [
+    "195/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Ford R15",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Michelin 195/65 R15",
@@ -22296,6 +23130,9 @@
     "Triangle"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Fiat R15",
    "subtitulo_llanta": "4x98 · R15 · con cubierta Triangle 185/65 R15",
@@ -22350,6 +23187,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-15"
   },
@@ -22403,6 +23241,9 @@
     "Yokohama"
    ],
    "medida_cubierta": "195/55 R15",
+   "medidas_cubierta": [
+    "195/55 R15"
+   ],
    "auto": null,
    "titulo_llanta": "3 llantas ADVAN Racing R15 + 2 Yokohama",
    "subtitulo_llanta": "R15 · con cubierta Yokohama 195/55 R15",
@@ -22461,6 +23302,9 @@
     "Torque"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "2 llantas Toyota R16 con cubiertas",
    "subtitulo_llanta": "5x114.3 · R16 · con cubierta Ohtsu / Torque 205/55 R16",
@@ -22521,6 +23365,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "2 llantas Fiat R14 + 1 Pirelli",
    "subtitulo_llanta": "4x98 · R14 · con cubierta Pirelli 175/65 R14",
@@ -22581,6 +23428,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "3 llantas Chrysler PT Cruiser R16 + 1 Michelin",
    "subtitulo_llanta": "5x100 · R16 · con cubierta Michelin 205/55 R16",
@@ -22641,6 +23491,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-15"
   },
@@ -22703,6 +23554,9 @@
     "Dunlop"
    ],
    "medida_cubierta": "235/55 R17",
+   "medidas_cubierta": [
+    "235/55 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Chevrolet R17",
    "subtitulo_llanta": "R17 · con cubierta Dunlop 235/55 R17",
@@ -22757,6 +23611,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-15"
   },
@@ -22825,6 +23680,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas Toyota Yaris R15 + 2 Bridgestone",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Bridgestone 185/60 R15",
@@ -22888,6 +23746,9 @@
     "Continental"
    ],
    "medida_cubierta": "215/65 R17",
+   "medidas_cubierta": [
+    "215/65 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R17",
    "subtitulo_llanta": "5x112 · R17 · con cubierta Continental 215/65 R17",
@@ -22950,6 +23811,9 @@
     "Bridgestone"
    ],
    "medida_cubierta": "225/55 R18",
+   "medidas_cubierta": [
+    "225/55 R18"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Subaru R18",
    "subtitulo_llanta": "5x114.3 · R18 · con cubierta Bridgestone 225/55 R18",
@@ -23018,6 +23882,9 @@
     "Tomket"
    ],
    "medida_cubierta": "215/55 R17",
+   "medidas_cubierta": [
+    "215/55 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Honda R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta Tomket 215/55 R17",
@@ -23086,6 +23953,9 @@
     "Nexen"
    ],
    "medida_cubierta": "225/65 R17",
+   "medidas_cubierta": [
+    "225/65 R17"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Suzuki R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta Bridgestone / Nexen 225/65 R17",
@@ -23152,6 +24022,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/45 R17",
+   "medidas_cubierta": [
+    "205/45 R17"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas Citroën R17 + 1 Michelin",
    "subtitulo_llanta": "4x108 · R17 · con cubierta Michelin 205/45 R17",
@@ -23219,6 +24092,9 @@
     "Michelin"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Fiat R16",
    "subtitulo_llanta": "4x98 · R16 · con cubierta Kumho / Pirelli / Michelin 205/55 R16",
@@ -23282,6 +24158,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R16",
    "subtitulo_llanta": "5x112 · R16 · con cubierta Pirelli 205/55 R16",
@@ -23345,6 +24224,9 @@
     "Pirelli"
    ],
    "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
    "auto": null,
    "titulo_llanta": "Llanta Fiat R14",
    "subtitulo_llanta": "4x98 · R14 · con cubierta Bridgestone / Pirelli 175/65 R14",
@@ -23408,6 +24290,9 @@
     "Fate"
    ],
    "medida_cubierta": "165/70 R14",
+   "medidas_cubierta": [
+    "165/70 R14"
+   ],
    "auto": null,
    "titulo_llanta": "2 llantas Citroën R14 + 1 Fate",
    "subtitulo_llanta": "4x108 · R14 · con cubierta Fate 165/70 R14",
@@ -23460,6 +24345,7 @@
    ],
    "marcas_cubierta": [],
    "medida_cubierta": null,
+   "medidas_cubierta": [],
    "auto": null,
    "ingreso": "2026-10-15"
   },
@@ -23511,7 +24397,9 @@
    "nums": [
     "15",
     "185",
+    "195",
     "4",
+    "60",
     "65"
    ],
    "texto": "4 llantas alternativas r15 + cubiertas de auxilio 185/65 r15  llanta de aleación llanta alternativa 4 agujeros cubiertas para auxilio cubiertas de distintas marcas y medidas",
@@ -23527,6 +24415,10 @@
     "Maxisport"
    ],
    "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15",
+    "195/60 R15"
+   ],
    "auto": null,
    "titulo_llanta": "4 llantas alternativas R15 + cubiertas de auxilio",
    "subtitulo_llanta": "R15 · con cubierta Bridgestone / Fate / Hankook / Maxisport 185/65 R15",

@@ -233,6 +233,8 @@ def numeros(p, claves):
         v = p.get(c)
         if v not in (None, ""):
             nums.add(re.sub(r"\D", "", str(v).replace(".0", "")))
+    for m in p.get("medidas_extra", []):  # segunda medida de cubierta del lote
+        nums.update(re.findall(r"\d+", m))
     if p["tipo"] == "auto":  # "208", "2015": el modelo y el año del auto también se buscan
         nums.update(re.findall(r"\d+", f'{p.get("auto_modelo", "")} {p.get("auto_anio", "")}'))
     return sorted(n for n in nums if n)
@@ -394,6 +396,8 @@ def publico(p):
         or (["Alternativa"] if p.get("llanta_original", p.get("original")) is False else []),
         "marcas_cubierta": marcas_de(p.get("marca") if p["tipo"] in ("cubierta", "rueda", "auto", "auxilio") else None),
         "medida_cubierta": medida(p) if p["tipo"] in ("cubierta", "rueda", "auto", "auxilio") else None,
+        # lotes con cubiertas de dos medidas: "medidas_extra": ["265/65 R17"] → el filtro de medida las encuentra por cualquiera
+        "medidas_cubierta": [medida(p)] + list(p.get("medidas_extra", [])) if p["tipo"] in ("cubierta", "rueda", "auto", "auxilio") else [],
         "auto": nombre_auto(p) if p["tipo"] == "auto" or (p.get("auto_modelo") and p["tipo"] != "auxilio") else None,
         # llantas solas que siguen puestas en un auto: también salen en "En autos", con el auto como título
         **({"titulo_auto": nombre_auto(p, anio=True),

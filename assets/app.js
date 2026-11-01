@@ -51,8 +51,9 @@
     const [tipo, m] = [estado.marca.slice(0, 1), estado.marca.slice(2)];
     return (tipo === "l" ? p.marcas_llanta : p.marcas_cubierta).includes(m);
   }
+  const medidasDe = (p) => p.medidas_cubierta || (p.medida_cubierta ? [p.medida_cubierta] : []);
   function pasaMedida(p) {
-    return !estado.medida || p.medida_cubierta === estado.medida;
+    return !estado.medida || medidasDe(p).includes(estado.medida);
   }
   const pasaAuto = (p) => !estado.auto || p.auto === estado.auto;
   const pasaFiltros = (p) => pasaRodado(p) && pasaMarca(p) && pasaMedida(p) && pasaAuto(p);
@@ -67,7 +68,7 @@
       (mc.length ? `<optgroup label="Marca de cubierta">${mc.map((m) => opt("c:" + m, m)).join("")}</optgroup>` : "");
     // en Cubiertas la lista de medidas incluye las cubiertas puestas en llanta
     const deMedidas = cat && cat.id === "cubierta" ? estado.datos.productos : base;
-    const medidas = unicos(deMedidas.map((p) => p.medida_cubierta).filter(Boolean));
+    const medidas = unicos(deMedidas.flatMap(medidasDe));
     $("#f-medida").innerHTML = [`<option value="">Todas</option>`]
       .concat(medidas.map((m) => `<option value="${esc(m)}"${m === estado.medida ? " selected" : ""}>${esc(m)}</option>`)).join("");
     const conMedida = !!(cat && cat.filtro_medida && medidas.length);
@@ -91,7 +92,7 @@
     if (p.tipo === tab) return true;
     if (tab === "auto" && p.titulo_auto) return true;  // llantas solas puestas en un auto
     // Cubiertas filtradas por medida: también las que están puestas en llanta (ruedas, autos, auxilios)
-    if (tab === "cubierta" && estado.medida && p.medida_cubierta === estado.medida) return true;
+    if (tab === "cubierta" && estado.medida && medidasDe(p).includes(estado.medida)) return true;
     const cat = estado.datos.categorias.find((c) => c.id === tab);
     return !!(cat && cat.incluye && cat.incluye.includes(p.tipo));
   }
