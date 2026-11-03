@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02 21:40",
+ "actualizado": "2026-11-02 21:41",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -123,6 +123,63 @@
    "auto": null,
    "titulo_llanta": "Llanta Volkswagen R13 de chapa",
    "subtitulo_llanta": "4x100 · R13 · con cubierta Fate 175/70 R13",
+   "ingreso": "2026-11-02"
+  },
+  {
+   "id": "R150",
+   "tipo": "rueda",
+   "titulo": "Rueda Fiat R15 de chapa con Pirelli",
+   "subtitulo": "185/60 R15",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 80,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Fiat de chapa",
+    "4x98",
+    "Llanta original",
+    "Ideal auxilio"
+   ],
+   "sirve": "Fiat Cronos, Argo, Palio, Siena",
+   "detalle": "Rueda de auxilio en muy buen estado: llanta original Fiat rodado 15 de chapa de 4 agujeros, con cubierta Pirelli Cinturato P1 185/60 R15. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r150-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r150-1.jpg"
+   ],
+   "claves": [
+    "1856015",
+    "498",
+    "15498"
+   ],
+   "nums": [
+    "15",
+    "185",
+    "4",
+    "60",
+    "98"
+   ],
+   "texto": "rueda fiat r15 de chapa con pirelli 185/60 r15 fiat cronos, argo, palio, siena llanta fiat de chapa 4x98 llanta original ideal auxilio",
+   "wa": "Hola, quería consultar por la rueda completa con llanta Fiat R15 de chapa y cubierta Pirelli Cinturato P1 185/60 R15 que vi en el catálogo (cód. R150).\nhttps://cubiertasmdz.github.io/p/R150/",
+   "url": "https://cubiertasmdz.github.io/p/R150/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "185/60 R15",
+   "medidas_cubierta": [
+    "185/60 R15"
+   ],
+   "auto": null,
+   "titulo_llanta": "Llanta Fiat R15 de chapa",
+   "subtitulo_llanta": "4x98 · R15 · con cubierta Pirelli 185/60 R15",
    "ingreso": "2026-11-02"
   },
   {
