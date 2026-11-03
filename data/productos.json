@@ -183,6 +183,68 @@
    "ingreso": "2026-11-02"
   },
   {
+   "id": "A019",
+   "tipo": "auto",
+   "titulo": "Fiat Argo",
+   "subtitulo": "195/55 R16 · 87H",
+   "rodado": 16,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Cubiertas Bridgestone Ecopia EP150",
+    "Llanta Fiat de aleación",
+    "4x98",
+    "Llanta original",
+    "Rayones leves"
+   ],
+   "sirve": "Fiat Argo, Cronos",
+   "detalle": "Juego de 3 ruedas (llantas originales Fiat de aleación rodado 16 con cubiertas Bridgestone Ecopia EP150 195/55 R16 · 87H) puestas en el Fiat Argo. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a019-1.jpg",
+    "fotos/a019-2.jpg",
+    "fotos/a019-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a019-1.jpg",
+    "fotos/m/a019-2.jpg",
+    "fotos/m/a019-3.jpg"
+   ],
+   "claves": [
+    "1955516",
+    "498",
+    "16498"
+   ],
+   "nums": [
+    "16",
+    "195",
+    "4",
+    "55",
+    "98"
+   ],
+   "texto": "fiat argo 195/55 r16 · 87h fiat argo, cronos cubiertas bridgestone ecopia ep150 llanta fiat de aleación 4x98 llanta original rayones leves",
+   "wa": "Hola, quería consultar por las 3 ruedas del Fiat Argo (195/55 R16) que vi en el catálogo (cód. A019).\nhttps://cubiertasmdz.github.io/p/A019/",
+   "url": "https://cubiertasmdz.github.io/p/A019/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Bridgestone"
+   ],
+   "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
+   "auto": "Fiat Argo",
+   "titulo_llanta": "Llanta Fiat R16",
+   "subtitulo_llanta": "4x98 · R16 · con cubierta Bridgestone 195/55 R16 · del Fiat Argo",
+   "ingreso": "2026-11-02"
+  },
+  {
    "id": "A017",
    "tipo": "auto",
    "titulo": "Volkswagen Suran",
