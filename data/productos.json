@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02 21:41",
+ "actualizado": "2026-11-02 21:42",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -242,6 +242,61 @@
    "auto": "Fiat Argo",
    "titulo_llanta": "Llanta Fiat R16",
    "subtitulo_llanta": "4x98 · R16 · con cubierta Bridgestone 195/55 R16 · del Fiat Argo",
+   "ingreso": "2026-11-02"
+  },
+  {
+   "id": "L238",
+   "tipo": "llanta",
+   "titulo": "Llanta Chevrolet R17",
+   "subtitulo": "5x105 · R17",
+   "rodado": 17,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": null,
+   "segmentos": 4,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Rayones leves",
+    "Se venden sin cubierta"
+   ],
+   "sirve": "Chevrolet Cruze, Tracker, Onix Plus",
+   "detalle": "Juego de 3 llantas originales Chevrolet de aleación rodado 17 de 5 agujeros, de un Chevrolet Cruze, con rayones leves. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l238-1.jpg",
+    "fotos/l238-2.jpg",
+    "fotos/l238-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l238-1.jpg",
+    "fotos/m/l238-2.jpg",
+    "fotos/m/l238-3.jpg"
+   ],
+   "claves": [
+    "17",
+    "5105",
+    "175105"
+   ],
+   "nums": [
+    "105",
+    "17",
+    "5"
+   ],
+   "texto": "llanta chevrolet r17 5x105 · r17 chevrolet cruze, tracker, onix plus original aleación rayones leves se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 3 llantas Chevrolet R17 5x105 que vi en el catálogo (cód. L238).\nhttps://cubiertasmdz.github.io/p/L238/",
+   "url": "https://cubiertasmdz.github.io/p/L238/",
+   "marcas_llanta": [
+    "Chevrolet"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "medidas_cubierta": [],
+   "auto": "Chevrolet Cruze",
+   "titulo_auto": "Chevrolet Cruze",
+   "subtitulo_auto": "Solo llantas · 5x105 · R17",
    "ingreso": "2026-11-02"
   },
   {
