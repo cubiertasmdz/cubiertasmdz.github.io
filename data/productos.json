@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03 21:52",
+ "actualizado": "2026-11-03 21:54",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -15176,52 +15176,6 @@
    "medida_cubierta": "185/70 R14",
    "medidas_cubierta": [
     "185/70 R14"
-   ],
-   "auto": null,
-   "ingreso": "2026-10-17"
-  },
-  {
-   "id": "C060",
-   "tipo": "cubierta",
-   "titulo": "Tango",
-   "subtitulo": "185/60 R14 · 82H",
-   "rodado": 14,
-   "cantidad": 1,
-   "cantidad_txt": "1 unidad",
-   "estado": "Buena",
-   "vida": 60,
-   "segmentos": 3,
-   "etiquetas": [],
-   "sirve": "",
-   "detalle": "Cubierta suelta con buen dibujo.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/c060-1.jpg",
-    "fotos/c060-2.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/c060-1.jpg",
-    "fotos/m/c060-2.jpg"
-   ],
-   "claves": [
-    "1856014"
-   ],
-   "nums": [
-    "14",
-    "185",
-    "60"
-   ],
-   "texto": "tango 185/60 r14 · 82h  ",
-   "wa": "Hola, quería consultar por la cubierta Tango 185/60 R14 que vi en el catálogo (cód. C060).\nhttps://cubiertasmdz.github.io/p/C060/",
-   "url": "https://cubiertasmdz.github.io/p/C060/",
-   "marcas_llanta": [],
-   "marcas_cubierta": [
-    "Tango"
-   ],
-   "medida_cubierta": "185/60 R14",
-   "medidas_cubierta": [
-    "185/60 R14"
    ],
    "auto": null,
    "ingreso": "2026-10-17"
