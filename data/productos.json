@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02 21:42",
+ "actualizado": "2026-11-03 21:52",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -7764,59 +7764,6 @@
    "texto": "llanta chery r17 5x114.3 · r17 chery tiggo original aleación",
    "wa": "Hola, quería consultar por las 3 llantas Chery R17 5x114.3 que vi en el catálogo (cód. L119).\nhttps://cubiertasmdz.github.io/p/L119/",
    "url": "https://cubiertasmdz.github.io/p/L119/",
-   "marcas_llanta": [
-    "Chery"
-   ],
-   "marcas_cubierta": [],
-   "medida_cubierta": null,
-   "medidas_cubierta": [],
-   "auto": null,
-   "ingreso": "2026-10-19"
-  },
-  {
-   "id": "L120",
-   "tipo": "llanta",
-   "titulo": "Llanta Chery R13",
-   "subtitulo": "4x100 · R13",
-   "rodado": 13,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
-   "estado": null,
-   "vida": null,
-   "segmentos": null,
-   "etiquetas": [
-    "Original",
-    "Aleación"
-   ],
-   "sirve": "Chery QQ, Fulwin, Tiggo 2",
-   "detalle": "Llantas originales Chery de aleación rodado 13 de 4 agujeros. Se venden sin cubierta. Se puede llevar por unidad, par o juego. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/l120-1.jpg",
-    "fotos/l120-2.jpg",
-    "fotos/l120-3.jpg",
-    "fotos/l120-4.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/l120-1.jpg",
-    "fotos/m/l120-2.jpg",
-    "fotos/m/l120-3.jpg",
-    "fotos/m/l120-4.jpg"
-   ],
-   "claves": [
-    "13",
-    "4100",
-    "134100"
-   ],
-   "nums": [
-    "100",
-    "13",
-    "4"
-   ],
-   "texto": "llanta chery r13 4x100 · r13 chery qq, fulwin, tiggo 2 original aleación",
-   "wa": "Hola, quería consultar por las 4 llantas Chery R13 4x100 que vi en el catálogo (cód. L120).\nhttps://cubiertasmdz.github.io/p/L120/",
-   "url": "https://cubiertasmdz.github.io/p/L120/",
    "marcas_llanta": [
     "Chery"
    ],
