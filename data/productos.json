@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 16:29",
+ "actualizado": "2026-11-05 16:30",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -609,62 +609,6 @@
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R15 de chapa",
    "subtitulo_llanta": "4x108 · R15 · con cubierta Bridgestone 195/60 R15",
-   "ingreso": "2026-10-27"
-  },
-  {
-   "id": "L237",
-   "tipo": "llanta",
-   "titulo": "Llanta Toyota R16",
-   "subtitulo": "6x139.7 · R16",
-   "rodado": 16,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
-   "estado": null,
-   "vida": null,
-   "segmentos": null,
-   "etiquetas": [
-    "Original",
-    "Aleación",
-    "Se venden sin cubierta"
-   ],
-   "sirve": "Toyota Hilux, SW4",
-   "detalle": "Juego de 4 llantas originales Toyota de aleación rodado 16 de 6 agujeros, de una Toyota Hilux. Se venden solo las llantas: las cubiertas no se incluyen. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/l237-1.jpg",
-    "fotos/l237-2.jpg",
-    "fotos/l237-3.jpg",
-    "fotos/l237-4.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/l237-1.jpg",
-    "fotos/m/l237-2.jpg",
-    "fotos/m/l237-3.jpg",
-    "fotos/m/l237-4.jpg"
-   ],
-   "claves": [
-    "16",
-    "6139.7",
-    "166139.7"
-   ],
-   "nums": [
-    "1397",
-    "16",
-    "6"
-   ],
-   "texto": "llanta toyota r16 6x139.7 · r16 toyota hilux, sw4 original aleación se venden sin cubierta",
-   "wa": "Hola, quería consultar por las 4 llantas Toyota R16 6x139.7 que vi en el catálogo (cód. L237).\nhttps://cubiertasmdz.github.io/p/L237/",
-   "url": "https://cubiertasmdz.github.io/p/L237/",
-   "marcas_llanta": [
-    "Toyota"
-   ],
-   "marcas_cubierta": [],
-   "medida_cubierta": null,
-   "medidas_cubierta": [],
-   "auto": "Toyota Hilux",
-   "titulo_auto": "Toyota Hilux",
-   "subtitulo_auto": "Solo llantas · 6x139.7 · R16",
    "ingreso": "2026-10-27"
   },
   {
