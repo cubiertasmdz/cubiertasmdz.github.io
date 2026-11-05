@@ -193,6 +193,72 @@
    "ingreso": "2026-11-05"
   },
   {
+   "id": "A021",
+   "tipo": "auto",
+   "titulo": "Renault Kangoo",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Cubiertas Fate Sentiva AR-360 / Prestiva / Range Runner H/T",
+    "Llanta Renault de chapa",
+    "4x100",
+    "Llanta original"
+   ],
+   "sirve": "Renault Kangoo, Clio, Symbol",
+   "detalle": "Juego de 4 ruedas (llantas originales Renault de chapa rodado 14) puestas en la Renault Kangoo, todas con cubiertas Fate: 2 Sentiva AR-360 175/65 R14 del 2022, 1 Prestiva 175/65 R14 y 1 Range Runner H/T 165/70 R14 C (reforzada, de utilitario). Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a021-1.jpg",
+    "fotos/a021-2.jpg",
+    "fotos/a021-3.jpg",
+    "fotos/a021-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a021-1.jpg",
+    "fotos/m/a021-2.jpg",
+    "fotos/m/a021-3.jpg",
+    "fotos/m/a021-4.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4100",
+    "144100"
+   ],
+   "nums": [
+    "100",
+    "14",
+    "165",
+    "175",
+    "4",
+    "65",
+    "70"
+   ],
+   "texto": "renault kangoo 175/65 r14 renault kangoo, clio, symbol cubiertas fate sentiva ar-360 / prestiva / range runner h/t llanta renault de chapa 4x100 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Renault Kangoo (175/65 R14) que vi en el catálogo (cód. A021).\nhttps://cubiertasmdz.github.io/p/A021/",
+   "url": "https://cubiertasmdz.github.io/p/A021/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14",
+    "165/70 R14"
+   ],
+   "auto": "Renault Kangoo",
+   "titulo_llanta": "Llanta Renault R14 de chapa",
+   "subtitulo_llanta": "4x100 · R14 · con cubierta Fate 175/65 R14 · del Renault Kangoo",
+   "ingreso": "2026-11-05"
+  },
+  {
    "id": "X003",
    "tipo": "auxilio",
    "titulo": "Auxilio Volkswagen Gol Power R13 sin rodar",
