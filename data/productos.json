@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 16:30",
+ "actualizado": "2026-11-05 16:32",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -65,6 +65,69 @@
   }
  ],
  "productos": [
+  {
+   "id": "X004",
+   "tipo": "auxilio",
+   "titulo": "Auxilio Kia Rio R15 sin rodar",
+   "subtitulo": "185/65 R15 · 88H",
+   "rodado": 15,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Sin rodar",
+    "Cubierta Kumho Solus KH17",
+    "Llanta Kia de aleación",
+    "4x100",
+    "Llanta original",
+    "Rayones"
+   ],
+   "sirve": "Kia Rio, Hyundai Accent",
+   "detalle": "Rueda de auxilio del Kia Rio sin rodar: llanta original Kia de aleación rodado 15 (con rayones) y cubierta Kumho Solus KH17 185/65 R15 · 88H nueva. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/x004-1.jpg",
+    "fotos/x004-2.jpg",
+    "fotos/x004-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/x004-1.jpg",
+    "fotos/m/x004-2.jpg",
+    "fotos/m/x004-3.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "4100",
+    "154100"
+   ],
+   "nums": [
+    "100",
+    "15",
+    "185",
+    "4",
+    "65"
+   ],
+   "texto": "auxilio kia rio r15 sin rodar 185/65 r15 · 88h kia rio, hyundai accent sin rodar cubierta kumho solus kh17 llanta kia de aleación 4x100 llanta original rayones",
+   "wa": "Hola, quería consultar por la rueda de auxilio Kia Rio 185/65 R15 que vi en el catálogo (cód. X004).\nhttps://cubiertasmdz.github.io/p/X004/",
+   "url": "https://cubiertasmdz.github.io/p/X004/",
+   "marcas_llanta": [
+    "Kia"
+   ],
+   "marcas_cubierta": [
+    "Kumho"
+   ],
+   "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
+   "auto": null,
+   "titulo_llanta": "Llanta Kia R15",
+   "subtitulo_llanta": "4x100 · R15 · con cubierta Kumho 185/65 R15",
+   "ingreso": "2026-11-05"
+  },
   {
    "id": "X003",
    "tipo": "auxilio",
