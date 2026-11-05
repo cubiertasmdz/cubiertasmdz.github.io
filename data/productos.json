@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 16:32",
+ "actualizado": "2026-11-05 16:33",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -126,6 +126,70 @@
    "auto": null,
    "titulo_llanta": "Llanta Kia R15",
    "subtitulo_llanta": "4x100 · R15 · con cubierta Kumho 185/65 R15",
+   "ingreso": "2026-11-05"
+  },
+  {
+   "id": "A020",
+   "tipo": "auto",
+   "titulo": "Fiat Duna",
+   "subtitulo": "175/70 R13 · 82",
+   "rodado": 13,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Cubiertas Aplus / Kumho A609 / Sense",
+    "Llanta Fiat de aleación",
+    "4x98",
+    "Llanta original"
+   ],
+   "sirve": "Fiat Duna, Uno, Fiorino, Palio",
+   "detalle": "Juego de 4 ruedas (llantas originales Fiat de aleación rodado 13 con cubiertas 175/70 R13 · 82) puestas en el Fiat Duna. Cubiertas: 2 Aplus A609 del 2024 casi nuevas y 2 Kumho Sense con buen dibujo. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a020-1.jpg",
+    "fotos/a020-2.jpg",
+    "fotos/a020-3.jpg",
+    "fotos/a020-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a020-1.jpg",
+    "fotos/m/a020-2.jpg",
+    "fotos/m/a020-3.jpg",
+    "fotos/m/a020-4.jpg"
+   ],
+   "claves": [
+    "1757013",
+    "498",
+    "13498"
+   ],
+   "nums": [
+    "13",
+    "175",
+    "4",
+    "70",
+    "98"
+   ],
+   "texto": "fiat duna 175/70 r13 · 82 fiat duna, uno, fiorino, palio cubiertas aplus / kumho a609 / sense llanta fiat de aleación 4x98 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Fiat Duna (175/70 R13) que vi en el catálogo (cód. A020).\nhttps://cubiertasmdz.github.io/p/A020/",
+   "url": "https://cubiertasmdz.github.io/p/A020/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Aplus",
+    "Kumho"
+   ],
+   "medida_cubierta": "175/70 R13",
+   "medidas_cubierta": [
+    "175/70 R13"
+   ],
+   "auto": "Fiat Duna",
+   "titulo_llanta": "Llanta Fiat R13",
+   "subtitulo_llanta": "4x98 · R13 · con cubierta Aplus / Kumho 175/70 R13 · del Fiat Duna",
    "ingreso": "2026-11-05"
   },
   {
