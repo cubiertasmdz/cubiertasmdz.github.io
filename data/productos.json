@@ -21493,11 +21493,11 @@
   {
    "id": "R032",
    "tipo": "rueda",
-   "titulo": "4 ruedas Audi R16 negras con Pirelli",
+   "titulo": "4 llantas Audi R16 negras + 3 cubiertas Pirelli",
    "subtitulo": "205/55 R16 · 91V",
    "rodado": 16,
    "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
+   "cantidad_txt": "4 llantas + 3 cubiertas",
    "estado": "Muy buena",
    "vida": 70,
    "segmentos": 4,
@@ -21510,7 +21510,7 @@
     "Rayones"
    ],
    "sirve": "Audi A3, A1",
-   "detalle": "Juego completo de 4 llantas originales Audi rodado 16 color negro, con rayones, y cubiertas Pirelli Powergy 205/55 R16 del 2024.",
+   "detalle": "Juego de 4 llantas originales Audi rodado 16 color negro, con rayones. Tres vienen con cubiertas Pirelli Powergy 205/55 R16 del 2024; la cuarta se entrega sin cubierta.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -21537,8 +21537,8 @@
     "5",
     "55"
    ],
-   "texto": "4 ruedas audi r16 negras con pirelli 205/55 r16 · 91v audi a3, a1 llanta audi de aleación 5x112 fabricada en 2024 llanta original color negro rayones",
-   "wa": "Hola, quería consultar por las 4 ruedas completas con llantas Audi R16 negras y cubiertas Pirelli 205/55 R16 que vi en el catálogo (cód. R032).\nhttps://cubiertasmdz.github.io/p/R032/",
+   "texto": "4 llantas audi r16 negras + 3 cubiertas pirelli 205/55 r16 · 91v audi a3, a1 llanta audi de aleación 5x112 fabricada en 2024 llanta original color negro rayones",
+   "wa": "Hola, quería consultar por las 4 llantas Audi R16 negras con 3 cubiertas Pirelli 205/55 R16 que vi en el catálogo (cód. R032).\nhttps://cubiertasmdz.github.io/p/R032/",
    "url": "https://cubiertasmdz.github.io/p/R032/",
    "marcas_llanta": [
     "Audi"
@@ -21551,7 +21551,7 @@
     "205/55 R16"
    ],
    "auto": null,
-   "titulo_llanta": "Llanta Audi R16",
+   "titulo_llanta": "4 llantas Audi R16 negras + 3 cubiertas Pirelli",
    "subtitulo_llanta": "5x112 · R16 · con cubierta Pirelli 205/55 R16",
    "ingreso": "2026-10-16"
   },
