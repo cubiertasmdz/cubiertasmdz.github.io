@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 21:38",
+ "actualizado": "2026-11-05 16:29",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -6720,57 +6720,6 @@
    "texto": "llanta renault r16 4x100 · r16 renault clio, sandero, logan, kangoo, megane original aleación",
    "wa": "Hola, quería consultar por las 2 llantas Renault R16 4x100 que vi en el catálogo (cód. L098).\nhttps://cubiertasmdz.github.io/p/L098/",
    "url": "https://cubiertasmdz.github.io/p/L098/",
-   "marcas_llanta": [
-    "Renault"
-   ],
-   "marcas_cubierta": [],
-   "medida_cubierta": null,
-   "medidas_cubierta": [],
-   "auto": null,
-   "ingreso": "2026-10-19"
-  },
-  {
-   "id": "L099",
-   "tipo": "llanta",
-   "titulo": "Llanta Renault R15",
-   "subtitulo": "4x100 · R15",
-   "rodado": 15,
-   "cantidad": 3,
-   "cantidad_txt": "3 unidades",
-   "estado": null,
-   "vida": null,
-   "segmentos": null,
-   "etiquetas": [
-    "Original",
-    "Aleación"
-   ],
-   "sirve": "Renault Clio, Sandero, Logan, Kangoo, Megane",
-   "detalle": "Llantas originales Renault de aleación rodado 15 de 4 agujeros. Se venden sin cubierta. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/l099-1.jpg",
-    "fotos/l099-2.jpg",
-    "fotos/l099-3.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/l099-1.jpg",
-    "fotos/m/l099-2.jpg",
-    "fotos/m/l099-3.jpg"
-   ],
-   "claves": [
-    "15",
-    "4100",
-    "154100"
-   ],
-   "nums": [
-    "100",
-    "15",
-    "4"
-   ],
-   "texto": "llanta renault r15 4x100 · r15 renault clio, sandero, logan, kangoo, megane original aleación",
-   "wa": "Hola, quería consultar por las 3 llantas Renault R15 4x100 que vi en el catálogo (cód. L099).\nhttps://cubiertasmdz.github.io/p/L099/",
-   "url": "https://cubiertasmdz.github.io/p/L099/",
    "marcas_llanta": [
     "Renault"
    ],
