@@ -8,7 +8,7 @@ Comandos:
   nuevo <archivo.json>             Carga un producto nuevo (ingreso). Imprime el código asignado.
   sumar <id> <n> [--costo X]       Suma unidades a un lote existente (ingreso).
   fotos <id> <img...> [--reemplazar]  Comprime y agrega fotos al producto.
-  venta <id> <n> [--monto X] [--cliente "..."] [--fecha AAAA-MM-DD] [--comision 5] [--vendedor "..."] [--nota "..."]
+  venta <id> <n> [--monto X] [--cliente "..."] [--fecha AAAA-MM-DD] [--comision 5] [--vendedor "..."] [--nota "..."] [--detalle "qué se vendió"]
   precio <id> [--unidad X] [--par X|no] [--juego X|no]   (juego = las 4)
   baja <id> [--nota "..."]         Oculta el producto del catálogo.
   alta <id>                        Vuelve a mostrar un producto oculto.
@@ -600,6 +600,28 @@ def cmd_sumar(pid, n, op):
     print(f'{p["id"]}: ahora {p["cantidad"]}')
 
 
+def auto_de(p):
+    """Modelo de auto para describir una llanta: el auto donde estaba o el primero que figura en 'sirve para'."""
+    if p.get("auto_modelo"):
+        return p["auto_modelo"]
+    v = (p.get("vehiculos") or [""])[0]
+    return re.sub(r"\s*\(.*\)", "", v).split(" ", 1)[-1] if v else ""
+
+
+def detalle_venta(p, n):
+    """Qué se vendió, en simple: '4 llantas Toyota Etios R15', '1 cubierta Tango 185/60 R14'."""
+    if p["tipo"] == "llanta":
+        auto = auto_de(p)
+        marca = p.get("marca") or ""
+        nombre = f"{marca} {auto}" if auto and not auto.lower().startswith(marca.lower()) else (auto and f"{marca} {auto}" or marca)
+        return f'{n} {"llanta" if n == 1 else "llantas"} {nombre} R{p.get("rodado")}'.replace("  ", " ")
+    if p["tipo"] == "cubierta":
+        return f'{n} {"cubierta" if n == 1 else "cubiertas"} {p.get("marca", "")} {p.get("modelo", "")} {medida(p)}'.replace("  ", " ")
+    llanta = f'{p.get("llanta_marca", "")} {auto_de(p)}'.strip()
+    cosa = "rueda completa" if n == 1 else "ruedas completas"
+    return f'{n} {cosa} {llanta} R{p.get("rodado")} (llanta + cubierta {p.get("marca", "")} {medida(p)})'.replace("  ", " ")
+
+
 def cmd_venta(pid, n, op):
     stock = cargar()
     p = buscar(stock, pid)
@@ -621,6 +643,7 @@ def cmd_venta(pid, n, op):
         extra["comision"] = num(op["comision"]) / 100 if num(op["comision"]) > 1 else num(op["comision"])
     if op.get("fecha"):  # venta de otro día (ej. cargada al día siguiente)
         extra["fecha_venta"] = op["fecha"]
+    extra["detalle_venta"] = op.get("detalle") or detalle_venta(p, n)  # --detalle "..." para ventas parciales
     registrar("venta", p, n, monto, op.get("nota", "") + (" — queda en 0, se oculta" if p["cantidad"] == 0 else ""), **extra)
     print(f'{p["id"]}: vendidas {n} por {pesos(monto)}. Quedan {p["cantidad"]}.')
 
@@ -879,13 +902,16 @@ def cmd_ventas_mes(mes=None):
     if not mes:
         primero = hoy().replace(day=1)
         mes = (primero - dt.timedelta(days=1)).strftime("%Y-%m")
+    historico = mes in ("todo", "todas", "historico")  # todas las ventas desde el principio
+    filtro = "" if historico else mes
     stock = {p["id"]: p for p in cargar()["productos"]}
     ventas = [m for m in historial() if m["tipo"] == "venta" and not m.get("prueba")
-              and (m.get("fecha_venta") or m["fecha"]).startswith(mes)]
+              and (m.get("fecha_venta") or m["fecha"]).startswith(filtro)]
+    por_mes = {}
     wb = Workbook()
     ws = wb.active
     ws.title = "Ventas"
-    cols = ["Fecha", "Código", "Producto", "Tipo", "Marca", "Rodado / medida", "Cantidad", "Total cobrado", "Precio c/u",
+    cols = ["Fecha", "Código", "Qué se vendió", "Tipo", "Marca", "Rodado / medida", "Cantidad", "Total cobrado", "Precio c/u",
             "Ganancia (comisión)", "Para el dueño", "Cliente", "Nota"]
     ws.append(cols)
     tot_u = tot_m = tot_g = 0
@@ -896,7 +922,7 @@ def cmd_ventas_mes(mes=None):
         monto = m.get("monto") or 0
         tipo = categoria(p["tipo"])["singular"].capitalize() if p else ""
         marca = (p.get("llanta_marca") or p.get("marca")) if p else None
-        ws.append([(m.get("fecha_venta") or m["fecha"])[:10], m["id"], m.get("producto"), tipo, marca,
+        ws.append([(m.get("fecha_venta") or m["fecha"])[:10], m["id"], m.get("detalle_venta") or m.get("producto"), tipo, marca,
                    medida(p) if p else None, cant, monto, (monto / cant) if monto and cant else None,
                    round(monto * m.get("comision", com)), round(monto * (1 - m.get("comision", com))),
                    m.get("cliente"), (f'Vendió {m["vendedor"]} ({round(m["comision"] * 100)}%). ' if m.get("vendedor") else
@@ -904,6 +930,8 @@ def cmd_ventas_mes(mes=None):
         tot_u += cant; tot_m += monto; tot_g += round(monto * m.get("comision", com))
         t = por_tipo.setdefault(tipo or "Otro", [0, 0])
         t[0] += cant; t[1] += monto
+        pm = por_mes.setdefault((m.get("fecha_venta") or m["fecha"])[:7], [0, 0, 0, 0])
+        pm[0] += 1; pm[1] += cant; pm[2] += monto; pm[3] += round(monto * m.get("comision", com))
     ws.append([])
     ws.append(["TOTAL", "", "", "", "", "", tot_u, tot_m, "", tot_g, tot_m - tot_g])
     for c in ws[1]:
@@ -918,23 +946,27 @@ def cmd_ventas_mes(mes=None):
         ws.column_dimensions[col].width = ancho
     ws.freeze_panes = "A2"
     r = wb.create_sheet("Resumen", 0)
-    filas = [["Mes", mes], ["Operaciones de venta", len(ventas)], ["Unidades vendidas", tot_u],
-             ["Total cobrado", tot_m], [f"Ganancia ({pct} de lo cobrado; 5% en las que vende Lucho)", tot_g],
+    filas = [["Período", "Todas las ventas (histórico)" if historico else mes], ["Operaciones de venta", len(ventas)], ["Unidades vendidas", tot_u],
+             ["Total cobrado", tot_m], [f"Ganancia ({pct} de lo cobrado; 5% en las del desarmadero)", tot_g],
              ["Para los dueños", tot_m - tot_g], [],
              ["Por tipo", "Unidades / Total cobrado"]]
     for t, (u, mo) in sorted(por_tipo.items()):
         filas.append([t, f"{u} u. / {pesos(mo)}"])
+    if historico:
+        filas += [[], ["Por mes", "Ventas / Unidades / Cobrado / Ganancia"]]
+        for mm, (n, u, mo, g) in sorted(por_mes.items()):
+            filas.append([mm, f"{n} ventas / {u} u. / {pesos(mo)} / {pesos(g)}"])
     for f in filas:
         r.append(f)
     r.column_dimensions["A"].width = 38
-    r.column_dimensions["B"].width = 30
+    r.column_dimensions["B"].width = 44
     for fila in r.iter_rows():
         if fila[0].value and (fila[0].value.startswith(("Total cobrado", "Ganancia", "Para los dueños"))):
             fila[1].number_format = '"$"#,##0'
-        if fila[0].value in ("Mes", "Por tipo"):
+        if fila[0].value in ("Período", "Por tipo", "Por mes"):
             fila[0].font = Font(bold=True); fila[1].font = Font(bold=True)
     (ROOT / "exportes").mkdir(exist_ok=True)
-    ruta = ROOT / "exportes" / f"VENTAS {mes}.xlsx"
+    ruta = ROOT / "exportes" / ("VENTAS HISTORICO.xlsx" if historico else f"VENTAS {mes}.xlsx")
     wb.save(ruta)
     print(f"{ruta}\n{len(ventas)} ventas, {tot_u} unidades, cobrado {pesos(tot_m)}, ganancia {pesos(tot_g)}")
 
