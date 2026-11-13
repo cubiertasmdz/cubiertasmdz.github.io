@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 15:32",
+ "actualizado": "2026-11-13 15:33",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -338,6 +338,58 @@
    "auto": null,
    "titulo_llanta": "Llanta Peugeot R16 de chapa",
    "subtitulo_llanta": "4x108 · R16 · con cubierta Michelin 205/55 R16",
+   "ingreso": "2026-11-13"
+  },
+  {
+   "id": "L242",
+   "tipo": "llanta",
+   "titulo": "Llanta Toyota R16",
+   "subtitulo": "5x114.3 · R16",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Rayones leves"
+   ],
+   "sirve": "Toyota Corolla (2014 en adelante)",
+   "detalle": "Par de llantas originales Toyota Corolla de aleación rodado 16, 5 agujeros. Se venden sin cubierta. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l242-1.jpg",
+    "fotos/l242-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l242-1.jpg",
+    "fotos/m/l242-2.jpg"
+   ],
+   "claves": [
+    "16",
+    "5114.3",
+    "165114.3"
+   ],
+   "nums": [
+    "1143",
+    "16",
+    "5"
+   ],
+   "texto": "llanta toyota r16 5x114.3 · r16 toyota corolla (2014 en adelante) original aleación rayones leves",
+   "wa": "Hola, quería consultar por las 2 llantas Toyota R16 5x114.3 que vi en el catálogo (cód. L242).\nhttps://cubiertasmdz.github.io/p/L242/",
+   "url": "https://cubiertasmdz.github.io/p/L242/",
+   "marcas_llanta": [
+    "Toyota"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "medidas_cubierta": [],
+   "auto": "Toyota Corolla",
+   "titulo_auto": "Toyota Corolla",
+   "subtitulo_auto": "Solo llantas · 5x114.3 · R16",
    "ingreso": "2026-11-13"
   },
   {
@@ -22400,11 +22452,11 @@
   {
    "id": "R003",
    "tipo": "rueda",
-   "titulo": "4 llantas Toyota Corolla R16 con cubiertas",
+   "titulo": "2 llantas Toyota R16 con cubiertas",
    "subtitulo": "205/55 R16",
    "rodado": 16,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
+   "cantidad": 2,
+   "cantidad_txt": "Par",
    "estado": "Buena",
    "vida": 65,
    "segmentos": 3,
@@ -22413,24 +22465,19 @@
     "5x114.3",
     "Fabricadas en 2017 y 2020",
     "Llanta original",
-    "Rayones leves",
-    "Cubiertas de distintas marcas"
+    "Rayones leves"
    ],
    "sirve": "Toyota Corolla (2008 en adelante)",
-   "detalle": "Juego de 4 llantas originales Toyota Corolla de aleación rodado 16 (5 agujeros), con cubiertas 205/55 R16: una Ohtsu FP7000, una Torque TQ901 y dos Bridgestone Turanza. Consultá por tu auto.",
+   "detalle": "Llantas originales Toyota de 5 agujeros. Una cubierta es Ohtsu FP7000 y la otra Torque TQ901, las dos 205/55 R16.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
     "fotos/r003-1.jpg",
-    "fotos/r003-2.jpg",
-    "fotos/r003-3.jpg",
-    "fotos/r003-4.jpg"
+    "fotos/r003-2.jpg"
    ],
    "miniaturas": [
     "fotos/m/r003-1.jpg",
-    "fotos/m/r003-2.jpg",
-    "fotos/m/r003-3.jpg",
-    "fotos/m/r003-4.jpg"
+    "fotos/m/r003-2.jpg"
    ],
    "claves": [
     "2055516",
@@ -22444,24 +22491,23 @@
     "5",
     "55"
    ],
-   "texto": "4 llantas toyota corolla r16 con cubiertas 205/55 r16 toyota corolla (2008 en adelante) llanta toyota de aleación 5x114.3 fabricadas en 2017 y 2020 llanta original rayones leves cubiertas de distintas marcas",
-   "wa": "Hola, quería consultar por las 4 ruedas completas con llanta Toyota Corolla R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R003).\nhttps://cubiertasmdz.github.io/p/R003/",
+   "texto": "2 llantas toyota r16 con cubiertas 205/55 r16 toyota corolla (2008 en adelante) llanta toyota de aleación 5x114.3 fabricadas en 2017 y 2020 llanta original rayones leves",
+   "wa": "Hola, quería consultar por las 2 ruedas completas con llanta Toyota R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R003).\nhttps://cubiertasmdz.github.io/p/R003/",
    "url": "https://cubiertasmdz.github.io/p/R003/",
    "marcas_llanta": [
     "Toyota"
    ],
    "marcas_cubierta": [
     "Ohtsu",
-    "Torque",
-    "Bridgestone"
+    "Torque"
    ],
    "medida_cubierta": "205/55 R16",
    "medidas_cubierta": [
     "205/55 R16"
    ],
    "auto": null,
-   "titulo_llanta": "4 llantas Toyota Corolla R16 con cubiertas",
-   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Ohtsu / Torque / Bridgestone 205/55 R16",
+   "titulo_llanta": "2 llantas Toyota R16 con cubiertas",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Ohtsu / Torque 205/55 R16",
    "ingreso": "2026-10-15"
   },
   {
