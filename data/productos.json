@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 16:21",
+ "actualizado": "2026-11-12 23:10",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -65,6 +65,67 @@
   }
  ],
  "productos": [
+  {
+   "id": "R151",
+   "tipo": "rueda",
+   "titulo": "4 llantas Peugeot 208 R15 + 4 cubiertas",
+   "subtitulo": "195/60 R15",
+   "rodado": 15,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 65,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Peugeot de aleación",
+    "4x108",
+    "Llanta original",
+    "Rayones leves",
+    "Cubiertas de distintas marcas"
+   ],
+   "sirve": "Peugeot 208, 207, 206, 2008, Citroën C3, C4",
+   "detalle": "Juego de 4 llantas originales Peugeot 208 de aleación rodado 15, con cubiertas 195/60 R15: dos Triangle ReliaXTouring en muy buen estado y dos al 50% aproximadamente. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r151-1.jpg",
+    "fotos/r151-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r151-1.jpg",
+    "fotos/m/r151-2.jpg"
+   ],
+   "claves": [
+    "1956015",
+    "4108",
+    "154108"
+   ],
+   "nums": [
+    "108",
+    "15",
+    "195",
+    "4",
+    "60"
+   ],
+   "texto": "4 llantas peugeot 208 r15 + 4 cubiertas 195/60 r15 peugeot 208, 207, 206, 2008, citroën c3, c4 llanta peugeot de aleación 4x108 llanta original rayones leves cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 4 llantas Peugeot 208 R15 con cubiertas 195/60 R15 que vi en el catálogo (cód. R151).\nhttps://cubiertasmdz.github.io/p/R151/",
+   "url": "https://cubiertasmdz.github.io/p/R151/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Triangle",
+    "Varias"
+   ],
+   "medida_cubierta": "195/60 R15",
+   "medidas_cubierta": [
+    "195/60 R15"
+   ],
+   "auto": null,
+   "titulo_llanta": "4 llantas Peugeot 208 R15 + 4 cubiertas",
+   "subtitulo_llanta": "4x108 · R15 · con cubierta Triangle / Varias 195/60 R15",
+   "ingreso": "2026-11-12"
+  },
   {
    "id": "X004",
    "tipo": "auxilio",
