@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 23:10",
+ "actualizado": "2026-11-13 15:32",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -65,6 +65,281 @@
   }
  ],
  "productos": [
+  {
+   "id": "L239",
+   "tipo": "llanta",
+   "titulo": "Llanta Nissan R17",
+   "subtitulo": "4x100 · R17",
+   "rodado": 17,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Aleación",
+    "Rayones leves"
+   ],
+   "sirve": "Nissan Kicks, March, Versa",
+   "detalle": "3 llantas originales Nissan de aleación rodado 17, diamantadas (bicolor). Se venden sin cubierta. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l239-1.jpg",
+    "fotos/l239-2.jpg",
+    "fotos/l239-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l239-1.jpg",
+    "fotos/m/l239-2.jpg",
+    "fotos/m/l239-3.jpg"
+   ],
+   "claves": [
+    "17",
+    "4100",
+    "174100"
+   ],
+   "nums": [
+    "100",
+    "17",
+    "4"
+   ],
+   "texto": "llanta nissan r17 4x100 · r17 nissan kicks, march, versa original aleación rayones leves",
+   "wa": "Hola, quería consultar por las 3 llantas Nissan R17 4x100 que vi en el catálogo (cód. L239).\nhttps://cubiertasmdz.github.io/p/L239/",
+   "url": "https://cubiertasmdz.github.io/p/L239/",
+   "marcas_llanta": [
+    "Nissan"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "medidas_cubierta": [],
+   "auto": "Nissan Kicks",
+   "titulo_auto": "Nissan Kicks",
+   "subtitulo_auto": "Solo llantas · 4x100 · R17",
+   "ingreso": "2026-11-13"
+  },
+  {
+   "id": "L240",
+   "tipo": "llanta",
+   "titulo": "Llanta Fiat R13",
+   "subtitulo": "4x98 · R13",
+   "rodado": 13,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Chapa"
+   ],
+   "sirve": "Fiat Uno, Palio, Siena, Fiorino",
+   "detalle": "3 llantas Fiat de chapa rodado 13. Se venden sin cubierta (las cubiertas que se ven están gastadas). Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l240-1.jpg",
+    "fotos/l240-2.jpg",
+    "fotos/l240-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l240-1.jpg",
+    "fotos/m/l240-2.jpg",
+    "fotos/m/l240-3.jpg"
+   ],
+   "claves": [
+    "13",
+    "498",
+    "13498"
+   ],
+   "nums": [
+    "13",
+    "4",
+    "98"
+   ],
+   "texto": "llanta fiat r13 4x98 · r13 fiat uno, palio, siena, fiorino original chapa",
+   "wa": "Hola, quería consultar por las 3 llantas Fiat R13 4x98 que vi en el catálogo (cód. L240).\nhttps://cubiertasmdz.github.io/p/L240/",
+   "url": "https://cubiertasmdz.github.io/p/L240/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "medidas_cubierta": [],
+   "auto": null,
+   "ingreso": "2026-11-13"
+  },
+  {
+   "id": "L241",
+   "tipo": "llanta",
+   "titulo": "Llanta Fiat R13",
+   "subtitulo": "4x98 · R13",
+   "rodado": 13,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Original",
+    "Chapa"
+   ],
+   "sirve": "Fiat Uno, Palio, Siena, Fiorino",
+   "detalle": "3 llantas Fiat de chapa rodado 13. Se venden sin cubierta (las cubiertas que se ven están gastadas). Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l241-1.jpg",
+    "fotos/l241-2.jpg",
+    "fotos/l241-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l241-1.jpg",
+    "fotos/m/l241-2.jpg",
+    "fotos/m/l241-3.jpg"
+   ],
+   "claves": [
+    "13",
+    "498",
+    "13498"
+   ],
+   "nums": [
+    "13",
+    "4",
+    "98"
+   ],
+   "texto": "llanta fiat r13 4x98 · r13 fiat uno, palio, siena, fiorino original chapa",
+   "wa": "Hola, quería consultar por las 3 llantas Fiat R13 4x98 que vi en el catálogo (cód. L241).\nhttps://cubiertasmdz.github.io/p/L241/",
+   "url": "https://cubiertasmdz.github.io/p/L241/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "medidas_cubierta": [],
+   "auto": null,
+   "ingreso": "2026-11-13"
+  },
+  {
+   "id": "X005",
+   "tipo": "auxilio",
+   "titulo": "Auxilio Ford Ka R14 sin rodar",
+   "subtitulo": "175/65 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 100,
+   "segmentos": 5,
+   "etiquetas": [
+    "Sin rodar",
+    "Cubierta Fate Sentiva AR-360",
+    "Llanta Ford de chapa",
+    "4x108",
+    "Llanta original"
+   ],
+   "sirve": "Ford Ka, Fiesta",
+   "detalle": "Rueda de auxilio del Ford Ka sin rodar: llanta original Ford de chapa rodado 14 con cubierta Fate Sentiva AR-360 175/65 R14 nueva. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/x005-1.jpg",
+    "fotos/x005-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/x005-1.jpg",
+    "fotos/m/x005-2.jpg"
+   ],
+   "claves": [
+    "1756514",
+    "4108",
+    "144108"
+   ],
+   "nums": [
+    "108",
+    "14",
+    "175",
+    "4",
+    "65"
+   ],
+   "texto": "auxilio ford ka r14 sin rodar 175/65 r14 ford ka, fiesta sin rodar cubierta fate sentiva ar-360 llanta ford de chapa 4x108 llanta original",
+   "wa": "Hola, quería consultar por la rueda de auxilio Ford Ka 175/65 R14 que vi en el catálogo (cód. X005).\nhttps://cubiertasmdz.github.io/p/X005/",
+   "url": "https://cubiertasmdz.github.io/p/X005/",
+   "marcas_llanta": [
+    "Ford"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "175/65 R14",
+   "medidas_cubierta": [
+    "175/65 R14"
+   ],
+   "auto": null,
+   "titulo_llanta": "Llanta Ford R14 de chapa",
+   "subtitulo_llanta": "4x108 · R14 · con cubierta Fate 175/65 R14",
+   "ingreso": "2026-11-13"
+  },
+  {
+   "id": "R152",
+   "tipo": "rueda",
+   "titulo": "Michelin Primacy HP",
+   "subtitulo": "205/55 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Muy buena",
+   "vida": 80,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta Peugeot de chapa",
+    "4x108",
+    "Llanta original",
+    "Ideal auxilio"
+   ],
+   "sirve": "Peugeot 308, 307, 408",
+   "detalle": "Rueda de auxilio del Peugeot 308: llanta original Peugeot de chapa rodado 16 con cubierta Michelin Primacy HP 205/55 R16 con muy buen dibujo. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r152-1.jpg",
+    "fotos/r152-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r152-1.jpg",
+    "fotos/m/r152-2.jpg"
+   ],
+   "claves": [
+    "2055516",
+    "4108",
+    "164108"
+   ],
+   "nums": [
+    "108",
+    "16",
+    "205",
+    "4",
+    "55"
+   ],
+   "texto": "michelin primacy hp 205/55 r16 peugeot 308, 307, 408 llanta peugeot de chapa 4x108 llanta original ideal auxilio",
+   "wa": "Hola, quería consultar por la rueda completa Michelin 205/55 R16 con llanta Peugeot que vi en el catálogo (cód. R152).\nhttps://cubiertasmdz.github.io/p/R152/",
+   "url": "https://cubiertasmdz.github.io/p/R152/",
+   "marcas_llanta": [
+    "Peugeot"
+   ],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "205/55 R16",
+   "medidas_cubierta": [
+    "205/55 R16"
+   ],
+   "auto": null,
+   "titulo_llanta": "Llanta Peugeot R16 de chapa",
+   "subtitulo_llanta": "4x108 · R16 · con cubierta Michelin 205/55 R16",
+   "ingreso": "2026-11-13"
+  },
   {
    "id": "R151",
    "tipo": "rueda",
@@ -22125,11 +22400,11 @@
   {
    "id": "R003",
    "tipo": "rueda",
-   "titulo": "2 llantas Toyota R16 con cubiertas",
+   "titulo": "4 llantas Toyota Corolla R16 con cubiertas",
    "subtitulo": "205/55 R16",
    "rodado": 16,
-   "cantidad": 2,
-   "cantidad_txt": "Par",
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
    "estado": "Buena",
    "vida": 65,
    "segmentos": 3,
@@ -22138,19 +22413,24 @@
     "5x114.3",
     "Fabricadas en 2017 y 2020",
     "Llanta original",
-    "Rayones leves"
+    "Rayones leves",
+    "Cubiertas de distintas marcas"
    ],
    "sirve": "Toyota Corolla (2008 en adelante)",
-   "detalle": "Llantas originales Toyota de 5 agujeros. Una cubierta es Ohtsu FP7000 y la otra Torque TQ901, las dos 205/55 R16.",
+   "detalle": "Juego de 4 llantas originales Toyota Corolla de aleación rodado 16 (5 agujeros), con cubiertas 205/55 R16: una Ohtsu FP7000, una Torque TQ901 y dos Bridgestone Turanza. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
     "fotos/r003-1.jpg",
-    "fotos/r003-2.jpg"
+    "fotos/r003-2.jpg",
+    "fotos/r003-3.jpg",
+    "fotos/r003-4.jpg"
    ],
    "miniaturas": [
     "fotos/m/r003-1.jpg",
-    "fotos/m/r003-2.jpg"
+    "fotos/m/r003-2.jpg",
+    "fotos/m/r003-3.jpg",
+    "fotos/m/r003-4.jpg"
    ],
    "claves": [
     "2055516",
@@ -22164,23 +22444,24 @@
     "5",
     "55"
    ],
-   "texto": "2 llantas toyota r16 con cubiertas 205/55 r16 toyota corolla (2008 en adelante) llanta toyota de aleación 5x114.3 fabricadas en 2017 y 2020 llanta original rayones leves",
-   "wa": "Hola, quería consultar por las 2 ruedas completas con llanta Toyota R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R003).\nhttps://cubiertasmdz.github.io/p/R003/",
+   "texto": "4 llantas toyota corolla r16 con cubiertas 205/55 r16 toyota corolla (2008 en adelante) llanta toyota de aleación 5x114.3 fabricadas en 2017 y 2020 llanta original rayones leves cubiertas de distintas marcas",
+   "wa": "Hola, quería consultar por las 4 ruedas completas con llanta Toyota Corolla R16 y cubiertas 205/55 R16 que vi en el catálogo (cód. R003).\nhttps://cubiertasmdz.github.io/p/R003/",
    "url": "https://cubiertasmdz.github.io/p/R003/",
    "marcas_llanta": [
     "Toyota"
    ],
    "marcas_cubierta": [
     "Ohtsu",
-    "Torque"
+    "Torque",
+    "Bridgestone"
    ],
    "medida_cubierta": "205/55 R16",
    "medidas_cubierta": [
     "205/55 R16"
    ],
    "auto": null,
-   "titulo_llanta": "2 llantas Toyota R16 con cubiertas",
-   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Ohtsu / Torque 205/55 R16",
+   "titulo_llanta": "4 llantas Toyota Corolla R16 con cubiertas",
+   "subtitulo_llanta": "5x114.3 · R16 · con cubierta Ohtsu / Torque / Bridgestone 205/55 R16",
    "ingreso": "2026-10-15"
   },
   {
