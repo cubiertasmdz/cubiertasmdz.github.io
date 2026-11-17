@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 22:25",
+ "actualizado": "2026-11-17 16:02",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -65,6 +65,173 @@
   }
  ],
  "productos": [
+  {
+   "id": "R153",
+   "tipo": "rueda",
+   "titulo": "4 llantas Renault Logan R14 + 3 cubiertas",
+   "subtitulo": "175/70 R14",
+   "rodado": 14,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 3 cubiertas",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Llanta Renault de chapa",
+    "4x100",
+    "Llanta original"
+   ],
+   "sirve": "Renault Logan, Sandero, Clio, Symbol",
+   "detalle": "Juego de 4 llantas originales Renault de chapa rodado 14 (Logan). 3 de ellas vienen con cubierta 175/70 R14 en uso. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r153-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r153-1.jpg"
+   ],
+   "claves": [
+    "1757014",
+    "4100",
+    "144100"
+   ],
+   "nums": [
+    "100",
+    "14",
+    "175",
+    "4",
+    "70"
+   ],
+   "texto": "4 llantas renault logan r14 + 3 cubiertas 175/70 r14 renault logan, sandero, clio, symbol llanta renault de chapa 4x100 llanta original",
+   "wa": "Hola, quería consultar por las 4 llantas Renault Logan R14 de chapa con 3 cubiertas 175/70 R14 que vi en el catálogo (cód. R153).\nhttps://cubiertasmdz.github.io/p/R153/",
+   "url": "https://cubiertasmdz.github.io/p/R153/",
+   "marcas_llanta": [
+    "Renault"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": "175/70 R14",
+   "medidas_cubierta": [
+    "175/70 R14"
+   ],
+   "auto": "Renault Logan",
+   "titulo_auto": "Renault Logan",
+   "subtitulo_auto": "Llanta con cubierta · 175/70 R14",
+   "titulo_llanta": "4 llantas Renault Logan R14 + 3 cubiertas",
+   "subtitulo_llanta": "4x100 · R14 · con cubierta None 175/70 R14",
+   "ingreso": "2026-11-17"
+  },
+  {
+   "id": "R154",
+   "tipo": "rueda",
+   "titulo": "4 llantas de chapa R13 + 4 cubiertas",
+   "subtitulo": "165/70 R13",
+   "rodado": 13,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 4 cubiertas",
+   "estado": "Muy buena",
+   "vida": 90,
+   "segmentos": 4,
+   "etiquetas": [
+    "Llanta de chapa",
+    "Cubiertas muy buenas"
+   ],
+   "sirve": "",
+   "detalle": "Juego de 4 llantas de chapa rodado 13 con 4 cubiertas 165/70 R13 en muy buen estado (casi nuevas). Consultanos con tu auto y te confirmamos si va.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r154-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r154-1.jpg"
+   ],
+   "claves": [
+    "1657013"
+   ],
+   "nums": [
+    "13",
+    "165",
+    "4",
+    "70"
+   ],
+   "texto": "4 llantas de chapa r13 + 4 cubiertas 165/70 r13  llanta de chapa cubiertas muy buenas",
+   "wa": "Hola, quería consultar por las 4 llantas de chapa R13 con 4 cubiertas 165/70 R13 que vi en el catálogo (cód. R154).\nhttps://cubiertasmdz.github.io/p/R154/",
+   "url": "https://cubiertasmdz.github.io/p/R154/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [],
+   "medida_cubierta": "165/70 R13",
+   "medidas_cubierta": [
+    "165/70 R13"
+   ],
+   "auto": null,
+   "titulo_llanta": "4 llantas de chapa R13 + 4 cubiertas",
+   "subtitulo_llanta": "R13 · con cubierta None 165/70 R13",
+   "ingreso": "2026-11-17"
+  },
+  {
+   "id": "A022",
+   "tipo": "auto",
+   "titulo": "Fiat Palio",
+   "subtitulo": "195/55 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Muy buena",
+   "vida": 70,
+   "segmentos": 4,
+   "etiquetas": [
+    "Cubiertas Michelin",
+    "Llanta Fiat de aleación",
+    "4x98",
+    "Llanta original"
+   ],
+   "sirve": "Fiat Palio, Punto, Linea, Idea",
+   "detalle": "Juego de 4 ruedas (llantas originales Fiat de aleación rodado 16 con cubiertas Michelin 195/55 R16) puestas en el Fiat Palio. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a022-1.jpg",
+    "fotos/a022-2.jpg",
+    "fotos/a022-3.jpg",
+    "fotos/a022-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a022-1.jpg",
+    "fotos/m/a022-2.jpg",
+    "fotos/m/a022-3.jpg",
+    "fotos/m/a022-4.jpg"
+   ],
+   "claves": [
+    "1955516",
+    "498",
+    "16498"
+   ],
+   "nums": [
+    "16",
+    "195",
+    "4",
+    "55",
+    "98"
+   ],
+   "texto": "fiat palio 195/55 r16 fiat palio, punto, linea, idea cubiertas michelin llanta fiat de aleación 4x98 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Fiat Palio (195/55 R16) que vi en el catálogo (cód. A022).\nhttps://cubiertasmdz.github.io/p/A022/",
+   "url": "https://cubiertasmdz.github.io/p/A022/",
+   "marcas_llanta": [
+    "Fiat"
+   ],
+   "marcas_cubierta": [
+    "Michelin"
+   ],
+   "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
+   "auto": "Fiat Palio",
+   "titulo_llanta": "Llanta Fiat R16",
+   "subtitulo_llanta": "4x98 · R16 · con cubierta Michelin 195/55 R16 · del Fiat Palio",
+   "ingreso": "2026-11-17"
+  },
   {
    "id": "L239",
    "tipo": "llanta",
