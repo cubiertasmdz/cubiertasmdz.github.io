@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 16:02",
+ "actualizado": "2026-11-17 16:18",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -558,67 +558,6 @@
    "titulo_auto": "Toyota Corolla",
    "subtitulo_auto": "Solo llantas · 5x114.3 · R16",
    "ingreso": "2026-11-13"
-  },
-  {
-   "id": "R151",
-   "tipo": "rueda",
-   "titulo": "4 llantas Peugeot 208 R15 + 4 cubiertas",
-   "subtitulo": "195/60 R15",
-   "rodado": 15,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
-   "estado": "Buena",
-   "vida": 65,
-   "segmentos": 3,
-   "etiquetas": [
-    "Llanta Peugeot de aleación",
-    "4x108",
-    "Llanta original",
-    "Rayones leves",
-    "Cubiertas de distintas marcas"
-   ],
-   "sirve": "Peugeot 208, 207, 206, 2008, Citroën C3, C4",
-   "detalle": "Juego de 4 llantas originales Peugeot 208 de aleación rodado 15, con cubiertas 195/60 R15: dos Triangle ReliaXTouring en muy buen estado y dos al 50% aproximadamente. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/r151-1.jpg",
-    "fotos/r151-2.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/r151-1.jpg",
-    "fotos/m/r151-2.jpg"
-   ],
-   "claves": [
-    "1956015",
-    "4108",
-    "154108"
-   ],
-   "nums": [
-    "108",
-    "15",
-    "195",
-    "4",
-    "60"
-   ],
-   "texto": "4 llantas peugeot 208 r15 + 4 cubiertas 195/60 r15 peugeot 208, 207, 206, 2008, citroën c3, c4 llanta peugeot de aleación 4x108 llanta original rayones leves cubiertas de distintas marcas",
-   "wa": "Hola, quería consultar por las 4 llantas Peugeot 208 R15 con cubiertas 195/60 R15 que vi en el catálogo (cód. R151).\nhttps://cubiertasmdz.github.io/p/R151/",
-   "url": "https://cubiertasmdz.github.io/p/R151/",
-   "marcas_llanta": [
-    "Peugeot"
-   ],
-   "marcas_cubierta": [
-    "Triangle",
-    "Varias"
-   ],
-   "medida_cubierta": "195/60 R15",
-   "medidas_cubierta": [
-    "195/60 R15"
-   ],
-   "auto": null,
-   "titulo_llanta": "4 llantas Peugeot 208 R15 + 4 cubiertas",
-   "subtitulo_llanta": "4x108 · R15 · con cubierta Triangle / Varias 195/60 R15",
-   "ingreso": "2026-11-12"
   },
   {
    "id": "X004",
@@ -2112,11 +2051,11 @@
   {
    "id": "A013",
    "tipo": "auto",
-   "titulo": "Fiat Cronos",
+   "titulo": "3 llantas Fiat Cronos R15 + 1 Pirelli",
    "subtitulo": "185/60 R15",
    "rodado": 15,
    "cantidad": 3,
-   "cantidad_txt": "3 unidades",
+   "cantidad_txt": "3 llantas + 1 cubierta",
    "estado": null,
    "vida": null,
    "segmentos": null,
@@ -2127,7 +2066,7 @@
     "Llanta original"
    ],
    "sirve": "Fiat Cronos, Argo",
-   "detalle": "3 ruedas (llantas Fiat con cubiertas Pirelli Cinturato P1 185/60 R15) puestas en un Fiat Cronos. Consultá por tu auto.",
+   "detalle": "3 llantas originales Fiat de aleación rodado 15 (del Fiat Cronos). Se venden con 1 cubierta Pirelli Cinturato P1 185/60 R15; las otras 2 llantas van sin cubierta. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -2152,8 +2091,8 @@
     "60",
     "98"
    ],
-   "texto": "fiat cronos 185/60 r15 fiat cronos, argo cubiertas pirelli cinturato p1 llanta fiat de aleación 4x98 llanta original",
-   "wa": "Hola, quería consultar por las 3 ruedas del Fiat Cronos (185/60 R15) que vi en el catálogo (cód. A013).\nhttps://cubiertasmdz.github.io/p/A013/",
+   "texto": "3 llantas fiat cronos r15 + 1 pirelli 185/60 r15 fiat cronos, argo cubiertas pirelli cinturato p1 llanta fiat de aleación 4x98 llanta original",
+   "wa": "Hola, quería consultar por las 3 llantas Fiat Cronos R15 con 1 cubierta Pirelli Cinturato P1 185/60 R15 que vi en el catálogo (cód. A013).\nhttps://cubiertasmdz.github.io/p/A013/",
    "url": "https://cubiertasmdz.github.io/p/A013/",
    "marcas_llanta": [
     "Fiat"
@@ -2166,7 +2105,7 @@
     "185/60 R15"
    ],
    "auto": "Fiat Cronos",
-   "titulo_llanta": "Llanta Fiat R15",
+   "titulo_llanta": "3 llantas Fiat Cronos R15 + 1 Pirelli",
    "subtitulo_llanta": "4x98 · R15 · con cubierta Pirelli 185/60 R15 · del Fiat Cronos",
    "ingreso": "2026-10-26"
   },
@@ -17169,69 +17108,6 @@
    "auto": null,
    "titulo_llanta": "Llanta Renault R17",
    "subtitulo_llanta": "5x114.3 · R17 · con cubierta Continental / otras 215/60 R17",
-   "ingreso": "2026-10-17"
-  },
-  {
-   "id": "R123",
-   "tipo": "rueda",
-   "titulo": "Par de ruedas Renault R15 con Pirelli",
-   "subtitulo": "195/60 R15 · 88H",
-   "rodado": 15,
-   "cantidad": 2,
-   "cantidad_txt": "Par",
-   "estado": "Buena",
-   "vida": 55,
-   "segmentos": 3,
-   "etiquetas": [
-    "Llanta Renault de aleación",
-    "4x100",
-    "Llanta original",
-    "Rayones"
-   ],
-   "sirve": "Renault Clio, Symbol, Logan",
-   "detalle": "Par de llantas originales Renault rodado 15 de 4 agujeros, con cubiertas Pirelli Cinturato P1 195/60 R15 · 88H. Consultá por tu auto.",
-   "precio_unidad": null,
-   "precios_extra": [],
-   "fotos": [
-    "fotos/r123-1.jpg",
-    "fotos/r123-2.jpg",
-    "fotos/r123-3.jpg",
-    "fotos/r123-4.jpg"
-   ],
-   "miniaturas": [
-    "fotos/m/r123-1.jpg",
-    "fotos/m/r123-2.jpg",
-    "fotos/m/r123-3.jpg",
-    "fotos/m/r123-4.jpg"
-   ],
-   "claves": [
-    "1956015",
-    "4100",
-    "154100"
-   ],
-   "nums": [
-    "100",
-    "15",
-    "195",
-    "4",
-    "60"
-   ],
-   "texto": "par de ruedas renault r15 con pirelli 195/60 r15 · 88h renault clio, symbol, logan llanta renault de aleación 4x100 llanta original rayones",
-   "wa": "Hola, quería consultar por las 2 ruedas completas con llantas Renault R15 y cubiertas 195/60 R15 que vi en el catálogo (cód. R123).\nhttps://cubiertasmdz.github.io/p/R123/",
-   "url": "https://cubiertasmdz.github.io/p/R123/",
-   "marcas_llanta": [
-    "Renault"
-   ],
-   "marcas_cubierta": [
-    "Pirelli"
-   ],
-   "medida_cubierta": "195/60 R15",
-   "medidas_cubierta": [
-    "195/60 R15"
-   ],
-   "auto": null,
-   "titulo_llanta": "Llanta Renault R15",
-   "subtitulo_llanta": "4x100 · R15 · con cubierta Pirelli 195/60 R15",
    "ingreso": "2026-10-17"
   },
   {
