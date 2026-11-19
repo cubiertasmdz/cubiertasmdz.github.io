@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 16:18",
+ "actualizado": "2026-11-18 21:02",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -65,6 +65,222 @@
   }
  ],
  "productos": [
+  {
+   "id": "C064",
+   "tipo": "cubierta",
+   "titulo": "Continental",
+   "subtitulo": "195/55 R16 · 87V",
+   "rodado": 16,
+   "cantidad": 2,
+   "cantidad_txt": "Par",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Par de cubiertas Continental 195/55 R16 87V usadas, con dibujo parejo.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c064-1.jpg",
+    "fotos/c064-2.jpg",
+    "fotos/c064-3.jpg",
+    "fotos/c064-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c064-1.jpg",
+    "fotos/m/c064-2.jpg",
+    "fotos/m/c064-3.jpg",
+    "fotos/m/c064-4.jpg"
+   ],
+   "claves": [
+    "1955516"
+   ],
+   "nums": [
+    "16",
+    "195",
+    "55"
+   ],
+   "texto": "continental 195/55 r16 · 87v  ",
+   "wa": "Hola, quería consultar por las 2 cubiertas Continental 195/55 R16 que vi en el catálogo (cód. C064).\nhttps://cubiertasmdz.github.io/p/C064/",
+   "url": "https://cubiertasmdz.github.io/p/C064/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Continental"
+   ],
+   "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
+   "auto": null,
+   "ingreso": "2026-11-18"
+  },
+  {
+   "id": "C065",
+   "tipo": "cubierta",
+   "titulo": "Pirelli",
+   "subtitulo": "195/55 R16",
+   "rodado": 16,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [],
+   "sirve": "",
+   "detalle": "Cubierta Pirelli 195/55 R16 suelta, usada.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/c065-1.jpg",
+    "fotos/c065-2.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/c065-1.jpg",
+    "fotos/m/c065-2.jpg"
+   ],
+   "claves": [
+    "1955516"
+   ],
+   "nums": [
+    "16",
+    "195",
+    "55"
+   ],
+   "texto": "pirelli 195/55 r16  ",
+   "wa": "Hola, quería consultar por la cubierta Pirelli 195/55 R16 que vi en el catálogo (cód. C065).\nhttps://cubiertasmdz.github.io/p/C065/",
+   "url": "https://cubiertasmdz.github.io/p/C065/",
+   "marcas_llanta": [],
+   "marcas_cubierta": [
+    "Pirelli"
+   ],
+   "medida_cubierta": "195/55 R16",
+   "medidas_cubierta": [
+    "195/55 R16"
+   ],
+   "auto": null,
+   "ingreso": "2026-11-18"
+  },
+  {
+   "id": "A023",
+   "tipo": "auto",
+   "titulo": "Volkswagen Polo",
+   "subtitulo": "185/65 R15",
+   "rodado": 15,
+   "cantidad": 3,
+   "cantidad_txt": "3 unidades",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Cubiertas Kumho Ecowing",
+    "Llanta Volkswagen de aleación",
+    "5x100",
+    "Llanta original"
+   ],
+   "sirve": "Volkswagen Polo, Virtus, T-Cross",
+   "detalle": "3 ruedas (llantas originales Volkswagen de aleación rodado 15 con cubiertas Kumho Ecowing 185/65 R15) puestas en el Volkswagen Polo. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a023-1.jpg",
+    "fotos/a023-2.jpg",
+    "fotos/a023-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a023-1.jpg",
+    "fotos/m/a023-2.jpg",
+    "fotos/m/a023-3.jpg"
+   ],
+   "claves": [
+    "1856515",
+    "5100",
+    "155100"
+   ],
+   "nums": [
+    "100",
+    "15",
+    "185",
+    "5",
+    "65"
+   ],
+   "texto": "volkswagen polo 185/65 r15 volkswagen polo, virtus, t-cross cubiertas kumho ecowing llanta volkswagen de aleación 5x100 llanta original",
+   "wa": "Hola, quería consultar por las 3 ruedas del Volkswagen Polo (185/65 R15) que vi en el catálogo (cód. A023).\nhttps://cubiertasmdz.github.io/p/A023/",
+   "url": "https://cubiertasmdz.github.io/p/A023/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Kumho"
+   ],
+   "medida_cubierta": "185/65 R15",
+   "medidas_cubierta": [
+    "185/65 R15"
+   ],
+   "auto": "Volkswagen Polo",
+   "titulo_llanta": "Llanta Volkswagen R15",
+   "subtitulo_llanta": "5x100 · R15 · con cubierta Kumho 185/65 R15 · del Volkswagen Polo",
+   "ingreso": "2026-11-18"
+  },
+  {
+   "id": "R155",
+   "tipo": "rueda",
+   "titulo": "Auxilio Volkswagen Polo R14 con Dunlop",
+   "subtitulo": "175/70 R14",
+   "rodado": 14,
+   "cantidad": 1,
+   "cantidad_txt": "1 unidad",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "5x100",
+    "Llanta original",
+    "Ideal auxilio"
+   ],
+   "sirve": "Volkswagen Polo, Virtus",
+   "detalle": "Rueda de auxilio de uso temporario del Volkswagen Polo: llanta original de chapa rodado 14 (5 agujeros) con cubierta Dunlop Enasave EC300+ 175/70 R14. Velocidad máxima 80 km/h, como indica la etiqueta. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r155-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r155-1.jpg"
+   ],
+   "claves": [
+    "1757014",
+    "5100",
+    "145100"
+   ],
+   "nums": [
+    "100",
+    "14",
+    "175",
+    "5",
+    "70"
+   ],
+   "texto": "auxilio volkswagen polo r14 con dunlop 175/70 r14 volkswagen polo, virtus llanta volkswagen de chapa 5x100 llanta original ideal auxilio",
+   "wa": "Hola, quería consultar por la rueda de auxilio del Volkswagen Polo (llanta de chapa R14 con Dunlop 175/70 R14) que vi en el catálogo (cód. R155).\nhttps://cubiertasmdz.github.io/p/R155/",
+   "url": "https://cubiertasmdz.github.io/p/R155/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Dunlop"
+   ],
+   "medida_cubierta": "175/70 R14",
+   "medidas_cubierta": [
+    "175/70 R14"
+   ],
+   "auto": "Volkswagen Polo",
+   "titulo_auto": "Volkswagen Polo",
+   "subtitulo_auto": "Llanta con cubierta · 175/70 R14",
+   "titulo_llanta": "Llanta Volkswagen R14 de chapa",
+   "subtitulo_llanta": "5x100 · R14 · con cubierta Dunlop 175/70 R14",
+   "ingreso": "2026-11-18"
+  },
   {
    "id": "R153",
    "tipo": "rueda",
@@ -2177,8 +2393,8 @@
    "titulo": "Llanta Peugeot R16",
    "subtitulo": "4x108 · R16",
    "rodado": 16,
-   "cantidad": 4,
-   "cantidad_txt": "Juego de 4",
+   "cantidad": 2,
+   "cantidad_txt": "Par",
    "estado": null,
    "vida": null,
    "segmentos": null,
@@ -2189,7 +2405,7 @@
     "Se venden sin cubierta"
    ],
    "sirve": "Peugeot 208, 2008, 308",
-   "detalle": "Juego de 4 llantas originales Peugeot de aleación rodado 16 de 4 agujeros, de un Peugeot 208. Tienen detalles de rayones. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
+   "detalle": "Par de llantas originales Peugeot de aleación rodado 16 de 4 agujeros, de un Peugeot 208. Tienen detalles de rayones. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
    "precio_unidad": null,
    "precios_extra": [],
    "fotos": [
@@ -2215,7 +2431,7 @@
     "4"
    ],
    "texto": "llanta peugeot r16 4x108 · r16 peugeot 208, 2008, 308 original aleación rayones se venden sin cubierta",
-   "wa": "Hola, quería consultar por las 4 llantas Peugeot R16 4x108 que vi en el catálogo (cód. L232).\nhttps://cubiertasmdz.github.io/p/L232/",
+   "wa": "Hola, quería consultar por las 2 llantas Peugeot R16 4x108 que vi en el catálogo (cód. L232).\nhttps://cubiertasmdz.github.io/p/L232/",
    "url": "https://cubiertasmdz.github.io/p/L232/",
    "marcas_llanta": [
     "Peugeot"
