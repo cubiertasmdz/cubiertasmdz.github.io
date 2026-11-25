@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 15:27",
+ "actualizado": "2026-11-25 15:42",
  "sitio": {
   "titulo": "Cubiertas y llantas usadas",
   "bajada": "revisadas y con precio",
@@ -65,6 +65,240 @@
   }
  ],
  "productos": [
+  {
+   "id": "A024",
+   "tipo": "auto",
+   "titulo": "Volkswagen Amarok",
+   "subtitulo": "245/70 R16",
+   "rodado": 16,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 50,
+   "segmentos": 2,
+   "etiquetas": [
+    "Cubiertas Fate Range Runner",
+    "Llanta Volkswagen de aleación",
+    "5x120",
+    "Llanta original"
+   ],
+   "sirve": "Volkswagen Amarok",
+   "detalle": "Juego de 4 ruedas (llantas originales Volkswagen Amarok de aleación rodado 16 con cubiertas 245/70 R16) puestas en la Volkswagen Amarok. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a024-1.jpg",
+    "fotos/a024-2.jpg",
+    "fotos/a024-3.jpg",
+    "fotos/a024-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a024-1.jpg",
+    "fotos/m/a024-2.jpg",
+    "fotos/m/a024-3.jpg",
+    "fotos/m/a024-4.jpg"
+   ],
+   "claves": [
+    "2457016",
+    "5120",
+    "165120"
+   ],
+   "nums": [
+    "120",
+    "16",
+    "245",
+    "5",
+    "70"
+   ],
+   "texto": "volkswagen amarok 245/70 r16 volkswagen amarok cubiertas fate range runner llanta volkswagen de aleación 5x120 llanta original",
+   "wa": "Hola, quería consultar por las 4 ruedas del Volkswagen Amarok (245/70 R16) que vi en el catálogo (cód. A024).\nhttps://cubiertasmdz.github.io/p/A024/",
+   "url": "https://cubiertasmdz.github.io/p/A024/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [
+    "Fate"
+   ],
+   "medida_cubierta": "245/70 R16",
+   "medidas_cubierta": [
+    "245/70 R16"
+   ],
+   "auto": "Volkswagen Amarok",
+   "titulo_llanta": "Llanta Volkswagen R16",
+   "subtitulo_llanta": "5x120 · R16 · con cubierta Fate 245/70 R16 · del Volkswagen Amarok",
+   "ingreso": "2026-11-25"
+  },
+  {
+   "id": "L244",
+   "tipo": "llanta",
+   "titulo": "3 llantas alternativas R13 del Volkswagen Gol Power",
+   "subtitulo": "4x100 · R13",
+   "rodado": 13,
+   "cantidad": 3,
+   "cantidad_txt": "Juego de 3",
+   "estado": null,
+   "vida": null,
+   "segmentos": null,
+   "etiquetas": [
+    "Alternativa",
+    "Se venden sin cubierta"
+   ],
+   "sirve": "Volkswagen Gol Power, Gol, Senda",
+   "detalle": "3 llantas alternativas de aleación rodado 13 (marca Racing), puestas en un Volkswagen Gol Power. Se venden solo las llantas: las cubiertas que se ven en las fotos no se incluyen. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/l244-1.jpg",
+    "fotos/l244-2.jpg",
+    "fotos/l244-3.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/l244-1.jpg",
+    "fotos/m/l244-2.jpg",
+    "fotos/m/l244-3.jpg"
+   ],
+   "claves": [
+    "13",
+    "4100",
+    "134100"
+   ],
+   "nums": [
+    "100",
+    "13",
+    "4"
+   ],
+   "texto": "3 llantas alternativas r13 del volkswagen gol power 4x100 · r13 volkswagen gol power, gol, senda alternativa se venden sin cubierta",
+   "wa": "Hola, quería consultar por las 3 llantas alternativas R13 del Volkswagen Gol Power que vi en el catálogo (cód. L244).\nhttps://cubiertasmdz.github.io/p/L244/",
+   "url": "https://cubiertasmdz.github.io/p/L244/",
+   "marcas_llanta": [
+    "Alternativa"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": null,
+   "medidas_cubierta": [],
+   "auto": "Volkswagen Gol Power",
+   "titulo_auto": "Volkswagen Gol Power",
+   "subtitulo_auto": "Solo llantas · 4x100 · R13",
+   "ingreso": "2026-11-25"
+  },
+  {
+   "id": "A025",
+   "tipo": "auto",
+   "titulo": "Fiat Uno",
+   "subtitulo": "175/70 R13",
+   "rodado": 13,
+   "cantidad": 4,
+   "cantidad_txt": "Juego de 4",
+   "estado": "Buena",
+   "vida": 60,
+   "segmentos": 3,
+   "etiquetas": [
+    "Cubiertas None",
+    "Llanta de aleación",
+    "4x98",
+    "Llanta alternativa",
+    "2 cubiertas nuevas y 2 gastadas"
+   ],
+   "sirve": "Fiat Uno, Palio, Siena, Fiorino",
+   "detalle": "Juego de 4 ruedas (llantas alternativas de aleación rodado 13 con cubiertas 175/70 R13) puestas en un Fiat Uno. Dos cubiertas están nuevas y dos gastadas. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/a025-1.jpg",
+    "fotos/a025-2.jpg",
+    "fotos/a025-3.jpg",
+    "fotos/a025-4.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/a025-1.jpg",
+    "fotos/m/a025-2.jpg",
+    "fotos/m/a025-3.jpg",
+    "fotos/m/a025-4.jpg"
+   ],
+   "claves": [
+    "1757013",
+    "498",
+    "13498"
+   ],
+   "nums": [
+    "13",
+    "175",
+    "4",
+    "70",
+    "98"
+   ],
+   "texto": "fiat uno 175/70 r13 fiat uno, palio, siena, fiorino cubiertas none llanta de aleación 4x98 llanta alternativa 2 cubiertas nuevas y 2 gastadas",
+   "wa": "Hola, quería consultar por las 4 ruedas del Fiat Uno (175/70 R13) que vi en el catálogo (cód. A025).\nhttps://cubiertasmdz.github.io/p/A025/",
+   "url": "https://cubiertasmdz.github.io/p/A025/",
+   "marcas_llanta": [
+    "Alternativa"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": "175/70 R13",
+   "medidas_cubierta": [
+    "175/70 R13"
+   ],
+   "auto": "Fiat Uno",
+   "titulo_llanta": "Llanta alternativa R13",
+   "subtitulo_llanta": "4x98 · R13 · con cubierta None 175/70 R13 · del Fiat Uno",
+   "ingreso": "2026-11-25"
+  },
+  {
+   "id": "R156",
+   "tipo": "rueda",
+   "titulo": "4 llantas Volkswagen Gol Power R13 de chapa + 4 cubiertas",
+   "subtitulo": "175/70 R13",
+   "rodado": 13,
+   "cantidad": 4,
+   "cantidad_txt": "4 llantas + 4 cubiertas",
+   "estado": "Buena",
+   "vida": 55,
+   "segmentos": 3,
+   "etiquetas": [
+    "Llanta Volkswagen de chapa",
+    "4x100",
+    "Llanta original"
+   ],
+   "sirve": "Volkswagen Gol Power, Gol, Senda, Saveiro",
+   "detalle": "Juego de 4 llantas originales Volkswagen de chapa rodado 13 (Gol Power) con 4 cubiertas 175/70 R13 en uso. Consultá por tu auto.",
+   "precio_unidad": null,
+   "precios_extra": [],
+   "fotos": [
+    "fotos/r156-1.jpg"
+   ],
+   "miniaturas": [
+    "fotos/m/r156-1.jpg"
+   ],
+   "claves": [
+    "1757013",
+    "4100",
+    "134100"
+   ],
+   "nums": [
+    "100",
+    "13",
+    "175",
+    "4",
+    "70"
+   ],
+   "texto": "4 llantas volkswagen gol power r13 de chapa + 4 cubiertas 175/70 r13 volkswagen gol power, gol, senda, saveiro llanta volkswagen de chapa 4x100 llanta original",
+   "wa": "Hola, quería consultar por las 4 llantas Volkswagen Gol Power R13 de chapa con 4 cubiertas 175/70 R13 que vi en el catálogo (cód. R156).\nhttps://cubiertasmdz.github.io/p/R156/",
+   "url": "https://cubiertasmdz.github.io/p/R156/",
+   "marcas_llanta": [
+    "Volkswagen"
+   ],
+   "marcas_cubierta": [],
+   "medida_cubierta": "175/70 R13",
+   "medidas_cubierta": [
+    "175/70 R13"
+   ],
+   "auto": "Volkswagen Gol Power",
+   "titulo_auto": "Volkswagen Gol Power",
+   "subtitulo_auto": "Llanta con cubierta · 175/70 R13",
+   "titulo_llanta": "4 llantas Volkswagen Gol Power R13 de chapa + 4 cubiertas",
+   "subtitulo_llanta": "4x100 · R13 · con cubierta None 175/70 R13",
+   "ingreso": "2026-11-20"
+  },
   {
    "id": "C064",
    "tipo": "cubierta",
